@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Mi resumen del día</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="saltar" href="#contenido">Saltar al contenido</a>
+<header class="cabecera">
+  <p class="saludo" id="saludo">Hola</p>
+  <h1>Mi resumen <em>del día</em></h1>
+  <p id="fecha" class="fecha"></p>
+  <p class="intro" id="intro"></p>
+</header>
+<nav id="nav" class="nav" aria-label="Temas"></nav>
+<div id="aviso" class="aviso" hidden>Datos de ejemplo — reemplazá el contenido de <code>noticias.js</code> con tus noticias.</div>
+<main id="contenido"></main>
+<footer class="pie">Hecho a mano, para leer con calma ☕</footer>
+<script src="noticias.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
