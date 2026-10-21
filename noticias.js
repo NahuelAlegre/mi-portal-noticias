@@ -16,9 +16,10 @@ window.NOTICIAS = {
         {
           "titulo": "El oficialismo posterga al 27 de octubre el debate de la \"ley de Malvinas\"",
           "resumen": "El proyecto, que también reforma defensa e inteligencia y prevé penas por desinformación, se demora por reclamos de empresas de EE.UU. y falta de apoyos. Esta semana el oficialismo busca tratar en sesión especial la Carta Orgánica del BCRA y el régimen de biocombustibles.",
+          "porQueImporta": "El proyecto toca la libertad de expresión y la defensa; su destino se define en comisiones el 27 de octubre.",
           "fuente": "La Gaceta",
           "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html",
-          "porQueImporta": "El proyecto toca la libertad de expresión y la defensa; su destino se define en comisiones el 27 de octubre."
+          "hilo": "ley-malvinas"
         },
         {
           "titulo": "Malvinas, discapacidad y alianzas con gobernadores dividen a la mesa política",
@@ -42,16 +43,18 @@ window.NOTICIAS = {
         {
           "titulo": "Ucrania: tras las charlas de Oslo, Witkoff llevará una propuesta de paz a Putin",
           "resumen": "Zelensky, líderes europeos y el enviado de Trump acordaron propuestas que incluyen garantías de seguridad; Witkoff se reúne con Putin en San Petersburgo este miércoles. Zelensky dijo que EE.UU. volvió a compartir inteligencia.",
+          "porQueImporta": "El encuentro con Putin puede abrir el camino a una cumbre entre Zelensky, Putin y Trump, algo que Rusia hasta ahora rechazó.",
           "fuente": "BBC",
           "url": "https://www.bbc.com/news/articles/cq5ynkx3xy11o",
-          "porQueImporta": "El encuentro con Putin puede abrir el camino a una cumbre entre Zelensky, Putin y Trump, algo que Rusia hasta ahora rechazó."
+          "hilo": "guerra-ucrania"
         },
         {
           "titulo": "Arabia Saudita posterga su gran cumbre de inversores por los ataques hutíes",
           "resumen": "El Future Investment Initiative (\"Davos del desierto\") pasa a 2027 tras ataques de los hutíes de Yemen contra el aeropuerto de Riad e instalaciones petroleras. Es una señal de que el conflicto regional se agrava.",
+          "porQueImporta": "Muestra que el conflicto con los hutíes se extiende y ya afecta los planes económicos de Arabia Saudita.",
           "fuente": "CNBC",
           "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-          "porQueImporta": "Muestra que el conflicto con los hutíes se extiende y ya afecta los planes económicos de Arabia Saudita."
+          "hilo": "hutis-arabia-saudita"
         },
         {
           "titulo": "Una jueza de Miami ordena el arresto de Raúl Castro",
@@ -114,22 +117,19 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "historia": "Negociaciones de paz en Ucrania",
-      "tema": "Mundo",
+      "hilo": "guerra-ucrania",
       "novedad": "En Oslo, Ucrania, Europa y EE.UU. acordaron propuestas que incluyen garantías de seguridad, y Zelensky dijo que EE.UU. volvió a compartir inteligencia. El miércoles Witkoff se reúne con Putin en San Petersburgo.",
       "fuente": "BBC",
       "url": "https://www.bbc.com/news/articles/cq5ynkx3xy11o"
     },
     {
-      "historia": "Ley de Malvinas y agenda en el Congreso",
-      "tema": "Argentina",
+      "hilo": "ley-malvinas",
       "novedad": "El debate en comisiones pasó al 27 de octubre por reclamos de empresas de EE.UU. y falta de apoyos. Mientras tanto, el oficialismo prepara una sesión especial sobre la Carta Orgánica del BCRA y biocombustibles.",
       "fuente": "La Gaceta",
       "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html"
     },
     {
-      "historia": "Conflicto entre los hutíes y Arabia Saudita",
-      "tema": "Mundo",
+      "hilo": "hutis-arabia-saudita",
       "novedad": "Tras nuevos ataques contra el aeropuerto de Riad e instalaciones petroleras, Arabia Saudita postergó a 2027 su gran cumbre de inversores.",
       "fuente": "CNBC",
       "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"

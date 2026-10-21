@@ -11,6 +11,7 @@ index.html     Estructura de la página
 styles.css     Estilos (incluye modo oscuro automático)
 app.js         Genera el contenido a partir de los datos
 noticias.js    Los datos: las noticias del día
+hilos.js       Historial persistente de hilos (historias en el tiempo)
 docs/          Capturas de pantalla para este README
 ```
 
@@ -33,14 +34,14 @@ window.NOTICIAS = {
       "noticias": [
         { "titulo": "...", "resumen": "1-2 oraciones.",
           "porQueImporta": "Opcional: una oración sobre por qué importa o qué sigue.",
-          "fuente": "Nombre del medio", "url": "https://..." }
+          "fuente": "Nombre del medio", "url": "https://...",
+          "hilo": "guerra-ucrania" }   // opcional: id del hilo al que pertenece
       ] }
   ],
 
-  // Opcional: historias en curso y qué cambió desde ayer ("Seguimiento")
+  // Opcional: hilos que tuvieron novedades hoy y que ya existían antes
   "seguimiento": [
-    { "historia": "Negociaciones de paz en Ucrania", "tema": "Mundo",
-      "novedad": "Qué cambió desde ayer, en 1-2 oraciones.", "fuente": "BBC", "url": "https://..." }
+    { "hilo": "guerra-ucrania", "novedad": "Qué cambió desde la última entrada.", "fuente": "BBC", "url": "https://..." }
   ]
 };
 ```
@@ -48,6 +49,35 @@ window.NOTICIAS = {
 Todos los campos nuevos son opcionales: si faltan, esa parte simplemente no se muestra. El campo `tema` de `esencial` y `seguimiento` debe coincidir con el `nombre` de un tema para tomar su color.
 
 Podés agregar o quitar temas; el menú y los contadores se generan solos. Se usa un archivo `.js` (no `.json`) para que `index.html` funcione también abierto directamente desde el disco.
+
+## Hilos (historias que se siguen en el tiempo)
+
+`hilos.js` guarda el historial completo de cada historia en curso. **Crece cada día y nunca se reinicia.**
+
+```js
+window.HILOS = {
+  "guerra-ucrania": {
+    "nombre": "Guerra en Ucrania y negociaciones de paz",
+    "tema": "Mundo",                 // debe coincidir con un tema para tomar su color
+    "creado": "2026-10-20",
+    "actualizado": "2026-10-20",     // fecha de la entrada más reciente
+    "entradas": [                    // la más nueva primero
+      { "fecha": "2026-10-20", "titulo": "...", "resumen": "...", "fuente": "BBC", "url": "https://..." }
+    ]
+  }
+};
+```
+
+En la página, cada noticia con `hilo` muestra un chip (`↳ Nombre del hilo · N entradas`) que lleva a la sección **Seguimiento**, donde cada hilo tiene su línea de tiempo desplegable. Los hilos de `seguimiento` muestran "Última novedad anterior: hace N días" (si hay una entrada previa) y la novedad; los demás aparecen en "Otros hilos".
+
+### Procedimiento diario (actualización de las 7:00)
+
+1. Para cada noticia nueva, revisá **todos** los hilos de `hilos.js`, incluidos los viejos o inactivos, comparando id, `nombre` y contenido de las entradas.
+2. Si la noticia continúa una historia existente, **reutilizá ese id** en `hilo` (aunque no haya tenido novedades en días o semanas).
+3. Si no existe y la historia probablemente siga en los próximos días, creá un hilo nuevo con un id estable en kebab-case (ej. `ley-malvinas`), `creado` = hoy. Las noticias puntuales no llevan `hilo`.
+4. Agregá la entrada del día **al principio** de `entradas` y actualizá `actualizado`.
+5. En `noticias.js`, `seguimiento` lista solo los hilos que tuvieron novedad hoy **y** ya existían antes de hoy, con `novedad` = qué cambió desde la entrada anterior.
+6. Nunca borres entradas ni hilos.
 
 ## Ver en local
 
