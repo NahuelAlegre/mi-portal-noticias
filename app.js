@@ -86,12 +86,17 @@
     return out + "</li>";
   };
 
-  if (seg.length || otros.length) {
+  var archivados = otros.filter(function (id) { return !HILOS[id].actualizado || dias(HILOS[id].actualizado, hoy) > 30; });
+  otros = otros.filter(function (id) { return archivados.indexOf(id) < 0; });
+
+  if (seg.length || otros.length || archivados.length) {
     nav += '<a class="nav-seg" href="#seguimiento">Hilos<span>' + (seg.length + otros.length) + "</span></a>";
     var s = '<div class="bloque-cab"><h2>Seguimiento</h2><span class="cuenta">' + seg.length + " con novedades</span></div>" +
       '<p class="seg-intro">Historias que seguimos en el tiempo. Abrí cada hilo para ver cómo evolucionó.</p>';
     if (seg.length) s += '<ul class="seg-lista">' + seg.map(function (x) { return hiloHTML(x.hilo, x); }).join("") + "</ul>";
     if (otros.length) s += '<h4 class="seg-sub">Otros hilos</h4><ul class="seg-lista dormidos">' + otros.map(function (id) { return hiloHTML(id, null); }).join("") + "</ul>";
+    if (archivados.length) s += '<details class="archivo" id="archivo-hilos"><summary>Archivo de hilos · ' + archivados.length +
+      '<small>Sin novedades hace más de 30 días</small></summary><ul class="seg-lista dormidos">' + archivados.map(function (id) { return hiloHTML(id, null); }).join("") + "</ul></details>";
     $("seguimiento").innerHTML = s;
     $("seguimiento").hidden = false;
   }
@@ -102,7 +107,8 @@
     var el = document.getElementById("hilo-" + a.getAttribute("data-hilo"));
     if (!el) return;
     ev.preventDefault();
-    var det = el.querySelector("details"); if (det) det.open = true;
+    var arch = el.closest(".archivo"); if (arch) arch.open = true;
+    var det = el.querySelector("details.linea"); if (det) det.open = true;
     el.scrollIntoView({ behavior: "smooth", block: "start" });
     el.classList.remove("resaltado"); void el.offsetWidth; el.classList.add("resaltado");
     history.replaceState(null, "", "#hilo-" + a.getAttribute("data-hilo"));

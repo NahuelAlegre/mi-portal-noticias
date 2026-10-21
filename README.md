@@ -70,9 +70,11 @@ window.HILOS = {
 
 En la página, cada noticia con `hilo` muestra un chip (`↳ Nombre del hilo · N entradas`) que lleva a la sección **Seguimiento**, donde cada hilo tiene su línea de tiempo desplegable. Los hilos de `seguimiento` muestran "Última novedad anterior: hace N días" (si hay una entrada previa) y la novedad; los demás aparecen en "Otros hilos".
 
+**Archivo automático:** un hilo cuyo `actualizado` tiene más de 30 días respecto de `fecha` (en `noticias.js`) pasa solo al bloque plegado "Archivo de hilos" al final de Seguimiento. Se calcula con las fechas; no hay que tocar los datos. Si un hilo archivado recibe una entrada nueva, vuelve a estar activo. El contador del menú cuenta solo los hilos activos.
+
 ### Procedimiento diario (actualización de las 7:00)
 
-1. Para cada noticia nueva, revisá **todos** los hilos de `hilos.js`, incluidos los viejos o inactivos, comparando id, `nombre` y contenido de las entradas.
+1. Para cada noticia nueva, revisá **todos** los hilos de `hilos.js`, incluidos los viejos, inactivos y **archivados** (más de 30 días sin novedades), comparando id, `nombre` y contenido de las entradas.
 2. Si la noticia continúa una historia existente, **reutilizá ese id** en `hilo` (aunque no haya tenido novedades en días o semanas).
 3. Si no existe y la historia probablemente siga en los próximos días, creá un hilo nuevo con un id estable en kebab-case (ej. `ley-malvinas`), `creado` = hoy. Las noticias puntuales no llevan `hilo`.
 4. Agregá la entrada del día **al principio** de `entradas` y actualizá `actualizado`.
