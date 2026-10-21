@@ -22,14 +22,30 @@ Editá `noticias.js`:
 window.NOTICIAS = {
   "fecha": "2026-10-20",       // AAAA-MM-DD
   "ejemplo": false,             // true muestra el aviso "Datos de ejemplo"
+
+  // Opcional: las 3 noticias más importantes, arriba de todo ("Lo esencial del día")
+  "esencial": [
+    { "titulo": "...", "resumen": "...", "tema": "Mundo", "fuente": "BBC", "url": "https://..." }
+  ],
+
   "temas": [
     { "nombre": "Argentina",
       "noticias": [
-        { "titulo": "...", "resumen": "1-2 oraciones.", "fuente": "Nombre del medio", "url": "https://..." }
+        { "titulo": "...", "resumen": "1-2 oraciones.",
+          "porQueImporta": "Opcional: una oración sobre por qué importa o qué sigue.",
+          "fuente": "Nombre del medio", "url": "https://..." }
       ] }
+  ],
+
+  // Opcional: historias en curso y qué cambió desde ayer ("Seguimiento")
+  "seguimiento": [
+    { "historia": "Negociaciones de paz en Ucrania", "tema": "Mundo",
+      "novedad": "Qué cambió desde ayer, en 1-2 oraciones.", "fuente": "BBC", "url": "https://..." }
   ]
 };
 ```
+
+Todos los campos nuevos son opcionales: si faltan, esa parte simplemente no se muestra. El campo `tema` de `esencial` y `seguimiento` debe coincidir con el `nombre` de un tema para tomar su color.
 
 Podés agregar o quitar temas; el menú y los contadores se generan solos. Se usa un archivo `.js` (no `.json`) para que `index.html` funcione también abierto directamente desde el disco.
 
