@@ -22,9 +22,10 @@ Editá `noticias.js`:
 ```js
 window.NOTICIAS = {
   "fecha": "2026-10-20",       // AAAA-MM-DD
+  "actualizado": "2026-10-22T07:00:00-03:00", // opcional: hora REAL de generación (ISO con zona)
   "ejemplo": false,             // true muestra el aviso "Datos de ejemplo"
 
-  // Opcional: las 3 noticias más importantes, arriba de todo ("Lo esencial del día")
+  // Opcional: hasta 3 noticias de `temas` (misma url), arriba de todo ("Lo esencial"). Puede ser []
   "esencial": [
     { "titulo": "...", "resumen": "...", "tema": "Mundo", "fuente": "BBC", "url": "https://..." }
   ],
@@ -45,6 +46,8 @@ window.NOTICIAS = {
   ]
 };
 ```
+
+`actualizado` se muestra en la barra como `act. HH:MM` (hora de Argentina); si falta, se omite. Cada ítem de `esencial` debe usar **la misma `url`** que su nota en `temas`: la página la busca primero por `url` y, si no la encuentra, por `titulo`.
 
 Todos los campos nuevos son opcionales: si faltan, esa parte simplemente no se muestra. El campo `tema` de `esencial` y `seguimiento` debe coincidir con el `nombre` de un tema para tomar su color.
 
@@ -68,9 +71,9 @@ window.HILOS = {
 };
 ```
 
-En la página, cada noticia con `hilo` muestra un chip (`↳ Nombre del hilo · N entradas`) que lleva a la sección **Seguimiento**, donde cada hilo tiene su línea de tiempo desplegable. Los hilos de `seguimiento` muestran "Última novedad anterior: hace N días" (si hay una entrada previa) y la novedad; los demás aparecen en "Otros hilos".
+En la página, cada noticia con `hilo` muestra en su línea de metadatos `↳ Nombre del hilo · N`; al tocarlo (o "Ampliar") la nota se despliega y muestra "Antes en este hilo". Al final, **Hilos abiertos** lista cada hilo en una fila con su estado: "hoy · ver nota ↑" (hay nota hoy), "novedad hoy" (está en `seguimiento` sin nota) o "ayer"/"hace N días"; al abrir la fila se ve la línea de tiempo completa.
 
-**Archivo automático:** un hilo cuyo `actualizado` tiene más de 30 días respecto de `fecha` (en `noticias.js`) pasa solo al bloque plegado "Archivo de hilos" al final de Seguimiento. Se calcula con las fechas; no hay que tocar los datos. Si un hilo archivado recibe una entrada nueva, vuelve a estar activo. El contador del menú cuenta solo los hilos activos.
+**Archivo automático:** un hilo cuyo `actualizado` tiene más de 30 días respecto de `fecha` (en `noticias.js`) pasa solo al bloque plegado "Archivo · N hilos sin novedades hace más de 30 días" al final de Hilos abiertos. Se calcula con las fechas; no hay que tocar los datos. Si un hilo archivado recibe una entrada nueva, vuelve a estar activo. El contador del menú cuenta solo los hilos activos.
 
 ### Procedimiento diario (actualización de las 7:00)
 
@@ -80,6 +83,26 @@ En la página, cada noticia con `hilo` muestra un chip (`↳ Nombre del hilo · 
 4. Agregá la entrada del día **al principio** de `entradas` y actualizá `actualizado`.
 5. En `noticias.js`, `seguimiento` lista solo los hilos que tuvieron novedad hoy **y** ya existían antes de hoy, con `novedad` = qué cambió desde la entrada anterior.
 6. Nunca borres entradas ni hilos.
+
+### Reglas editoriales
+
+- **Sin cupos mínimos: vacío antes que relleno.** Entre 0 y 6 noticias por tema, máximo 14 en total. Un tema sin nada relevante va con `"noticias": []`.
+- `resumen`: 1–2 oraciones (~250 caracteres) con datos concretos (cifras, nombres, fechas).
+- `porQueImporta`: solo si agrega algo que el resumen no dice; hechos, no opiniones.
+- **Argentina:** cuando la cobertura difiere, contrastar al menos dos líneas editoriales.
+- `esencial`: hasta 3 noticias tomadas de `temas`, con la misma `url`. Puede ser `[]`.
+- `actualizado`: siempre la hora real de generación, en ISO con zona (`2026-10-22T07:04:00-03:00`).
+- Un hilo no recibe una entrada nueva si no hay un hecho nuevo.
+
+## Diseño
+
+Página de diario, minimalista y densa: en escritorio el día entero entra en 1–2 pantallas y ninguna noticia se repite.
+
+- **Barra fija** de una línea: marca, fecha y `act. HH:MM`; a la derecha los filtros `Todo · Argentina · Mundo · IA · Hilos` (los nombres de tema de más de 14 caracteres y varias palabras se abrevian con iniciales). El filtro elegido se guarda en `localStorage`.
+- **Lo esencial:** franja de 3 columnas con número, tema y título; cada ítem lleva a su nota (scroll y resaltado). Si `esencial` es `[]`, no aparece.
+- **Columnas por tema** (hasta 3), sin cajas: líneas finas y espacio. La bajada se recorta a 3 líneas; "Ampliar" despliega en el lugar la bajada completa, "Por qué importa" y "Antes en este hilo". Tema vacío: "Hoy, nada relevante." Si todos están vacíos: "Hoy no pasó nada que valga la pena contar." y los hilos.
+- **Hilos abiertos** al final, en 2 columnas, y el archivo plegado.
+- Responsive: ≤1100 px barra en dos renglones; ≤980 px una columna de 680 px; ≤600 px márgenes de 16 px y filtros con scroll horizontal. Modo oscuro automático.
 
 ## Ver en local
 

@@ -7,25 +7,28 @@
 <title>Mi resumen del día</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+<body data-filtro="todo">
 <a class="saltar" href="#contenido">Saltar al contenido</a>
-<header class="cabecera">
-  <p class="saludo" id="saludo">Hola</p>
-  <h1>Mi resumen <em>del día</em></h1>
-  <p id="fecha" class="fecha"></p>
-  <p class="intro" id="intro"></p>
+<header class="barra">
+  <div class="barra-in">
+    <div class="marca">
+      <h1>Mi resumen <em>del día</em></h1>
+      <p id="fecha" class="fecha"></p>
+    </div>
+    <nav id="filtros" class="filtros" aria-label="Filtros"></nav>
+  </div>
 </header>
-<nav id="nav" class="nav" aria-label="Temas"></nav>
 <div id="aviso" class="aviso" hidden>Datos de ejemplo — reemplazá el contenido de <code>noticias.js</code> con tus noticias.</div>
 <main id="contenido">
-  <section id="esencial" class="esencial" hidden></section>
-  <div id="temas"></div>
-  <section id="seguimiento" class="seguimiento" hidden></section>
+  <section id="esencial" class="esencial" hidden aria-labelledby="esencial-rot"></section>
+  <p id="vacio" class="vacio" hidden>Hoy no pasó nada que valga la pena contar.</p>
+  <div id="temas" class="temas"></div>
+  <section id="hilos" class="hilos" hidden aria-labelledby="hilos-rot"></section>
 </main>
-<footer class="pie">Hecho a mano, para leer con calma ☕</footer>
+<footer class="pie">Curado por Grok · se actualiza todos los días a las 07:00</footer>
 <script src="noticias.js"></script>
 <script src="hilos.js"></script>
 <script src="app.js"></script>
