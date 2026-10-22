@@ -1,42 +1,41 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-21",
+  "fecha": "2026-10-22",
   "ejemplo": false,
   "temas": [
     {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
-          "resumen": "El oficialismo llevó al recinto su propia versión de temas que impulsaba la oposición: restituye los límites a la compra de tierras por extranjeros, un régimen de discapacidad que retoma buena parte del sistema actual y un proyecto sobre endeudamiento familiar. Los bloques provinciales tienen los votos decisivos.",
-          "porQueImporta": "Es una prueba de la estrategia de ceder en algunos puntos para retener a los aliados y frenar la agenda de la oposición más dura.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/21/tierras-discapacidad-y-endeudamiento-el-oficialismo-busca-neutralizar-la-agenda-opositora-con-una-mega-sesion/",
+          "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
+          "resumen": "Tras 15 horas de sesión, la Cámara dio media sanción a una nueva ley de Discapacidad por 237 votos, con el Gobierno cediendo en pensiones y aranceles, y aprobó la ley de Propiedad Privada que repone los límites a la compra de tierras por extranjeros (vuelve al Senado). El oficialismo, sin votos propios, mandó a comisión el debate sobre deudas familiares.",
+          "porQueImporta": "Muestra que el Gobierno solo logra aprobar leyes cediendo ante la oposición y los aliados, y que los diputados cordobeses son decisivos.",
+          "fuente": "Perfil",
+          "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml",
           "hilo": "megasesion-diputados"
         },
         {
-          "titulo": "Brasil acusa a Milei de injerencia electoral por sus insultos a Lula",
-          "resumen": "La Cancillería brasileña emitió un duro comunicado después de que Milei volviera a insultar a Lula e insinuara un posible fraude en el balotaje del 25 de octubre. Lo calificó de intento inaceptable de injerencia externa y defendió el voto electrónico.",
-          "porQueImporta": "Brasil es el principal socio comercial de la Argentina y la tensión puede escalar según quién gane el domingo.",
-          "fuente": "Página/12",
-          "url": "https://www.pagina12.com.ar/2026/10/20/la-cancilleria-de-brasil-lanzo-un-duro-comunicado-contra-las-ofensas-de-milei-hacia-lula/",
-          "hilo": "milei-lula-balotaje-brasil"
-        },
-        {
-          "titulo": "Presupuesto 2027: tensión en Diputados por los fondos universitarios",
-          "resumen": "El secretario de Educación, Carlos Torrendell, defendió los $7,7 billones previstos para las universidades frente a los $11 billones que pide el CIN y acusó a los rectores de un \"acuerdo de casta\". El oficialismo quiere dictamen la semana próxima.",
-          "porQueImporta": "El financiamiento universitario es uno de los puntos más conflictivos del Presupuesto y puede trabar su aprobación.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/politica/2026/10/20/tension-en-diputados-por-el-presupuesto-universitario-el-oficialismo-buscara-emitir-dictamen-la-semana-proxima/",
-          "hilo": "presupuesto-2027"
-        },
-        {
-          "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
-          "resumen": "Las comisiones no lograron consenso sobre el proyecto de Defensa de la Soberanía Nacional, de 133 artículos. Unión por la Patria y Provincias Unidas piden separar el tema Malvinas del resto de la reforma de seguridad e inteligencia.",
-          "porQueImporta": "El pedido de dividir el proyecto muestra que el oficialismo no tiene los apoyos para aprobarlo tal como está.",
-          "fuente": "La Gaceta",
-          "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html",
+          "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
+          "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
+          "porQueImporta": "Es el primer roce visible con el gobierno de Trump y define si el oficialismo consigue los votos para su proyecto de soberanía.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/",
           "hilo": "ley-malvinas"
+        },
+        {
+          "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
+          "resumen": "El parte médico del Vaticano indicó que el papa no necesitará más tratamiento tras la operación de un tumor de pulmón localizado. Su gira por Uruguay, Argentina y Perú está prevista desde el 6 de noviembre y los preparativos siguen sin cambios.",
+          "porQueImporta": "Sería la primera visita papal al país en casi cuatro décadas y condiciona la agenda política: el Presupuesto, por ejemplo, se votaría después.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/mundo/gira-papa-leon-xiv-iglesia-argentina-dan-practicamente-confirmada-visita-pais-parte-medico-miercoles_0_iyhAHybjyy.html",
+          "hilo": "visita-papa-leon"
+        },
+        {
+          "titulo": "El riesgo país tocó 710 puntos y empieza a ampliarse la brecha cambiaria",
+          "resumen": "Los bonos argentinos vienen cayendo y el riesgo país llegó a 710 puntos antes de bajar a 674. El dólar oficial sigue quieto en $1.545 y el BCRA compra divisas, pero el contado con liquidación ya está casi 6% arriba.",
+          "porQueImporta": "Refleja la desconfianza del mercado a un año de las presidenciales, con una actividad económica que casi no rebota.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/"
         }
       ]
     },
@@ -44,35 +43,36 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Witkoff se reúne con Putin en San Petersburgo; Rusia libera a un estadounidense",
-          "resumen": "El enviado de Trump le llevó a Putin las propuestas surgidas de las charlas de Oslo y le pidió retomar las conversaciones técnicas entre Rusia, EE.UU. y Ucrania. Como gesto, Moscú liberó a Stephen Hubbard, un docente jubilado de 74 años detenido desde 2022.",
-          "porQueImporta": "La respuesta de Putin definirá si hay una negociación de paz real o si la guerra sigue sin salida a la vista.",
-          "fuente": "CNN",
-          "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
+          "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
+          "resumen": "Tras tres horas con Witkoff en San Petersburgo, el Kremlin dijo que está dispuesto \"en principio\" a reanudar las charlas técnicas entre Rusia, EE.UU. y Ucrania, posiblemente en Abu Dabi, aunque calificó de poco útiles las propuestas de Oslo. Zelensky respaldó el formato.",
+          "porQueImporta": "Es la primera reapertura concreta de negociaciones directas desde febrero, aunque Rusia no cedió nada sobre territorio ni alto el fuego.",
+          "fuente": "Axios",
+          "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
           "hilo": "guerra-ucrania"
         },
         {
-          "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
-          "resumen": "La coalición liderada por Arabia Saudita informó que derribó cinco drones dirigidos a Medina y a la región Este. Los hutíes de Yemen negaron haber lanzado ataques contra territorio saudí ese día.",
-          "porQueImporta": "Un ataque cerca de una ciudad santa del islam escalaría mucho el conflicto; las versiones cruzadas muestran lo tensa que está la situación.",
-          "fuente": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217",
+          "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
+          "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
+          "porQueImporta": "La escalada entre los hutíes y Riad amenaza las exportaciones de petróleo en un momento en que Ormuz ya está prácticamente cerrado.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6x2vpk93770o",
           "hilo": "hutis-arabia-saudita"
         },
         {
-          "titulo": "Francia impone toques de queda nocturnos en París y otras ciudades",
-          "resumen": "Tras disturbios y saqueos el fin de semana, el gobierno anunció toques de queda \"por el tiempo que sea necesario\". El primer ministro Lecornu se reúne con los sindicatos ante nuevas protestas convocadas para el sábado.",
-          "porQueImporta": "La crisis social debilita a un gobierno francés ya frágil y puede extenderse a otros países europeos.",
-          "fuente": "NPR (AP)",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+          "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
+          "resumen": "El primer ministro Lecornu no anunció medidas concretas en su reunión con los sindicatos, que llamaron a una gran movilización el 5 de noviembre. Siguen los toques de queda en París y Lyon, y ya hay unas 2.500 detenciones por los disturbios.",
+          "porQueImporta": "El conflicto pasa de las calles a una huelga general, lo que aumenta la presión sobre un gobierno débil.",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action",
           "hilo": "protestas-francia"
         },
         {
-          "titulo": "La ONU advierte que ya no se puede evitar superar 1,5 °C de calentamiento",
-          "resumen": "El informe anual de brecha de emisiones del PNUMA dice que, aun en el mejor escenario, el calentamiento llegará a 1,7-1,8 °C antes de poder volver a bajar. Con las políticas actuales, el mundo va hacia 2,8 °C.",
-          "porQueImporta": "Llega antes de la próxima cumbre climática y presiona a los países a recortar emisiones mucho más rápido.",
-          "fuente": "ONU Noticias",
-          "url": "https://news.un.org/en/story/2026/10/1168634"
+          "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
+          "resumen": "A cuatro días del balotaje, el equipo de Lula denunció ante la Justicia Electoral una supuesta \"manipulación algorítmica\" de Meta y X a favor de Bolsonaro; Meta lo niega. Las encuestas muestran un empate técnico.",
+          "porQueImporta": "El resultado del domingo define la relación con el principal socio de la Argentina, ya tensa por los dichos de Milei.",
+          "fuente": "EFE",
+          "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/",
+          "hilo": "milei-lula-balotaje-brasil"
         }
       ]
     },
@@ -80,71 +80,103 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic propone una ley para frenar modelos de IA peligrosos",
-          "resumen": "El borrador permitiría al Departamento de Comercio pedirle a un juez que detenga el lanzamiento de un modelo si hay riesgo inminente de más de 50 muertes o más de USD 1.000 millones en daños, por armas biológicas, ciberataques o pérdida de control.",
-          "porQueImporta": "Es la primera vez que un gran laboratorio propone un umbral concreto para regular la IA, y abre el debate sobre si es demasiado alto.",
-          "fuente": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+          "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
+          "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
+          "porQueImporta": "Es la falla más grave descubierta hasta ahora por IA y muestra que estas herramientas ya cambian la ciberseguridad, para defensores y atacantes.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
+          "hilo": "php-vulnerabilidades-ia"
         },
         {
-          "titulo": "El borrador de salida a bolsa de Anthropic muestra ingresos y costos gigantes",
-          "resumen": "Según el Wall Street Journal, Anthropic facturó USD 16.300 millones en el primer semestre de 2026 y gastó cerca de USD 9.000 millones en cómputo, con compromisos de infraestructura de cientos de miles de millones para los próximos años.",
-          "porQueImporta": "Su salida a bolsa, prevista después de las elecciones de medio término en EE.UU., será la referencia de cuánto vale el negocio de la IA.",
-          "fuente": "The Wall Street Journal",
-          "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
+          "titulo": "Los modelos de OpenAI llegan a Google Cloud",
+          "resumen": "OpenAI y Google Cloud anunciaron que los modelos de frontera de OpenAI y Codex estarán disponibles en el Model Garden de Google, y pronto en Gemini Agent. Microsoft sigue siendo su socio principal en la nube.",
+          "porQueImporta": "Dos rivales directos se alían: OpenAI busca más clientes empresariales y Google se posiciona como plataforma neutral de modelos.",
+          "fuente": "OpenAI (blog)",
+          "url": "https://openai.com/index/openai-models-google-cloud"
+        },
+        {
+          "titulo": "Anthropic presentaría su prospecto de salida a bolsa el viernes",
+          "resumen": "Según fuentes de Yahoo Finance, Anthropic publicaría su formulario S-1 ante la SEC desde este viernes, paso clave para salir a cotizar en noviembre. Se estima que podría recaudar hasta USD 100.000 millones.",
+          "porQueImporta": "Sería la mayor salida a bolsa de la historia y un termómetro del apetito inversor por la IA.",
+          "fuente": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html",
           "hilo": "ipo-anthropic"
         },
         {
-          "titulo": "Google libera TorchTPU para correr PyTorch en sus chips en lugar de Nvidia",
-          "resumen": "Google, junto con Meta, publicó como código abierto TorchTPU, que permite usar programas de PyTorch en los chips TPU de Google con cambios mínimos.",
-          "porQueImporta": "Ataca la principal ventaja de Nvidia, que los desarrolladores dependan de su software, y puede abaratar el cómputo para IA.",
-          "fuente": "Google Cloud (blog)",
-          "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus"
+          "titulo": "Meta presenta Muse, su primer modelo de frontera, y crea acciones sin voto para financiar la IA",
+          "resumen": "Meta facturó USD 64.600 millones en el tercer trimestre (+26%), destacó el lanzamiento de Muse y Muse Wonder y prevé invertir entre USD 135.000 y 145.000 millones este año. También creará una clase de acciones sin voto para captar capital.",
+          "porQueImporta": "Confirma la carrera de inversión en IA de las grandes tecnológicas, al punto de cambiar su estructura de capital para sostenerla.",
+          "fuente": "Meta (comunicado)",
+          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
         }
       ]
     }
   ],
   "esencial": [
     {
-      "titulo": "Witkoff se reúne con Putin en San Petersburgo; Rusia libera a un estadounidense",
-      "resumen": "El enviado de Trump le llevó a Putin las propuestas de Oslo y le pidió retomar las conversaciones técnicas a tres bandas; Moscú liberó a Stephen Hubbard como gesto.",
+      "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
+      "resumen": "El Kremlin aceptó reanudar las charlas técnicas Rusia-EE.UU.-Ucrania alrededor del 10 de noviembre, aunque desestimó las propuestas de Oslo.",
       "tema": "Mundo",
-      "fuente": "CNN",
-      "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+      "fuente": "Axios",
+      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
     },
     {
-      "titulo": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
-      "resumen": "El oficialismo lleva al recinto su versión de proyectos que impulsaba la oposición; los bloques provinciales definen la votación.",
+      "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
+      "resumen": "Media sanción para la nueva ley de Discapacidad y para la que repone la Ley de Tierras; el oficialismo frenó el debate sobre deudas familiares.",
       "tema": "Argentina",
-      "fuente": "Infobae",
-      "url": "https://www.infobae.com/politica/2026/10/21/tierras-discapacidad-y-endeudamiento-el-oficialismo-busca-neutralizar-la-agenda-opositora-con-una-mega-sesion/"
+      "fuente": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
     },
     {
-      "titulo": "Brasil acusa a Milei de injerencia electoral por sus insultos a Lula",
-      "resumen": "Itamaraty calificó de inaceptables los dichos de Milei, que insinuó fraude en el balotaje brasileño del 25 de octubre.",
-      "tema": "Argentina",
-      "fuente": "Página/12",
-      "url": "https://www.pagina12.com.ar/2026/10/20/la-cancilleria-de-brasil-lanzo-un-duro-comunicado-contra-las-ofensas-de-milei-hacia-lula/"
+      "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
+      "resumen": "Dos vulnerabilidades halladas con ayuda de IA afectan a gran parte de la web; gobiernos y empresas desconectan sitios mientras aplican el parche.",
+      "tema": "Inteligencia Artificial",
+      "fuente": "BBC",
+      "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
     }
   ],
   "seguimiento": [
     {
       "hilo": "guerra-ucrania",
-      "novedad": "Witkoff ya se reunió con Putin en San Petersburgo: le presentó las propuestas de Oslo y le pidió reactivar las conversaciones técnicas Rusia-EE.UU.-Ucrania. Rusia liberó al estadounidense Stephen Hubbard como gesto de buena voluntad.",
-      "fuente": "CNN",
-      "url": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl"
+      "novedad": "Después de la reunión, el Kremlin dijo que acepta en principio retomar las negociaciones técnicas a tres bandas cerca del 10 de noviembre, posiblemente en Abu Dabi, aunque consideró poco útiles las propuestas de Oslo.",
+      "fuente": "Axios",
+      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
     },
     {
       "hilo": "hutis-arabia-saudita",
-      "novedad": "La coalición saudí dijo que interceptó cinco drones sobre Medina y la región Este, pero esta vez los hutíes negaron haber atacado.",
-      "fuente": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217"
+      "novedad": "La escalada se agravó: tres muertos en ataques al aeropuerto de Dammam y cerca del yacimiento de Shaybah, y EE.UU. ordenó la salida de su personal diplomático no esencial.",
+      "fuente": "BBC",
+      "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
+    },
+    {
+      "hilo": "megasesion-diputados",
+      "novedad": "La sesión terminó de madrugada: se aprobaron Discapacidad (237 votos) y Propiedad Privada con la Ley de Tierras repuesta, mientras que el endeudamiento familiar volvió a comisión por 121 a 117.",
+      "fuente": "Perfil",
+      "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
     },
     {
       "hilo": "ley-malvinas",
-      "novedad": "Las comisiones no lograron dictamen y la oposición pide separar lo referido a Malvinas del resto del proyecto; el debate sigue fijado para el 27 de octubre.",
-      "fuente": "La Gaceta",
-      "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html"
+      "novedad": "El Gobierno aceptó modificar el artículo 111 y acotar el rol militar para sumar a los aliados, con fecha tentativa de sesión el 28 de octubre, en medio del contrapunto con EE.UU. por el Comité de Descolonización de la ONU.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
+    },
+    {
+      "hilo": "protestas-francia",
+      "novedad": "Los sindicatos salieron sin respuestas de la reunión con Lecornu y convocaron a huelga el 5 de noviembre; se renovaron los toques de queda en París y Lyon.",
+      "fuente": "Euronews",
+      "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
+    },
+    {
+      "hilo": "milei-lula-balotaje-brasil",
+      "novedad": "En la recta final del balotaje, la campaña de Lula pidió anular la candidatura de Flávio Bolsonaro por presunta manipulación de Meta y X; las encuestas siguen en empate técnico.",
+      "fuente": "EFE",
+      "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/"
+    },
+    {
+      "hilo": "ipo-anthropic",
+      "novedad": "Tras la filtración del borrador, Anthropic haría público su prospecto S-1 desde este viernes, con la mira en cotizar en noviembre.",
+      "fuente": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
     }
   ]
 };

@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
+        "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
@@ -26,8 +33,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
+        "resumen": "Tras tres horas con Witkoff en San Petersburgo, el Kremlin dijo que está dispuesto \"en principio\" a reanudar las charlas técnicas entre Rusia, EE.UU. y Ucrania, posiblemente en Abu Dabi, aunque calificó de poco útiles las propuestas de Oslo. Zelensky respaldó el formato.",
+        "fuente": "Axios",
+        "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Witkoff se reúne con Putin en San Petersburgo; Rusia libera a un estadounidense",
@@ -48,8 +62,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
+        "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
@@ -70,8 +91,15 @@ window.HILOS = {
     "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
+        "resumen": "Tras 15 horas de sesión, la Cámara dio media sanción a una nueva ley de Discapacidad por 237 votos, con el Gobierno cediendo en pensiones y aranceles, y aprobó la ley de Propiedad Privada que repone los límites a la compra de tierras por extranjeros (vuelve al Senado). El oficialismo, sin votos propios, mandó a comisión el debate sobre deudas familiares.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
@@ -85,8 +113,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
+        "resumen": "A cuatro días del balotaje, el equipo de Lula denunció ante la Justicia Electoral una supuesta \"manipulación algorítmica\" de Meta y X a favor de Bolsonaro; Meta lo niega. Las encuestas muestran un empate técnico.",
+        "fuente": "EFE",
+        "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Brasil acusa a Milei de injerencia electoral por sus insultos a Lula",
@@ -115,8 +150,15 @@ window.HILOS = {
     "nombre": "Protestas y disturbios en Francia",
     "tema": "Mundo",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
+        "resumen": "El primer ministro Lecornu no anunció medidas concretas en su reunión con los sindicatos, que llamaron a una gran movilización el 5 de noviembre. Siguen los toques de queda en París y Lyon, y ya hay unas 2.500 detenciones por los disturbios.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Francia impone toques de queda nocturnos en París y otras ciudades",
@@ -130,14 +172,51 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-22",
     "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Anthropic presentaría su prospecto de salida a bolsa el viernes",
+        "resumen": "Según fuentes de Yahoo Finance, Anthropic publicaría su formulario S-1 ante la SEC desde este viernes, paso clave para salir a cotizar en noviembre. Se estima que podría recaudar hasta USD 100.000 millones.",
+        "fuente": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "El borrador de salida a bolsa de Anthropic muestra ingresos y costos gigantes",
         "resumen": "Según el Wall Street Journal, Anthropic facturó USD 16.300 millones en el primer semestre de 2026 y gastó cerca de USD 9.000 millones en cómputo, con compromisos de infraestructura de cientos de miles de millones para los próximos años.",
         "fuente": "The Wall Street Journal",
         "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
+      }
+    ]
+  },
+  "visita-papa-leon": {
+    "nombre": "Visita del papa León XIV a la Argentina",
+    "tema": "Argentina",
+    "creado": "2026-10-22",
+    "actualizado": "2026-10-22",
+    "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
+        "resumen": "El parte médico del Vaticano indicó que el papa no necesitará más tratamiento tras la operación de un tumor de pulmón localizado. Su gira por Uruguay, Argentina y Perú está prevista desde el 6 de noviembre y los preparativos siguen sin cambios.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/mundo/gira-papa-leon-xiv-iglesia-argentina-dan-practicamente-confirmada-visita-pais-parte-medico-miercoles_0_iyhAHybjyy.html"
+      }
+    ]
+  },
+  "php-vulnerabilidades-ia": {
+    "nombre": "Fallas críticas en PHP descubiertas por IA",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-10-22",
+    "actualizado": "2026-10-22",
+    "entradas": [
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
+        "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
       }
     ]
   }
