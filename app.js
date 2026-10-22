@@ -257,6 +257,9 @@
       var g = GLOSARIO[el.getAttribute("data-g")]; if (!g) return;
       html = '<div class="pop-cab">' + ico(TIPOS[g.tipo] ? g.tipo : "concepto") + "<strong>" + esc(g.nombre) + "</strong><small>" + esc(TIPOS[g.tipo] || "") + "</small></div>" +
         (g.texto ? "<p>" + esc(g.texto) + "</p>" : "");
+      var foto = typeof g.foto === "string" && g.foto.indexOf("https://upload.wikimedia.org/") === 0 ? g.foto : "";
+      if (foto) html = '<div class="pop-foto"><img src="' + esc(foto).replace(/"/g, "&quot;") + '" width="56" height="56" loading="lazy" alt="" onerror="var c=this.parentNode;this.remove();c.classList.add(\'sin-foto\')"><div>' +
+        html + '<p class="pop-cred">Foto: Wikimedia Commons</p></div></div>';
     } else html = "<p>" + esc(el.getAttribute("data-pop")) + "</p>";
     var tema = el.closest(".t0,.t1,.t2,.t3,.t4"), tc = tema && /\bt\d\b/.exec(tema.className);
     pop.className = "pop" + (tc ? " " + tc[0] : "");

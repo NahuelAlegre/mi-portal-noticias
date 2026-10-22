@@ -33,6 +33,7 @@ window.GLOSARIO = {
     "tipo": "persona",
     "texto": "Empresario inmobiliario y enviado especial de Donald Trump. Negocia en su nombre con Rusia y en Medio Oriente.",
     "alias": ["Witkoff"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg/330px-A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_%28cropped%29.jpg",
     "actualizado": "2026-10-22"
   },
   "hutis": {
@@ -61,6 +62,7 @@ window.GLOSARIO = {
     "tipo": "persona",
     "texto": "Primer ministro de Francia desde septiembre de 2025, designado por Emmanuel Macron. Antes fue ministro de las Fuerzas Armadas.",
     "alias": ["Lecornu"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/S%C3%A9bastien_Lecornu_2024_%282x3_crop%29.jpg/330px-S%C3%A9bastien_Lecornu_2024_%282x3_crop%29.jpg",
     "actualizado": "2026-10-22"
   },
   "flavio-bolsonaro": {
@@ -68,6 +70,7 @@ window.GLOSARIO = {
     "tipo": "persona",
     "texto": "Senador por Río de Janeiro e hijo mayor del expresidente Jair Bolsonaro. Es el candidato de la derecha contra Lula en el balotaje.",
     "alias": ["Flávio Bolsonaro"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg/330px-Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg",
     "actualizado": "2026-10-22"
   },
   "model-garden": {

@@ -118,12 +118,15 @@ window.GLOSARIO = {
     "tipo": "persona",              // persona | ley | organizacion | lugar | concepto
     "texto": "Empresario inmobiliario y enviado especial de Donald Trump. Negocia en su nombre con Rusia y en Medio Oriente.",
     "alias": ["Witkoff"],           // forma exacta en que aparece en la noticia
+    "foto": "https://upload.wikimedia.org/…/330px-….jpg", // opcional, solo tipo persona
     "actualizado": "2026-10-22"
   }
 };
 ```
 
 Cada noticia puede llevar `"glosario": ["witkoff", "ley-malvinas"]` (máx. 4). La página marca con subrayado punteado la primera aparición de cada término (busca el nombre y los alias, del más largo al más corto, sin distinguir mayúsculas, en título → resumen → porQueImporta). Al pasar el mouse o enfocar el término aparece una ficha con ícono del tipo, nombre, tipo y texto. Si el término no aparece en el texto, se lista al final de la parte ampliada.
+
+**Campo `foto` (opcional, solo `persona`).** Miniatura de Wikipedia: consultá `https://es.wikipedia.org/api/rest_v1/page/summary/<Título_del_artículo>` (si no existe en español, `en.wikipedia.org`) y usá `thumbnail.source`. Si la API devuelve el host `thumb.wikimedia.org`, guardá la misma ruta con host `https://upload.wikimedia.org/` y sin el `?utm_…`. Poné la foto solo si la `description`/`extract` confirma que el artículo es esa persona; si hay dudas, no hay artículo o no tiene imagen, omití el campo. Nunca uses fotos de diarios ni de otras fuentes. `app.js` solo acepta URLs que empiecen con `https://upload.wikimedia.org/`. En la ficha la foto va a la izquierda (56×56) con el crédito «Foto: Wikimedia Commons»; si la imagen no carga, se quita y la ficha pasa a una sola columna. **Diariamente:** cada entrada nueva de tipo `persona` debe llevar `foto` según esta regla.
 
 **Regla editorial del glosario** (en el procedimiento diario): ¿un lector argentino informado, pero que no sigue este tema, entendería todos los nombres y siglas? Lo que no entendería va al glosario.
 - **Sí van:** funcionarios, enviados, jueces y empresarios que no son figuras mundiales; proyectos de ley y leyes por su nombre coloquial; siglas y organismos (AmCham, CCL, C-24, SEC, S-1); grupos armados; lugares no obvios (Matignon, Ormuz); jerga financiera o técnica.
