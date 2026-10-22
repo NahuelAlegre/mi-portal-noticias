@@ -22,6 +22,8 @@
     "ley": '<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/>',
     "organizacion": '<rect width="16" height="20" x="4" y="2" rx="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M12 6h.01"/><path d="M12 10h.01"/><path d="M12 14h.01"/><path d="M16 10h.01"/><path d="M16 14h.01"/><path d="M8 10h.01"/><path d="M8 14h.01"/>',
     "lugar": '<path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>',
+    "sol": '<circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/>',
+    "luna": '<path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/>',
     "concepto": '<circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/>'
   };
   var ico = function (nombre, cls) {
@@ -272,6 +274,23 @@
   document.addEventListener("focusin", function (ev) { var el = objetivo(ev.target); if (el) mostrar(el); });
   document.addEventListener("focusout", function (ev) { if (objetivo(ev.target)) ocultar(); });
   window.addEventListener("scroll", function () { if (!pop.hidden) ocultar(); }, { passive: true });
+
+  // Tema claro/oscuro: automático salvo elección guardada
+  var mq = window.matchMedia ? matchMedia("(prefers-color-scheme: dark)") : null;
+  var temaActual = function () { var t = document.documentElement.getAttribute("data-theme"); return t || (mq && mq.matches ? "dark" : "light"); };
+  var pintarBtn = function () {
+    var b = $("tema-btn"); if (!b) return;
+    var osc = temaActual() === "dark", lbl = osc ? "Modo claro" : "Modo oscuro";
+    b.innerHTML = ico(osc ? "sol" : "luna"); b.title = lbl; b.setAttribute("aria-label", lbl);
+  };
+  if ($("tema-btn")) $("tema-btn").addEventListener("click", function () {
+    var t = temaActual() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", t);
+    try { localStorage.setItem("tema", t); } catch (err) {}
+    pintarBtn();
+  });
+  if (mq) { var cb = function () { pintarBtn(); }; if (mq.addEventListener) mq.addEventListener("change", cb); else if (mq.addListener) mq.addListener(cb); }
+  pintarBtn();
 
   var guardado = "todo";
   try { guardado = localStorage.getItem("filtro") || "todo"; } catch (err) {}

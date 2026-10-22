@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
+<script>try{var t=localStorage.getItem("tema");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
 <title>Mi resumen del día</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,7 +19,10 @@
       <h1>Mi resumen <em>del día</em></h1>
       <p id="fecha" class="fecha"></p>
     </div>
-    <nav id="filtros" class="filtros" aria-label="Filtros"></nav>
+    <div class="derecha">
+      <nav id="filtros" class="filtros" aria-label="Filtros"></nav>
+      <button type="button" id="tema-btn" class="tema-btn"></button>
+    </div>
   </div>
 </header>
 <div id="aviso" class="aviso" hidden>Datos de ejemplo — reemplazá el contenido de <code>noticias.js</code> con tus noticias.</div>

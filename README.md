@@ -105,7 +105,7 @@ Página de diario, minimalista y densa: en escritorio el día entero entra en 1�
 - **Lo esencial:** franja de 3 columnas con número, tema y título; cada ítem lleva a su nota (scroll y resaltado). Si `esencial` es `[]`, no aparece.
 - **Columnas por tema** (hasta 3), sin cajas: líneas finas y espacio. La bajada se recorta a 3 líneas; "Ampliar" despliega en el lugar la bajada completa, "Por qué importa" y "Antes en este hilo". Tema vacío: "Hoy, nada relevante." Si todos están vacíos: "Hoy no pasó nada que valga la pena contar." y los hilos.
 - **Hilos abiertos** al final, en 2 columnas, y el archivo plegado.
-- Responsive: ≤1100 px barra en dos renglones; ≤980 px una columna de 680 px; ≤600 px márgenes de 16 px y filtros con scroll horizontal. Modo oscuro automático.
+- Responsive: ≤1100 px barra en dos renglones; ≤980 px una columna de 680 px; ≤600 px márgenes de 16 px y filtros con scroll horizontal. Modo oscuro automático (`prefers-color-scheme`); el botón ☀/☾ al final de la barra fija un tema explícito, guardado en `localStorage` (`tema`) y aplicado con `data-theme` en `<html>` por un script en `<head>` (sin parpadeo).
 
 ## Glosario (fichas emergentes)
 
