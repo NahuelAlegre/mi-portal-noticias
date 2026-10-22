@@ -12,6 +12,7 @@ styles.css     Estilos (incluye modo oscuro automático)
 app.js         Genera el contenido a partir de los datos
 noticias.js    Los datos: las noticias del día
 hilos.js       Historial persistente de hilos (historias en el tiempo)
+glosario.js    Glosario persistente (fichas emergentes de personas, leyes, siglas…)
 docs/          Capturas de pantalla para este README
 ```
 
@@ -36,7 +37,8 @@ window.NOTICIAS = {
         { "titulo": "...", "resumen": "1-2 oraciones.",
           "porQueImporta": "Opcional: una oración sobre por qué importa o qué sigue.",
           "fuente": "Nombre del medio", "url": "https://...",
-          "hilo": "guerra-ucrania" }   // opcional: id del hilo al que pertenece
+          "hilo": "guerra-ucrania",    // opcional: id del hilo al que pertenece
+          "glosario": ["witkoff"] }    // opcional: hasta 4 ids de glosario.js
       ] }
   ],
 
@@ -71,7 +73,7 @@ window.HILOS = {
 };
 ```
 
-En la página, cada noticia con `hilo` muestra en su línea de metadatos `↳ Nombre del hilo · N`; al tocarlo (o "Ampliar") la nota se despliega y muestra "Antes en este hilo". Al final, **Hilos abiertos** lista cada hilo en una fila con su estado: "hoy · ver nota ↑" (hay nota hoy), "novedad hoy" (está en `seguimiento` sin nota) o "ayer"/"hace N días"; al abrir la fila se ve la línea de tiempo completa.
+En la página, cada noticia con `hilo` muestra en su línea de metadatos el ícono de historial con la cantidad de entradas (el nombre del hilo aparece al pasar el mouse); al tocarlo (o "Ampliar") la nota se despliega y muestra "Antes en este hilo". Al final, **Hilos abiertos** lista cada hilo en una fila con su estado: "hoy ↑" (hay nota hoy, enlace a la nota), "novedad hoy" (está en `seguimiento` sin nota) o "ayer"/"hace N días"; al abrir la fila se ve la línea de tiempo completa.
 
 **Archivo automático:** un hilo cuyo `actualizado` tiene más de 30 días respecto de `fecha` (en `noticias.js`) pasa solo al bloque plegado "Archivo · N hilos sin novedades hace más de 30 días" al final de Hilos abiertos. Se calcula con las fechas; no hay que tocar los datos. Si un hilo archivado recibe una entrada nueva, vuelve a estar activo. El contador del menú cuenta solo los hilos activos.
 
@@ -83,6 +85,7 @@ En la página, cada noticia con `hilo` muestra en su línea de metadatos `↳ No
 4. Agregá la entrada del día **al principio** de `entradas` y actualizá `actualizado`.
 5. En `noticias.js`, `seguimiento` lista solo los hilos que tuvieron novedad hoy **y** ya existían antes de hoy, con `novedad` = qué cambió desde la entrada anterior.
 6. Nunca borres entradas ni hilos.
+7. Glosario: revisá cada noticia con la regla editorial del glosario (abajo); reutilizá o creá entradas en `glosario.js` y agregá `glosario` a la noticia.
 
 ### Reglas editoriales
 
@@ -103,6 +106,31 @@ Página de diario, minimalista y densa: en escritorio el día entero entra en 1�
 - **Columnas por tema** (hasta 3), sin cajas: líneas finas y espacio. La bajada se recorta a 3 líneas; "Ampliar" despliega en el lugar la bajada completa, "Por qué importa" y "Antes en este hilo". Tema vacío: "Hoy, nada relevante." Si todos están vacíos: "Hoy no pasó nada que valga la pena contar." y los hilos.
 - **Hilos abiertos** al final, en 2 columnas, y el archivo plegado.
 - Responsive: ≤1100 px barra en dos renglones; ≤980 px una columna de 680 px; ≤600 px márgenes de 16 px y filtros con scroll horizontal. Modo oscuro automático.
+
+## Glosario (fichas emergentes)
+
+`glosario.js` se carga después de `hilos.js` y antes de `app.js`. Igual que los hilos, **es persistente: crece cada día y nunca se reinicia.**
+
+```js
+window.GLOSARIO = {
+  "witkoff": {
+    "nombre": "Steve Witkoff",      // nombre completo; es el que se muestra en la ficha
+    "tipo": "persona",              // persona | ley | organizacion | lugar | concepto
+    "texto": "Empresario inmobiliario y enviado especial de Donald Trump. Negocia en su nombre con Rusia y en Medio Oriente.",
+    "alias": ["Witkoff"],           // forma exacta en que aparece en la noticia
+    "actualizado": "2026-10-22"
+  }
+};
+```
+
+Cada noticia puede llevar `"glosario": ["witkoff", "ley-malvinas"]` (máx. 4). La página marca con subrayado punteado la primera aparición de cada término (busca el nombre y los alias, del más largo al más corto, sin distinguir mayúsculas, en título → resumen → porQueImporta). Al pasar el mouse o enfocar el término aparece una ficha con ícono del tipo, nombre, tipo y texto. Si el término no aparece en el texto, se lista al final de la parte ampliada.
+
+**Regla editorial del glosario** (en el procedimiento diario): ¿un lector argentino informado, pero que no sigue este tema, entendería todos los nombres y siglas? Lo que no entendería va al glosario.
+- **Sí van:** funcionarios, enviados, jueces y empresarios que no son figuras mundiales; proyectos de ley y leyes por su nombre coloquial; siglas y organismos (AmCham, CCL, C-24, SEC, S-1); grupos armados; lugares no obvios (Matignon, Ormuz); jerga financiera o técnica.
+- **No van:** figuras que conoce cualquiera (Milei, Trump, Putin, Lula, Zelensky, el papa, FMI, ONU, OTAN) ni cosas que la noticia ya explica.
+- `texto`: máx. 2 oraciones (~200 caracteres): quién/qué es y por qué aparece; solo hechos verificables, sin adjetivos ni valoraciones.
+- Reutilizá ids existentes (buscá por `nombre` y `alias`). Actualizá `texto` y `actualizado` cuando cambie lo esencial. Nunca borres entradas.
+- `alias` = forma exacta en que aparece en la noticia. Máx. 4 términos por noticia; si no hace falta, no agregues el campo.
 
 ## Ver en local
 

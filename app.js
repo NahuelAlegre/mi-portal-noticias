@@ -11,8 +11,62 @@
     var p = String(nombre).trim().split(/\s+/);
     return nombre.length > 14 && p.length > 1 ? p.map(function (w) { return w.charAt(0).toUpperCase(); }).join("") : nombre;
   };
+  var GLOSARIO = window.GLOSARIO || {};
+  var ICONOS = {
+    "flecha-diag": '<path d="M7 17 17 7"/><path d="M7 7h10v10"/>',
+    "flecha-arriba": '<path d="m5 12 7-7 7 7"/><path d="M12 19V5"/>',
+    "historial": '<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/>',
+    "chevron": '<path d="m6 9 6 6 6-6"/>',
+    "diana": '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/>',
+    "persona": '<circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 0 0-16 0"/>',
+    "ley": '<path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/>',
+    "organizacion": '<rect width="16" height="20" x="4" y="2" rx="2"/><path d="M9 22v-4h6v4"/><path d="M8 6h.01"/><path d="M16 6h.01"/><path d="M12 6h.01"/><path d="M12 10h.01"/><path d="M12 14h.01"/><path d="M16 10h.01"/><path d="M16 14h.01"/><path d="M8 10h.01"/><path d="M8 14h.01"/>',
+    "lugar": '<path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"/><circle cx="12" cy="10" r="3"/>',
+    "concepto": '<circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/>'
+  };
+  var ico = function (nombre, cls) {
+    return '<svg class="ico' + (cls ? " " + cls : "") + '" aria-hidden="true" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' + (ICONOS[nombre] || "") + "</svg>";
+  };
+  var TIPOS = { persona: "Persona", ley: "Ley / norma", organizacion: "Organización", lugar: "Lugar", concepto: "Concepto" };
+  var dominio = function (u) { var m = /^https?:\/\/([^\/?#:]+)/i.exec(u || ""); return m ? m[1].replace(/^www\./i, "") : ""; };
   var fuente = function (x) {
-    return x.fuente ? '<a class="fuente" href="' + esc(x.url || "#") + '" target="_blank" rel="noopener">' + esc(x.fuente) + ' <span aria-hidden="true">↗</span></a>' : "";
+    if (!x.fuente) return "";
+    var d = dominio(x.url);
+    return '<a class="fuente" href="' + esc(x.url || "#") + '" target="_blank" rel="noopener">' +
+      (d ? '<img class="fav" src="https://www.google.com/s2/favicons?domain=' + encodeURIComponent(d) + '&amp;sz=32" width="14" height="14" loading="lazy" alt="" onerror="this.remove()">' : "") +
+      esc(x.fuente) + ico("flecha-diag", "ico-11") + "</a>";
+  };
+
+  // Glosario: marca la primera aparición de cada término (título → resumen → porQueImporta)
+  var marcar = function (textos, ids) {
+    var rangos = textos.map(function () { return []; }), faltan = [];
+    ids.slice(0, 4).forEach(function (id) {
+      var g = GLOSARIO[id]; if (!g) return;
+      var terms = [g.nombre].concat(g.alias || []).filter(Boolean)
+        .sort(function (a, b) { return b.length - a.length; });
+      for (var ti = 0; ti < textos.length; ti++) {
+        var low = (textos[ti] || "").toLowerCase();
+        for (var k = 0; k < terms.length; k++) {
+          var q = terms[k].toLowerCase(), from = 0, i;
+          while ((i = low.indexOf(q, from)) >= 0) {
+            var fin = i + q.length;
+            var choca = rangos[ti].some(function (r) { return i < r[1] && fin > r[0]; });
+            if (!choca) { rangos[ti].push([i, fin, id]); return; }
+            from = i + 1;
+          }
+        }
+      }
+      faltan.push(id);
+    });
+    var html = textos.map(function (t, ti) {
+      t = t || ""; var rs = rangos[ti].sort(function (a, b) { return a[0] - b[0]; }), out = "", pos = 0;
+      rs.forEach(function (r) {
+        out += esc(t.slice(pos, r[0])) + '<span class="term" tabindex="0" data-g="' + esc(r[2]) + '">' + esc(t.slice(r[0], r[1])) + "</span>";
+        pos = r[1];
+      });
+      return out + esc(t.slice(pos));
+    });
+    return { html: html, faltan: faltan };
   };
 
   // Fecha y hora de actualización
@@ -75,15 +129,19 @@
     ns.forEach(function (x, ni) {
       var id = "nota-" + ti + "-" + ni, H = x.hilo && HILOS[x.hilo];
       var ents = H ? (H.entradas || []).filter(function (en) { return en.fecha !== hoy && en.url !== x.url; }) : [];
-      var extra = (x.porQueImporta ? '<div class="importa"><h4 class="rotulo">Por qué importa</h4><p>' + esc(x.porQueImporta) + "</p></div>" : "") +
-        (ents.length ? '<h4 class="rotulo">Antes en este hilo</h4>' + linea(ents) : "");
+      var mk = marcar([x.titulo, x.resumen, x.porQueImporta], x.glosario || []);
+      var extra = (x.porQueImporta ? '<div class="importa" title="Por qué importa">' + ico("diana") + "<p>" + mk.html[2] + "</p></div>" : "") +
+        (ents.length ? '<div class="antes" title="Antes en este hilo">' + linea(ents) + "</div>" : "") +
+        (mk.faltan.length ? '<p class="terminos">' + mk.faltan.map(function (g) {
+          return '<span class="term" tabindex="0" data-g="' + esc(g) + '">' + esc(GLOSARIO[g].nombre) + "</span>"; }).join(" · ") + "</p>" : "");
+      var nEnt = H ? (H.entradas || []).length : 0;
       html += '<article class="nota" id="' + id + '"' + (extra ? ' data-extra="1"' : "") + "><h3>" +
-        (numDe[id] ? '<span class="badge" aria-label="Esencial ' + numDe[id] + '">' + numDe[id] + "</span>" : "") + esc(x.titulo) + "</h3>" +
-        (x.resumen ? '<p class="bajada">' + esc(x.resumen) + "</p>" : "") +
+        (numDe[id] ? '<span class="badge" aria-label="Esencial ' + numDe[id] + '">' + numDe[id] + "</span>" : "") + mk.html[0] + "</h3>" +
+        (x.resumen ? '<p class="bajada">' + mk.html[1] + "</p>" : "") +
         '<div class="meta">' + fuente(x) +
-        (x.hilo ? (x.fuente ? '<span class="sep" aria-hidden="true">·</span>' : "") + '<button type="button" class="hilo-n" title="' + esc(H ? H.nombre : x.hilo) + '">↳ ' +
-          esc(H ? H.nombre : x.hilo) + (H ? " · " + (H.entradas || []).length : "") + "</button>" : "") +
-        '<button type="button" class="ampliar" aria-expanded="false" aria-controls="' + id + '-x">Ampliar ▾</button></div>' +
+        (x.hilo ? (function () { var lbl = (H ? H.nombre : x.hilo) + (H ? " · " + plural(nEnt, "entrada", "entradas") : "");
+          return '<button type="button" class="hilo-n" data-pop="' + esc(lbl) + '" aria-label="' + esc(lbl) + '">' + ico("historial") + (H ? "<span>" + nEnt + "</span>" : "") + "</button>"; })() : "") +
+        '<button type="button" class="ampliar" aria-expanded="false" aria-controls="' + id + '-x" aria-label="Ampliar" title="Ampliar">' + ico("chevron") + "</button></div>" +
         '<div class="extra" id="' + id + '-x" hidden>' + extra + "</div></article>";
     });
     html += "</section>";
@@ -101,7 +159,7 @@
   var fila = function (id) {
     var H = HILOS[id], ent = H.entradas || [], c = clase(H.tema), est, cuerpo = "";
     if (notaDeHilo[id]) {
-      est = '<span class="est"><a href="#' + notaDeHilo[id] + '" data-ir="' + notaDeHilo[id] + '">hoy · ver nota ↑</a></span>';
+      est = '<span class="est"><a href="#' + notaDeHilo[id] + '" data-ir="' + notaDeHilo[id] + '" title="Ver la nota de hoy">hoy' + ico("flecha-arriba", "ico-11") + '</a></span>';
       ent = ent.filter(function (e) { return e.fecha !== hoy; });
     } else if (seg[id]) {
       est = '<span class="est nov">novedad hoy</span>';
@@ -111,7 +169,8 @@
       est = '<span class="est">' + (d === null ? "" : d <= 0 ? "hoy" : d === 1 ? "ayer" : "hace " + d + " días") + "</span>";
     }
     return '<details class="hilo ' + c + '" id="hilo-' + esc(id) + '"><summary><span class="dot" aria-hidden="true"></span><span class="nom">' + esc(H.nombre || id) +
-      "</span>" + est + '<span class="n-ent">' + plural((H.entradas || []).length, "entrada", "entradas") + "</span></summary>" +
+      "</span>" + est + (function () { var t = plural((H.entradas || []).length, "entrada", "entradas");
+        return '<span class="n-ent" title="' + t + '" aria-label="' + t + '">' + ico("historial") + "<span>" + (H.entradas || []).length + "</span></span>"; })() + "</summary>" +
       '<div class="hilo-cuerpo">' + cuerpo + (ent.length ? linea(ent) : "") + "</div></details>";
   };
   if (ids.length) {
@@ -163,7 +222,8 @@
     var b = n.querySelector(".ampliar");
     b.hidden = false;
     b.setAttribute("aria-expanded", abrir ? "true" : "false");
-    b.textContent = abrir ? "Cerrar ▴" : "Ampliar ▾";
+    b.setAttribute("aria-label", abrir ? "Reducir" : "Ampliar");
+    b.setAttribute("title", abrir ? "Reducir" : "Ampliar");
     if (!abrir) revisar();
   };
   var ir = function (id) {
@@ -184,6 +244,34 @@
     if (b) { var n = b.closest(".nota"); toggle(n, b.classList.contains("hilo-n") ? true : null); }
   });
   document.addEventListener("animationend", function (ev) { ev.target.classList.remove("resaltada"); });
+
+  // Ficha emergente (glosario y [data-pop])
+  var pop = $("pop");
+  if (!pop) { pop = document.createElement("div"); pop.id = "pop"; pop.className = "pop"; pop.setAttribute("role", "tooltip"); pop.hidden = true; document.body.appendChild(pop); }
+  var actual = null;
+  var mostrar = function (el) {
+    var html;
+    if (el.hasAttribute("data-g")) {
+      var g = GLOSARIO[el.getAttribute("data-g")]; if (!g) return;
+      html = '<div class="pop-cab">' + ico(TIPOS[g.tipo] ? g.tipo : "concepto") + "<strong>" + esc(g.nombre) + "</strong><small>" + esc(TIPOS[g.tipo] || "") + "</small></div>" +
+        (g.texto ? "<p>" + esc(g.texto) + "</p>" : "");
+    } else html = "<p>" + esc(el.getAttribute("data-pop")) + "</p>";
+    var tema = el.closest(".t0,.t1,.t2,.t3,.t4"), tc = tema && /\bt\d\b/.exec(tema.className);
+    pop.className = "pop" + (tc ? " " + tc[0] : "");
+    pop.innerHTML = html; pop.hidden = false; actual = el;
+    var r = el.getBoundingClientRect(), w = pop.offsetWidth, h = pop.offsetHeight, M = 12;
+    var top = r.bottom + 8;
+    if (top + h > innerHeight - M) top = Math.max(M, r.top - 8 - h);
+    var left = Math.min(Math.max(M, r.left), document.documentElement.clientWidth - M - w);
+    pop.style.top = top + "px"; pop.style.left = Math.max(M, left) + "px";
+  };
+  var ocultar = function () { pop.hidden = true; actual = null; };
+  var objetivo = function (t) { return t && t.closest ? t.closest(".term,[data-pop]") : null; };
+  document.addEventListener("mouseover", function (ev) { var el = objetivo(ev.target); if (el && el !== actual) mostrar(el); });
+  document.addEventListener("mouseout", function (ev) { var el = objetivo(ev.target); if (el && !el.contains(ev.relatedTarget)) ocultar(); });
+  document.addEventListener("focusin", function (ev) { var el = objetivo(ev.target); if (el) mostrar(el); });
+  document.addEventListener("focusout", function (ev) { if (objetivo(ev.target)) ocultar(); });
+  window.addEventListener("scroll", function () { if (!pop.hidden) ocultar(); }, { passive: true });
 
   var guardado = "todo";
   try { guardado = localStorage.getItem("filtro") || "todo"; } catch (err) {}

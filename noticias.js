@@ -21,6 +21,7 @@ window.NOTICIAS = {
           "porQueImporta": "Es el primer roce visible con el gobierno de Trump y define si el oficialismo consigue los votos para su proyecto de soberanía.",
           "fuente": "Infobae",
           "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/",
+          "glosario": ["ley-malvinas", "amcham", "comite-descolonizacion"],
           "hilo": "ley-malvinas"
         },
         {
@@ -36,7 +37,8 @@ window.NOTICIAS = {
           "resumen": "Los bonos argentinos vienen cayendo y el riesgo país llegó a 710 puntos antes de bajar a 674. El dólar oficial sigue quieto en $1.545 y el BCRA compra divisas, pero el contado con liquidación ya está casi 6% arriba.",
           "porQueImporta": "Refleja la desconfianza del mercado a un año de las presidenciales, con una actividad económica que casi no rebota.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/"
+          "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/",
+          "glosario": ["ccl"]
         }
       ]
     },
@@ -49,6 +51,7 @@ window.NOTICIAS = {
           "porQueImporta": "Es la primera reapertura concreta de negociaciones directas desde febrero, aunque Rusia no cedió nada sobre territorio ni alto el fuego.",
           "fuente": "Axios",
           "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
+          "glosario": ["witkoff"],
           "hilo": "guerra-ucrania"
         },
         {
@@ -57,6 +60,7 @@ window.NOTICIAS = {
           "porQueImporta": "La escalada entre los hutíes y Riad amenaza las exportaciones de petróleo en un momento en que Ormuz ya está prácticamente cerrado.",
           "fuente": "BBC",
           "url": "https://www.bbc.com/news/articles/c6x2vpk93770o",
+          "glosario": ["hutis", "ormuz"],
           "hilo": "hutis-arabia-saudita"
         },
         {
@@ -65,6 +69,7 @@ window.NOTICIAS = {
           "porQueImporta": "El conflicto pasa de las calles a una huelga general, lo que aumenta la presión sobre un gobierno débil.",
           "fuente": "Euronews",
           "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action",
+          "glosario": ["matignon", "lecornu"],
           "hilo": "protestas-francia"
         },
         {
@@ -73,6 +78,7 @@ window.NOTICIAS = {
           "porQueImporta": "El resultado del domingo define la relación con el principal socio de la Argentina, ya tensa por los dichos de Milei.",
           "fuente": "EFE",
           "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/",
+          "glosario": ["flavio-bolsonaro"],
           "hilo": "milei-lula-balotaje-brasil"
         }
       ]
@@ -93,7 +99,8 @@ window.NOTICIAS = {
           "resumen": "OpenAI y Google Cloud anunciaron que los modelos de frontera de OpenAI y Codex estarán disponibles en el Model Garden de Google, y pronto en Gemini Agent. Microsoft sigue siendo su socio principal en la nube.",
           "porQueImporta": "Dos rivales directos se alían: OpenAI busca más clientes empresariales y Google se posiciona como plataforma neutral de modelos.",
           "fuente": "OpenAI (blog)",
-          "url": "https://openai.com/index/openai-models-google-cloud"
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "glosario": ["model-garden"]
         },
         {
           "titulo": "Anthropic presentaría su prospecto de salida a bolsa el viernes",
@@ -101,6 +108,7 @@ window.NOTICIAS = {
           "porQueImporta": "Sería la mayor salida a bolsa de la historia y un termómetro del apetito inversor por la IA.",
           "fuente": "Yahoo Finance",
           "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html",
+          "glosario": ["s-1"],
           "hilo": "ipo-anthropic"
         },
         {
