@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-23",
     "entradas": [
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
+        "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
@@ -33,8 +40,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-23",
     "entradas": [
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Rusia atacó Kiev con misiles con ojivas de racimo horas después de aceptar retomar las charlas",
+        "resumen": "Rusia lanzó 21 misiles balísticos contra Kiev en tres oleadas, tres de ellos con ojivas de racimo; uno cayó en el distrito histórico de Pechersk. Hubo al menos dos muertos y 34 heridos, cinco de ellos niños, horas después de que Putin aceptara reanudar las negociaciones con Witkoff.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
@@ -150,8 +164,15 @@ window.HILOS = {
     "nombre": "Protestas y disturbios en Francia",
     "tema": "Mundo",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-23",
     "entradas": [
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Francia: Macron solo autoriza las marchas sindicales del sábado 24",
+        "resumen": "Tras un consejo de seguridad, Macron recomendó que no haya manifestaciones en los próximos días y anunció que solo se permitirán las convocadas por sindicatos, con recorridos alternativos. El despliegue policial será 20% mayor que el del 17 de octubre; ya hubo 217 condenados a prisión por los disturbios.",
+        "fuente": "franceinfo",
+        "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
@@ -217,6 +238,21 @@ window.HILOS = {
         "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
+      }
+    ]
+  },
+  "juicio-hotesur-los-sauces": {
+    "nombre": "Juicio Hotesur-Los Sauces a Cristina y Máximo Kirchner",
+    "tema": "Argentina",
+    "creado": "2026-10-23",
+    "actualizado": "2026-10-23",
+    "entradas": [
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Comenzó el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+        "resumen": "El Tribunal Oral Federal 5 abrió hoy en Comodoro Py el juicio unificado por asociación ilícita y lavado de activos a través de empresas hoteleras e inmobiliarias de la familia Kirchner, con 19 imputados. Es la primera vez que Máximo Kirchner se sienta en el banquillo; la primera audiencia admite conexión virtual.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/"
       }
     ]
   }

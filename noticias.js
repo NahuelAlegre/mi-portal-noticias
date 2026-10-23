@@ -1,44 +1,66 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-22",
-  "actualizado": "2026-10-22T07:06:00-03:00",
+  "fecha": "2026-10-23",
+  "actualizado": "2026-10-23T07:48:11-03:00",
   "ejemplo": false,
+  "esencial": [
+    {
+      "titulo": "Irán dice haber atacado siete buques en el Golfo y Trump da por terminadas las negociaciones",
+      "resumen": "Irán dice haber atacado siete buques en el Golfo y advierte a EE.UU.; Trump afirma que ya no negocia con Teherán.",
+      "tema": "Mundo",
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+    },
+    {
+      "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
+      "resumen": "EE.UU. admitió su preocupación por la ley y el oficialismo ya no ve viable votarla el 28; prioriza el Presupuesto.",
+      "tema": "Argentina",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
+    },
+    {
+      "titulo": "Comenzó el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+      "resumen": "El TOF 5 abrió el juicio por lavado contra Cristina y Máximo Kirchner, con 19 imputados.",
+      "tema": "Argentina",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/"
+    }
+  ],
   "temas": [
     {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
-          "resumen": "Tras 15 horas de sesión, la Cámara dio media sanción a una nueva ley de Discapacidad por 237 votos, con el Gobierno cediendo en pensiones y aranceles, y aprobó la ley de Propiedad Privada que repone los límites a la compra de tierras por extranjeros (vuelve al Senado). El oficialismo, sin votos propios, mandó a comisión el debate sobre deudas familiares.",
-          "porQueImporta": "Muestra que el Gobierno solo logra aprobar leyes cediendo ante la oposición y los aliados, y que los diputados cordobeses son decisivos.",
-          "fuente": "Perfil",
-          "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml",
-          "hilo": "megasesion-diputados"
-        },
-        {
-          "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
-          "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
-          "porQueImporta": "Es el primer roce visible con el gobierno de Trump y define si el oficialismo consigue los votos para su proyecto de soberanía.",
+          "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
+          "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
+          "porQueImporta": "Clarín va más allá: tras cuatro plenarios sin dictamen, el oficialismo no descarta congelar el proyecto, mientras el kirchnerismo pide que Quirno dé explicaciones en el Congreso.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/",
-          "glosario": ["ley-malvinas", "amcham", "comite-descolonizacion"],
-          "hilo": "ley-malvinas"
+          "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/",
+          "hilo": "ley-malvinas",
+          "glosario": [
+            "ley-malvinas",
+            "landau"
+          ]
         },
         {
-          "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
-          "resumen": "El parte médico del Vaticano indicó que el papa no necesitará más tratamiento tras la operación de un tumor de pulmón localizado. Su gira por Uruguay, Argentina y Perú está prevista desde el 6 de noviembre y los preparativos siguen sin cambios.",
-          "porQueImporta": "Sería la primera visita papal al país en casi cuatro décadas y condiciona la agenda política: el Presupuesto, por ejemplo, se votaría después.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/mundo/gira-papa-leon-xiv-iglesia-argentina-dan-practicamente-confirmada-visita-pais-parte-medico-miercoles_0_iyhAHybjyy.html",
-          "hilo": "visita-papa-leon"
-        },
-        {
-          "titulo": "El riesgo país tocó 710 puntos y empieza a ampliarse la brecha cambiaria",
-          "resumen": "Los bonos argentinos vienen cayendo y el riesgo país llegó a 710 puntos antes de bajar a 674. El dólar oficial sigue quieto en $1.545 y el BCRA compra divisas, pero el contado con liquidación ya está casi 6% arriba.",
-          "porQueImporta": "Refleja la desconfianza del mercado a un año de las presidenciales, con una actividad económica que casi no rebota.",
+          "titulo": "Comenzó el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+          "resumen": "El Tribunal Oral Federal 5 abrió hoy en Comodoro Py el juicio unificado por asociación ilícita y lavado de activos a través de empresas hoteleras e inmobiliarias de la familia Kirchner, con 19 imputados. Es la primera vez que Máximo Kirchner se sienta en el banquillo; la primera audiencia admite conexión virtual.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/",
-          "glosario": ["ccl"]
+          "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/",
+          "hilo": "juicio-hotesur-los-sauces",
+          "glosario": [
+            "hotesur-los-sauces",
+            "tof-5"
+          ]
+        },
+        {
+          "titulo": "El dólar oficial tocó un récord de $1.550 y el riesgo país volvió a superar los 700 puntos",
+          "resumen": "El jueves el riesgo país cerró en 704 puntos (+4,5%) y el dólar oficial se vendió a $1.550 en el Banco Nación, un máximo nominal; el contado con liquidación terminó en $1.631. Bonos y acciones cayeron por aversión al riesgo y datos de actividad débiles.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/economia/2026/10/22/el-riesgo-pais-vuelve-a-superar-los-700-puntos-y-el-dolar-oficial-se-vende-a-1550-un-nuevo-maximo/",
+          "glosario": [
+            "ccl"
+          ]
         }
       ]
     },
@@ -46,40 +68,38 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
-          "resumen": "Tras tres horas con Witkoff en San Petersburgo, el Kremlin dijo que está dispuesto \"en principio\" a reanudar las charlas técnicas entre Rusia, EE.UU. y Ucrania, posiblemente en Abu Dabi, aunque calificó de poco útiles las propuestas de Oslo. Zelensky respaldó el formato.",
-          "porQueImporta": "Es la primera reapertura concreta de negociaciones directas desde febrero, aunque Rusia no cedió nada sobre territorio ni alto el fuego.",
-          "fuente": "Axios",
-          "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace",
-          "glosario": ["witkoff"],
-          "hilo": "guerra-ucrania"
+          "titulo": "Irán dice haber atacado siete buques en el Golfo y Trump da por terminadas las negociaciones",
+          "resumen": "La armada de la Guardia Revolucionaria afirmó que atacó cuatro buques que trasvasaban petróleo en el norte del Golfo y que otros tres chocaron con minas al oeste de Ormuz, y advirtió que las bases de EE.UU. podrían ser el próximo blanco. Trump dijo que ya no negocia con Teherán y que algo pasará \"bastante pronto\".",
+          "porQueImporta": "El Brent llegó a su máximo en cinco meses; la escalada coincide con las elecciones en Israel (27 de octubre) y las legislativas de EE.UU. (3 de noviembre).",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response",
+          "glosario": [
+            "guardia-revolucionaria",
+            "ormuz"
+          ]
         },
         {
-          "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
-          "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
-          "porQueImporta": "La escalada entre los hutíes y Riad amenaza las exportaciones de petróleo en un momento en que Ormuz ya está prácticamente cerrado.",
-          "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6x2vpk93770o",
-          "glosario": ["hutis", "ormuz"],
-          "hilo": "hutis-arabia-saudita"
+          "titulo": "Rusia atacó Kiev con misiles con ojivas de racimo horas después de aceptar retomar las charlas",
+          "resumen": "Rusia lanzó 21 misiles balísticos contra Kiev en tres oleadas, tres de ellos con ojivas de racimo; uno cayó en el distrito histórico de Pechersk. Hubo al menos dos muertos y 34 heridos, cinco de ellos niños, horas después de que Putin aceptara reanudar las negociaciones con Witkoff.",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+          "hilo": "guerra-ucrania",
+          "glosario": [
+            "witkoff"
+          ]
         },
         {
-          "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
-          "resumen": "El primer ministro Lecornu no anunció medidas concretas en su reunión con los sindicatos, que llamaron a una gran movilización el 5 de noviembre. Siguen los toques de queda en París y Lyon, y ya hay unas 2.500 detenciones por los disturbios.",
-          "porQueImporta": "El conflicto pasa de las calles a una huelga general, lo que aumenta la presión sobre un gobierno débil.",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action",
-          "glosario": ["matignon", "lecornu"],
+          "titulo": "Francia: Macron solo autoriza las marchas sindicales del sábado 24",
+          "resumen": "Tras un consejo de seguridad, Macron recomendó que no haya manifestaciones en los próximos días y anunció que solo se permitirán las convocadas por sindicatos, con recorridos alternativos. El despliegue policial será 20% mayor que el del 17 de octubre; ya hubo 217 condenados a prisión por los disturbios.",
+          "fuente": "franceinfo",
+          "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html",
           "hilo": "protestas-francia"
         },
         {
-          "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
-          "resumen": "A cuatro días del balotaje, el equipo de Lula denunció ante la Justicia Electoral una supuesta \"manipulación algorítmica\" de Meta y X a favor de Bolsonaro; Meta lo niega. Las encuestas muestran un empate técnico.",
-          "porQueImporta": "El resultado del domingo define la relación con el principal socio de la Argentina, ya tensa por los dichos de Milei.",
-          "fuente": "EFE",
-          "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/",
-          "glosario": ["flavio-bolsonaro"],
-          "hilo": "milei-lula-balotaje-brasil"
+          "titulo": "Un sismo de magnitud 7 dejó al menos 16 muertos en el Tíbet",
+          "resumen": "El terremoto sacudió el condado de Baqen, en la ciudad de Nagqu, el jueves por la noche y dejó además 54 heridos, según Xinhua. China elevó su nivel de respuesta de emergencia y Xi Jinping ordenó un rescate a gran escala.",
+          "fuente": "Anadolu",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-23-2026/4097994"
         }
       ]
     },
@@ -87,105 +107,35 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
-          "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
-          "porQueImporta": "Es la falla más grave descubierta hasta ahora por IA y muestra que estas herramientas ya cambian la ciberseguridad, para defensores y atacantes.",
+          "titulo": "Investigadores de Google DeepMind renuncian por los contratos de IA militar con el Pentágono",
+          "resumen": "La ingeniera Sofia Liguori renunció esta semana y el investigador Andreas Kirsch ya se había ido en octubre; dijeron a la BBC que Google no tiene suficiente control sobre cómo el Pentágono usa su IA. Google responde que sus contratos públicos se revisan según sus principios de IA.",
           "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o",
-          "hilo": "php-vulnerabilidades-ia"
-        },
-        {
-          "titulo": "Los modelos de OpenAI llegan a Google Cloud",
-          "resumen": "OpenAI y Google Cloud anunciaron que los modelos de frontera de OpenAI y Codex estarán disponibles en el Model Garden de Google, y pronto en Gemini Agent. Microsoft sigue siendo su socio principal en la nube.",
-          "porQueImporta": "Dos rivales directos se alían: OpenAI busca más clientes empresariales y Google se posiciona como plataforma neutral de modelos.",
-          "fuente": "OpenAI (blog)",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "glosario": ["model-garden"]
-        },
-        {
-          "titulo": "Anthropic presentaría su prospecto de salida a bolsa el viernes",
-          "resumen": "Según fuentes de Yahoo Finance, Anthropic publicaría su formulario S-1 ante la SEC desde este viernes, paso clave para salir a cotizar en noviembre. Se estima que podría recaudar hasta USD 100.000 millones.",
-          "porQueImporta": "Sería la mayor salida a bolsa de la historia y un termómetro del apetito inversor por la IA.",
-          "fuente": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html",
-          "glosario": ["s-1"],
-          "hilo": "ipo-anthropic"
-        },
-        {
-          "titulo": "Meta presenta Muse, su primer modelo de frontera, y crea acciones sin voto para financiar la IA",
-          "resumen": "Meta facturó USD 64.600 millones en el tercer trimestre (+26%), destacó el lanzamiento de Muse y Muse Wonder y prevé invertir entre USD 135.000 y 145.000 millones este año. También creará una clase de acciones sin voto para captar capital.",
-          "porQueImporta": "Confirma la carrera de inversión en IA de las grandes tecnológicas, al punto de cambiar su estructura de capital para sostenerla.",
-          "fuente": "Meta (comunicado)",
-          "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+          "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+          "glosario": [
+            "deepmind"
+          ]
         }
       ]
     }
   ],
-  "esencial": [
-    {
-      "titulo": "Putin acepta retomar las negociaciones de paz a tres bandas desde el 10 de noviembre",
-      "resumen": "El Kremlin aceptó reanudar las charlas técnicas Rusia-EE.UU.-Ucrania alrededor del 10 de noviembre, aunque desestimó las propuestas de Oslo.",
-      "tema": "Mundo",
-      "fuente": "Axios",
-      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
-    },
-    {
-      "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
-      "resumen": "Media sanción para la nueva ley de Discapacidad y para la que repone la Ley de Tierras; el oficialismo frenó el debate sobre deudas familiares.",
-      "tema": "Argentina",
-      "fuente": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
-    },
-    {
-      "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
-      "resumen": "Dos vulnerabilidades halladas con ayuda de IA afectan a gran parte de la web; gobiernos y empresas desconectan sitios mientras aplican el parche.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "BBC",
-      "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
-    }
-  ],
   "seguimiento": [
     {
-      "hilo": "guerra-ucrania",
-      "novedad": "Después de la reunión, el Kremlin dijo que acepta en principio retomar las negociaciones técnicas a tres bandas cerca del 10 de noviembre, posiblemente en Abu Dabi, aunque consideró poco útiles las propuestas de Oslo.",
-      "fuente": "Axios",
-      "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
-    },
-    {
-      "hilo": "hutis-arabia-saudita",
-      "novedad": "La escalada se agravó: tres muertos en ataques al aeropuerto de Dammam y cerca del yacimiento de Shaybah, y EE.UU. ordenó la salida de su personal diplomático no esencial.",
-      "fuente": "BBC",
-      "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
-    },
-    {
-      "hilo": "megasesion-diputados",
-      "novedad": "La sesión terminó de madrugada: se aprobaron Discapacidad (237 votos) y Propiedad Privada con la Ley de Tierras repuesta, mientras que el endeudamiento familiar volvió a comisión por 121 a 117.",
-      "fuente": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
-    },
-    {
       "hilo": "ley-malvinas",
-      "novedad": "El Gobierno aceptó modificar el artículo 111 y acotar el rol militar para sumar a los aliados, con fecha tentativa de sesión el 28 de octubre, en medio del contrapunto con EE.UU. por el Comité de Descolonización de la ONU.",
+      "novedad": "La sesión del 28 de octubre quedó prácticamente descartada; EE.UU., vía Landau, admitió preocupación por sus empresas pero dijo respetar el proceso legislativo.",
       "fuente": "Infobae",
-      "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
+      "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
+    },
+    {
+      "hilo": "guerra-ucrania",
+      "novedad": "Horas después de aceptar retomar las charlas, Rusia atacó Kiev con 21 misiles balísticos, tres con ojivas de racimo.",
+      "fuente": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
     },
     {
       "hilo": "protestas-francia",
-      "novedad": "Los sindicatos salieron sin respuestas de la reunión con Lecornu y convocaron a huelga el 5 de noviembre; se renovaron los toques de queda en París y Lyon.",
-      "fuente": "Euronews",
-      "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
-    },
-    {
-      "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "En la recta final del balotaje, la campaña de Lula pidió anular la candidatura de Flávio Bolsonaro por presunta manipulación de Meta y X; las encuestas siguen en empate técnico.",
-      "fuente": "EFE",
-      "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/"
-    },
-    {
-      "hilo": "ipo-anthropic",
-      "novedad": "Tras la filtración del borrador, Anthropic haría público su prospecto S-1 desde este viernes, con la mira en cotizar en noviembre.",
-      "fuente": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html"
+      "novedad": "Macron restringió las manifestaciones del sábado 24 a las convocadas por sindicatos; 217 condenados a prisión por los disturbios.",
+      "fuente": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html"
     }
   ]
 };
