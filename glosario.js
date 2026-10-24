@@ -164,5 +164,71 @@ window.GLOSARIO = {
       "DeepMind"
     ],
     "actualizado": "2026-10-23"
+  },
+  "libra": {
+    "nombre": "$LIBRA",
+    "tipo": "concepto",
+    "texto": "Criptomoneda que Milei difundió en X el 14 de febrero de 2025; su precio subió y se desplomó en horas. La causa judicial investigaba una posible estafa a inversores.",
+    "alias": [
+      "$LIBRA"
+    ],
+    "actualizado": "2026-10-24"
+  },
+  "martinez-de-giorgi": {
+    "nombre": "Marcelo Martínez de Giorgi",
+    "tipo": "persona",
+    "texto": "Juez a cargo del Juzgado Criminal y Correccional Federal N.º 8, en Comodoro Py. Sobreseyó a Javier y Karina Milei en la causa $LIBRA.",
+    "alias": [
+      "Martínez de Giorgi"
+    ],
+    "actualizado": "2026-10-24"
+  },
+  "taiano": {
+    "nombre": "Eduardo Taiano",
+    "tipo": "persona",
+    "texto": "Fiscal federal de Comodoro Py a cargo de la investigación por $LIBRA. Pidió el sobreseimiento de los hermanos Milei y del resto de los investigados.",
+    "alias": [
+      "Taiano"
+    ],
+    "actualizado": "2026-10-24"
+  },
+  "hayden-davis": {
+    "nombre": "Hayden Mark Davis",
+    "tipo": "persona",
+    "texto": "Empresario estadounidense que aportó la infraestructura tecnológica para crear $LIBRA. Fue uno de los once sobreseídos en la causa.",
+    "alias": [
+      "Hayden Davis"
+    ],
+    "actualizado": "2026-10-24"
+  },
+  "barrack": {
+    "nombre": "Tom Barrack",
+    "tipo": "persona",
+    "texto": "Inversor inmobiliario estadounidense y embajador de EE.UU. en Turquía. Dijo que un ataque contra Irán podría llegar este fin de semana.",
+    "alias": [
+      "Tom Barrack",
+      "Barrack"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg/330px-United_States_Ambassador_to_Turkey_Thomas_Joseph_Barrack_Jr.jpg",
+    "actualizado": "2026-10-24"
+  },
+  "oleshky": {
+    "nombre": "Oleshky",
+    "tipo": "lugar",
+    "texto": "Ciudad del óblast de Jersón, en el sur de Ucrania, sobre la orilla izquierda del Dniéper. Está ocupada por Rusia desde febrero de 2022.",
+    "alias": [
+      "Oleshky"
+    ],
+    "actualizado": "2026-10-24"
+  },
+  "suleyman": {
+    "nombre": "Mustafa Suleyman",
+    "tipo": "persona",
+    "texto": "Investigador y empresario británico, director ejecutivo de Microsoft AI. Fue cofundador de DeepMind.",
+    "alias": [
+      "Mustafa Suleyman"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mustafa_Suleyman_photo.jpg/330px-Mustafa_Suleyman_photo.jpg",
+    "actualizado": "2026-10-24"
   }
 };

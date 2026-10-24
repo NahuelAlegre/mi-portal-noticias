@@ -40,8 +40,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-23",
+    "actualizado": "2026-10-24",
     "entradas": [
+      {
+        "fecha": "2026-10-24",
+        "titulo": "Rusia y Ucrania confirman negociaciones en Abu Dabi y pactan un alto el fuego local en Oleshky",
+        "resumen": "El Kremlin y Zelensky confirmaron conversaciones a tres bandas con EE.UU. en la primera quincena de noviembre en Abu Dabi. La Casa Blanca anunció un alto el fuego localizado en Oleshky, ocupada por Rusia, mediado por Melania Trump, y ambos países canjearon 270 prisioneros cada uno.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+      },
       {
         "fecha": "2026-10-23",
         "titulo": "Rusia atacó Kiev con misiles con ojivas de racimo horas después de aceptar retomar las charlas",
@@ -253,6 +260,28 @@ window.HILOS = {
         "resumen": "El Tribunal Oral Federal 5 abrió hoy en Comodoro Py el juicio unificado por asociación ilícita y lavado de activos a través de empresas hoteleras e inmobiliarias de la familia Kirchner, con 19 imputados. Es la primera vez que Máximo Kirchner se sienta en el banquillo; la primera audiencia admite conexión virtual.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/"
+      }
+    ]
+  },
+  "guerra-iran": {
+    "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
+    "tema": "Mundo",
+    "creado": "2026-10-24",
+    "actualizado": "2026-10-24",
+    "entradas": [
+      {
+        "fecha": "2026-10-24",
+        "titulo": "Un enviado de EE.UU. no descarta atacar Irán este fin de semana; ocho países piden no reanudar la guerra",
+        "resumen": "El embajador en Turquía, Tom Barrack, dijo que un ataque podría llegar este fin de semana; Trump se desmarcó pero habló de \"otra pequeña Epic Fury\". En Estambul, cancilleres de Turquía, Arabia Saudita, Egipto, Pakistán, Francia, Alemania, Italia y Reino Unido pidieron no volver a atacar.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel"
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Irán dice haber atacado siete buques en el Golfo y Trump da por terminadas las negociaciones",
+        "resumen": "La armada de la Guardia Revolucionaria afirmó que atacó cuatro buques que trasvasaban petróleo en el norte del Golfo y que otros tres chocaron con minas al oeste de Ormuz. Trump dijo que ya no negocia con Teherán.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
       }
     ]
   }
