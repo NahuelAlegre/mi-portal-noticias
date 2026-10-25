@@ -230,5 +230,70 @@ window.GLOSARIO = {
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mustafa_Suleyman_photo.jpg/330px-Mustafa_Suleyman_photo.jpg",
     "actualizado": "2026-10-24"
+  },
+  "sea-lion": {
+    "nombre": "Sea Lion",
+    "tipo": "concepto",
+    "texto": "Proyecto de explotación petrolera offshore al norte de las Islas Malvinas, operado por la británica Rockhopper y la israelí Navitas. La Ley de Malvinas prevé sanciones para empresas vinculadas.",
+    "alias": [
+      "Sea Lion"
+    ],
+    "actualizado": "2026-10-25"
+  },
+  "cin": {
+    "nombre": "Consejo Interuniversitario Nacional",
+    "tipo": "organizacion",
+    "texto": "Organismo que reúne a los rectores de las universidades públicas argentinas. Reclama $11 billones para el sistema universitario en el Presupuesto 2027.",
+    "alias": [
+      "CIN"
+    ],
+    "actualizado": "2026-10-25"
+  },
+  "clayton": {
+    "nombre": "Jay Clayton",
+    "tipo": "persona",
+    "texto": "Director de Inteligencia Nacional de EE.UU. desde agosto de 2026 y zar de IA de la Casa Blanca. Antes fue fiscal federal en Manhattan y presidente de la SEC.",
+    "alias": [
+      "Jay Clayton"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Official_portrait_of_Jay_Clayton_%282026%29.jpg/330px-Official_portrait_of_Jay_Clayton_%282026%29.jpg",
+    "actualizado": "2026-10-25"
+  },
+  "aden": {
+    "nombre": "Adén",
+    "tipo": "lugar",
+    "texto": "Ciudad portuaria del sur de Yemen, sede del gobierno reconocido internacionalmente y respaldado por Arabia Saudita, enfrentado a los hutíes.",
+    "alias": [
+      "Adén"
+    ],
+    "actualizado": "2026-10-25"
+  },
+  "cgt": {
+    "nombre": "CGT (Francia)",
+    "tipo": "organizacion",
+    "texto": "Confédération générale du travail, uno de los principales sindicatos de Francia. Convoca a las marchas contra la carestía.",
+    "alias": [
+      "CGT"
+    ],
+    "actualizado": "2026-10-25"
+  },
+  "nunez": {
+    "nombre": "Laurent Nuñez",
+    "tipo": "persona",
+    "texto": "Ministro del Interior de Francia desde octubre de 2025 en el gobierno de Sébastien Lecornu; antes fue prefecto de policía de París.",
+    "alias": [
+      "Laurent Nuñez"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nunez_Beauvau_%28cropped%29.jpg/330px-Nunez_Beauvau_%28cropped%29.jpg",
+    "actualizado": "2026-10-25"
+  },
+  "dns": {
+    "nombre": "DNS",
+    "tipo": "concepto",
+    "texto": "Sistema de nombres de dominio: traduce direcciones web en direcciones IP. Un servidor DNS mal configurado puede abrir una salida a internet desde una red aislada.",
+    "alias": [
+      "DNS"
+    ],
+    "actualizado": "2026-10-25"
   }
 };

@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-23",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
+        "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
+      },
       {
         "fecha": "2026-10-23",
         "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
@@ -83,8 +90,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
+        "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
@@ -134,8 +148,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
+        "resumen": "Unos 158,7 millones de electores eligen presidente entre las 8 y las 17 de Brasilia. En la primera vuelta Flávio Bolsonaro sacó 47,03% contra 45,16% de Lula, y las últimas encuestas marcan empate técnico con Flávio apenas arriba.",
+        "fuente": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
@@ -156,8 +177,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-21",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Presupuesto 2027: el Gobierno ahora busca un acuerdo con las universidades",
+        "resumen": "Según TN, Casa Rosada evalúa subir las partidas a un monto intermedio entre los $7,7 billones del proyecto y los $11 billones que pide el CIN, o aliviar contribuciones patronales. Un día antes, Letra P citaba al bloque oficialista: \"La partida de Universidades no se toca\".",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/24/tras-las-tensiones-por-la-ley-de-discapacidad-el-gobierno-busca-un-acuerdo-con-las-universidades-para-el-presupuesto-2027/"
+      },
       {
         "fecha": "2026-10-21",
         "titulo": "Presupuesto 2027: tensión en Diputados por los fondos universitarios",
@@ -171,8 +199,15 @@ window.HILOS = {
     "nombre": "Protestas y disturbios en Francia",
     "tema": "Mundo",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-23",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Francia: baja la convocatoria contra la carestía pero hay casi 1.000 detenidos",
+        "resumen": "El sábado marcharon 410.000 personas según el Ministerio del Interior y 800.000 según la CGT, contra 550.000 oficiales del 17 de octubre. Hubo cerca de 1.000 detenidos (385 la vez anterior), al menos dos heridos graves e incidentes en París, Lyon y Marsella.",
+        "fuente": "franceinfo",
+        "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html"
+      },
       {
         "fecha": "2026-10-23",
         "titulo": "Francia: Macron solo autoriza las marchas sindicales del sábado 24",
@@ -267,8 +302,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-24",
+    "actualizado": "2026-10-25",
     "entradas": [
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Irán dice que no dejará entrar buques de guerra de EE.UU. al Golfo; Washington alerta por complots contra estadounidenses",
+        "resumen": "El jefe de las Fuerzas Armadas iraníes advirtió que no permitirá buques de guerra de EE.UU. en el Golfo, y la Guardia Revolucionaria afirmó que dos superpetroleros chocaron con minas en Ormuz (no verificado). Un memo del director de Inteligencia Jay Clayton dice que hay planes iraníes \"avanzados\" contra estadounidenses.",
+        "fuente": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+      },
       {
         "fecha": "2026-10-24",
         "titulo": "Un enviado de EE.UU. no descarta atacar Irán este fin de semana; ocho países piden no reanudar la guerra",
