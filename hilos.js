@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-10-26",
     "entradas": [
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
+        "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
@@ -47,8 +54,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-24",
+    "actualizado": "2026-10-26",
     "entradas": [
+      {
+        "fecha": "2026-10-26",
+        "titulo": "El Kremlin dice que retomará el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre",
+        "resumen": "Yuri Ushakov, asesor de Putin, dijo que la primera reunión sería una \"prueba\", que Europa debe sumarse y que se prepara un posible encuentro Putin–Xi–Trump en la cumbre APEC de China del 18 y 19 de noviembre.",
+        "fuente": "Kyiv Independent",
+        "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
+      },
       {
         "fecha": "2026-10-24",
         "titulo": "Rusia y Ucrania confirman negociaciones en Abu Dabi y pactan un alto el fuego local en Oleshky",
@@ -90,8 +104,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-10-26",
     "entradas": [
+      {
+        "fecha": "2026-10-26",
+        "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
+        "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
@@ -148,8 +169,22 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-10-26",
     "entradas": [
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
+        "resumen": "Con el 100% escrutado, Lula logró 64,2 millones de votos (51,79%) contra 48,21% de Flávio, y será el primer presidente elegido cuatro veces. Flávio dijo que es \"imposible reconocer\" la derrota y pedirá anular la elección por la prórroga horaria que autorizó Zanin.",
+        "fuente": "O Globo",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Silencio oficial ante la reelección de Lula: Milei, que había denunciado fraude, reúne hoy al Gabinete",
+        "resumen": "Ni Milei ni la Cancillería felicitaron a Lula; el Presidente había reposteado acusaciones de fraude por la prórroga de dos horas del voto. Infobae relata inquietud oficial por el impacto en 2027; Página/12 lo leyó como una derrota también de Milei y Trump.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
@@ -324,6 +359,21 @@ window.HILOS = {
         "resumen": "La armada de la Guardia Revolucionaria afirmó que atacó cuatro buques que trasvasaban petróleo en el norte del Golfo y que otros tres chocaron con minas al oeste de Ormuz. Trump dijo que ya no negocia con Teherán.",
         "fuente": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response"
+      }
+    ]
+  },
+  "elecciones-serbia": {
+    "nombre": "Elecciones y cambio de gobierno en Serbia",
+    "tema": "Mundo",
+    "creado": "2026-10-26",
+    "actualizado": "2026-10-26",
+    "entradas": [
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
+        "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
       }
     ]
   }

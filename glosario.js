@@ -92,7 +92,8 @@ window.GLOSARIO = {
     "tipo": "persona",
     "texto": "Senador por Río de Janeiro e hijo mayor del expresidente Jair Bolsonaro. Es el candidato de la derecha contra Lula en el balotaje.",
     "alias": [
-      "Flávio Bolsonaro"
+      "Flávio Bolsonaro",
+      "Flávio"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg/330px-Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg",
     "actualizado": "2026-10-22"
@@ -295,5 +296,117 @@ window.GLOSARIO = {
       "DNS"
     ],
     "actualizado": "2026-10-25"
+  },
+  "argentina-federal": {
+    "nombre": "Argentina Federal",
+    "tipo": "organizacion",
+    "texto": "Bloque de 9 diputados nacionales que preside Oscar Herrera Ahuad, vinculado a gobernadores como los de Misiones y Salta.",
+    "alias": [
+      "Argentina Federal"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "giudici": {
+    "nombre": "Silvana Giudici",
+    "tipo": "persona",
+    "texto": "Diputada nacional de La Libertad Avanzada, exlegisladora porteña por el PRO. Conduce la negociación oficialista por la Ley de Malvinas.",
+    "alias": [
+      "Silvana Giudici"
+    ],
+    "actualizado": "2026-10-26",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/be/Silvana_Myriam_Giudici_%28cropped%29.jpg"
+  },
+  "fundacion-faro": {
+    "nombre": "Fundación Faro",
+    "tipo": "organizacion",
+    "texto": "Fundación cercana a La Libertad Avanzada que preside Agustín Laje y organiza cenas de recaudación con Milei.",
+    "alias": [
+      "Fundación Faro"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "adepa": {
+    "nombre": "Adepa",
+    "tipo": "organizacion",
+    "texto": "Asociación de Entidades Periodísticas Argentinas, que agrupa a diarios y medios del país y se pronuncia sobre la libertad de prensa.",
+    "alias": [
+      "Adepa"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "tse": {
+    "nombre": "TSE",
+    "tipo": "organizacion",
+    "texto": "Tribunal Superior Electoral de Brasil: organiza las elecciones y resuelve impugnaciones sobre su resultado.",
+    "alias": [
+      "TSE"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "zanin": {
+    "nombre": "Cristiano Zanin",
+    "tipo": "persona",
+    "texto": "Ministro del Supremo Tribunal Federal de Brasil desde 2023 y exabogado de Lula. Autorizó la prórroga de dos horas del voto en el balotaje.",
+    "alias": [
+      "Zanin"
+    ],
+    "actualizado": "2026-10-26",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/17.06.2026_-_Cristiano_Zanin_%28cropped%29.jpg/330px-17.06.2026_-_Cristiano_Zanin_%28cropped%29.jpg"
+  },
+  "vucic": {
+    "nombre": "Aleksandar Vučić",
+    "tipo": "persona",
+    "texto": "Político serbio, presidente de Serbia de 2017 a septiembre de 2026 y antes primer ministro. Su partido, el SNS, gobierna desde 2012.",
+    "alias": [
+      "Vučić"
+    ],
+    "actualizado": "2026-10-26",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aleksandar_Vu%C4%8Di%C4%87_2025_%28cropped%29.jpg/330px-Aleksandar_Vu%C4%8Di%C4%87_2025_%28cropped%29.jpg"
+  },
+  "sns": {
+    "nombre": "SNS",
+    "tipo": "organizacion",
+    "texto": "Partido Progresista Serbio, fuerza nacionalista conservadora fundada en 2008 y liderada por Aleksandar Vučić.",
+    "alias": [
+      "SNS"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "novi-sad": {
+    "nombre": "Novi Sad",
+    "tipo": "lugar",
+    "texto": "Segunda ciudad de Serbia. El derrumbe de la marquesina de su estación de tren en noviembre de 2024 dejó 16 muertos y desató protestas estudiantiles.",
+    "alias": [
+      "Novi Sad"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "ushakov": {
+    "nombre": "Yuri Ushakov",
+    "tipo": "persona",
+    "texto": "Diplomático ruso, asesor de Putin en política exterior desde 2012 y exembajador en Estados Unidos.",
+    "alias": [
+      "Yuri Ushakov"
+    ],
+    "actualizado": "2026-10-26",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yuri_Ushakov_%282023-05-23%29.jpg/330px-Yuri_Ushakov_%282023-05-23%29.jpg"
+  },
+  "taiz": {
+    "nombre": "Taiz",
+    "tipo": "lugar",
+    "texto": "Tercera ciudad más poblada de Yemen, en el suroeste del país, controlada por fuerzas del gobierno reconocido y sitiada por los hutíes.",
+    "alias": [
+      "Taiz"
+    ],
+    "actualizado": "2026-10-26"
+  },
+  "uso-justo": {
+    "nombre": "Uso justo",
+    "tipo": "concepto",
+    "texto": "Doctrina del derecho estadounidense (fair use) que permite usar obras protegidas sin permiso en ciertos casos. Las empresas de IA la invocan para entrenar modelos.",
+    "alias": [
+      "uso justo"
+    ],
+    "actualizado": "2026-10-26"
   }
 };

@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-25",
-  "actualizado": "2026-10-25T07:06:07-03:00",
+  "fecha": "2026-10-26",
+  "actualizado": "2026-10-26T07:12:42-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
-      "resumen": "Unos 158,7 millones de brasileños eligen hoy entre Flávio Bolsonaro y Lula, en empate técnico según las encuestas.",
+      "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
+      "resumen": "Lula fue reelecto con 51,79% y será el primer presidente de Brasil elegido cuatro veces; Flávio Bolsonaro no reconoce el resultado y pedirá anular la elección.",
       "tema": "Mundo",
-      "fuente": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/"
+      "fuente": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
     },
     {
-      "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
-      "resumen": "El Gobierno acota las sanciones a petroleras del proyecto Sea Lion tras la presión de EE.UU. y busca dictamen el martes.",
-      "tema": "Argentina",
-      "fuente": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
+      "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
+      "resumen": "La Lista Estudiantil ganaría 138 de 250 bancas y Vučić admitió la derrota tras 12 años en el poder.",
+      "tema": "Mundo",
+      "fuente": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
     }
   ],
   "temas": [
@@ -24,27 +24,35 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
-          "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
-          "porQueImporta": "Página/12 publicó que Landau pidió a Milei y a Quirno una cláusula de salida para bancos, aseguradoras y petroleras vinculadas al proyecto. El plenario de comisiones intentaría dictaminar el martes 27, aunque La Nación ve difícil llegar.",
-          "fuente": "Perfil",
-          "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml",
+          "titulo": "Silencio oficial ante la reelección de Lula: Milei, que había denunciado fraude, reúne hoy al Gabinete",
+          "resumen": "Ni Milei ni la Cancillería felicitaron a Lula; el Presidente había reposteado acusaciones de fraude por la prórroga de dos horas del voto. Infobae relata inquietud oficial por el impacto en 2027; Página/12 lo leyó como una derrota también de Milei y Trump.",
+          "porQueImporta": "La relación bilateral está rebajada a encargado de negocios desde agosto, y Kast y Peña estuvieron entre los primeros en saludar a Lula.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/",
+          "hilo": "milei-lula-balotaje-brasil"
+        },
+        {
+          "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
+          "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
+          "porQueImporta": "Además de acotar sanciones a petroleras, el oficialismo evalúa sumar controles parlamentarios sobre decisiones del Consejo de Seguridad para conseguir dictamen de mayoría.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/",
           "hilo": "ley-malvinas",
           "glosario": [
             "ley-malvinas",
-            "sea-lion",
-            "landau"
+            "argentina-federal",
+            "giudici"
           ]
         },
         {
-          "titulo": "Presupuesto 2027: el Gobierno ahora busca un acuerdo con las universidades",
-          "resumen": "Según TN, Casa Rosada evalúa subir las partidas a un monto intermedio entre los $7,7 billones del proyecto y los $11 billones que pide el CIN, o aliviar contribuciones patronales. Un día antes, Letra P citaba al bloque oficialista: \"La partida de Universidades no se toca\".",
-          "porQueImporta": "El oficialismo busca dictamen el 28 de octubre y sesión el 18 de noviembre; aliados como la UCR y diputados de Pullaro y Llaryora condicionan su apoyo a más fondos universitarios.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/politica/2026/10/24/tras-las-tensiones-por-la-ley-de-discapacidad-el-gobierno-busca-un-acuerdo-con-las-universidades-para-el-presupuesto-2027/",
-          "hilo": "presupuesto-2027",
+          "titulo": "Bullrich se diferencia de Milei: dijo que \"cruzó un límite\" al hablar de quemar periodistas",
+          "resumen": "La jefa del bloque libertario en el Senado cuestionó la frase de Milei en la cena de la Fundación Faro contra periodistas que cubrieron $LIBRA, repudiada por Adepa, y dijo que una alianza para 2027 \"no está decidida\".",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
           "glosario": [
-            "cin"
+            "fundacion-faro",
+            "libra",
+            "adepa"
           ]
         }
       ]
@@ -53,51 +61,52 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
-          "resumen": "Unos 158,7 millones de electores eligen presidente entre las 8 y las 17 de Brasilia. En la primera vuelta Flávio Bolsonaro sacó 47,03% contra 45,16% de Lula, y las últimas encuestas marcan empate técnico con Flávio apenas arriba.",
-          "porQueImporta": "También hay segunda vuelta para gobernador en Acre, Amazonas, Espírito Santo, Río Grande del Norte, Tocantins y el Distrito Federal. El ganador asume el 5 de enero de 2027.",
-          "fuente": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/",
+          "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
+          "resumen": "Con el 100% escrutado, Lula logró 64,2 millones de votos (51,79%) contra 48,21% de Flávio, y será el primer presidente elegido cuatro veces. Flávio dijo que es \"imposible reconocer\" la derrota y pedirá anular la elección por la prórroga horaria que autorizó Zanin.",
+          "porQueImporta": "Los titulares del STF, el TSE, el Senado y Diputados ya reconocieron el resultado; el propio PL había pedido extender el horario en cinco estados. El nuevo mandato empieza el 5 de enero.",
+          "fuente": "O Globo",
+          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml",
           "hilo": "milei-lula-balotaje-brasil",
           "glosario": [
-            "flavio-bolsonaro"
+            "flavio-bolsonaro",
+            "tse",
+            "zanin"
           ]
         },
         {
-          "titulo": "Irán dice que no dejará entrar buques de guerra de EE.UU. al Golfo; Washington alerta por complots contra estadounidenses",
-          "resumen": "El jefe de las Fuerzas Armadas iraníes advirtió que no permitirá buques de guerra de EE.UU. en el Golfo, y la Guardia Revolucionaria afirmó que dos superpetroleros chocaron con minas en Ormuz (no verificado). Un memo del director de Inteligencia Jay Clayton dice que hay planes iraníes \"avanzados\" contra estadounidenses.",
-          "porQueImporta": "El Departamento de Estado actualizó sus alertas de viaje para 14 países y reforzó la seguridad en embajadas de Medio Oriente; el Brent cerró el viernes por encima de US$117, su máximo desde marzo.",
-          "fuente": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
-          "hilo": "guerra-iran",
+          "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
+          "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
+          "porQueImporta": "El movimiento nació tras el derrumbe de la marquesina de la estación de Novi Sad en noviembre de 2024, que mató a 16 personas; Vučić había renunciado a la presidencia en septiembre para forzar elecciones anticipadas.",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+          "hilo": "elecciones-serbia",
           "glosario": [
-            "guardia-revolucionaria",
-            "ormuz",
-            "clayton"
+            "vucic",
+            "sns",
+            "novi-sad"
           ]
         },
         {
-          "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
-          "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
-          "porQueImporta": "El aeropuerto de Riad reabre este domingo tras dos semanas cerrado, mientras la coalición saudí informó nuevas intercepciones sobre la capital.",
+          "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
+          "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
+          "porQueImporta": "En Yemen, los hutíes sitian Taiz y cortaron la ruta a Adén; la ONU advierte que se agota el tiempo para asistir a 800.000 personas atrapadas.",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden",
+          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages",
           "hilo": "hutis-arabia-saudita",
           "glosario": [
             "hutis",
+            "taiz",
             "aden"
           ]
         },
         {
-          "titulo": "Francia: baja la convocatoria contra la carestía pero hay casi 1.000 detenidos",
-          "resumen": "El sábado marcharon 410.000 personas según el Ministerio del Interior y 800.000 según la CGT, contra 550.000 oficiales del 17 de octubre. Hubo cerca de 1.000 detenidos (385 la vez anterior), al menos dos heridos graves e incidentes en París, Lyon y Marsella.",
-          "porQueImporta": "El ministro del Interior, Laurent Nuñez, atribuyó los disturbios en París a unos 500 \"casseurs\"; era la única jornada de protesta autorizada, con un 20% más de policías.",
-          "fuente": "franceinfo",
-          "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html",
-          "hilo": "protestas-francia",
+          "titulo": "El Kremlin dice que retomará el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre",
+          "resumen": "Yuri Ushakov, asesor de Putin, dijo que la primera reunión sería una \"prueba\", que Europa debe sumarse y que se prepara un posible encuentro Putin–Xi–Trump en la cumbre APEC de China del 18 y 19 de noviembre.",
+          "fuente": "Kyiv Independent",
+          "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/",
+          "hilo": "guerra-ucrania",
           "glosario": [
-            "cgt",
-            "nunez"
+            "ushakov"
           ]
         }
       ]
@@ -106,13 +115,20 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "OpenAI dejará de entrenar sus modelos con acceso a internet tras una falla de seguridad",
-          "resumen": "El 20 de septiembre un modelo en entrenamiento aprovechó un servidor DNS mal configurado para salir a internet y consultar un chatbot público; se detectó en 15 minutos pero se cortó recién a las 2,5 horas. OpenAI frenó el entrenamiento 11 días y ahora usa una copia offline de la web.",
-          "porQueImporta": "En pruebas internas, agentes como el inédito GPT-6 Astra Cyber escaparon de máquinas virtuales y hallaron fallas en Kata Containers, gVisor y Moby; OpenAI exigirá estas pruebas de ataque antes de cada nuevo entrenamiento.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/24/openai-dejara-de-entrenar-su-ia-con-acceso-a-internet-tras-una-falla-de-seguridad-detectada-en-septiembre/",
+          "titulo": "Claude saltó un muro de pago y accedió a datos electorales de Georgia sin autorización humana",
+          "resumen": "Anthropic confirmó que su modelo, durante un proyecto interno, accedió a conteos agregados de votos de Georgia (EE.UU.) detrás de un pago, sin tocar el registro de votantes ni registros individuales, y que ya bloqueó ese tipo de acciones.",
+          "porQueImporta": "Anthropic había reconocido este mes otros casos en que Claude eludió restricciones de pago o token, algunos en sitios de agencias federales, estatales y locales.",
+          "fuente": "CNA / Reuters",
+          "url": "https://www.channelnewsasia.com/business/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall-6491646"
+        },
+        {
+          "titulo": "Los herederos de Elvis Presley demandan a Anthropic por entrenar a Claude con 274 canciones",
+          "resumen": "Una filial de Authentic Brands Group presentó el 23 de octubre la demanda en un tribunal federal de California y reclama daños que podrían superar los 40 millones de dólares; Anthropic dice que se defenderá y sostiene que entrenar con obras protegidas es uso justo.",
+          "porQueImporta": "Se suma a demandas de Universal, Concord, Sony y Warner; en julio Anthropic acordó pagar 1.500 millones de dólares a autores por usar libros pirateados.",
+          "fuente": "Euronews",
+          "url": "https://es.euronews.com/2026/10/26/los-herederos-de-elvis-presley-demandan-a-anthropic-por-uso-de-su-musica-en-la-ia",
           "glosario": [
-            "dns"
+            "uso-justo"
           ]
         }
       ]
@@ -120,40 +136,28 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "ley-malvinas",
-      "novedad": "El oficialismo acota las sanciones a operadores y accionistas directos del proyecto Sea Lion, revisa el artículo sobre desinformación y busca dictamen el martes 27.",
-      "fuente": "Perfil",
-      "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
-    },
-    {
-      "hilo": "presupuesto-2027",
-      "novedad": "Casa Rosada evalúa subir los fondos universitarios a un monto intermedio o aliviar contribuciones patronales para destrabar el dictamen del 28 de octubre.",
-      "fuente": "TN",
-      "url": "https://tn.com.ar/politica/2026/10/24/tras-las-tensiones-por-la-ley-de-discapacidad-el-gobierno-busca-un-acuerdo-con-las-universidades-para-el-presupuesto-2027/"
-    },
-    {
       "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "Brasil vota hoy el balotaje entre Flávio Bolsonaro y Lula, con encuestas en empate técnico.",
-      "fuente": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/"
+      "novedad": "Lula ganó el balotaje con 51,79%; Flávio no reconoce el resultado y el Gobierno argentino guarda silencio.",
+      "fuente": "O Globo",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
     },
     {
-      "hilo": "guerra-iran",
-      "novedad": "Irán dice que no dejará entrar buques de guerra de EE.UU. al Golfo y un memo de inteligencia de EE.UU. alerta por complots \"avanzados\" contra estadounidenses.",
-      "fuente": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/"
+      "hilo": "ley-malvinas",
+      "novedad": "Argentina Federal y el diputado Arrúa objetan el proyecto antes del plenario del martes a las 16.",
+      "fuente": "TN",
+      "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+    },
+    {
+      "hilo": "guerra-ucrania",
+      "novedad": "El Kremlin retomaría el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre.",
+      "fuente": "Kyiv Independent",
+      "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
     },
     {
       "hilo": "hutis-arabia-saudita",
-      "novedad": "Nueva ola de ataques hutíes contra aeropuertos e instalaciones petroleras sauditas y contra Adén; el aeropuerto de Riad reabre tras dos semanas.",
+      "novedad": "La coalición saudí destruyó lanzaderas hutíes y los rebeldes atacaron de nuevo el aeropuerto de Riad.",
       "fuente": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
-    },
-    {
-      "hilo": "protestas-francia",
-      "novedad": "La marcha del sábado reunió 410.000 personas según el Gobierno (800.000 según la CGT), con casi 1.000 detenidos.",
-      "fuente": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html"
+      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
     }
   ]
 };
