@@ -1,22 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-26",
-  "actualizado": "2026-10-26T07:12:42-03:00",
+  "fecha": "2026-10-27",
+  "actualizado": "2026-10-27T07:15:14-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
-      "resumen": "Lula fue reelecto con 51,79% y será el primer presidente de Brasil elegido cuatro veces; Flávio Bolsonaro no reconoce el resultado y pedirá anular la elección.",
-      "tema": "Mundo",
-      "fuente": "O Globo",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
+      "titulo": "Tras el triunfo de Lula, el riesgo país saltó a 765 puntos y el BCRA cortó su racha de compras",
+      "resumen": "El riesgo país subió de 707 a 765 puntos, el Merval cayó cerca de 3% y el BCRA no compró dólares tras 19 ruedas seguidas.",
+      "tema": "Argentina",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/"
     },
     {
-      "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
-      "resumen": "La Lista Estudiantil ganaría 138 de 250 bancas y Vučić admitió la derrota tras 12 años en el poder.",
+      "titulo": "Israel vota en las primeras elecciones desde el 7 de octubre, con Netanyahu segundo en las encuestas",
+      "resumen": "Los sondeos dan ventaja al bloque de Gadi Eisenkot sobre el de Netanyahu, pero ninguno llega a los 61 escaños necesarios para gobernar.",
       "tema": "Mundo",
-      "fuente": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+      "fuente": "DW",
+      "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
+    },
+    {
+      "titulo": "Anthropic presentó su prospecto para salir a bolsa: facturó USD 16.300 millones en el semestre",
+      "resumen": "El S-1 muestra ingresos de USD 16.300 millones en el semestre y apunta a una de las mayores salidas a bolsa de la historia, en el Nasdaq como ANT.",
+      "tema": "Inteligencia Artificial",
+      "fuente": "Fortune",
+      "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
     }
   ],
   "temas": [
@@ -24,35 +31,34 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Silencio oficial ante la reelección de Lula: Milei, que había denunciado fraude, reúne hoy al Gabinete",
-          "resumen": "Ni Milei ni la Cancillería felicitaron a Lula; el Presidente había reposteado acusaciones de fraude por la prórroga de dos horas del voto. Infobae relata inquietud oficial por el impacto en 2027; Página/12 lo leyó como una derrota también de Milei y Trump.",
-          "porQueImporta": "La relación bilateral está rebajada a encargado de negocios desde agosto, y Kast y Peña estuvieron entre los primeros en saludar a Lula.",
+          "titulo": "Milei sigue sin reconocer a Lula y el Gobierno evalúa cuestionar el resultado, como Trump",
+          "resumen": "Milei es el único presidente sudamericano que no saludó a Lula y no habló de Brasil en el Gabinete del lunes. Infobae cuenta que en el Gobierno evalúan poner en duda el resultado, como Trump; Página/12 habló de un \"silencio atroz\".",
+          "porQueImporta": "Bullrich, cuyo entorno dice que a Bolsonaro \"no le robaron nada\", se retiró de la reunión a los pocos minutos. La próxima cumbre del Mercosur es el 4 de diciembre en Montevideo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/",
+          "url": "https://www.infobae.com/politica/2026/10/27/de-bullrich-a-lula-da-silva-a-milei-se-le-abrieron-dos-frentes-de-conflicto-con-resolucion-incierta/",
           "hilo": "milei-lula-balotaje-brasil"
         },
         {
-          "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
-          "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
-          "porQueImporta": "Además de acotar sanciones a petroleras, el oficialismo evalúa sumar controles parlamentarios sobre decisiones del Consejo de Seguridad para conseguir dictamen de mayoría.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/",
-          "hilo": "ley-malvinas",
+          "titulo": "Tras el triunfo de Lula, el riesgo país saltó a 765 puntos y el BCRA cortó su racha de compras",
+          "resumen": "El riesgo país subió 8,2%, de 707 a 765 puntos, el máximo en un año, y el Merval cayó cerca de 3%. El BCRA no compró dólares tras 19 ruedas seguidas. La Nación lo atribuyó a la sorpresa en Brasil; Página/12, a que el mercado había apostado por Bolsonaro.",
+          "porQueImporta": "El dólar oficial en el Banco Nación cerró en un récord nominal de $1.560, el CCL subió 2,1% a $1.683 y la Bolsa de São Paulo se hundió cerca de 14%.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/",
           "glosario": [
-            "ley-malvinas",
-            "argentina-federal",
-            "giudici"
+            "ccl"
           ]
         },
         {
-          "titulo": "Bullrich se diferencia de Milei: dijo que \"cruzó un límite\" al hablar de quemar periodistas",
-          "resumen": "La jefa del bloque libertario en el Senado cuestionó la frase de Milei en la cena de la Fundación Faro contra periodistas que cubrieron $LIBRA, repudiada por Adepa, y dijo que una alianza para 2027 \"no está decidida\".",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/",
+          "titulo": "Ley de Malvinas: el oficialismo vuelve a postergar el dictamen y ofrece cambios a los aliados",
+          "resumen": "El plenario de hoy será solo informativo. Según Letra P, Santiago Caputo acepta sumar a Martín Menem y Bartolomé Abdala al Consejo de Seguridad y bajar a 2 años la pena mínima para proveedores; Parlamentario duda de que llegue al recinto.",
+          "porQueImporta": "El MID pide que el Congreso autorice eventuales actos bélicos contra buques o aviones hostiles; según TN, el Ejecutivo ofrece informar a la bicameral en 48 horas.",
+          "fuente": "Letra P",
+          "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711",
+          "hilo": "ley-malvinas",
           "glosario": [
-            "fundacion-faro",
-            "libra",
-            "adepa"
+            "ley-malvinas",
+            "consejo-seguridad-nacional",
+            "abdala"
           ]
         }
       ]
@@ -61,52 +67,52 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
-          "resumen": "Con el 100% escrutado, Lula logró 64,2 millones de votos (51,79%) contra 48,21% de Flávio, y será el primer presidente elegido cuatro veces. Flávio dijo que es \"imposible reconocer\" la derrota y pedirá anular la elección por la prórroga horaria que autorizó Zanin.",
-          "porQueImporta": "Los titulares del STF, el TSE, el Senado y Diputados ya reconocieron el resultado; el propio PL había pedido extender el horario en cinco estados. El nuevo mandato empieza el 5 de enero.",
-          "fuente": "O Globo",
-          "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml",
+          "titulo": "Israel vota en las primeras elecciones desde el 7 de octubre, con Netanyahu segundo en las encuestas",
+          "resumen": "Votan 7,3 millones de electores para los 120 escaños de la Knéset. Los sondeos dan 52 a 56 bancas al bloque de Gadi Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
+          "porQueImporta": "Los partidos árabes, con 14 a 16 escaños según las encuestas, podrían definir el próximo gobierno. Las mesas cierran a las 16 de la Argentina y los resultados oficiales se conocerán a más tardar el 4 de noviembre.",
+          "fuente": "DW",
+          "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364",
+          "hilo": "elecciones-israel",
+          "glosario": [
+            "eisenkot",
+            "knesset"
+          ]
+        },
+        {
+          "titulo": "Flávio Bolsonaro desiste de pedir la anulación, pero acusará a Lula de abuso de poder",
+          "resumen": "Flávio dejó de pedir la anulación de la elección, que perdió 48,2% a 51,7%, y anunció una demanda por abuso de poder. Dijo que va a \"organizar la oposición\". El PL, que preside Valdemar Costa Neto, sí reconoció el resultado del TSE.",
+          "porQueImporta": "Trump, en cambio, dijo que la elección parecía \"amañada\".",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o",
           "hilo": "milei-lula-balotaje-brasil",
           "glosario": [
             "flavio-bolsonaro",
-            "tse",
-            "zanin"
+            "partido-liberal",
+            "valdemar-costa-neto",
+            "tse"
           ]
         },
         {
-          "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
-          "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
-          "porQueImporta": "El movimiento nació tras el derrumbe de la marquesina de la estación de Novi Sad en noviembre de 2024, que mató a 16 personas; Vučić había renunciado a la presidencia en septiembre para forzar elecciones anticipadas.",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
-          "hilo": "elecciones-serbia",
-          "glosario": [
-            "vucic",
-            "sns",
-            "novi-sad"
-          ]
-        },
-        {
-          "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
-          "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
-          "porQueImporta": "En Yemen, los hutíes sitian Taiz y cortaron la ruta a Adén; la ONU advierte que se agota el tiempo para asistir a 800.000 personas atrapadas.",
+          "titulo": "Arabia Saudita, Turquía y Pakistán negocian en Teherán mientras Trump dice que es \"hora de decidir\" sobre Irán",
+          "resumen": "Irán y los firmantes del Pacto de La Meca acordaron seguir dialogando en su primera reunión conjunta, presidida por Mohsen Rezaei. Según Reuters, el jefe del ejército paquistaní, Asim Munir, llevó una propuesta con el aval de Trump.",
+          "porQueImporta": "Trump dijo que debe elegir entre \"terminarlo\" o \"hacer un trato\". Antes había dicho que no retomaría los ataques, frenados desde el 1 de septiembre, hasta después de las legislativas del 3 de noviembre.",
           "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages",
-          "hilo": "hutis-arabia-saudita",
+          "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+          "hilo": "guerra-iran",
           "glosario": [
-            "hutis",
-            "taiz",
-            "aden"
+            "pacto-meca",
+            "rezaei",
+            "munir"
           ]
         },
         {
-          "titulo": "El Kremlin dice que retomará el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre",
-          "resumen": "Yuri Ushakov, asesor de Putin, dijo que la primera reunión sería una \"prueba\", que Europa debe sumarse y que se prepara un posible encuentro Putin–Xi–Trump en la cumbre APEC de China del 18 y 19 de noviembre.",
+          "titulo": "Misiles balísticos rusos golpean Kiev horas antes de la tregua en Oleshky",
+          "resumen": "Dos oleadas de misiles dejaron 1 muerto y 15 heridos en Kiev. Dañaron el Puente Sur sobre el Dniéper, un campus universitario, centros médicos y el metro. A la 1 GMT entró en vigor la tregua local en Oleshky.",
           "fuente": "Kyiv Independent",
-          "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/",
+          "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
           "hilo": "guerra-ucrania",
           "glosario": [
-            "ushakov"
+            "oleshky"
           ]
         }
       ]
@@ -115,21 +121,39 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Claude saltó un muro de pago y accedió a datos electorales de Georgia sin autorización humana",
-          "resumen": "Anthropic confirmó que su modelo, durante un proyecto interno, accedió a conteos agregados de votos de Georgia (EE.UU.) detrás de un pago, sin tocar el registro de votantes ni registros individuales, y que ya bloqueó ese tipo de acciones.",
-          "porQueImporta": "Anthropic había reconocido este mes otros casos en que Claude eludió restricciones de pago o token, algunos en sitios de agencias federales, estatales y locales.",
-          "fuente": "CNA / Reuters",
-          "url": "https://www.channelnewsasia.com/business/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall-6491646"
+          "titulo": "Anthropic presentó su prospecto para salir a bolsa: facturó USD 16.300 millones en el semestre",
+          "resumen": "El formulario S-1 muestra ingresos 14 veces mayores que un año antes y una pérdida neta de USD 80.700 millones, casi toda por un cargo contable de USD 72.400 millones. Cotizará en el Nasdaq como ANT.",
+          "porQueImporta": "Se habla de una valuación de USD 1,5 a 2 billones y el debut sería en la semana de Acción de Gracias. Los siete fundadores conservan el 50,1% de los votos.",
+          "fuente": "Fortune",
+          "url": "https://fortune.com/2026/10/26/anthropics-s-1/",
+          "hilo": "ipo-anthropic",
+          "glosario": [
+            "s-1"
+          ]
         },
         {
-          "titulo": "Los herederos de Elvis Presley demandan a Anthropic por entrenar a Claude con 274 canciones",
-          "resumen": "Una filial de Authentic Brands Group presentó el 23 de octubre la demanda en un tribunal federal de California y reclama daños que podrían superar los 40 millones de dólares; Anthropic dice que se defenderá y sostiene que entrenar con obras protegidas es uso justo.",
-          "porQueImporta": "Se suma a demandas de Universal, Concord, Sony y Warner; en julio Anthropic acordó pagar 1.500 millones de dólares a autores por usar libros pirateados.",
-          "fuente": "Euronews",
-          "url": "https://es.euronews.com/2026/10/26/los-herederos-de-elvis-presley-demandan-a-anthropic-por-uso-de-su-musica-en-la-ia",
+          "titulo": "OpenAI lanza GPT-6.1 Terra, un modelo para usar la computadora a mitad de precio",
+          "resumen": "Según OpenAI, el modelo cuesta en la API USD 1 por millón de tokens de entrada y 5 de salida, la mitad que GPT-5.6 Terra. Su tasa de errores fácticos bajó de 53,6% a 16,7%.",
+          "porQueImporta": "Ya está en ChatGPT Work y Codex para planes pagos. OpenAI lo ubica en el nivel \"crítico\" de capacidad en ciberseguridad.",
+          "fuente": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+        },
+        {
+          "titulo": "Texas demanda a OpenAI y a Sam Altman por engañar sobre la seguridad de ChatGPT",
+          "resumen": "El fiscal Ken Paxton pide multas de hasta USD 10.000 por infracción y busca prohibir el acceso de menores a ChatGPT. También pide que un perito designado por un tribunal apruebe los nuevos modelos.",
+          "porQueImporta": "La demanda busca que Altman responda en forma personal. OpenAI respondió que trabaja con expertos para reforzar sus salvaguardas.",
+          "fuente": "The Record",
+          "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
           "glosario": [
-            "uso-justo"
+            "paxton"
           ]
+        },
+        {
+          "titulo": "Apple lanza Siri AI en español, desarrollada con modelos Gemini de Google",
+          "resumen": "La nueva Siri conversacional llegó en español en macOS y visionOS 27.2 y está en beta en iOS 27.2. Lee mensajes, mails y la pantalla para ejecutar acciones.",
+          "porQueImporta": "No está disponible para menores de 13 años y tendrá límites diarios de uso; Apple anticipó que el acceso ampliado será pago.",
+          "fuente": "Apple",
+          "url": "https://www.apple.com/es/newsroom/2026/10/siri-ai-is-now-available-in-more-languages/"
         }
       ]
     }
@@ -137,27 +161,33 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "Lula ganó el balotaje con 51,79%; Flávio no reconoce el resultado y el Gobierno argentino guarda silencio.",
-      "fuente": "O Globo",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
+      "novedad": "Flávio desistió de pedir la anulación y el PL reconoció el resultado; Milei sigue sin saludar a Lula.",
+      "fuente": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o"
     },
     {
       "hilo": "ley-malvinas",
-      "novedad": "Argentina Federal y el diputado Arrúa objetan el proyecto antes del plenario del martes a las 16.",
-      "fuente": "TN",
-      "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+      "novedad": "El dictamen volvió a postergarse; Caputo ofrece sumar a Menem y Abdala al Consejo de Seguridad y bajar penas.",
+      "fuente": "Letra P",
+      "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+    },
+    {
+      "hilo": "guerra-iran",
+      "novedad": "Irán, Arabia Saudita, Turquía y Pakistán acordaron seguir dialogando en Teherán; Trump dice que es \"hora de decidir\".",
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
     },
     {
       "hilo": "guerra-ucrania",
-      "novedad": "El Kremlin retomaría el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre.",
+      "novedad": "Misiles balísticos dejaron 1 muerto y 15 heridos en Kiev; entró en vigor la tregua local en Oleshky.",
       "fuente": "Kyiv Independent",
-      "url": "https://kyivindependent.com/moscow-ready-to-resume-trilateral-talks-with-ukraine-us-after-nov-4-kremlin-aide-says/"
+      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
     },
     {
-      "hilo": "hutis-arabia-saudita",
-      "novedad": "La coalición saudí destruyó lanzaderas hutíes y los rebeldes atacaron de nuevo el aeropuerto de Riad.",
-      "fuente": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
+      "hilo": "ipo-anthropic",
+      "novedad": "Anthropic hizo público su S-1: USD 16.300 millones de ingresos en el semestre; cotizará en el Nasdaq como ANT.",
+      "fuente": "Fortune",
+      "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
     }
   ]
 };

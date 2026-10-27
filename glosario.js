@@ -90,13 +90,13 @@ window.GLOSARIO = {
   "flavio-bolsonaro": {
     "nombre": "Flávio Bolsonaro",
     "tipo": "persona",
-    "texto": "Senador por Río de Janeiro e hijo mayor del expresidente Jair Bolsonaro. Es el candidato de la derecha contra Lula en el balotaje.",
+    "texto": "Senador por Río de Janeiro e hijo mayor del expresidente Jair Bolsonaro. Perdió el balotaje de 2026 ante Lula y dice que liderará la oposición.",
     "alias": [
       "Flávio Bolsonaro",
       "Flávio"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg/330px-Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg",
-    "actualizado": "2026-10-22"
+    "actualizado": "2026-10-27"
   },
   "model-garden": {
     "nombre": "Model Garden",
@@ -408,5 +408,101 @@ window.GLOSARIO = {
       "uso justo"
     ],
     "actualizado": "2026-10-26"
+  },
+  "consejo-seguridad-nacional": {
+    "nombre": "Consejo de Seguridad",
+    "tipo": "organizacion",
+    "texto": "Órgano que crearía la Ley de Malvinas para asesorar al Presidente en defensa e inteligencia. Su integración divide al oficialismo y sus aliados.",
+    "alias": [
+      "Consejo de Seguridad"
+    ],
+    "actualizado": "2026-10-27"
+  },
+  "abdala": {
+    "nombre": "Bartolomé Abdala",
+    "tipo": "persona",
+    "texto": "Senador nacional por San Luis de La Libertad Avanza y presidente provisional del Senado.",
+    "alias": [
+      "Bartolomé Abdala"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg/330px-COMISI%C3%93N_DE_LEGISLACI%C3%93N_GENERAL_%28cropped%29.jpg",
+    "actualizado": "2026-10-27"
+  },
+  "eisenkot": {
+    "nombre": "Gadi Eisenkot",
+    "tipo": "persona",
+    "texto": "Exjefe del Estado Mayor del ejército israelí (2015-2019) y exministro del gabinete de guerra. Encabeza el bloque opositor a Netanyahu.",
+    "alias": [
+      "Gadi Eisenkot"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/330px-Gadi_Eisenkot_2_%28cropped%29.jpg",
+    "actualizado": "2026-10-27"
+  },
+  "knesset": {
+    "nombre": "Knéset",
+    "tipo": "organizacion",
+    "texto": "Parlamento unicameral de Israel, de 120 escaños. Para formar gobierno hace falta una mayoría de 61.",
+    "alias": [
+      "Knéset"
+    ],
+    "actualizado": "2026-10-27"
+  },
+  "partido-liberal": {
+    "nombre": "PL (Partido Liberal)",
+    "tipo": "organizacion",
+    "texto": "Partido de derecha brasileño de Jair y Flávio Bolsonaro, presidido por Valdemar Costa Neto.",
+    "alias": [
+      "PL"
+    ],
+    "actualizado": "2026-10-27"
+  },
+  "valdemar-costa-neto": {
+    "nombre": "Valdemar Costa Neto",
+    "tipo": "persona",
+    "texto": "Político brasileño y exdiputado federal, preside el Partido Liberal (PL) de los Bolsonaro.",
+    "alias": [
+      "Valdemar Costa Neto"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Dep._Valdemar_Costa_Neto.jpg/330px-Dep._Valdemar_Costa_Neto.jpg",
+    "actualizado": "2026-10-27"
+  },
+  "pacto-meca": {
+    "nombre": "Pacto de La Meca",
+    "tipo": "organizacion",
+    "texto": "Acuerdo de Defensa Conjunta firmado en agosto de 2026 por Arabia Saudita, Turquía y Pakistán. Establece que un ataque a un miembro es un ataque a todos.",
+    "alias": [
+      "Pacto de La Meca"
+    ],
+    "actualizado": "2026-10-27"
+  },
+  "rezaei": {
+    "nombre": "Mohsen Rezaei",
+    "tipo": "persona",
+    "texto": "Exjefe de la Guardia Revolucionaria iraní. Es secretario del Consejo Supremo de Seguridad Nacional de Irán desde agosto de 2026.",
+    "alias": [
+      "Mohsen Rezaei"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mohsen_Rezaee_in_Tehran_%28May_2026%29_%28cropped%29.jpg/330px-Mohsen_Rezaee_in_Tehran_%28May_2026%29_%28cropped%29.jpg",
+    "actualizado": "2026-10-27"
+  },
+  "munir": {
+    "nombre": "Asim Munir",
+    "tipo": "persona",
+    "texto": "Mariscal de campo y jefe del Estado Mayor del Ejército de Pakistán desde 2022.",
+    "alias": [
+      "Asim Munir"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Field_Marshal_Asim_Munir.jpg/330px-Field_Marshal_Asim_Munir.jpg",
+    "actualizado": "2026-10-27"
+  },
+  "paxton": {
+    "nombre": "Ken Paxton",
+    "tipo": "persona",
+    "texto": "Fiscal general republicano de Texas. Demandó o llegó a acuerdos con Meta, TikTok y Roblox.",
+    "alias": [
+      "Ken Paxton"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/K_Paxton.jpg/330px-K_Paxton.jpg",
+    "actualizado": "2026-10-27"
   }
 };

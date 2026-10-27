@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-10-27",
     "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
+        "resumen": "El plenario del 27/10 será solo informativo. Caputo acepta sumar a Menem y Abdala al Consejo de Seguridad, crear una bicameral y bajar a 2 años la pena mínima para proveedores; el recinto apunta al 18 de noviembre.",
+        "fuente": "Letra P",
+        "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+      },
       {
         "fecha": "2026-10-26",
         "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
@@ -54,8 +61,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-10-27",
     "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Misiles balísticos sobre Kiev y entrada en vigor de la tregua en Oleshky",
+        "resumen": "Dos oleadas de misiles dejaron 1 muerto y 15 heridos y dañaron el Puente Sur, un campus y centros médicos. La tregua local en Oleshky rige desde la 1 GMT del 27/10.",
+        "fuente": "Kyiv Independent",
+        "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
+      },
       {
         "fecha": "2026-10-26",
         "titulo": "El Kremlin dice que retomará el diálogo trilateral con Ucrania y EE.UU. después del 4 de noviembre",
@@ -169,8 +183,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-10-27",
     "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Flávio desiste de anular la elección y Milei sigue sin reconocer a Lula",
+        "resumen": "Flávio Bolsonaro abandonó el pedido de anulación, anunció una demanda por abuso de poder y su partido reconoció el resultado. Milei, el único presidente sudamericano que no saludó a Lula, no habló de Brasil en el Gabinete.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o"
+      },
       {
         "fecha": "2026-10-26",
         "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
@@ -270,8 +291,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-27",
     "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Anthropic hace público su S-1: USD 16.300 millones de ingresos en el semestre",
+        "resumen": "El prospecto muestra una pérdida neta de USD 80.700 millones, casi toda contable, y un flujo de caja operativo positivo. Cotizará en el Nasdaq como ANT; la valuación esperada es de USD 1,5 a 2 billones.",
+        "fuente": "Fortune",
+        "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Anthropic presentaría su prospecto de salida a bolsa el viernes",
@@ -337,8 +365,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-10-27",
     "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Pacto de La Meca e Irán acuerdan seguir dialogando; Trump dice que es \"hora de decidir\"",
+        "resumen": "Arabia Saudita, Turquía y Pakistán se reunieron con Irán en Teherán y acordaron seguir dialogando. Munir llevó una propuesta con el aval de Trump, que dijo que debe elegir entre \"terminarlo\" o un trato.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Irán dice que no dejará entrar buques de guerra de EE.UU. al Golfo; Washington alerta por complots contra estadounidenses",
@@ -374,6 +409,21 @@ window.HILOS = {
         "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
         "fuente": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+      }
+    ]
+  },
+  "elecciones-israel": {
+    "nombre": "Elecciones en Israel",
+    "tema": "Mundo",
+    "creado": "2026-10-27",
+    "actualizado": "2026-10-27",
+    "entradas": [
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Israel vota con el bloque de Eisenkot por delante de Netanyahu en las encuestas",
+        "resumen": "Votan 7,3 millones de electores por 120 escaños. Los sondeos dan 52 a 56 bancas al bloque de Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
+        "fuente": "DW",
+        "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
       }
     ]
   }
