@@ -90,13 +90,13 @@ window.GLOSARIO = {
   "flavio-bolsonaro": {
     "nombre": "Flávio Bolsonaro",
     "tipo": "persona",
-    "texto": "Senador por Río de Janeiro e hijo mayor del expresidente Jair Bolsonaro. Perdió el balotaje de 2026 ante Lula y dice que liderará la oposición.",
+    "texto": "Senador por Río de Janeiro e hijo mayor de Jair Bolsonaro. Perdió el balotaje de 2026 ante Lula y el 28/10 salió de Brasil por Argentina pese a una prohibición judicial.",
     "alias": [
       "Flávio Bolsonaro",
       "Flávio"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg/330px-Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg",
-    "actualizado": "2026-10-27"
+    "actualizado": "2026-10-28"
   },
   "model-garden": {
     "nombre": "Model Garden",
@@ -504,5 +504,97 @@ window.GLOSARIO = {
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/K_Paxton.jpg/330px-K_Paxton.jpg",
     "actualizado": "2026-10-27"
+  },
+  "moraes": {
+    "nombre": "Alexandre de Moraes",
+    "tipo": "persona",
+    "texto": "Juez del Supremo Tribunal Federal de Brasil y expresidente del Tribunal Superior Electoral. Había prohibido a Flávio Bolsonaro salir del país.",
+    "alias": [
+      "Alexandre de Moraes",
+      "Moraes"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ministro_Alexandre_de_Moraes_como_presidente_do_TSE.jpg/330px-Ministro_Alexandre_de_Moraes_como_presidente_do_TSE.jpg",
+    "actualizado": "2026-10-28"
+  },
+  "psa": {
+    "nombre": "Policía de Seguridad Aeroportuaria",
+    "tipo": "organizacion",
+    "texto": "Fuerza federal argentina, dependiente del Ministerio de Seguridad, a cargo de la seguridad en los aeropuertos.",
+    "alias": [
+      "PSA"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "acuerdo-nivel-tecnico": {
+    "nombre": "Acuerdo a nivel técnico",
+    "tipo": "concepto",
+    "texto": "Entendimiento entre el staff del FMI y un gobierno sobre una revisión del programa. No libera fondos hasta que lo aprueba el directorio ejecutivo.",
+    "alias": [
+      "a nivel técnico"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "ras-tanura": {
+    "nombre": "Ras Tanura",
+    "tipo": "lugar",
+    "texto": "Complejo de Saudi Aramco sobre el golfo Pérsico con la mayor refinería de Arabia Saudita y una terminal por la que sale buena parte de su petróleo.",
+    "alias": [
+      "Ras Tanura"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "bundibugyo": {
+    "nombre": "Virus Bundibugyo",
+    "tipo": "concepto",
+    "texto": "Especie poco común del virus del ébola, identificada en Uganda en 2007. No tiene vacuna ni tratamiento aprobados.",
+    "alias": [
+      "Bundibugyo"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "hipotesis-tiempo-exponencial": {
+    "nombre": "Hipótesis del Tiempo Exponencial",
+    "tipo": "concepto",
+    "texto": "Conjetura de 1999 según la cual problemas como 3-SAT no pueden resolverse en tiempo subexponencial. Es base de muchos límites en teoría de la computación.",
+    "alias": [
+      "Hipótesis del Tiempo Exponencial"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "conjetura-kakeya": {
+    "nombre": "Conjetura de Kakeya",
+    "tipo": "concepto",
+    "texto": "Problema de análisis matemático sobre el tamaño mínimo de conjuntos que contienen segmentos en todas las direcciones. Hong Wang la resolvió en tres dimensiones.",
+    "alias": [
+      "Kakeya"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "modelo-de-mundo": {
+    "nombre": "Modelo de mundo",
+    "tipo": "concepto",
+    "texto": "Sistema de IA que genera y simula entornos interactivos que responden a las acciones del usuario. Se usa en videojuegos, aprendizaje y robótica.",
+    "alias": [
+      "modelo de mundo"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "tpu": {
+    "nombre": "TPU",
+    "tipo": "concepto",
+    "texto": "Unidad de procesamiento tensorial: chip diseñado por Google para entrenar y ejecutar modelos de IA, hasta ahora disponible solo en su propia nube.",
+    "alias": [
+      "TPU"
+    ],
+    "actualizado": "2026-10-28"
+  },
+  "cerebras": {
+    "nombre": "Cerebras",
+    "tipo": "organizacion",
+    "texto": "Empresa estadounidense que fabrica chips de IA del tamaño de una oblea de silicio entera.",
+    "alias": [
+      "Cerebras"
+    ],
+    "actualizado": "2026-10-28"
   }
 };

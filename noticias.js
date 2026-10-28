@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-27",
-  "actualizado": "2026-10-27T07:15:14-03:00",
+  "fecha": "2026-10-28",
+  "actualizado": "2026-10-28T07:10:00-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Tras el triunfo de Lula, el riesgo país saltó a 765 puntos y el BCRA cortó su racha de compras",
-      "resumen": "El riesgo país subió de 707 a 765 puntos, el Merval cayó cerca de 3% y el BCRA no compró dólares tras 19 ruedas seguidas.",
+      "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
+      "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
+      "tema": "Argentina",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
+    },
+    {
+      "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
+      "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
+      "tema": "Mundo",
+      "fuente": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
+    },
+    {
+      "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
+      "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
       "tema": "Argentina",
       "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/"
-    },
-    {
-      "titulo": "Israel vota en las primeras elecciones desde el 7 de octubre, con Netanyahu segundo en las encuestas",
-      "resumen": "Los sondeos dan ventaja al bloque de Gadi Eisenkot sobre el de Netanyahu, pero ninguno llega a los 61 escaños necesarios para gobernar.",
-      "tema": "Mundo",
-      "fuente": "DW",
-      "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
-    },
-    {
-      "titulo": "Anthropic presentó su prospecto para salir a bolsa: facturó USD 16.300 millones en el semestre",
-      "resumen": "El S-1 muestra ingresos de USD 16.300 millones en el semestre y apunta a una de las mayores salidas a bolsa de la historia, en el Nasdaq como ANT.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "Fortune",
-      "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+      "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
     }
   ],
   "temas": [
@@ -31,34 +31,37 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Milei sigue sin reconocer a Lula y el Gobierno evalúa cuestionar el resultado, como Trump",
-          "resumen": "Milei es el único presidente sudamericano que no saludó a Lula y no habló de Brasil en el Gabinete del lunes. Infobae cuenta que en el Gobierno evalúan poner en duda el resultado, como Trump; Página/12 habló de un \"silencio atroz\".",
-          "porQueImporta": "Bullrich, cuyo entorno dice que a Bolsonaro \"no le robaron nada\", se retiró de la reunión a los pocos minutos. La próxima cumbre del Mercosur es el 4 de diciembre en Montevideo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/27/de-bullrich-a-lula-da-silva-a-milei-se-le-abrieron-dos-frentes-de-conflicto-con-resolucion-incierta/",
-          "hilo": "milei-lula-balotaje-brasil"
-        },
-        {
-          "titulo": "Tras el triunfo de Lula, el riesgo país saltó a 765 puntos y el BCRA cortó su racha de compras",
-          "resumen": "El riesgo país subió 8,2%, de 707 a 765 puntos, el máximo en un año, y el Merval cayó cerca de 3%. El BCRA no compró dólares tras 19 ruedas seguidas. La Nación lo atribuyó a la sorpresa en Brasil; Página/12, a que el mercado había apostado por Bolsonaro.",
-          "porQueImporta": "El dólar oficial en el Banco Nación cerró en un récord nominal de $1.560, el CCL subió 2,1% a $1.683 y la Bolsa de São Paulo se hundió cerca de 14%.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-triunfo-sorpresivo-de-lula-en-brasil-presiona-al-riesgo-pais-argentino-y-mercado-libre-se-nid26102026/",
+          "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
+          "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
+          "porQueImporta": "Por la mañana, Migraciones había dicho que no tenía registro de su ingreso. Según Clarín, un patrullero de la PSA escoltó las camionetas hasta la pista; sus pasaportes brasileños fueron cancelados y Lula calificó la salida de \"vergonzosa\".",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html",
+          "hilo": "milei-lula-balotaje-brasil",
           "glosario": [
-            "ccl"
+            "flavio-bolsonaro",
+            "moraes",
+            "psa"
           ]
         },
         {
-          "titulo": "Ley de Malvinas: el oficialismo vuelve a postergar el dictamen y ofrece cambios a los aliados",
-          "resumen": "El plenario de hoy será solo informativo. Según Letra P, Santiago Caputo acepta sumar a Martín Menem y Bartolomé Abdala al Consejo de Seguridad y bajar a 2 años la pena mínima para proveedores; Parlamentario duda de que llegue al recinto.",
-          "porQueImporta": "El MID pide que el Congreso autorice eventuales actos bélicos contra buques o aviones hostiles; según TN, el Ejecutivo ofrece informar a la bicameral en 48 horas.",
-          "fuente": "Letra P",
-          "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711",
+          "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
+          "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
+          "porQueImporta": "Unión por la Patria firmó un dictamen de minoría con 38 firmas. Según La Nación, persisten las dudas sobre el capítulo de desinformación y libertad de expresión, que \"así como está no sale en el recinto\".",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/",
           "hilo": "ley-malvinas",
           "glosario": [
-            "ley-malvinas",
-            "consejo-seguridad-nacional",
-            "abdala"
+            "ley-malvinas"
+          ]
+        },
+        {
+          "titulo": "El FMI aprobó a nivel técnico la tercera revisión del acuerdo: habilita unos USD 900 millones en diciembre",
+          "resumen": "El staff del Fondo cerró la revisión del programa de USD 20.000 millones y destacó que las reservas superaron en USD 4.000 millones la meta de junio. La Nación subraya el aval; BAE Negocios, que no se cumplió la meta fiscal del semestre ($6,29 billones contra $6,86).",
+          "porQueImporta": "El directorio del FMI lo trataría a principios de diciembre, pero a comienzos de noviembre vence un pago de unos USD 865 millones al organismo. El riesgo país bajó 12 puntos, a 753.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/el-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allana-el-camino-para-un-nuevo-nid27102026/",
+          "glosario": [
+            "acuerdo-nivel-tecnico"
           ]
         }
       ]
@@ -67,52 +70,49 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Israel vota en las primeras elecciones desde el 7 de octubre, con Netanyahu segundo en las encuestas",
-          "resumen": "Votan 7,3 millones de electores para los 120 escaños de la Knéset. Los sondeos dan 52 a 56 bancas al bloque de Gadi Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
-          "porQueImporta": "Los partidos árabes, con 14 a 16 escaños según las encuestas, podrían definir el próximo gobierno. Las mesas cierran a las 16 de la Argentina y los resultados oficiales se conocerán a más tardar el 4 de noviembre.",
-          "fuente": "DW",
-          "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364",
+          "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
+          "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
+          "porQueImporta": "Las encuestas previas daban ventaja al bloque de Eisenkot. El Likud sería la primera fuerza, con unas 27 bancas.",
+          "fuente": "The Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/",
           "hilo": "elecciones-israel",
           "glosario": [
-            "eisenkot",
-            "knesset"
+            "knesset",
+            "eisenkot"
           ]
         },
         {
-          "titulo": "Flávio Bolsonaro desiste de pedir la anulación, pero acusará a Lula de abuso de poder",
-          "resumen": "Flávio dejó de pedir la anulación de la elección, que perdió 48,2% a 51,7%, y anunció una demanda por abuso de poder. Dijo que va a \"organizar la oposición\". El PL, que preside Valdemar Costa Neto, sí reconoció el resultado del TSE.",
-          "porQueImporta": "Trump, en cambio, dijo que la elección parecía \"amañada\".",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o",
-          "hilo": "milei-lula-balotaje-brasil",
-          "glosario": [
-            "flavio-bolsonaro",
-            "partido-liberal",
-            "valdemar-costa-neto",
-            "tse"
-          ]
-        },
-        {
-          "titulo": "Arabia Saudita, Turquía y Pakistán negocian en Teherán mientras Trump dice que es \"hora de decidir\" sobre Irán",
-          "resumen": "Irán y los firmantes del Pacto de La Meca acordaron seguir dialogando en su primera reunión conjunta, presidida por Mohsen Rezaei. Según Reuters, el jefe del ejército paquistaní, Asim Munir, llevó una propuesta con el aval de Trump.",
-          "porQueImporta": "Trump dijo que debe elegir entre \"terminarlo\" o \"hacer un trato\". Antes había dicho que no retomaría los ataques, frenados desde el 1 de septiembre, hasta después de las legislativas del 3 de noviembre.",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions",
+          "titulo": "Qatar entregó a Irán un nuevo borrador para terminar la guerra, con un cronograma de siete días",
+          "resumen": "Mediadores qataríes presentaron el domingo un plan de pasos diarios de confianza con varios países garantes; Irán respondería antes del fin de semana. Según The Guardian, el plan del Golfo prevé reabrir Ormuz a los cuatro días de levantadas las sanciones.",
+          "porQueImporta": "EE.UU. todavía no dio su aval y los europeos piden que vuelvan los inspectores nucleares de la ONU.",
+          "fuente": "Reuters (Al-Monitor)",
+          "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-present-iran-new-deal-end-war-official-says",
           "hilo": "guerra-iran",
           "glosario": [
-            "pacto-meca",
-            "rezaei",
-            "munir"
+            "ormuz"
           ]
         },
         {
-          "titulo": "Misiles balísticos rusos golpean Kiev horas antes de la tregua en Oleshky",
-          "resumen": "Dos oleadas de misiles dejaron 1 muerto y 15 heridos en Kiev. Dañaron el Puente Sur sobre el Dniéper, un campus universitario, centros médicos y el metro. A la 1 GMT entró en vigor la tregua local en Oleshky.",
-          "fuente": "Kyiv Independent",
-          "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/",
-          "hilo": "guerra-ucrania",
+          "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
+          "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
+          "porQueImporta": "Otros dos misiles fueron interceptados sobre Riad y sus restos dañaron un edificio. Casi todo el petróleo saudí se exporta por Ras Tanura y Yanbu, dos puertos que los hutíes ya atacaron.",
+          "fuente": "Reuters (Al-Monitor)",
+          "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile",
+          "hilo": "hutis-arabia-saudita",
           "glosario": [
-            "oleshky"
+            "hutis",
+            "ras-tanura"
+          ]
+        },
+        {
+          "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
+          "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
+          "porQueImporta": "Es el segundo mayor brote registrado, detrás del de África Occidental de 2014-2016. Cerca del 80% de los casos nuevos aparece fuera de las cadenas de contagio que siguen las autoridades.",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak",
+          "hilo": "ebola-congo",
+          "glosario": [
+            "bundibugyo"
           ]
         }
       ]
@@ -121,39 +121,36 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic presentó su prospecto para salir a bolsa: facturó USD 16.300 millones en el semestre",
-          "resumen": "El formulario S-1 muestra ingresos 14 veces mayores que un año antes y una pérdida neta de USD 80.700 millones, casi toda por un cargo contable de USD 72.400 millones. Cotizará en el Nasdaq como ANT.",
-          "porQueImporta": "Se habla de una valuación de USD 1,5 a 2 billones y el debut sería en la semana de Acción de Gracias. Los siete fundadores conservan el 50,1% de los votos.",
-          "fuente": "Fortune",
-          "url": "https://fortune.com/2026/10/26/anthropics-s-1/",
-          "hilo": "ipo-anthropic",
+          "titulo": "OpenAI dice que su IA refutó la Hipótesis del Tiempo Exponencial y resolvió la conjetura de Kakeya",
+          "resumen": "OpenAI publicó en GitHub pruebas generadas por su IA de que la Hipótesis del Tiempo Exponencial es falsa y de la conjetura de suavizado local, que resuelve la de Kakeya en todas las dimensiones. Grupos de expertos, como Russell Impagliazzo y Ryan Williams, revisarán los resultados.",
+          "porQueImporta": "Impagliazzo y Paturi propusieron la hipótesis en 1999 y se la creía cierta. OpenAI también anunció una prueba en teoría cuántica de campos que aún no publicó completa.",
+          "fuente": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
           "glosario": [
-            "s-1"
+            "hipotesis-tiempo-exponencial",
+            "conjetura-kakeya"
           ]
         },
         {
-          "titulo": "OpenAI lanza GPT-6.1 Terra, un modelo para usar la computadora a mitad de precio",
-          "resumen": "Según OpenAI, el modelo cuesta en la API USD 1 por millón de tokens de entrada y 5 de salida, la mitad que GPT-5.6 Terra. Su tasa de errores fácticos bajó de 53,6% a 16,7%.",
-          "porQueImporta": "Ya está en ChatGPT Work y Codex para planes pagos. OpenAI lo ubica en el nivel \"crítico\" de capacidad en ciberseguridad.",
-          "fuente": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
-        },
-        {
-          "titulo": "Texas demanda a OpenAI y a Sam Altman por engañar sobre la seguridad de ChatGPT",
-          "resumen": "El fiscal Ken Paxton pide multas de hasta USD 10.000 por infracción y busca prohibir el acceso de menores a ChatGPT. También pide que un perito designado por un tribunal apruebe los nuevos modelos.",
-          "porQueImporta": "La demanda busca que Altman responda en forma personal. OpenAI respondió que trabaja con expertos para reforzar sus salvaguardas.",
-          "fuente": "The Record",
-          "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
+          "titulo": "Google DeepMind presentó Genie 4, que genera mundos interactivos con audio en tiempo real",
+          "resumen": "El modelo de mundo, en vista previa para testers, permite cambiar la escena con texto durante la simulación y mantenerla coherente hasta dos minutos, el doble que Genie 3. Llegará en semanas a suscriptores de Google AI Ultra.",
+          "fuente": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
           "glosario": [
-            "paxton"
+            "deepmind",
+            "modelo-de-mundo"
           ]
         },
         {
-          "titulo": "Apple lanza Siri AI en español, desarrollada con modelos Gemini de Google",
-          "resumen": "La nueva Siri conversacional llegó en español en macOS y visionOS 27.2 y está en beta en iOS 27.2. Lee mensajes, mails y la pantalla para ejecutar acciones.",
-          "porQueImporta": "No está disponible para menores de 13 años y tendrá límites diarios de uso; Apple anticipó que el acceso ampliado será pago.",
-          "fuente": "Apple",
-          "url": "https://www.apple.com/es/newsroom/2026/10/siri-ai-is-now-available-in-more-languages/"
+          "titulo": "Oracle ofrecerá en su nube los chips de Google y de OpenAI y amplía su acuerdo con Nvidia",
+          "resumen": "Oracle sumará las TPU de Google, el chip Jalapeño de OpenAI y hardware de Cerebras, y llevará a varios gigavatios sus servidores Nvidia Vera Rubin. También integrará ChatGPT y Codex en sus aplicaciones.",
+          "porQueImporta": "Es la primera vez que los chips propios de Google funcionan en la nube de otro gran proveedor. Las acciones de Oracle subieron casi 5% y las de Cerebras, 8%.",
+          "fuente": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+          "glosario": [
+            "tpu",
+            "cerebras"
+          ]
         }
       ]
     }
@@ -161,33 +158,39 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "Flávio desistió de pedir la anulación y el PL reconoció el resultado; Milei sigue sin saludar a Lula.",
-      "fuente": "BBC Mundo",
-      "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o"
+      "novedad": "Flávio Bolsonaro dejó Brasil por Misiones y voló desde Puerto Iguazú a Guayaquil pese a la prohibición de Moraes.",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
     },
     {
       "hilo": "ley-malvinas",
-      "novedad": "El dictamen volvió a postergarse; Caputo ofrece sumar a Menem y Abdala al Consejo de Seguridad y bajar penas.",
-      "fuente": "Letra P",
-      "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+      "novedad": "El oficialismo logró dictamen con 60 firmas tras acotar las sanciones a empresas; la sesión apunta al 12 de noviembre.",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+    },
+    {
+      "hilo": "visita-papa-leon",
+      "novedad": "El Vaticano confirmó el viaje a Uruguay, Argentina y Perú del 6 al 17 de noviembre.",
+      "fuente": "Vatican News",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-10/confirmado-el-viaje-a-uruguay-argentina-peru-papa-leon.html"
+    },
+    {
+      "hilo": "elecciones-israel",
+      "novedad": "Con el 77% escrutado, el bloque de Netanyahu tiene 54 bancas y el de Eisenkot 47; nadie llega a 61.",
+      "fuente": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
     },
     {
       "hilo": "guerra-iran",
-      "novedad": "Irán, Arabia Saudita, Turquía y Pakistán acordaron seguir dialogando en Teherán; Trump dice que es \"hora de decidir\".",
-      "fuente": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions"
+      "novedad": "Qatar presentó a Irán un borrador con un cronograma de siete días; Teherán respondería antes del fin de semana.",
+      "fuente": "Reuters (Al-Monitor)",
+      "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-present-iran-new-deal-end-war-official-says"
     },
     {
-      "hilo": "guerra-ucrania",
-      "novedad": "Misiles balísticos dejaron 1 muerto y 15 heridos en Kiev; entró en vigor la tregua local en Oleshky.",
-      "fuente": "Kyiv Independent",
-      "url": "https://kyivindependent.com/paramedics-caught-under-fire-as-russian-ballistic-missiles-slam-kyiv/"
-    },
-    {
-      "hilo": "ipo-anthropic",
-      "novedad": "Anthropic hizo público su S-1: USD 16.300 millones de ingresos en el semestre; cotizará en el Nasdaq como ANT.",
-      "fuente": "Fortune",
-      "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+      "hilo": "hutis-arabia-saudita",
+      "novedad": "Los hutíes dicen haber atacado la refinería de Ras Tanura; Egipto autorizó a su ejército a defender a Arabia Saudita.",
+      "fuente": "Reuters (Al-Monitor)",
+      "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
     }
   ]
 };

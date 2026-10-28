@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
+        "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
@@ -118,8 +125,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
+        "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
+        "fuente": "Reuters (Al-Monitor)",
+        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+      },
       {
         "fecha": "2026-10-26",
         "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
@@ -183,8 +197,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
+        "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Flávio desiste de anular la elección y Milei sigue sin reconocer a Lula",
@@ -320,8 +341,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "El Vaticano confirmó el viaje del papa a Uruguay, Argentina y Perú",
+        "resumen": "Los médicos no encontraron contraindicaciones tras la operación, y la gira se hará del 6 al 17 de noviembre según el programa previsto.",
+        "fuente": "Vatican News",
+        "url": "https://www.vaticannews.va/es/papa/news/2026-10/confirmado-el-viaje-a-uruguay-argentina-peru-papa-leon.html"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
@@ -365,8 +393,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Qatar entregó a Irán un nuevo borrador para terminar la guerra, con un cronograma de siete días",
+        "resumen": "Mediadores qataríes presentaron el domingo un plan de pasos diarios de confianza con varios países garantes; Irán respondería antes del fin de semana. Según The Guardian, el plan del Golfo prevé reabrir Ormuz a los cuatro días de levantadas las sanciones.",
+        "fuente": "Reuters (Al-Monitor)",
+        "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-present-iran-new-deal-end-war-official-says"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Pacto de La Meca e Irán acuerdan seguir dialogando; Trump dice que es \"hora de decidir\"",
@@ -416,14 +451,36 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-10-28",
     "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
+        "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
+        "fuente": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Israel vota con el bloque de Eisenkot por delante de Netanyahu en las encuestas",
         "resumen": "Votan 7,3 millones de electores por 120 escaños. Los sondeos dan 52 a 56 bancas al bloque de Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
         "fuente": "DW",
         "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
+      }
+    ]
+  },
+  "ebola-congo": {
+    "nombre": "Brote de ébola en el Congo",
+    "tema": "Mundo",
+    "creado": "2026-10-28",
+    "actualizado": "2026-10-28",
+    "entradas": [
+      {
+        "fecha": "2026-10-28",
+        "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
+        "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
       }
     ]
   }
