@@ -125,8 +125,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-10-29",
     "entradas": [
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
+        "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
+        "fuente": "RTÉ (AFP)",
+        "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
@@ -197,8 +204,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-10-29",
     "entradas": [
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
+        "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
@@ -254,8 +268,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-10-29",
     "entradas": [
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
+        "resumen": "Los aliados piden coparticipación para la Ciudad, obras viales, bajar el impuesto a los combustibles y más fondos universitarios (el CIN reclama $11 billones; el proyecto da $7,7). C5N habla de \"presión de los aliados\"; Infobae, de una demora sin riesgo real.",
+        "fuente": "C5N",
+        "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Presupuesto 2027: el Gobierno ahora busca un acuerdo con las universidades",
@@ -393,8 +414,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-10-29",
     "entradas": [
+      {
+        "fecha": "2026-10-29",
+        "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
+        "resumen": "Según fuentes citadas por AP, Washington avisó a sus aliados de Medio Oriente que una nueva ofensiva duraría varios días y que Irán podría responder contra instalaciones energéticas de la región. Trump no tomó una decisión final.",
+        "fuente": "AP (The Hill)",
+        "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "Qatar entregó a Irán un nuevo borrador para terminar la guerra, con un cronograma de siete días",
@@ -481,6 +509,21 @@ window.HILOS = {
         "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
         "fuente": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+      }
+    ]
+  },
+  "accidente-tren-toledo": {
+    "nombre": "Choque de trenes de alta velocidad en Toledo",
+    "tema": "Mundo",
+    "creado": "2026-10-29",
+    "actualizado": "2026-10-29",
+    "entradas": [
+      {
+        "fecha": "2026-10-29",
+        "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
+        "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
       }
     ]
   }

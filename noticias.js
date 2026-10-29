@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-28",
-  "actualizado": "2026-10-28T07:10:00-03:00",
+  "fecha": "2026-10-29",
+  "actualizado": "2026-10-29T07:09:29-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
-      "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
-      "tema": "Argentina",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
-    },
-    {
-      "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
-      "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
+      "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
+      "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
       "tema": "Mundo",
-      "fuente": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
+      "fuente": "RTVE",
+      "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
     },
     {
-      "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
-      "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
+      "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
+      "resumen": "Según fuentes citadas por AP, Washington avisó a sus aliados de Medio Oriente que una nueva ofensiva duraría varios días y que Irán podría responder contra instalaciones energéticas de la región. Trump no tomó una decisión final.",
+      "tema": "Mundo",
+      "fuente": "AP (The Hill)",
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/"
+    },
+    {
+      "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
+      "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
       "tema": "Argentina",
       "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
     }
   ],
   "temas": [
@@ -31,37 +31,28 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
-          "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
-          "porQueImporta": "Por la mañana, Migraciones había dicho que no tenía registro de su ingreso. Según Clarín, un patrullero de la PSA escoltó las camionetas hasta la pista; sus pasaportes brasileños fueron cancelados y Lula calificó la salida de \"vergonzosa\".",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html",
+          "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
+          "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
+          "porQueImporta": "Bolsonaro llegó el miércoles a Miami. La oposición pidió interpelar al canciller Pablo Quirno, a la ministra Alejandra Monteoliva y al jefe de Gabinete Diego Santilli; según La Nación, el caso complica el debate de la ley Malvinas.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/",
           "hilo": "milei-lula-balotaje-brasil",
           "glosario": [
             "flavio-bolsonaro",
-            "moraes",
-            "psa"
+            "psa",
+            "quirno",
+            "monteoliva"
           ]
         },
         {
-          "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
-          "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
-          "porQueImporta": "Unión por la Patria firmó un dictamen de minoría con 38 firmas. Según La Nación, persisten las dudas sobre el capítulo de desinformación y libertad de expresión, que \"así como está no sale en el recinto\".",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/",
-          "hilo": "ley-malvinas",
+          "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
+          "resumen": "Los aliados piden coparticipación para la Ciudad, obras viales, bajar el impuesto a los combustibles y más fondos universitarios (el CIN reclama $11 billones; el proyecto da $7,7). C5N habla de \"presión de los aliados\"; Infobae, de una demora sin riesgo real.",
+          "porQueImporta": "El dictamen pasaría al 11 o 17 de noviembre y la sesión al 18 o 25; las sesiones ordinarias terminan el 30 y LLA ya prevé extraordinarias desde el 1 de diciembre. El último borrador elimina el capítulo de discapacidad.",
+          "fuente": "C5N",
+          "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784",
+          "hilo": "presupuesto-2027",
           "glosario": [
-            "ley-malvinas"
-          ]
-        },
-        {
-          "titulo": "El FMI aprobó a nivel técnico la tercera revisión del acuerdo: habilita unos USD 900 millones en diciembre",
-          "resumen": "El staff del Fondo cerró la revisión del programa de USD 20.000 millones y destacó que las reservas superaron en USD 4.000 millones la meta de junio. La Nación subraya el aval; BAE Negocios, que no se cumplió la meta fiscal del semestre ($6,29 billones contra $6,86).",
-          "porQueImporta": "El directorio del FMI lo trataría a principios de diciembre, pero a comienzos de noviembre vence un pago de unos USD 865 millones al organismo. El riesgo país bajó 12 puntos, a 753.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/el-fmi-aprobo-la-tercera-revision-del-acuerdo-con-la-argentina-y-allana-el-camino-para-un-nuevo-nid27102026/",
-          "glosario": [
-            "acuerdo-nivel-tecnico"
+            "cin"
           ]
         }
       ]
@@ -70,49 +61,39 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
-          "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
-          "porQueImporta": "Las encuestas previas daban ventaja al bloque de Eisenkot. El Likud sería la primera fuerza, con unas 27 bancas.",
-          "fuente": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/",
-          "hilo": "elecciones-israel",
+          "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
+          "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
+          "porQueImporta": "Hay más de 180 heridos. Según el ministro de Transportes, Óscar Puente, el AVE iba a unos 200 km/h pese a una señal en rojo; la Guardia Civil ya interrogó al responsable de circulación de Adif.",
+          "fuente": "RTVE",
+          "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml",
+          "hilo": "accidente-tren-toledo",
           "glosario": [
-            "knesset",
-            "eisenkot"
+            "iryo",
+            "adif",
+            "lzb"
           ]
         },
         {
-          "titulo": "Qatar entregó a Irán un nuevo borrador para terminar la guerra, con un cronograma de siete días",
-          "resumen": "Mediadores qataríes presentaron el domingo un plan de pasos diarios de confianza con varios países garantes; Irán respondería antes del fin de semana. Según The Guardian, el plan del Golfo prevé reabrir Ormuz a los cuatro días de levantadas las sanciones.",
-          "porQueImporta": "EE.UU. todavía no dio su aval y los europeos piden que vuelvan los inspectores nucleares de la ONU.",
-          "fuente": "Reuters (Al-Monitor)",
-          "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-present-iran-new-deal-end-war-official-says",
+          "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
+          "resumen": "Según fuentes citadas por AP, Washington avisó a sus aliados de Medio Oriente que una nueva ofensiva duraría varios días y que Irán podría responder contra instalaciones energéticas de la región. Trump no tomó una decisión final.",
+          "porQueImporta": "Teherán calificó de \"ideas inaceptables\" el borrador de Qatar y el canciller Abbas Araghchi insiste en su propio plan de siete días. EE.UU. no ataca Irán desde principios de septiembre; la guerra ya le costó USD 47.100 millones.",
+          "fuente": "AP (The Hill)",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/",
           "hilo": "guerra-iran",
           "glosario": [
-            "ormuz"
+            "araghchi"
           ]
         },
         {
-          "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
-          "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
-          "porQueImporta": "Otros dos misiles fueron interceptados sobre Riad y sus restos dañaron un edificio. Casi todo el petróleo saudí se exporta por Ras Tanura y Yanbu, dos puertos que los hutíes ya atacaron.",
-          "fuente": "Reuters (Al-Monitor)",
-          "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile",
+          "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
+          "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
+          "porQueImporta": "Es el sexto ataque contra ese aeropuerto, según un vocero de las fuerzas del gobierno yemení respaldado por Riad, que tiene su base en Adén.",
+          "fuente": "RTÉ (AFP)",
+          "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/",
           "hilo": "hutis-arabia-saudita",
           "glosario": [
             "hutis",
-            "ras-tanura"
-          ]
-        },
-        {
-          "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
-          "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
-          "porQueImporta": "Es el segundo mayor brote registrado, detrás del de África Occidental de 2014-2016. Cerca del 80% de los casos nuevos aparece fuera de las cadenas de contagio que siguen las autoridades.",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak",
-          "hilo": "ebola-congo",
-          "glosario": [
-            "bundibugyo"
+            "aden"
           ]
         }
       ]
@@ -121,35 +102,23 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "OpenAI dice que su IA refutó la Hipótesis del Tiempo Exponencial y resolvió la conjetura de Kakeya",
-          "resumen": "OpenAI publicó en GitHub pruebas generadas por su IA de que la Hipótesis del Tiempo Exponencial es falsa y de la conjetura de suavizado local, que resuelve la de Kakeya en todas las dimensiones. Grupos de expertos, como Russell Impagliazzo y Ryan Williams, revisarán los resultados.",
-          "porQueImporta": "Impagliazzo y Paturi propusieron la hipótesis en 1999 y se la creía cierta. OpenAI también anunció una prueba en teoría cuántica de campos que aún no publicó completa.",
-          "fuente": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "titulo": "Google presentó Gemini 4 Carbon, su modelo más potente, centrado en ciberseguridad",
+          "resumen": "Encabeza el índice de Artificial Analysis con 59 puntos y logra 88,2% en SEC-bench Pro, que mide la detección de vulnerabilidades. Primero lo recibirán defensores de ciberseguridad elegidos; costará USD 2 por millón de tokens de entrada.",
+          "porQueImporta": "Llega dos semanas después de Gemini 4 Argon. Google lo sometió al proceso voluntario de pruebas previas del gobierno de EE.UU. y lo abrirá a desarrolladores, empresas y usuarios más adelante, sin fecha.",
+          "fuente": "Google",
+          "url": "https://blog.google/intl/es-419/noticias-de-la-empresa/tecnologia/introducing-gemini-4-carbon/",
           "glosario": [
-            "hipotesis-tiempo-exponencial",
-            "conjetura-kakeya"
+            "token"
           ]
         },
         {
-          "titulo": "Google DeepMind presentó Genie 4, que genera mundos interactivos con audio en tiempo real",
-          "resumen": "El modelo de mundo, en vista previa para testers, permite cambiar la escena con texto durante la simulación y mantenerla coherente hasta dos minutos, el doble que Genie 3. Llegará en semanas a suscriptores de Google AI Ultra.",
-          "fuente": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+          "titulo": "Agentes de IA verificaron por computadora la clasificación de los grupos finitos simples, la demostración más larga de la historia",
+          "resumen": "La empresa Axiom formalizó en Lean la prueba, de unas 15.000 páginas repartidas en más de 500 artículos, con decenas de agentes de IA durante 24 días: unos 43,1 millones de líneas de código.",
+          "porQueImporta": "El trabajo halló 34 desvíos relevantes en la literatura publicada, entre ellos contraejemplos a un paso de la prueba del Teorema del Grupo No Balanceado, que se reemplazó con un resultado nuevo. Los matemáticos aún deben revisar que el enunciado formal sea el correcto.",
+          "fuente": "Axiom",
+          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
           "glosario": [
-            "deepmind",
-            "modelo-de-mundo"
-          ]
-        },
-        {
-          "titulo": "Oracle ofrecerá en su nube los chips de Google y de OpenAI y amplía su acuerdo con Nvidia",
-          "resumen": "Oracle sumará las TPU de Google, el chip Jalapeño de OpenAI y hardware de Cerebras, y llevará a varios gigavatios sus servidores Nvidia Vera Rubin. También integrará ChatGPT y Codex en sus aplicaciones.",
-          "porQueImporta": "Es la primera vez que los chips propios de Google funcionan en la nube de otro gran proveedor. Las acciones de Oracle subieron casi 5% y las de Cerebras, 8%.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-          "glosario": [
-            "tpu",
-            "cerebras"
+            "lean"
           ]
         }
       ]
@@ -158,39 +127,27 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "Flávio Bolsonaro dejó Brasil por Misiones y voló desde Puerto Iguazú a Guayaquil pese a la prohibición de Moraes.",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
-    },
-    {
-      "hilo": "ley-malvinas",
-      "novedad": "El oficialismo logró dictamen con 60 firmas tras acotar las sanciones a empresas; la sesión apunta al 12 de noviembre.",
+      "novedad": "Bolsonaro llegó a Miami; el Gobierno defendió la legalidad de su paso, un vocero admitió colaboración con Trump y la oposición pidió interpelar a tres ministros.",
       "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
     },
     {
-      "hilo": "visita-papa-leon",
-      "novedad": "El Vaticano confirmó el viaje a Uruguay, Argentina y Perú del 6 al 17 de noviembre.",
-      "fuente": "Vatican News",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-10/confirmado-el-viaje-a-uruguay-argentina-peru-papa-leon.html"
-    },
-    {
-      "hilo": "elecciones-israel",
-      "novedad": "Con el 77% escrutado, el bloque de Netanyahu tiene 54 bancas y el de Eisenkot 47; nadie llega a 61.",
-      "fuente": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
+      "hilo": "presupuesto-2027",
+      "novedad": "Se suspendió la firma del dictamen por reclamos de PRO, UCR y gobernadores; la sesión pasaría al 18 o al 25 de noviembre.",
+      "fuente": "C5N",
+      "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784"
     },
     {
       "hilo": "guerra-iran",
-      "novedad": "Qatar presentó a Irán un borrador con un cronograma de siete días; Teherán respondería antes del fin de semana.",
-      "fuente": "Reuters (Al-Monitor)",
-      "url": "https://www.al-monitor.com/originals/2026/10/qatari-mediators-present-iran-new-deal-end-war-official-says"
+      "novedad": "EE.UU. pidió a sus aliados prepararse para posibles ataques después del 3 de noviembre; Irán calificó de \"ideas inaceptables\" el borrador qatarí.",
+      "fuente": "AP (The Hill)",
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/"
     },
     {
       "hilo": "hutis-arabia-saudita",
-      "novedad": "Los hutíes dicen haber atacado la refinería de Ras Tanura; Egipto autorizó a su ejército a defender a Arabia Saudita.",
-      "fuente": "Reuters (Al-Monitor)",
-      "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+      "novedad": "Bombardeos atribuidos a Arabia Saudita dejaron 14 muertos en Jawf y los hutíes volvieron a atacar el aeropuerto de Adén.",
+      "fuente": "RTÉ (AFP)",
+      "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
     }
   ]
 };

@@ -596,5 +596,85 @@ window.GLOSARIO = {
       "Cerebras"
     ],
     "actualizado": "2026-10-28"
+  },
+  "quirno": {
+    "nombre": "Pablo Quirno",
+    "tipo": "persona",
+    "texto": "Canciller argentino desde octubre de 2025; antes fue secretario de Finanzas. La oposición pidió interpelarlo por el paso de Flávio Bolsonaro por el país.",
+    "alias": [
+      "Pablo Quirno",
+      "Quirno"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pablo_Quirno_Magrane_-_Retrato_Oficial_2025.png/330px-Pablo_Quirno_Magrane_-_Retrato_Oficial_2025.png",
+    "actualizado": "2026-10-29"
+  },
+  "monteoliva": {
+    "nombre": "Alejandra Monteoliva",
+    "tipo": "persona",
+    "texto": "Ministra de Seguridad Nacional desde diciembre de 2025; de su cartera dependen Migraciones y la PSA. La oposición pidió interpelarla por el caso Bolsonaro.",
+    "alias": [
+      "Alejandra Monteoliva",
+      "Monteoliva"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CeremoniaPromoci%C3%B3nLXV_%28cropped%29.jpg/330px-CeremoniaPromoci%C3%B3nLXV_%28cropped%29.jpg",
+    "actualizado": "2026-10-29"
+  },
+  "araghchi": {
+    "nombre": "Abbas Araghchi",
+    "tipo": "persona",
+    "texto": "Canciller de Irán desde agosto de 2024. Conduce la diplomacia iraní en las negociaciones para terminar la guerra con EE.UU. e Israel.",
+    "alias": [
+      "Abbas Araghchi",
+      "Araghchi",
+      "Araqchi"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Abbas_Araghchi_in_a_interview_with_khamenei.ir_%28cropped%29.jpg/330px-Abbas_Araghchi_in_a_interview_with_khamenei.ir_%28cropped%29.jpg",
+    "actualizado": "2026-10-29"
+  },
+  "adif": {
+    "nombre": "Adif",
+    "tipo": "organizacion",
+    "texto": "Empresa pública española que administra la red ferroviaria y controla la circulación de los trenes. Su centro de control de Atocha autorizó al AVE a reanudar la marcha.",
+    "alias": [
+      "Adif"
+    ],
+    "actualizado": "2026-10-29"
+  },
+  "iryo": {
+    "nombre": "Iryo",
+    "tipo": "organizacion",
+    "texto": "Operador privado de trenes de alta velocidad en España, que compite con Renfe desde 2022.",
+    "alias": [
+      "Iryo"
+    ],
+    "actualizado": "2026-10-29"
+  },
+  "lzb": {
+    "nombre": "LZB",
+    "tipo": "concepto",
+    "texto": "Sistema de control de trenes de origen alemán que transmite a la cabina la velocidad permitida y frena en forma automática. Se usa en la línea de alta velocidad Madrid-Sevilla.",
+    "alias": [
+      "LZB"
+    ],
+    "actualizado": "2026-10-29"
+  },
+  "token": {
+    "nombre": "Token",
+    "tipo": "concepto",
+    "texto": "Unidad mínima de texto (una palabra o parte de ella) que procesa un modelo de lenguaje. Las empresas de IA cobran el uso de sus modelos por millón de tokens.",
+    "alias": [
+      "tokens",
+      "token"
+    ],
+    "actualizado": "2026-10-29"
+  },
+  "lean": {
+    "nombre": "Lean",
+    "tipo": "concepto",
+    "texto": "Lenguaje de programación y asistente de demostraciones en el que la computadora verifica cada paso de una prueba matemática.",
+    "alias": [
+      "Lean"
+    ],
+    "actualizado": "2026-10-29"
   }
 };
