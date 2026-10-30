@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-10-29",
-  "actualizado": "2026-10-29T07:09:29-03:00",
+  "fecha": "2026-10-30",
+  "actualizado": "2026-10-30T10:13:00-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
-      "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
-      "tema": "Mundo",
-      "fuente": "RTVE",
-      "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
-    },
-    {
-      "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
-      "resumen": "Según fuentes citadas por AP, Washington avisó a sus aliados de Medio Oriente que una nueva ofensiva duraría varios días y que Irán podría responder contra instalaciones energéticas de la región. Trump no tomó una decisión final.",
-      "tema": "Mundo",
-      "fuente": "AP (The Hill)",
-      "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/"
-    },
-    {
-      "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
-      "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
+      "titulo": "Senado: media sanción a la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+      "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
       "tema": "Argentina",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/"
+    },
+    {
+      "titulo": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero, ocho meses antes de terminar su mandato",
+      "resumen": "Dijo que se va para tener \"libertad de expresión\" sobre temas ajenos a la política monetaria, que la neutralidad del cargo le impide. Lagarde, de 70 años, dirige el BCE desde noviembre de 2019; su mandato vencía en octubre de 2027.",
+      "tema": "Mundo",
+      "fuente": "Reuters (Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy-4984570"
+    },
+    {
+      "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
+      "resumen": "Los partidos árabes sumaron 19 escaños de la Knéset, un récord, pero ambos bloques descartaron gobernar con Ra'am y la Lista Conjunta. Los resultados se entregarán certificados al presidente Isaac Herzog el miércoles 4 de noviembre.",
+      "tema": "Mundo",
+      "fuente": "NBC News",
+      "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
     }
   ],
   "temas": [
@@ -31,28 +31,27 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
-          "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
-          "porQueImporta": "Bolsonaro llegó el miércoles a Miami. La oposición pidió interpelar al canciller Pablo Quirno, a la ministra Alejandra Monteoliva y al jefe de Gabinete Diego Santilli; según La Nación, el caso complica el debate de la ley Malvinas.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/",
-          "hilo": "milei-lula-balotaje-brasil",
+          "titulo": "Senado: media sanción a la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+          "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
+          "porQueImporta": "Votaron en contra el bloque Justicialista, Independencia y Convicción Federal. En la misma sesión se aprobaron por 60 a 2 el RIIR, para inversiones desde USD 12 millones, y un mercado de créditos de carbono; ambos van a Diputados.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/",
+          "hilo": "reforma-salud-mental",
           "glosario": [
-            "flavio-bolsonaro",
-            "psa",
-            "quirno",
-            "monteoliva"
+            "ley-salud-mental",
+            "riir"
           ]
         },
         {
-          "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
-          "resumen": "Los aliados piden coparticipación para la Ciudad, obras viales, bajar el impuesto a los combustibles y más fondos universitarios (el CIN reclama $11 billones; el proyecto da $7,7). C5N habla de \"presión de los aliados\"; Infobae, de una demora sin riesgo real.",
-          "porQueImporta": "El dictamen pasaría al 11 o 17 de noviembre y la sesión al 18 o 25; las sesiones ordinarias terminan el 30 y LLA ya prevé extraordinarias desde el 1 de diciembre. El último borrador elimina el capítulo de discapacidad.",
-          "fuente": "C5N",
-          "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784",
-          "hilo": "presupuesto-2027",
+          "titulo": "Bolsonaro: la jueza Capuchetti pidió informes al Gobierno sobre su paso por la Argentina",
+          "resumen": "A pedido de la fiscal Paloma Ochoa, consultó a Cancillería y Migraciones si sabían de las restricciones de la Justicia brasileña y pidió cámaras del 27 y 28 de octubre. TN aclara que no hay delito acreditado; Página/12, que en Misiones se desestimó la denuncia de Pagano.",
+          "porQueImporta": "Según TN, Flávio Bolsonaro entró con su documento brasileño y salió con pasaporte italiano en un avión privado, sin alerta roja de Interpol. La causa de Capuchetti nació de una denuncia de Gabriel Solano (PO); hay al menos otras dos.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/politica/2026/10/29/la-justicia-le-ordeno-al-gobierno-que-informe-sobre-los-movimientos-de-flavio-bolsonaro-en-la-argentina/",
+          "hilo": "milei-lula-balotaje-brasil",
           "glosario": [
-            "cin"
+            "capuchetti",
+            "flavio-bolsonaro"
           ]
         }
       ]
@@ -61,39 +60,34 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
-          "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
-          "porQueImporta": "Hay más de 180 heridos. Según el ministro de Transportes, Óscar Puente, el AVE iba a unos 200 km/h pese a una señal en rojo; la Guardia Civil ya interrogó al responsable de circulación de Adif.",
-          "fuente": "RTVE",
-          "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml",
-          "hilo": "accidente-tren-toledo",
+          "titulo": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero, ocho meses antes de terminar su mandato",
+          "resumen": "Dijo que se va para tener \"libertad de expresión\" sobre temas ajenos a la política monetaria, que la neutralidad del cargo le impide. Lagarde, de 70 años, dirige el BCE desde noviembre de 2019; su mandato vencía en octubre de 2027.",
+          "porQueImporta": "El sucesor lo designa el Consejo Europeo, que preside António Costa; Lagarde afirmó que el proceso de selección ya empezó y que no habrá parálisis en las decisiones.",
+          "fuente": "Reuters (Investing.com)",
+          "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy-4984570"
+        },
+        {
+          "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
+          "resumen": "Los partidos árabes sumaron 19 escaños de la Knéset, un récord, pero ambos bloques descartaron gobernar con Ra'am y la Lista Conjunta. Los resultados se entregarán certificados al presidente Isaac Herzog el miércoles 4 de noviembre.",
+          "porQueImporta": "Herzog consultará a los partidos y encargará formar gobierno a quien considere con más chances. El bloque de Netanyahu llegó a controlar 68 bancas en la legislatura anterior.",
+          "fuente": "NBC News",
+          "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290",
+          "hilo": "elecciones-israel",
           "glosario": [
-            "iryo",
-            "adif",
-            "lzb"
+            "eisenkot",
+            "knesset",
+            "raam"
           ]
         },
         {
-          "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
-          "resumen": "Según fuentes citadas por AP, Washington avisó a sus aliados de Medio Oriente que una nueva ofensiva duraría varios días y que Irán podría responder contra instalaciones energéticas de la región. Trump no tomó una decisión final.",
-          "porQueImporta": "Teherán calificó de \"ideas inaceptables\" el borrador de Qatar y el canciller Abbas Araghchi insiste en su propio plan de siete días. EE.UU. no ataca Irán desde principios de septiembre; la guerra ya le costó USD 47.100 millones.",
-          "fuente": "AP (The Hill)",
-          "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/",
-          "hilo": "guerra-iran",
+          "titulo": "Ucrania: un dron ruso mató a 14 personas en la estación de trenes de Dnipro",
+          "resumen": "Impactó en un andén donde un tren iba a salir hacia Zaporiyia; los ataques rusos del jueves dejaron al menos 19 muertos. Rusia dijo haber derribado esa noche 1.214 drones ucranianos, 613 de ellos dirigidos a Moscú.",
+          "porQueImporta": "La tregua local de seis días en Oleshky, vigente desde el martes, se cumplía sin violaciones reportadas. Moscú y Kiev prevén retomar en noviembre las negociaciones de paz con mediación de EE.UU.",
+          "fuente": "Al Jazeera (AFP, AP, Reuters)",
+          "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight",
+          "hilo": "guerra-ucrania",
           "glosario": [
-            "araghchi"
-          ]
-        },
-        {
-          "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
-          "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
-          "porQueImporta": "Es el sexto ataque contra ese aeropuerto, según un vocero de las fuerzas del gobierno yemení respaldado por Riad, que tiene su base en Adén.",
-          "fuente": "RTÉ (AFP)",
-          "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/",
-          "hilo": "hutis-arabia-saudita",
-          "glosario": [
-            "hutis",
-            "aden"
+            "oleshky"
           ]
         }
       ]
@@ -102,23 +96,14 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Google presentó Gemini 4 Carbon, su modelo más potente, centrado en ciberseguridad",
-          "resumen": "Encabeza el índice de Artificial Analysis con 59 puntos y logra 88,2% en SEC-bench Pro, que mide la detección de vulnerabilidades. Primero lo recibirán defensores de ciberseguridad elegidos; costará USD 2 por millón de tokens de entrada.",
-          "porQueImporta": "Llega dos semanas después de Gemini 4 Argon. Google lo sometió al proceso voluntario de pruebas previas del gobierno de EE.UU. y lo abrirá a desarrolladores, empresas y usuarios más adelante, sin fecha.",
-          "fuente": "Google",
-          "url": "https://blog.google/intl/es-419/noticias-de-la-empresa/tecnologia/introducing-gemini-4-carbon/",
+          "titulo": "Mistral liberó los pesos de Mistral Large 4, un modelo de un billón de parámetros",
+          "resumen": "La empresa francesa permite descargarlo, modificarlo y usarlo comercialmente; quien lo venda como servicio necesita una licencia aparte. Según Mistral, lidera entre los modelos abiertos en Terminal-Bench 4.0 (41%) y FrontierCode 2.0 (19,7%).",
+          "porQueImporta": "Fue entrenado desde cero en Europa y apunta a gobiernos y empresas que quieren correr la IA en sus propios servidores. Por API cuesta USD 0,70 por millón de tokens de entrada.",
+          "fuente": "Mistral",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
           "glosario": [
+            "pesos-abiertos",
             "token"
-          ]
-        },
-        {
-          "titulo": "Agentes de IA verificaron por computadora la clasificación de los grupos finitos simples, la demostración más larga de la historia",
-          "resumen": "La empresa Axiom formalizó en Lean la prueba, de unas 15.000 páginas repartidas en más de 500 artículos, con decenas de agentes de IA durante 24 días: unos 43,1 millones de líneas de código.",
-          "porQueImporta": "El trabajo halló 34 desvíos relevantes en la literatura publicada, entre ellos contraejemplos a un paso de la prueba del Teorema del Grupo No Balanceado, que se reemplazó con un resultado nuevo. Los matemáticos aún deben revisar que el enunciado formal sea el correcto.",
-          "fuente": "Axiom",
-          "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
-          "glosario": [
-            "lean"
           ]
         }
       ]
@@ -127,27 +112,27 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "milei-lula-balotaje-brasil",
-      "novedad": "Bolsonaro llegó a Miami; el Gobierno defendió la legalidad de su paso, un vocero admitió colaboración con Trump y la oposición pidió interpelar a tres ministros.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
+      "novedad": "La jueza Capuchetti pidió informes a Cancillería y Migraciones y la preservación de cámaras para reconstruir la salida de Flávio Bolsonaro; en Misiones se desestimó una de las denuncias.",
+      "fuente": "TN",
+      "url": "https://tn.com.ar/politica/2026/10/29/la-justicia-le-ordeno-al-gobierno-que-informe-sobre-los-movimientos-de-flavio-bolsonaro-en-la-argentina/"
     },
     {
-      "hilo": "presupuesto-2027",
-      "novedad": "Se suspendió la firma del dictamen por reclamos de PRO, UCR y gobernadores; la sesión pasaría al 18 o al 25 de noviembre.",
-      "fuente": "C5N",
-      "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784"
+      "hilo": "elecciones-israel",
+      "novedad": "Terminó el conteo: 53 bancas para el bloque de Netanyahu, 48 para el de Eisenkot y 19 para los partidos árabes; nadie llega a 61.",
+      "fuente": "NBC News",
+      "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
+    },
+    {
+      "hilo": "guerra-ucrania",
+      "novedad": "Un dron ruso mató a 14 personas en la estación de Dnipro y Ucrania lanzó más de 600 drones contra Moscú; la tregua en Oleshky se mantiene.",
+      "fuente": "Al Jazeera (AFP, AP, Reuters)",
+      "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight"
     },
     {
       "hilo": "guerra-iran",
-      "novedad": "EE.UU. pidió a sus aliados prepararse para posibles ataques después del 3 de noviembre; Irán calificó de \"ideas inaceptables\" el borrador qatarí.",
-      "fuente": "AP (The Hill)",
-      "url": "https://thehill.com/homenews/ap/ap-international/ap-us-warns-allies-to-prepare-for-possible-iran-strikes-retaliation-after-elections-ap-sources-say-2/"
-    },
-    {
-      "hilo": "hutis-arabia-saudita",
-      "novedad": "Bombardeos atribuidos a Arabia Saudita dejaron 14 muertos en Jawf y los hutíes volvieron a atacar el aeropuerto de Adén.",
-      "fuente": "RTÉ (AFP)",
-      "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+      "novedad": "Mediadores de Qatar volvieron a Teherán en coordinación con EE.UU.; siguen trabados por el orden de los temas: lo nuclear primero, o el fin del bloqueo y las sanciones.",
+      "fuente": "Reuters (Arab News)",
+      "url": "https://www.arabnews.com/middle-east/qatari-mediators-return-to-tehran-to-push-for-us-iran-deal-official-says-3008974"
     }
   ]
 };

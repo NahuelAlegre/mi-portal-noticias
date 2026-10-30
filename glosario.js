@@ -676,5 +676,52 @@ window.GLOSARIO = {
       "Lean"
     ],
     "actualizado": "2026-10-29"
+  },
+  "ley-salud-mental": {
+    "nombre": "Ley Nacional de Salud Mental",
+    "tipo": "ley",
+    "texto": "Ley 26.657, sancionada en 2010, que regula la atención en salud mental y prohíbe crear nuevos manicomios. El Gobierno impulsa una reforma que el Senado aprobó el 30 de octubre de 2026.",
+    "alias": [
+      "Ley de Salud Mental"
+    ],
+    "actualizado": "2026-10-30"
+  },
+  "riir": {
+    "nombre": "Régimen de Incentivo para Inversiones Relevantes (RIIR)",
+    "tipo": "ley",
+    "texto": "Proyecto con beneficios fiscales y estabilidad tributaria por 30 años para inversiones desde USD 12 millones. Complementa al RIGI, pensado para proyectos de más de USD 100 millones.",
+    "alias": [
+      "RIIR"
+    ],
+    "actualizado": "2026-10-30"
+  },
+  "capuchetti": {
+    "nombre": "María Eugenia Capuchetti",
+    "tipo": "persona",
+    "texto": "Jueza federal a cargo del Juzgado Criminal y Correccional Federal N° 5 de Comodoro Py. Investiga si funcionarios facilitaron la salida de Flávio Bolsonaro del país.",
+    "alias": [
+      "Capuchetti"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Maria_Eugenia_Capuchetti.jpg",
+    "actualizado": "2026-10-30"
+  },
+  "raam": {
+    "nombre": "Ra'am",
+    "tipo": "organizacion",
+    "texto": "Partido árabe islamista de Israel, liderado por Mansour Abbas. En 2021 fue el primer partido árabe en integrar una coalición de gobierno israelí.",
+    "alias": [
+      "Ra'am"
+    ],
+    "actualizado": "2026-10-30"
+  },
+  "pesos-abiertos": {
+    "nombre": "Pesos abiertos",
+    "tipo": "concepto",
+    "texto": "Modelo de IA cuyos parámetros entrenados (los «pesos») se publican para descargar, de modo que cualquiera puede ejecutarlo y adaptarlo en sus propios equipos.",
+    "alias": [
+      "pesos abiertos",
+      "pesos"
+    ],
+    "actualizado": "2026-10-30"
   }
 };

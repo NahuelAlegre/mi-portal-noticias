@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-10-30",
     "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Ucrania: un dron ruso mató a 14 personas en la estación de trenes de Dnipro",
+        "resumen": "Impactó en un andén donde un tren iba a salir hacia Zaporiyia; los ataques rusos del jueves dejaron al menos 19 muertos. Rusia dijo haber derribado esa noche 1.214 drones ucranianos, 613 de ellos dirigidos a Moscú.",
+        "fuente": "Al Jazeera (AFP, AP, Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Misiles balísticos sobre Kiev y entrada en vigor de la tregua en Oleshky",
@@ -204,8 +211,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-29",
+    "actualizado": "2026-10-30",
     "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Bolsonaro: la jueza Capuchetti pidió informes al Gobierno sobre su paso por la Argentina",
+        "resumen": "A pedido de la fiscal Paloma Ochoa, consultó a Cancillería y Migraciones si sabían de las restricciones de la Justicia brasileña y pidió cámaras del 27 y 28 de octubre. TN aclara que no hay delito acreditado; Página/12, que en Misiones se desestimó la denuncia de Pagano.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/29/la-justicia-le-ordeno-al-gobierno-que-informe-sobre-los-movimientos-de-flavio-bolsonaro-en-la-argentina/"
+      },
       {
         "fecha": "2026-10-29",
         "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
@@ -414,8 +428,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-29",
+    "actualizado": "2026-10-30",
     "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Mediadores de Qatar volvieron a Teherán para buscar un acuerdo entre EE.UU. e Irán",
+        "resumen": "La gestión está coordinada con Washington, según un funcionario citado por Reuters. EE.UU. quiere incluir el tema nuclear desde el inicio; Irán exige antes el fin del bloqueo de sus puertos y de las sanciones al petróleo.",
+        "fuente": "Reuters (Arab News)",
+        "url": "https://www.arabnews.com/middle-east/qatari-mediators-return-to-tehran-to-push-for-us-iran-deal-official-says-3008974"
+      },
       {
         "fecha": "2026-10-29",
         "titulo": "EE.UU. pidió a sus aliados prepararse para posibles ataques contra Irán después de las elecciones del 3 de noviembre",
@@ -479,8 +500,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-10-30",
     "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
+        "resumen": "Los partidos árabes sumaron 19 escaños de la Knéset, un récord, pero ambos bloques descartaron gobernar con Ra'am y la Lista Conjunta. Los resultados se entregarán certificados al presidente Isaac Herzog el miércoles 4 de noviembre.",
+        "fuente": "NBC News",
+        "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
@@ -524,6 +552,21 @@ window.HILOS = {
         "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
         "fuente": "RTVE",
         "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
+      }
+    ]
+  },
+  "reforma-salud-mental": {
+    "nombre": "Reforma de la Ley de Salud Mental",
+    "tema": "Argentina",
+    "creado": "2026-10-30",
+    "actualizado": "2026-10-30",
+    "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Senado: media sanción a la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+        "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/"
       }
     ]
   }
