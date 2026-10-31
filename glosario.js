@@ -169,11 +169,11 @@ window.GLOSARIO = {
   "libra": {
     "nombre": "$LIBRA",
     "tipo": "concepto",
-    "texto": "Criptomoneda que Milei difundió en X el 14 de febrero de 2025; su precio subió y se desplomó en horas. La causa judicial investigaba una posible estafa a inversores.",
+    "texto": "Criptomoneda que Milei difundió en X el 14 de febrero de 2025; su precio subió y se desplomó en horas. La causa por posible estafa se cerró el 23/10/2026 y la PIA pidió reabrirla.",
     "alias": [
       "$LIBRA"
     ],
-    "actualizado": "2026-10-24"
+    "actualizado": "2026-10-31"
   },
   "martinez-de-giorgi": {
     "nombre": "Marcelo Martínez de Giorgi",
@@ -187,11 +187,11 @@ window.GLOSARIO = {
   "taiano": {
     "nombre": "Eduardo Taiano",
     "tipo": "persona",
-    "texto": "Fiscal federal de Comodoro Py a cargo de la investigación por $LIBRA. Pidió el sobreseimiento de los hermanos Milei y del resto de los investigados.",
+    "texto": "Fiscal federal de Comodoro Py que investigó $LIBRA y pidió el sobreseimiento de los hermanos Milei, dictado el 23 de octubre de 2026.",
     "alias": [
       "Taiano"
     ],
-    "actualizado": "2026-10-24"
+    "actualizado": "2026-10-31"
   },
   "hayden-davis": {
     "nombre": "Hayden Mark Davis",
@@ -723,5 +723,128 @@ window.GLOSARIO = {
       "pesos"
     ],
     "actualizado": "2026-10-30"
+  },
+  "itamaraty": {
+    "nombre": "Itamaraty",
+    "tipo": "organizacion",
+    "texto": "Nombre con el que se conoce al Ministerio de Relaciones Exteriores de Brasil, por el palacio que fue su sede. Lo encabeza el canciller Mauro Vieira.",
+    "alias": [
+      "Itamaraty"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "pia": {
+    "nombre": "Procuraduría de Investigaciones Administrativas (PIA)",
+    "tipo": "organizacion",
+    "texto": "Fiscalía del Ministerio Público Fiscal especializada en delitos de funcionarios públicos, a cargo de Sergio Rodríguez. Pidió reabrir la causa $LIBRA.",
+    "alias": [
+      "PIA",
+      "Procuraduría de Investigaciones Administrativas"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "tribunal-constitucional-polonia": {
+    "nombre": "Tribunal Constitucional de Polonia",
+    "tipo": "organizacion",
+    "texto": "Corte que controla la constitucionalidad de las leyes polacas. El Gobierno de Tusk desconoce a jueces designados durante los gobiernos del PiS y su conducción está en disputa.",
+    "alias": [
+      "Tribunal Constitucional"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "nawrocki": {
+    "nombre": "Karol Nawrocki",
+    "tipo": "persona",
+    "texto": "Historiador conservador, presidente de Polonia desde agosto de 2025 con apoyo del PiS. Antes dirigió el Instituto de la Memoria Nacional.",
+    "alias": [
+      "Nawrocki"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DHS_Secretary_Kristi_Noem_Travels_to_Poland_-_54553881558_%28cropped%29.jpg/330px-DHS_Secretary_Kristi_Noem_Travels_to_Poland_-_54553881558_%28cropped%29.jpg",
+    "actualizado": "2026-10-31"
+  },
+  "swieczkowski": {
+    "nombre": "Bogdan Święczkowski",
+    "tipo": "persona",
+    "texto": "Jurista y exfiscal nacional polaco, designado presidente del Tribunal Constitucional en 2024. Dirigió la Agencia de Seguridad Interna en 2006-2007.",
+    "alias": [
+      "Bogdan Święczkowski"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bogdan_Swieczkowski.jpg/330px-Bogdan_Swieczkowski.jpg",
+    "actualizado": "2026-10-31"
+  },
+  "korwin-piotrowska": {
+    "nombre": "Anna Korwin-Piotrowska",
+    "tipo": "persona",
+    "texto": "Jueza polaca elegida por el Parlamento para el Tribunal Constitucional. En octubre de 2026 asumió de hecho su conducción y suspendió a Święczkowski.",
+    "alias": [
+      "Anna Korwin-Piotrowska"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Uroczysto%C5%9B%C4%87_wr%C4%99czenia_uchwa%C5%82_Sejmu_o_wyborze_przez_Sejm_na_s%C4%99dzi%C3%B3w_Trybuna%C5%82u_Konstytucyjnego_oraz_%C5%9Blubowania_wobec_Prezydenta_Rzeczypospolitej_Polskiej_-_55196557051_%28cropped%29.jpg/330px-thumbnail.jpg",
+    "actualizado": "2026-10-31"
+  },
+  "centcom": {
+    "nombre": "Comando Central de EE.UU. (CENTCOM)",
+    "tipo": "organizacion",
+    "texto": "Comando militar estadounidense para Medio Oriente, Asia Central y parte del sur de Asia, con sede en Tampa. Lo dirige el almirante Brad Cooper.",
+    "alias": [
+      "CENTCOM"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "pac-3": {
+    "nombre": "Patriot PAC-3",
+    "tipo": "concepto",
+    "texto": "Misil interceptor del sistema antiaéreo estadounidense Patriot, fabricado por Lockheed Martin. Es el arma que usa Ucrania para derribar misiles balísticos.",
+    "alias": [
+      "Patriot"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "novaya-gazeta": {
+    "nombre": "Novaya Gazeta",
+    "tipo": "organizacion",
+    "texto": "Diario independiente ruso fundado en 1993, conocido por sus investigaciones sobre corrupción y abusos de poder. Un tribunal le revocó la licencia de medio en 2022.",
+    "alias": [
+      "Novaya Gazeta"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "muratov": {
+    "nombre": "Dmitri Murátov",
+    "tipo": "persona",
+    "texto": "Periodista ruso, cofundador y exdirector de Novaya Gazeta. Recibió el Nobel de la Paz 2021 junto con Maria Ressa y fue declarado \"agente extranjero\" en 2023.",
+    "alias": [
+      "Dmitri Murátov",
+      "Murátov"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dmitry_Muratov_Four_Freedoms_Award_2010.jpg/330px-Dmitry_Muratov_Four_Freedoms_Award_2010.jpg",
+    "actualizado": "2026-10-31"
+  },
+  "tradertraitor": {
+    "nombre": "TraderTraitor",
+    "tipo": "organizacion",
+    "texto": "Unidad de hackers norcoreana dedicada a robar criptomonedas. Según el Tesoro de EE.UU., forma parte del Grupo Lazarus.",
+    "alias": [
+      "TraderTraitor"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "robots-txt": {
+    "nombre": "robots.txt",
+    "tipo": "concepto",
+    "texto": "Archivo de texto que publican los sitios web para indicar qué rastreadores automáticos pueden acceder a sus páginas y cuáles no.",
+    "alias": [
+      "robots.txt"
+    ],
+    "actualizado": "2026-10-31"
+  },
+  "ietf": {
+    "nombre": "IETF (Internet Engineering Task Force)",
+    "tipo": "organizacion",
+    "texto": "Organización abierta que elabora estándares técnicos de internet. Tiene un grupo de trabajo sobre las preferencias de uso de contenidos por la IA.",
+    "alias": [
+      "IETF"
+    ],
+    "actualizado": "2026-10-31"
   }
 };

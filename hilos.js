@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-30",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "EE.UU. aprobó la venta de 500 misiles Patriot a Ucrania, pero Zelensky advierte que llegarían en años",
+        "resumen": "La operación, de USD 2.100 millones, la pagan Canadá, Alemania y Noruega mediante el programa Jumpstart, junto con fondos de un préstamo de la UE. Según fuentes citadas por Reuters, los misiles, aún sin fabricar, llegarían recién en la década de 2030.",
+        "fuente": "The Guardian (Reuters, AFP)",
+        "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years"
+      },
       {
         "fecha": "2026-10-30",
         "titulo": "Ucrania: un dron ruso mató a 14 personas en la estación de trenes de Dnipro",
@@ -132,8 +139,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-29",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
+        "resumen": "La coalición saudí también informó misiles derribados hacia Riad y el oeste del reino. Los hutíes dicen que solo atacan instalaciones petroleras y militares; medios hutíes reportaron bombardeos en Marib, Taiz y Jawf.",
+        "fuente": "Al Jazeera (AFP, Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
+      },
       {
         "fecha": "2026-10-29",
         "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
@@ -211,8 +225,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-30",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Brasil convocó a la encargada de negocios argentina por la salida de Flávio Bolsonaro; Quirno lo niega",
+        "resumen": "Itamaraty recibió el jueves a María Emilia Cortés para pedir información sobre el rol de funcionarios argentinos. La Nación y Perfil lo confirman con fuentes brasileñas; Quirno respondió \"FALSO\" y la Cancillería admite la reunión pero niega un pedido de explicaciones.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-brasil-cito-a-la-encargada-de-negocios-de-la-argentina-para-pedirle-explicaciones-por-nid30102026/"
+      },
       {
         "fecha": "2026-10-30",
         "titulo": "Bolsonaro: la jueza Capuchetti pidió informes al Gobierno sobre su paso por la Argentina",
@@ -282,8 +303,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-29",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Presupuesto 2027: el dictamen se corre a noviembre y el Gobierno ya evalúa sesiones extraordinarias",
+        "resumen": "La firma pasaría al 11 o al 17 de noviembre y la media sanción apunta al 25; según Perfil, la Casa Rosada prevé extraordinarias desde el 1 de diciembre. Infobae cita a aliados que dicen que \"está todo muy verde\"; el entorno de Menem busca evitarlas.",
+        "fuente": "Perfil",
+        "url": "https://perfil.com/politica/el-gobierno-cada-vez-mas-complicado-para-apurar-el-presupuesto-y-eliminar-las-paso-a1yLF3W2sONx"
+      },
       {
         "fecha": "2026-10-29",
         "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
@@ -428,8 +456,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-30",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Ormuz: la Guardia Revolucionaria informó tres petroleros en llamas mientras Qatar media entre EE.UU. e Irán",
+        "resumen": "Según Irán, los buques usaban rutas que considera no autorizadas y habían apagado sus sistemas de navegación; no dio nombres ni causas. Otro petrolero fue atacado con minas lapa cerca de Omán y Trump dijo que la guerra terminará \"pronto\".",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu"
+      },
       {
         "fecha": "2026-10-30",
         "titulo": "Mediadores de Qatar volvieron a Teherán para buscar un acuerdo entre EE.UU. e Irán",
@@ -544,8 +579,15 @@ window.HILOS = {
     "nombre": "Choque de trenes de alta velocidad en Toledo",
     "tema": "Mundo",
     "creado": "2026-10-29",
-    "actualizado": "2026-10-29",
+    "actualizado": "2026-10-31",
     "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Toledo: 69 muertos; el operador de Adif que dio la orden al AVE se negó a declarar",
+        "resumen": "El ministro Óscar Puente sostiene que el centro de control de Atocha \"tenía a la vista lo que estaba sucediendo\". La CIAF había advertido en 2025 sobre \"carencias sistémicas\" en las comunicaciones con los maquinistas.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261030/ciaf-investigacion-accidente-trenes-urda-causas/17289829.shtml"
+      },
       {
         "fecha": "2026-10-29",
         "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
@@ -567,6 +609,36 @@ window.HILOS = {
         "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/"
+      }
+    ]
+  },
+  "causa-libra": {
+    "nombre": "Causa $LIBRA",
+    "tema": "Argentina",
+    "creado": "2026-10-31",
+    "actualizado": "2026-10-31",
+    "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "$LIBRA: la Procuraduría de Investigaciones Administrativas pidió reabrir la causa y apeló el sobreseimiento de los Milei",
+        "resumen": "La PIA, de Sergio Rodríguez, asumió la acción penal que dejó Taiano y sostuvo que la investigación \"no se encuentra agotada\". La Nación detalla los indicios que cita, como las visitas de Novelli a la Casa Rosada; Infobae, que se suma a apelaciones de inversores.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/caso-libra-una-fiscalia-especializada-se-involucro-en-reemplazo-del-fiscal-taiano-y-apelo-el-nid30102026/"
+      }
+    ]
+  },
+  "crisis-tribunal-polonia": {
+    "nombre": "Crisis del Tribunal Constitucional en Polonia",
+    "tema": "Mundo",
+    "creado": "2026-10-31",
+    "actualizado": "2026-10-31",
+    "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Polonia: suspendieron al presidente del Tribunal Constitucional y Nawrocki acusa al Gobierno de tomarlo por la fuerza",
+        "resumen": "Siete jueces elegidos por el Parlamento entraron con agentes del Servicio de Protección del Estado y Anna Korwin-Piotrowska suspendió a Bogdan Święczkowski. Nawrocki cortó un viaje a Senegal y forcejeó con jueces para entrar al edificio.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
       }
     ]
   }
