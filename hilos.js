@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Zelensky y Erdogan acordaron trabajar en un nuevo corredor de granos por el mar Negro",
+        "resumen": "En Estambul, Erdogan pidió a Rusia y Ucrania dejar de atacar buques civiles. Rubio dijo que EE.UU. analiza propuestas de Turquía e India para una tregua limitada en el mar Negro que asegure envíos de granos y energía.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "EE.UU. aprobó la venta de 500 misiles Patriot a Ucrania, pero Zelensky advierte que llegarían en años",
@@ -139,8 +146,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
+        "resumen": "Según su vocero, desde el viernes hizo 1.119 ataques con aviones, drones y artillería, neutralizó a 427 combatientes y tomó posiciones estratégicas en la provincia de Jawf. También siguen los combates en Taiz.",
+        "fuente": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/yemeni-forces-claim-1119-strikes-on-houthi-targets-advance-in-al-jawf-3009145"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
@@ -225,8 +239,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Rubio niega que EE.UU. haya participado en la salida de Flávio Bolsonaro",
+        "resumen": "En el cierre del G20 de cancilleres en Atlanta dijo que su gobierno no intervino en los preparativos y que Trump solo autorizó su ingreso con un permiso temporal. The New York Times informó que el asesor de Trump Jason Miller gestionó el avión privado.",
+        "fuente": "Infobae (EFE)",
+        "url": "https://www.infobae.com/america/agencias/2026/10/31/marco-rubio-niega-que-eeuu-facilitara-la-salida-de-brasil-de-flavio-bolsonaro/"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "Brasil convocó a la encargada de negocios argentina por la salida de Flávio Bolsonaro; Quirno lo niega",
@@ -339,8 +360,15 @@ window.HILOS = {
     "nombre": "Protestas y disturbios en Francia",
     "tema": "Mundo",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-25",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Francia: tercer sábado de protestas contra la carestía, con menos gente y choques en varias ciudades",
+        "resumen": "Marcharon 320.000 personas según el Ministerio del Interior (70.000 en París) y casi medio millón según los organizadores, contra 410.000 y 550.000 en los dos sábados anteriores. Hubo cargas policiales y gases en París, Lyon y Toulouse.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france"
+      },
       {
         "fecha": "2026-10-25",
         "titulo": "Francia: baja la convocatoria contra la carestía pero hay casi 1.000 detenidos",
@@ -456,8 +484,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Irán: Mojtabá Jameneí ordenó \"disuasión máxima\" mientras Qatar media y EE.UU. evalúa nuevos ataques",
+        "resumen": "El líder supremo ordenó responder de inmediato y \"sin restricción geográfica\" a cualquier ataque. Mediadores qataríes negociaron más de 12 horas en Teherán el viernes y siguieron el sábado en Doha; Rubio dijo que Trump aún no decidió nuevos bombardeos.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "Ormuz: la Guardia Revolucionaria informó tres petroleros en llamas mientras Qatar media entre EE.UU. e Irán",
@@ -631,8 +666,15 @@ window.HILOS = {
     "nombre": "Crisis del Tribunal Constitucional en Polonia",
     "tema": "Mundo",
     "creado": "2026-10-31",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-01",
     "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Polonia: Tusk descarta negociar por el Tribunal Constitucional y Nawrocki reúne a los partidos",
+        "resumen": "Nawrocki convocó consultas \"urgentes\" por una \"amenaza a la seguridad interna\"; el PiS le propuso una moción de censura y un gobierno técnico hasta elecciones en 2027. La Coalición Cívica de Tusk no fue, y el premier dijo que \"no puede haber compromiso\".",
+        "fuente": "Polskie Radio",
+        "url": "https://www.polskieradio.pl/395/7784/artykul/3748058,polish-pm-rejects-compromise-as-president-holds-talks-with-party-leaders"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "Polonia: suspendieron al presidente del Tribunal Constitucional y Nawrocki acusa al Gobierno de tomarlo por la fuerza",

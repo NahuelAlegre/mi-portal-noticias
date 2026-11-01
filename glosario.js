@@ -846,5 +846,51 @@ window.GLOSARIO = {
       "IETF"
     ],
     "actualizado": "2026-10-31"
+  },
+  "mojtaba-khamenei": {
+    "nombre": "Mojtabá Jameneí",
+    "tipo": "persona",
+    "texto": "Clérigo chiita, líder supremo de Irán desde el 8 de marzo de 2026. Es hijo de Alí Jameneí, a quien sucedió en el cargo.",
+    "alias": [
+      "Mojtabá Jameneí"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Mojtaba_Khamenei.jpg/330px-Portrait_of_Mojtaba_Khamenei.jpg",
+    "actualizado": "2026-11-01"
+  },
+  "pis": {
+    "nombre": "PiS (Ley y Justicia)",
+    "tipo": "organizacion",
+    "texto": "Partido conservador nacionalista polaco, hoy principal fuerza opositora. Gobernó entre 2015 y 2023 y designó a la mayoría de los jueces del Tribunal Constitucional.",
+    "alias": [
+      "PiS"
+    ],
+    "actualizado": "2026-11-01"
+  },
+  "kapinski": {
+    "nombre": "Zbigniew Kapiński",
+    "tipo": "persona",
+    "texto": "Juez polaco, primer presidente de la Corte Suprema desde 2026. La legalidad de su nombramiento es cuestionada por el Gobierno de Tusk.",
+    "alias": [
+      "Zbigniew Kapiński"
+    ],
+    "actualizado": "2026-11-01"
+  },
+  "encajes": {
+    "nombre": "Encajes bancarios",
+    "tipo": "concepto",
+    "texto": "Parte de los depósitos que los bancos deben mantener inmovilizada como reserva, según fija el Banco Central. Bajarlos libera fondos para préstamos.",
+    "alias": [
+      "encajes"
+    ],
+    "actualizado": "2026-11-01"
+  },
+  "coatue": {
+    "nombre": "Coatue",
+    "tipo": "organizacion",
+    "texto": "Fondo de inversión estadounidense con sede en Nueva York, fundado por Philippe Laffont, que invierte en empresas tecnológicas.",
+    "alias": [
+      "Coatue"
+    ],
+    "actualizado": "2026-11-01"
   }
 };
