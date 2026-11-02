@@ -892,5 +892,80 @@ window.GLOSARIO = {
       "Coatue"
     ],
     "actualizado": "2026-11-01"
+  },
+  "nadia-marquez": {
+    "nombre": "Nadia Márquez",
+    "tipo": "persona",
+    "texto": "Senadora nacional de La Libertad Avanza por Neuquén desde diciembre de 2025. El sector de Karina Milei la impulsa para presidir la Comisión de Acuerdos.",
+    "alias": [
+      "Nadia Márquez"
+    ],
+    "actualizado": "2026-11-02",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/09/Nadia_M%C3%A1rquez.png"
+  },
+  "comision-de-acuerdos": {
+    "nombre": "Comisión de Acuerdos del Senado",
+    "tipo": "organizacion",
+    "texto": "Comisión del Senado que trata los pliegos de jueces, fiscales, embajadores y militares que envía el Poder Ejecutivo. Su presidencia quedó vacante tras la muerte de Juan Carlos Pagotto.",
+    "alias": [
+      "Comisión de Acuerdos"
+    ],
+    "actualizado": "2026-11-02"
+  },
+  "kushner": {
+    "nombre": "Jared Kushner",
+    "tipo": "persona",
+    "texto": "Empresario estadounidense, yerno de Donald Trump y negociador informal de su gobierno. Pidió a Ucrania una pausa de 30 días en los ataques a refinerías rusas.",
+    "alias": [
+      "Kushner"
+    ],
+    "actualizado": "2026-11-02",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jared_Kushner_June._2019.jpg/330px-Jared_Kushner_June._2019.jpg"
+  },
+  "kstovo": {
+    "nombre": "Kstovo",
+    "tipo": "lugar",
+    "texto": "Ciudad de la región rusa de Nizhni Nóvgorod, sede de una de las mayores refinerías de Rusia. Es blanco frecuente de drones ucranianos.",
+    "alias": [
+      "Kstovo"
+    ],
+    "actualizado": "2026-11-02"
+  },
+  "shin-bet": {
+    "nombre": "Shin Bet",
+    "tipo": "organizacion",
+    "texto": "Servicio de seguridad interior de Israel, encargado de contrainteligencia y antiterrorismo. Investiga denuncias de injerencia extranjera en las elecciones de octubre de 2026.",
+    "alias": [
+      "Shin Bet"
+    ],
+    "actualizado": "2026-11-02"
+  },
+  "minurso": {
+    "nombre": "MINURSO",
+    "tipo": "organizacion",
+    "texto": "Misión de la ONU para el Referéndum del Sáhara Occidental, creada en 1991 para supervisar el alto el fuego entre Marruecos y el Frente Polisario. Su mandato venció el 31 de octubre de 2026.",
+    "alias": [
+      "MINURSO"
+    ],
+    "actualizado": "2026-11-02"
+  },
+  "ley-ia-ue": {
+    "nombre": "Ley de IA de la UE",
+    "tipo": "ley",
+    "texto": "Reglamento europeo de inteligencia artificial (AI Act), aprobado en 2024. Su artículo 50, vigente desde el 2 de agosto de 2026, obliga a marcar el contenido generado por IA.",
+    "alias": [
+      "Ley de IA de la UE",
+      "ley de IA europea"
+    ],
+    "actualizado": "2026-11-02"
+  },
+  "qwen": {
+    "nombre": "Qwen",
+    "tipo": "concepto",
+    "texto": "Familia de modelos de lenguaje de inteligencia artificial desarrollada por el grupo chino Alibaba. Parte de sus versiones se publican como modelos abiertos.",
+    "alias": [
+      "Qwen"
+    ],
+    "actualizado": "2026-11-02"
   }
 };

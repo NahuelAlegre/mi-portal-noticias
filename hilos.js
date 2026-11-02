@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-01",
+    "actualizado": "2026-11-02",
     "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Ucrania volvió a atacar refinerías rusas pese al pedido de Kushner de una pausa de 30 días",
+        "resumen": "Drones ucranianos golpearon refinerías en Kstovo (Nizhni Nóvgorod) y Novokuibyshevsk (Samara) al terminar la tregua de Oleshky. Rusia atacó la red eléctrica en cuatro regiones: Kiev tiene cortes de 8 a 10 horas.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+      },
       {
         "fecha": "2026-11-01",
         "titulo": "Zelensky y Erdogan acordaron trabajar en un nuevo corredor de granos por el mar Negro",
@@ -146,8 +153,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-01",
+    "actualizado": "2026-11-02",
     "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
+        "resumen": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
+        "fuente": "Gulf News",
+        "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
+      },
       {
         "fecha": "2026-11-01",
         "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
@@ -484,8 +498,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-01",
+    "actualizado": "2026-11-02",
     "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Irán y EE.UU.: los negociadores iraníes dejaron Doha y circula un borrador de acuerdo para reabrir Ormuz",
+        "resumen": "Según Reuters, podría haber una nueva reunión; Irán acortó de 7 a 2 días su plazo para reabrir el estrecho de Ormuz y Qatar negocia liberar más de USD 6.000 millones de activos iraníes. Trump dijo que le quedan \"uno o dos objetivos\".",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+      },
       {
         "fecha": "2026-11-01",
         "titulo": "Irán: Mojtabá Jameneí ordenó \"disuasión máxima\" mientras Qatar media y EE.UU. evalúa nuevos ataques",
@@ -570,8 +591,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-10-30",
+    "actualizado": "2026-11-02",
     "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Israel: las autoridades electorales dicen que el resultado se mantiene pese a las denuncias de fraude del Likud",
+        "resumen": "El presidente del comité electoral, Noam Sohlberg, junto al fiscal general y el jefe del Shin Bet, dijo que aun si se prueba injerencia extranjera el resultado no cambia. El Likud acusa sin pruebas a los partidos árabes de \"robar\" la elección.",
+        "fuente": "AP",
+        "url": "https://www.hawaiinewsnow.com/2026/11/02/israeli-officials-say-elections-will-stand-after-netanyahu-claimed-arabs-stole-vote/"
+      },
       {
         "fecha": "2026-10-30",
         "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
@@ -666,8 +694,15 @@ window.HILOS = {
     "nombre": "Crisis del Tribunal Constitucional en Polonia",
     "tema": "Mundo",
     "creado": "2026-10-31",
-    "actualizado": "2026-11-01",
+    "actualizado": "2026-11-02",
     "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Polonia: la oficina de Nawrocki denunciará a tres jueces por el forcejeo en el Tribunal Constitucional",
+        "resumen": "La oficina de Nawrocki anunció denuncias penales contra los jueces Anna Korwin-Piotrowska, Maciej Berek y Krystian Markiewicz por violar su integridad física en el incidente del Tribunal; la jueza dice que fue el presidente quien empujó.",
+        "fuente": "Euronews",
+        "url": "https://pl.euronews.com/2026/11/02/nawrocki-i-sedziowie-w-sporze-po-nocnym-incydencie-w-trybunale-konstytucyjnym"
+      },
       {
         "fecha": "2026-11-01",
         "titulo": "Polonia: Tusk descarta negociar por el Tribunal Constitucional y Nawrocki reúne a los partidos",
@@ -681,6 +716,28 @@ window.HILOS = {
         "resumen": "Siete jueces elegidos por el Parlamento entraron con agentes del Servicio de Protección del Estado y Anna Korwin-Piotrowska suspendió a Bogdan Święczkowski. Nawrocki cortó un viaje a Senegal y forcejeó con jueces para entrar al edificio.",
         "fuente": "Euronews",
         "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+      }
+    ]
+  },
+  "interna-bullrich-milei": {
+    "nombre": "Tensión entre Patricia Bullrich y los Milei",
+    "tema": "Argentina",
+    "creado": "2026-11-02",
+    "actualizado": "2026-11-02",
+    "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
+        "resumen": "Según Clarín, Bullrich rearma su equipo y se lanzaría si Milei mide en abril como Alberto Fernández en 2023. Infobae lee como advertencia la foto de Milei con Nadia Márquez, a quien el karinismo impulsa para la Comisión de Acuerdos; Página/12 dice que \"estira su distancia\".",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Bullrich se diferencia de Milei: dijo que \"cruzó un límite\" al hablar de quemar periodistas",
+        "resumen": "La jefa del bloque de La Libertad Avanza en el Senado cuestionó públicamente los ataques del Presidente al periodismo.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/"
       }
     ]
   }
