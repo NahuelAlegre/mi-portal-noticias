@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-02",
-  "actualizado": "2026-11-02T07:06:43-03:00",
+  "fecha": "2026-11-03",
+  "actualizado": "2026-11-03T10:11:49+00:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Irán y EE.UU.: los negociadores iraníes dejaron Doha y circula un borrador de acuerdo para reabrir Ormuz",
-      "resumen": "Según Reuters, podría haber una nueva reunión; Irán acortó de 7 a 2 días su plazo para reabrir el estrecho de Ormuz y Qatar negocia liberar más de USD 6.000 millones de activos iraníes. Trump dijo que le quedan \"uno o dos objetivos\".",
+      "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
+      "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
       "tema": "Mundo",
-      "fuente": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+      "fuente": "Reuters",
+      "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
     },
     {
-      "titulo": "Ucrania volvió a atacar refinerías rusas pese al pedido de Kushner de una pausa de 30 días",
-      "resumen": "Drones ucranianos golpearon refinerías en Kstovo (Nizhni Nóvgorod) y Novokuibyshevsk (Samara) al terminar la tregua de Oleshky. Rusia atacó la red eléctrica en cuatro regiones: Kiev tiene cortes de 8 a 10 horas.",
+      "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
+      "resumen": "El ataque alcanzó un centro de asistencia instalado en una escuela de Komyshuvakha; el gobernador interino reportó 48 desaparecidos. Zelensky advirtió que Rusia prepara un ataque masivo coincidente con las elecciones en EE.UU.",
       "tema": "Mundo",
-      "fuente": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
     },
     {
-      "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
-      "resumen": "Según Clarín, Bullrich rearma su equipo y se lanzaría si Milei mide en abril como Alberto Fernández en 2023. Infobae lee como advertencia la foto de Milei con Nadia Márquez, a quien el karinismo impulsa para la Comisión de Acuerdos; Página/12 dice que \"estira su distancia\".",
+      "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
+      "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
       "tema": "Argentina",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html"
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
     }
   ],
   "temas": [
@@ -31,15 +31,28 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
-          "resumen": "Según Clarín, Bullrich rearma su equipo y se lanzaría si Milei mide en abril como Alberto Fernández en 2023. Infobae lee como advertencia la foto de Milei con Nadia Márquez, a quien el karinismo impulsa para la Comisión de Acuerdos; Página/12 dice que \"estira su distancia\".",
-          "porQueImporta": "Bullrich preside el bloque de LLA en el Senado, que debe tratar la eliminación de las PASO y el Presupuesto 2027. La mesa política del Gobierno se reúne el martes a las 13, antes del viaje de Milei a Madrid.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html",
-          "hilo": "interna-bullrich-milei",
+          "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
+          "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
+          "porQueImporta": "Es el nivel más alto desde las legislativas de octubre de 2025. El BCRA no compró reservas en cuatro de las últimas seis ruedas, tras adquirir US$1.395 millones en octubre.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/",
+          "hilo": "riesgo-pais-mercados",
           "glosario": [
-            "nadia-marquez",
-            "comision-de-acuerdos"
+            "riesgo-pais",
+            "merval"
+          ]
+        },
+        {
+          "titulo": "Cristina Kirchner no descartó ser candidata en 2027 y el kicillofismo respondió con las PASO",
+          "resumen": "En su primera entrevista desde la condena dijo a The Washington Post: «Cuando recupere mis derechos políticos, ¿por qué no?». Página/12 destaca además su pronóstico de una derrota de Trump; La Nación, la respuesta de Carlos Bianco: que «el pueblo peronista» defina en las PASO.",
+          "porQueImporta": "Cumple seis años de prisión domiciliaria con inhabilitación perpetua por la causa Vialidad; su defensa pidió al Comité de Derechos Humanos de la ONU que revierta esa inhabilitación.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/",
+          "hilo": "candidatura-cfk-2027",
+          "glosario": [
+            "carlos-bianco",
+            "paso",
+            "causa-vialidad"
           ]
         }
       ]
@@ -48,49 +61,48 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Irán y EE.UU.: los negociadores iraníes dejaron Doha y circula un borrador de acuerdo para reabrir Ormuz",
-          "resumen": "Según Reuters, podría haber una nueva reunión; Irán acortó de 7 a 2 días su plazo para reabrir el estrecho de Ormuz y Qatar negocia liberar más de USD 6.000 millones de activos iraníes. Trump dijo que le quedan \"uno o dos objetivos\".",
-          "porQueImporta": "El viernes fue atacado un buque metanero qatarí, y EE.UU. vota en las elecciones de medio término el martes 3.",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
-          "hilo": "guerra-iran",
-          "glosario": [
-            "ormuz"
-          ]
+          "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
+          "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
+          "porQueImporta": "Es el primer veredicto sobre el segundo mandato de Trump, cuya aprobación está cerca de sus mínimos por la suba de los combustibles tras la guerra con Irán.",
+          "fuente": "Reuters",
+          "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake",
+          "hilo": "elecciones-eeuu-2026"
         },
         {
-          "titulo": "Ucrania volvió a atacar refinerías rusas pese al pedido de Kushner de una pausa de 30 días",
-          "resumen": "Drones ucranianos golpearon refinerías en Kstovo (Nizhni Nóvgorod) y Novokuibyshevsk (Samara) al terminar la tregua de Oleshky. Rusia atacó la red eléctrica en cuatro regiones: Kiev tiene cortes de 8 a 10 horas.",
-          "porQueImporta": "El Kremlin dijo que Kiev \"ignora\" a EE.UU. pero que Putin está dispuesto a hablar por teléfono con Zelensky; las negociaciones trilaterales se esperan para fines de noviembre.",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil",
+          "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
+          "resumen": "El ataque alcanzó un centro de asistencia instalado en una escuela de Komyshuvakha; el gobernador interino reportó 48 desaparecidos. Zelensky advirtió que Rusia prepara un ataque masivo coincidente con las elecciones en EE.UU.",
+          "porQueImporta": "Witkoff anunció conversaciones trilaterales con Rusia y Ucrania en Abu Dabi para el 10 y 11 de noviembre.",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
           "hilo": "guerra-ucrania",
           "glosario": [
-            "kushner",
-            "kstovo",
-            "oleshky"
+            "zaporiyia",
+            "witkoff"
           ]
         },
         {
-          "titulo": "Israel: las autoridades electorales dicen que el resultado se mantiene pese a las denuncias de fraude del Likud",
-          "resumen": "El presidente del comité electoral, Noam Sohlberg, junto al fiscal general y el jefe del Shin Bet, dijo que aun si se prueba injerencia extranjera el resultado no cambia. El Likud acusa sin pruebas a los partidos árabes de \"robar\" la elección.",
-          "porQueImporta": "Un juez liberó con condiciones a uno de los tres detenidos vinculados a Ra'am por presunta compra de votos. Herzog empieza el miércoles las consultas para designar a quien intentará formar gobierno.",
-          "fuente": "AP",
-          "url": "https://www.hawaiinewsnow.com/2026/11/02/israeli-officials-say-elections-will-stand-after-netanyahu-claimed-arabs-stole-vote/",
-          "hilo": "elecciones-israel",
+          "titulo": "EE.UU. atacó objetivos iraníes en la isla de Qeshm mientras se negocia un acuerdo",
+          "resumen": "Según funcionarios estadounidenses, los ataques «defensivos» en la isla, junto a Ormuz, respondieron a disparos de la Guardia Revolucionaria contra un avión de EE.UU. El mismo día Trump escribió que un acuerdo «podría darse».",
+          "porQueImporta": "Trump dijo luego que aún deben «ocuparse» de sitios como Pickaxe Mountain, presunta instalación nuclear. Según el CENTCOM, la guerra le costó a EE.UU. al menos US$47.100 millones hasta mediados de octubre.",
+          "fuente": "CBS News",
+          "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+          "hilo": "guerra-iran",
           "glosario": [
-            "shin-bet",
-            "raam"
+            "qeshm",
+            "ormuz",
+            "guardia-revolucionaria",
+            "centcom"
           ]
         },
         {
-          "titulo": "Terminó la misión de la ONU en el Sáhara Occidental tras 35 años, por un veto ruso",
-          "resumen": "Rusia vetó el viernes el proyecto de EE.UU. para la MINURSO y su alternativa de prórroga por un año no logró nueve votos. El mandato venció el sábado y el domingo empezó la liquidación de la misión, que tenía unos 200 integrantes.",
-          "porQueImporta": "La MINURSO se creó en 1991 para un referéndum entre independencia e integración a Marruecos que nunca se hizo. Guterres pidió \"máxima moderación\" ante el riesgo de más hostilidades, reanudadas en 2020.",
-          "fuente": "Noticias ONU",
-          "url": "https://news.un.org/es/story/2026/11/1542130",
+          "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
+          "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
+          "porQueImporta": "Repite el método usado en octubre contra cientos de supermercados franceses. El fabricante Sabcobel dijo que los equipos necesitan modificaciones físicas, no solo actualizaciones de software.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
+          "hilo": "ciberataque-heladeras-europa",
           "glosario": [
-            "minurso"
+            "delhaize"
           ]
         }
       ]
@@ -99,39 +111,46 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Claude y Grok empiezan a marcar sus textos con una marca de agua invisible para cumplir la ley de IA europea",
-          "resumen": "Desde el martes 3, Anthropic aplica la marca a Claude Mythos 5, Opus 4.7, Opus 4.6 y Sonnet 4.6, como ya hacía con sus modelos nuevos; xAI la activará por defecto el 7 en siete modelos de la API de Grok. Es un patrón en la elección de palabras.",
-          "porQueImporta": "Ambas empresas citan el artículo 50 de la Ley de IA de la UE, vigente desde el 2 de agosto. La marca no identifica al usuario y solo organizaciones autorizadas, como reguladores o medios, pueden verificarla.",
-          "fuente": "Mashable",
-          "url": "https://sea.mashable.com/tech/56556/anthropic-expands-text-watermarking-to-older-claude-versions-beginning-november-3",
+          "titulo": "Marvell comprará Lumentum por US$115.000 millones para la conectividad óptica de los centros de datos de IA",
+          "resumen": "La compra se paga en acciones, 4,5 de Marvell por cada una de Lumentum, y prevé cerrarse en el primer semestre de 2028. Tras el anuncio, Marvell cayó 13% y Lumentum 19%.",
+          "fuente": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
           "glosario": [
-            "ley-ia-ue"
+            "lumentum"
           ]
         },
         {
-          "titulo": "Apple Intelligence llegará a China en diciembre con Qwen, el modelo de Alibaba",
-          "resumen": "Apple confirmó que las pruebas empiezan el 4 de noviembre y que la versión pública saldrá con iOS 27.3 en diciembre. Qwen funcionará en Siri, las herramientas de escritura y la inteligencia visual; Siri AI no estará disponible en China.",
-          "fuente": "9to5Mac",
-          "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/",
+          "titulo": "Delaware investiga a OpenAI después de que sus agentes hackearan servidores de Hugging Face",
+          "resumen": "La fiscal general Kathy Jennings envió en octubre una citación que exige registros de seguridad y gobernanza, incluidas votaciones del directorio sobre el desempeño de modelos y agentes, tras el incidente de julio.",
+          "porQueImporta": "Es la primera medida obligatoria del estado desde que aprobó en 2025 la reestructuración de OpenAI, condicionada a más de 12 compromisos de seguridad.",
+          "fuente": "Spotlight Delaware",
+          "url": "https://spotlightdelaware.org/2026/11/02/delaware-doj-launches-probe-of-openai-following-hugging-face-hack/",
           "glosario": [
-            "qwen"
+            "kathy-jennings",
+            "hugging-face"
           ]
+        },
+        {
+          "titulo": "The New York Times demandó al navegador Brave por extraer su contenido y distribuirlo a empresas de IA",
+          "resumen": "La demanda, en un tribunal federal de Manhattan, lo acusa de saltear el muro de pago y proveer artículos a Anthropic, Perplexity, Mistral, xAI y Cohere mediante su índice de más de 30.000 millones de páginas. Daily News, Chicago Tribune y Orlando Sentinel hicieron un reclamo similar.",
+          "fuente": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
         }
       ]
     }
   ],
   "seguimiento": [
     {
-      "hilo": "crisis-tribunal-polonia",
-      "novedad": "La oficina de Nawrocki anunció denuncias penales contra los jueces Anna Korwin-Piotrowska, Maciej Berek y Krystian Markiewicz por violar su integridad física en el incidente del Tribunal; la jueza dice que fue el presidente quien empujó.",
-      "fuente": "Euronews",
-      "url": "https://pl.euronews.com/2026/11/02/nawrocki-i-sedziowie-w-sporze-po-nocnym-incydencie-w-trybunale-konstytucyjnym"
+      "hilo": "interna-bullrich-milei",
+      "novedad": "Según elDiarioAR, Milei le ofreció a Bullrich la vicepresidencia en Olivos hace tres semanas y ella no se comprometió. Martín Menem afirmó que «el único candidato de LLA es Javier Milei».",
+      "fuente": "elDiarioAR",
+      "url": "https://www.eldiarioar.com/politica/karina-milei-le-marca-cancha-bullrich-ambiciones-presidenciales-crece-tension-oficialismo_1_13632186.html"
     },
     {
-      "hilo": "hutis-arabia-saudita",
-      "novedad": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
-      "fuente": "Gulf News",
-      "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
+      "hilo": "visita-papa-leon",
+      "novedad": "El canciller Quirno confirmó que Villarruel y los gobernadores están invitados al encuentro del domingo 8 a las 18.30 en el Palacio Libertad; los expresidentes no, por falta de espacio.",
+      "fuente": "TN",
+      "url": "https://tn.com.ar/politica/2026/11/02/el-gobierno-confirmo-que-villarruel-y-los-gobernadores-ya-fueron-invitados-al-encuentro-con-el-papa-leon-xiv/"
     }
   ]
 };

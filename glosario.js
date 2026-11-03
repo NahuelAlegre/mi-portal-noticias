@@ -967,5 +967,106 @@ window.GLOSARIO = {
       "Qwen"
     ],
     "actualizado": "2026-11-02"
+  },
+  "riesgo-pais": {
+    "nombre": "Riesgo país",
+    "tipo": "concepto",
+    "texto": "Índice de JP Morgan (EMBI) que mide, en puntos básicos, cuánto más pagan los bonos argentinos en dólares que los del Tesoro de EE.UU. Cuanto más alto, más caro es endeudarse.",
+    "alias": [
+      "riesgo país"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "merval": {
+    "nombre": "S&P Merval",
+    "tipo": "concepto",
+    "texto": "Principal índice de acciones de la Bolsa de Buenos Aires. Refleja el precio de las empresas argentinas de mayor volumen.",
+    "alias": [
+      "Merval"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "carlos-bianco": {
+    "nombre": "Carlos Bianco",
+    "tipo": "persona",
+    "texto": "Ministro de Gobierno de la provincia de Buenos Aires desde diciembre de 2023 y principal colaborador de Axel Kicillof.",
+    "alias": [
+      "Carlos Bianco"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ministro_Carlos_Bianco_%28cropped%29.jpg/330px-Ministro_Carlos_Bianco_%28cropped%29.jpg",
+    "actualizado": "2026-11-03"
+  },
+  "paso": {
+    "nombre": "PASO",
+    "tipo": "concepto",
+    "texto": "Primarias Abiertas, Simultáneas y Obligatorias: elección previa en la que cada fuerza define sus candidatos. Se votaron por última vez en 2023.",
+    "alias": [
+      "PASO"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "causa-vialidad": {
+    "nombre": "Causa Vialidad",
+    "tipo": "concepto",
+    "texto": "Causa por direccionamiento de obra pública vial en Santa Cruz a favor de Lázaro Báez. En 2025 la Corte Suprema confirmó la condena a Cristina Kirchner a 6 años de prisión e inhabilitación perpetua.",
+    "alias": [
+      "causa Vialidad"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "zaporiyia": {
+    "nombre": "Zaporiyia",
+    "tipo": "lugar",
+    "texto": "Provincia del sudeste de Ucrania, parcialmente ocupada por Rusia desde 2022. Allí está la mayor central nuclear de Europa.",
+    "alias": [
+      "Zaporiyia"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "qeshm": {
+    "nombre": "Isla de Qeshm",
+    "tipo": "lugar",
+    "texto": "La isla más grande de Irán, ubicada en el estrecho de Ormuz frente a la ciudad de Bandar Abbas.",
+    "alias": [
+      "Qeshm"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "delhaize": {
+    "nombre": "Delhaize",
+    "tipo": "organizacion",
+    "texto": "Cadena de supermercados belga, parte del grupo neerlandés Ahold Delhaize, con locales en Bélgica y Luxemburgo.",
+    "alias": [
+      "Delhaize"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "lumentum": {
+    "nombre": "Lumentum",
+    "tipo": "organizacion",
+    "texto": "Empresa estadounidense que fabrica láseres y componentes ópticos, usados entre otras cosas para conectar servidores en centros de datos.",
+    "alias": [
+      "Lumentum"
+    ],
+    "actualizado": "2026-11-03"
+  },
+  "kathy-jennings": {
+    "nombre": "Kathy Jennings",
+    "tipo": "persona",
+    "texto": "Fiscal general del estado de Delaware, del Partido Demócrata. Su oficina supervisa a OpenAI, constituida en ese estado.",
+    "alias": [
+      "Kathy Jennings"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Kathy_Jennings_CFPB.png/330px-Kathy_Jennings_CFPB.png",
+    "actualizado": "2026-11-03"
+  },
+  "hugging-face": {
+    "nombre": "Hugging Face",
+    "tipo": "organizacion",
+    "texto": "Empresa y plataforma donde se publican y descargan modelos y datos de IA de código abierto.",
+    "alias": [
+      "Hugging Face"
+    ],
+    "actualizado": "2026-11-03"
   }
 };

@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-03",
     "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
+        "resumen": "El ataque alcanzó un centro de asistencia instalado en una escuela de Komyshuvakha; el gobernador interino reportó 48 desaparecidos. Zelensky advirtió que Rusia prepara un ataque masivo coincidente con las elecciones en EE.UU.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+      },
       {
         "fecha": "2026-11-02",
         "titulo": "Ucrania volvió a atacar refinerías rusas pese al pedido de Kushner de una pausa de 30 días",
@@ -446,8 +453,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-11-03",
     "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Visita del Papa: Villarruel y los gobernadores, invitados al Palacio Libertad",
+        "resumen": "El canciller Quirno confirmó que Villarruel y los gobernadores están invitados al encuentro del domingo 8 a las 18.30 en el Palacio Libertad; los expresidentes no, por falta de espacio.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/02/el-gobierno-confirmo-que-villarruel-y-los-gobernadores-ya-fueron-invitados-al-encuentro-con-el-papa-leon-xiv/"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "El Vaticano confirmó el viaje del papa a Uruguay, Argentina y Perú",
@@ -498,8 +512,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-03",
     "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "EE.UU. atacó objetivos iraníes en la isla de Qeshm mientras se negocia un acuerdo",
+        "resumen": "Según funcionarios estadounidenses, los ataques «defensivos» en la isla, junto a Ormuz, respondieron a disparos de la Guardia Revolucionaria contra un avión de EE.UU. El mismo día Trump escribió que un acuerdo «podría darse».",
+        "fuente": "CBS News",
+        "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/"
+      },
       {
         "fecha": "2026-11-02",
         "titulo": "Irán y EE.UU.: los negociadores iraníes dejaron Doha y circula un borrador de acuerdo para reabrir Ormuz",
@@ -723,8 +744,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-03",
     "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Bullrich: trascendió que Milei le ofreció la vicepresidencia y Martín Menem cerró filas",
+        "resumen": "Según elDiarioAR, Milei le ofreció a Bullrich la vicepresidencia en Olivos hace tres semanas y ella no se comprometió. Martín Menem afirmó que «el único candidato de LLA es Javier Milei».",
+        "fuente": "elDiarioAR",
+        "url": "https://www.eldiarioar.com/politica/karina-milei-le-marca-cancha-bullrich-ambiciones-presidenciales-crece-tension-oficialismo_1_13632186.html"
+      },
       {
         "fecha": "2026-11-02",
         "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
@@ -738,6 +766,66 @@ window.HILOS = {
         "resumen": "La jefa del bloque de La Libertad Avanza en el Senado cuestionó públicamente los ataques del Presidente al periodismo.",
         "fuente": "La Nación",
         "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/"
+      }
+    ]
+  },
+  "riesgo-pais-mercados": {
+    "nombre": "Riesgo país y mercados argentinos",
+    "tema": "Argentina",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-03",
+    "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
+        "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
+      }
+    ]
+  },
+  "candidatura-cfk-2027": {
+    "nombre": "Cristina Kirchner y la candidatura 2027",
+    "tema": "Argentina",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-03",
+    "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Cristina Kirchner no descartó ser candidata en 2027 y el kicillofismo respondió con las PASO",
+        "resumen": "En su primera entrevista desde la condena dijo a The Washington Post: «Cuando recupere mis derechos políticos, ¿por qué no?». Página/12 destaca además su pronóstico de una derrota de Trump; La Nación, la respuesta de Carlos Bianco: que «el pueblo peronista» defina en las PASO.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/"
+      }
+    ]
+  },
+  "elecciones-eeuu-2026": {
+    "nombre": "Elecciones de medio término en EE.UU.",
+    "tema": "Mundo",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-03",
+    "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
+        "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
+        "fuente": "Reuters",
+        "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
+      }
+    ]
+  },
+  "ciberataque-heladeras-europa": {
+    "nombre": "Ciberataques a heladeras de supermercados en Europa",
+    "tema": "Mundo",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-03",
+    "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
+        "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
       }
     ]
   }
