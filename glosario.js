@@ -1068,5 +1068,83 @@ window.GLOSARIO = {
       "Hugging Face"
     ],
     "actualizado": "2026-11-03"
+  },
+  "cedears": {
+    "nombre": "CEDEAR",
+    "tipo": "concepto",
+    "texto": "Certificado que se negocia en la bolsa argentina y representa acciones, bonos o fondos que cotizan en el exterior. Hoy su venta está exenta de Ganancias si se cumplen ciertas condiciones.",
+    "alias": [
+      "CEDEARs",
+      "CEDEAR"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "ley-competitividad-financiera": {
+    "nombre": "Ley de Competitividad Financiera",
+    "tipo": "ley",
+    "texto": "Proyecto de 240 artículos de reforma del mercado de capitales que el Gobierno envió a Diputados el 2 de noviembre de 2026. El 4 de noviembre anunció que lo retira para revisarlo.",
+    "alias": [
+      "Ley de Competitividad Financiera"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "felipe-nunez": {
+    "nombre": "Felipe Núñez",
+    "tipo": "persona",
+    "texto": "Director del BICE y asesor del ministro de Economía, Luis Caputo. Anunció en X el retiro del artículo que gravaba los CEDEARs.",
+    "alias": [
+      "Felipe Núñez"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "impuesto-sellos": {
+    "nombre": "Impuesto a los Sellos",
+    "tipo": "concepto",
+    "texto": "Tributo provincial que grava contratos y operaciones como compraventas de inmuebles y autos, alquileres y préstamos. Según Caputo, recauda entre $4 y $5 billones al año.",
+    "alias": [
+      "impuesto a los Sellos",
+      "Sellos"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "dtek": {
+    "nombre": "DTEK",
+    "tipo": "organizacion",
+    "texto": "Mayor empresa privada de generación eléctrica de Ucrania. Sus centrales térmicas son blanco frecuente de los ataques rusos.",
+    "alias": [
+      "DTEK"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "tjue": {
+    "nombre": "Tribunal de Justicia de la Unión Europea",
+    "tipo": "organizacion",
+    "texto": "Máximo tribunal de la UE, con sede en Luxemburgo. Interpreta el derecho europeo a pedido de los tribunales nacionales.",
+    "alias": [
+      "TJUE"
+    ],
+    "actualizado": "2026-11-04"
+  },
+  "szpunar": {
+    "nombre": "Maciej Szpunar",
+    "tipo": "persona",
+    "texto": "Jurista polaco, abogado general del TJUE desde 2013 y primer abogado general desde 2018. Sus conclusiones orientan al tribunal, pero no lo obligan.",
+    "alias": [
+      "Maciej Szpunar",
+      "Szpunar"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Monsters_of_law-19.jpg/330px-Monsters_of_law-19.jpg",
+    "actualizado": "2026-11-04"
+  },
+  "talarico": {
+    "nombre": "James Talarico",
+    "tipo": "persona",
+    "texto": "Político demócrata y exdocente de Texas. Fue elegido senador por ese estado en las elecciones de medio término de 2026.",
+    "alias": [
+      "James Talarico",
+      "Talarico"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/James_Talarico_Press_Conference.jpg/330px-James_Talarico_Press_Conference.jpg",
+    "actualizado": "2026-11-04"
   }
 };

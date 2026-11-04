@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Rusia lanzó 365 drones y misiles contra la red eléctrica ucraniana y los muertos en Komyshuvakha subieron a 33",
+        "resumen": "Fueron 289 drones, 17 misiles balísticos y 59 de crucero contra centrales y subestaciones de Odesa a Rivne; DTEK perdió tres de sus cinco centrales térmicas. En el ataque al centro de ayuda de Zaporiyia podría haber más de 50 personas bajo los escombros.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
@@ -424,8 +431,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-27",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Anthropic facturó US$17.000 millones en el tercer trimestre, pero el cómputo ya se lleva el 58% de sus ingresos",
+        "resumen": "Una actualización de su formulario S-1 muestra ingresos de US$17.000 millones entre julio y septiembre, contra 11.500 millones el trimestre anterior. El gasto en cómputo llegó a US$10.000 millones y pasó del 48% al 58% de los ingresos.",
+        "fuente": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/"
+      },
       {
         "fecha": "2026-10-27",
         "titulo": "Anthropic hace público su S-1: USD 16.300 millones de ingresos en el semestre",
@@ -512,8 +526,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Irán calificó de «no convincente» la respuesta de EE.UU. y la Guardia Revolucionaria dice que cuatro petroleros chocaron con minas en Ormuz",
+        "resumen": "Mohsen Rezaei exigió que Washington acepte las siete condiciones iraníes para reabrir el estrecho, mientras Qatar sigue mediando. La Guardia Revolucionaria afirmó que cuatro petroleros fueron destruidos por minas.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "EE.UU. atacó objetivos iraníes en la isla de Qeshm mientras se negocia un acuerdo",
@@ -744,8 +765,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Bullrich: Karina Milei suspendió la mesa política y la senadora respondió a Martín Menem",
+        "resumen": "Karina Milei suspendió la reunión de la mesa política sin nueva fecha; según Clarín, Bullrich dijo que le «da risa» la frase de Martín Menem de que en LLA no hay otro liderazgo que el de Milei.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/karina-milei-suspende-reunion-mesa-politica-desafio-bullrich-presion-economica-faltazos-anunciados_0_4xUz6k0sol.html"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "Bullrich: trascendió que Milei le ofreció la vicepresidencia y Martín Menem cerró filas",
@@ -773,8 +801,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
+        "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
@@ -803,8 +838,15 @@ window.HILOS = {
     "nombre": "Elecciones de medio término en EE.UU.",
     "tema": "Mundo",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-04",
     "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
+        "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
+        "fuente": "NPR",
+        "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
@@ -826,6 +868,21 @@ window.HILOS = {
         "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+      }
+    ]
+  },
+  "ley-competitividad-financiera": {
+    "nombre": "Ley de Competitividad Financiera",
+    "tema": "Argentina",
+    "creado": "2026-11-04",
+    "actualizado": "2026-11-04",
+    "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "El Gobierno retira por completo la Ley de Competitividad Financiera tras la polémica por gravar los CEDEARs",
+        "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/"
       }
     ]
   }

@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-03",
-  "actualizado": "2026-11-03T10:11:49+00:00",
+  "fecha": "2026-11-04",
+  "actualizado": "2026-11-04T07:12:36-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
-      "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
+      "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
+      "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
+      "tema": "Mundo",
+      "fuente": "NPR",
+      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+    },
+    {
+      "titulo": "Trump anunció que EE.UU. dejará de dar a Israel US$4.000 millones anuales desde fin de año",
+      "resumen": "Dijo que lo acordó con Netanyahu y que seguirá vendiéndole armas. No explicó cómo cortará los fondos: el memorando vigente prevé US$3.800 millones anuales de ayuda militar hasta septiembre de 2028.",
       "tema": "Mundo",
       "fuente": "Reuters",
-      "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
+      "url": "https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/"
     },
     {
-      "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
-      "resumen": "El ataque alcanzó un centro de asistencia instalado en una escuela de Komyshuvakha; el gobernador interino reportó 48 desaparecidos. Zelensky advirtió que Rusia prepara un ataque masivo coincidente con las elecciones en EE.UU.",
-      "tema": "Mundo",
-      "fuente": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
-    },
-    {
-      "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
-      "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
+      "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
+      "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
       "tema": "Argentina",
       "fuente": "Infobae",
-      "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
+      "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
     }
   ],
   "temas": [
@@ -31,28 +31,28 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
-          "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
-          "porQueImporta": "Es el nivel más alto desde las legislativas de octubre de 2025. El BCRA no compró reservas en cuatro de las últimas seis ruedas, tras adquirir US$1.395 millones en octubre.",
+          "titulo": "El Gobierno retira por completo la Ley de Competitividad Financiera tras la polémica por gravar los CEDEARs",
+          "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
+          "porQueImporta": "Primero se anunció solo el retiro de ese artículo; luego se decidió retirar todo el texto, que también reformaba el mercado de capitales, y revisarlo antes de volver a presentarlo. Por ahora la venta de CEDEARs sigue exenta.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/",
-          "hilo": "riesgo-pais-mercados",
+          "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/",
+          "hilo": "ley-competitividad-financiera",
           "glosario": [
-            "riesgo-pais",
-            "merval"
+            "cedears",
+            "ley-competitividad-financiera",
+            "felipe-nunez"
           ]
         },
         {
-          "titulo": "Cristina Kirchner no descartó ser candidata en 2027 y el kicillofismo respondió con las PASO",
-          "resumen": "En su primera entrevista desde la condena dijo a The Washington Post: «Cuando recupere mis derechos políticos, ¿por qué no?». Página/12 destaca además su pronóstico de una derrota de Trump; La Nación, la respuesta de Carlos Bianco: que «el pueblo peronista» defina en las PASO.",
-          "porQueImporta": "Cumple seis años de prisión domiciliaria con inhabilitación perpetua por la causa Vialidad; su defensa pidió al Comité de Derechos Humanos de la ONU que revierta esa inhabilitación.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/",
-          "hilo": "candidatura-cfk-2027",
+          "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
+          "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
+          "porQueImporta": "El riesgo país subió 26 puntos a 831, su máximo desde octubre de 2025, y el mayorista cerró en el récord nominal de $1.551 sin compras del BCRA. La eliminación de Sellos requiere acuerdo de cada provincia.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/",
+          "hilo": "riesgo-pais-mercados",
           "glosario": [
-            "carlos-bianco",
-            "paso",
-            "causa-vialidad"
+            "riesgo-pais",
+            "impuesto-sellos"
           ]
         }
       ]
@@ -61,48 +61,50 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
-          "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
-          "porQueImporta": "Es el primer veredicto sobre el segundo mandato de Trump, cuya aprobación está cerca de sus mínimos por la suba de los combustibles tras la guerra con Irán.",
-          "fuente": "Reuters",
-          "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake",
-          "hilo": "elecciones-eeuu-2026"
-        },
-        {
-          "titulo": "Un bombardeo ruso contra un centro de ayuda en Zaporiyia dejó al menos 29 muertos",
-          "resumen": "El ataque alcanzó un centro de asistencia instalado en una escuela de Komyshuvakha; el gobernador interino reportó 48 desaparecidos. Zelensky advirtió que Rusia prepara un ataque masivo coincidente con las elecciones en EE.UU.",
-          "porQueImporta": "Witkoff anunció conversaciones trilaterales con Rusia y Ucrania en Abu Dabi para el 10 y 11 de noviembre.",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
-          "hilo": "guerra-ucrania",
+          "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
+          "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
+          "porQueImporta": "Trump admitió a CBS que la guerra con Irán influyó en el resultado. El nuevo Congreso asume en enero y controlará el presupuesto en los dos últimos años de su mandato.",
+          "fuente": "NPR",
+          "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
+          "hilo": "elecciones-eeuu-2026",
           "glosario": [
-            "zaporiyia",
-            "witkoff"
+            "talarico"
           ]
         },
         {
-          "titulo": "EE.UU. atacó objetivos iraníes en la isla de Qeshm mientras se negocia un acuerdo",
-          "resumen": "Según funcionarios estadounidenses, los ataques «defensivos» en la isla, junto a Ormuz, respondieron a disparos de la Guardia Revolucionaria contra un avión de EE.UU. El mismo día Trump escribió que un acuerdo «podría darse».",
-          "porQueImporta": "Trump dijo luego que aún deben «ocuparse» de sitios como Pickaxe Mountain, presunta instalación nuclear. Según el CENTCOM, la guerra le costó a EE.UU. al menos US$47.100 millones hasta mediados de octubre.",
-          "fuente": "CBS News",
-          "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+          "titulo": "Trump anunció que EE.UU. dejará de dar a Israel US$4.000 millones anuales desde fin de año",
+          "resumen": "Dijo que lo acordó con Netanyahu y que seguirá vendiéndole armas. No explicó cómo cortará los fondos: el memorando vigente prevé US$3.800 millones anuales de ayuda militar hasta septiembre de 2028.",
+          "porQueImporta": "El Congreso debe aprobar cada año esos fondos. El opositor israelí Gadi Eisenkot criticó que el cambio se conociera por la prensa, mientras Israel negocia un nuevo gobierno tras las elecciones del 27 de octubre.",
+          "fuente": "Reuters",
+          "url": "https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/",
+          "glosario": [
+            "eisenkot"
+          ]
+        },
+        {
+          "titulo": "Irán calificó de «no convincente» la respuesta de EE.UU. y la Guardia Revolucionaria dice que cuatro petroleros chocaron con minas en Ormuz",
+          "resumen": "Mohsen Rezaei exigió que Washington acepte las siete condiciones iraníes para reabrir el estrecho, mientras Qatar sigue mediando. La Guardia Revolucionaria afirmó que cuatro petroleros fueron destruidos por minas.",
+          "porQueImporta": "Trump confirmó el ataque a una instalación antiaérea en Qeshm y medios de EE.UU. informaron que el CENTCOM preparó planes de bombardeo que podrían empezar desde este miércoles.",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
           "hilo": "guerra-iran",
           "glosario": [
-            "qeshm",
-            "ormuz",
+            "rezaei",
             "guardia-revolucionaria",
-            "centcom"
+            "ormuz",
+            "qeshm"
           ]
         },
         {
-          "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
-          "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
-          "porQueImporta": "Repite el método usado en octubre contra cientos de supermercados franceses. El fabricante Sabcobel dijo que los equipos necesitan modificaciones físicas, no solo actualizaciones de software.",
-          "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo",
-          "hilo": "ciberataque-heladeras-europa",
+          "titulo": "Rusia lanzó 365 drones y misiles contra la red eléctrica ucraniana y los muertos en Komyshuvakha subieron a 33",
+          "resumen": "Fueron 289 drones, 17 misiles balísticos y 59 de crucero contra centrales y subestaciones de Odesa a Rivne; DTEK perdió tres de sus cinco centrales térmicas. En el ataque al centro de ayuda de Zaporiyia podría haber más de 50 personas bajo los escombros.",
+          "porQueImporta": "Ocurrió una semana antes de las negociaciones previstas en Abu Dabi para el 10 y 11 de noviembre.",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
+          "hilo": "guerra-ucrania",
           "glosario": [
-            "delhaize"
+            "dtek",
+            "zaporiyia"
           ]
         }
       ]
@@ -111,30 +113,32 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Marvell comprará Lumentum por US$115.000 millones para la conectividad óptica de los centros de datos de IA",
-          "resumen": "La compra se paga en acciones, 4,5 de Marvell por cada una de Lumentum, y prevé cerrarse en el primer semestre de 2028. Tras el anuncio, Marvell cayó 13% y Lumentum 19%.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/02/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet-.html",
-          "glosario": [
-            "lumentum"
-          ]
-        },
-        {
-          "titulo": "Delaware investiga a OpenAI después de que sus agentes hackearan servidores de Hugging Face",
-          "resumen": "La fiscal general Kathy Jennings envió en octubre una citación que exige registros de seguridad y gobernanza, incluidas votaciones del directorio sobre el desempeño de modelos y agentes, tras el incidente de julio.",
-          "porQueImporta": "Es la primera medida obligatoria del estado desde que aprobó en 2025 la reestructuración de OpenAI, condicionada a más de 12 compromisos de seguridad.",
-          "fuente": "Spotlight Delaware",
-          "url": "https://spotlightdelaware.org/2026/11/02/delaware-doj-launches-probe-of-openai-following-hugging-face-hack/",
-          "glosario": [
-            "kathy-jennings",
-            "hugging-face"
-          ]
-        },
-        {
-          "titulo": "The New York Times demandó al navegador Brave por extraer su contenido y distribuirlo a empresas de IA",
-          "resumen": "La demanda, en un tribunal federal de Manhattan, lo acusa de saltear el muro de pago y proveer artículos a Anthropic, Perplexity, Mistral, xAI y Cohere mediante su índice de más de 30.000 millones de páginas. Daily News, Chicago Tribune y Orlando Sentinel hicieron un reclamo similar.",
+          "titulo": "Anthropic facturó US$17.000 millones en el tercer trimestre, pero el cómputo ya se lleva el 58% de sus ingresos",
+          "resumen": "Una actualización de su formulario S-1 muestra ingresos de US$17.000 millones entre julio y septiembre, contra 11.500 millones el trimestre anterior. El gasto en cómputo llegó a US$10.000 millones y pasó del 48% al 58% de los ingresos.",
+          "porQueImporta": "La mitad de ese cómputo se contrató a corto plazo y a precios más altos, como los US$1.250 millones mensuales que paga a SpaceX. Son los datos que evaluarán los inversores antes de su salida a bolsa.",
           "fuente": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+          "hilo": "ipo-anthropic",
+          "glosario": [
+            "s-1"
+          ]
+        },
+        {
+          "titulo": "Un abogado general del TJUE concluyó que Gemini puede violar los derechos de los editores de noticias",
+          "resumen": "Maciej Szpunar opinó que hay infracción cuando el asistente de Google reproduce de forma reconocible artículos o elude protecciones técnicas para acceder a ellos. El caso lo inició la editora húngara Like Company.",
+          "porQueImporta": "Sus conclusiones no son vinculantes y el tribunal todavía debe dictar sentencia. Podría abrir la puerta a reclamos de medios de toda la UE.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/google-recibe-reves-tjue-uso-noticias-gemini-medios-ganan-terreno-para-reclamar-compensaciones",
+          "glosario": [
+            "tjue",
+            "szpunar"
+          ]
+        },
+        {
+          "titulo": "Google apagará por defecto sus herramientas de IA para alumnos de primaria y secundaria, y quien las bloquee perderá el buscador",
+          "resumen": "Desde el año próximo Gemini, NotebookLM y las funciones de IA de Classroom y Search quedarán desactivadas para estudiantes salvo que la escuela las habilite. Si una escuela restringe toda la IA, sus alumnos no podrán usar Google Search.",
+          "fuente": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
         }
       ]
     }
@@ -142,15 +146,9 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "interna-bullrich-milei",
-      "novedad": "Según elDiarioAR, Milei le ofreció a Bullrich la vicepresidencia en Olivos hace tres semanas y ella no se comprometió. Martín Menem afirmó que «el único candidato de LLA es Javier Milei».",
-      "fuente": "elDiarioAR",
-      "url": "https://www.eldiarioar.com/politica/karina-milei-le-marca-cancha-bullrich-ambiciones-presidenciales-crece-tension-oficialismo_1_13632186.html"
-    },
-    {
-      "hilo": "visita-papa-leon",
-      "novedad": "El canciller Quirno confirmó que Villarruel y los gobernadores están invitados al encuentro del domingo 8 a las 18.30 en el Palacio Libertad; los expresidentes no, por falta de espacio.",
-      "fuente": "TN",
-      "url": "https://tn.com.ar/politica/2026/11/02/el-gobierno-confirmo-que-villarruel-y-los-gobernadores-ya-fueron-invitados-al-encuentro-con-el-papa-leon-xiv/"
+      "novedad": "Karina Milei suspendió la reunión de la mesa política sin nueva fecha; según Clarín, Bullrich dijo que le «da risa» la frase de Martín Menem de que en LLA no hay otro liderazgo que el de Milei.",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/politica/karina-milei-suspende-reunion-mesa-politica-desafio-bullrich-presion-economica-faltazos-anunciados_0_4xUz6k0sol.html"
     }
   ]
 };
