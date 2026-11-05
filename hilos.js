@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "Ucrania ataca la refinería de Riazán; Rusia golpea logística en Járkov",
+        "resumen": "Más de 200 drones ucranianos atacaron la región rusa de Riazán y causaron un incendio en la refinería de Rosneft; Rusia golpeó una terminal de Nova Poshta cerca de Járkov.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Rusia lanzó 365 drones y misiles contra la red eléctrica ucraniana y los muertos en Komyshuvakha subieron a 33",
@@ -245,8 +252,15 @@ window.HILOS = {
     "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
+        "resumen": "El plenario de comisiones del Senado dictaminó el texto aprobado por Diputados el 22 de octubre. Bullrich rechazó el pedido de Casa Rosada de recortar prestaciones; la votación en el recinto podría ser el 19 de noviembre.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
@@ -526,8 +540,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
+        "resumen": "Trump dijo al FT que no hay ataques inmediatos previstos y admitió que la guerra le costó votos. La Guardia Revolucionaria reportó incendios en dos petroleros y un remolcador en Ormuz; otro buque fue alcanzado por proyectiles al norte de Qatar.",
+        "fuente": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Irán calificó de «no convincente» la respuesta de EE.UU. y la Guardia Revolucionaria dice que cuatro petroleros chocaron con minas en Ormuz",
@@ -633,8 +654,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
+        "resumen": "El comité electoral certificó los resultados (Netanyahu 53, Eisenkot 48, partidos árabes 19) y Herzog abrió las consultas para encargar la formación de gobierno.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
+      },
       {
         "fecha": "2026-11-02",
         "titulo": "Israel: las autoridades electorales dicen que el resultado se mantiene pese a las denuncias de fraude del Likud",
@@ -765,8 +793,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "Bullrich rechazó recortar la Ley de Discapacidad y Caputo le respondió",
+        "resumen": "Según Infobae, Bullrich rechazó un pedido de Casa Rosada de recortar prestaciones en la Ley de Discapacidad, y Caputo le respondió en FIEL que \"no cualquiera\" puede reemplazar a Milei.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Bullrich: Karina Milei suspendió la mesa política y la senadora respondió a Martín Menem",
@@ -801,8 +836,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-05",
     "entradas": [
+      {
+        "fecha": "2026-11-05",
+        "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
+        "resumen": "Riesgo país 852 (+21), Merval −2,4%, YPF −6,6% y bonos −1,1%, mientras Wall Street subía tras la victoria demócrata. Caputo dijo que la relación con EE.UU. no cambia.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",

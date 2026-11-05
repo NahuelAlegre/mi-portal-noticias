@@ -1146,5 +1146,51 @@ window.GLOSARIO = {
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/James_Talarico_Press_Conference.jpg/330px-James_Talarico_Press_Conference.jpg",
     "actualizado": "2026-11-04"
+  },
+  "ley-discapacidad": {
+    "nombre": "Ley de Discapacidad",
+    "tipo": "ley",
+    "texto": "Proyecto que reemplaza la emergencia en discapacidad, que vence a fin de año, por un régimen permanente de pensiones y prestaciones. Tiene media sanción de Diputados y dictamen del Senado.",
+    "alias": [
+      "Ley de Discapacidad"
+    ],
+    "actualizado": "2026-11-05"
+  },
+  "fiel": {
+    "nombre": "FIEL",
+    "tipo": "organizacion",
+    "texto": "Fundación de Investigaciones Económicas Latinoamericanas, centro de estudios económicos privado creado en 1964 y financiado por cámaras empresarias.",
+    "alias": [
+      "FIEL"
+    ],
+    "actualizado": "2026-11-05"
+  },
+  "herzog": {
+    "nombre": "Isaac Herzog",
+    "tipo": "persona",
+    "texto": "Presidente de Israel desde 2021, cargo mayormente ceremonial. Tras cada elección elige a qué diputado encarga formar gobierno.",
+    "alias": [
+      "Herzog"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG/330px-Isaac_Herzog%2C_July_2021_%28D1233-049%29.JPG",
+    "actualizado": "2026-11-05"
+  },
+  "ley-seguridad-nacional-hong-kong": {
+    "nombre": "Ley de Seguridad Nacional (Hong Kong)",
+    "tipo": "ley",
+    "texto": "Ley impuesta por Pekín en 2020 tras las protestas prodemocracia; castiga secesión, subversión, terrorismo y colusión con fuerzas extranjeras.",
+    "alias": [
+      "Ley de Seguridad Nacional"
+    ],
+    "actualizado": "2026-11-05"
+  },
+  "zksnark": {
+    "nombre": "zkSNARK",
+    "tipo": "concepto",
+    "texto": "Tipo de prueba criptográfica breve que demuestra que un cálculo se hizo correctamente sin revelar los datos usados, y que se verifica en segundos.",
+    "alias": [
+      "zkSNARK"
+    ],
+    "actualizado": "2026-11-05"
   }
 };

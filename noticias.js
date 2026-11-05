@@ -1,29 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-04",
-  "actualizado": "2026-11-04T07:12:36-03:00",
+  "fecha": "2026-11-05",
+  "actualizado": "2026-11-05T07:09:30-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
-      "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
-      "tema": "Mundo",
-      "fuente": "NPR",
-      "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
-    },
-    {
-      "titulo": "Trump anunció que EE.UU. dejará de dar a Israel US$4.000 millones anuales desde fin de año",
-      "resumen": "Dijo que lo acordó con Netanyahu y que seguirá vendiéndole armas. No explicó cómo cortará los fondos: el memorando vigente prevé US$3.800 millones anuales de ayuda militar hasta septiembre de 2028.",
-      "tema": "Mundo",
-      "fuente": "Reuters",
-      "url": "https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/"
-    },
-    {
-      "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
-      "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
+      "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
+      "resumen": "El riesgo país llegó a 852 puntos, máximo en un año, y las acciones argentinas cayeron pese a la suba de Wall Street.",
       "tema": "Argentina",
       "fuente": "Infobae",
-      "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
+      "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+    },
+    {
+      "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
+      "resumen": "Trump reconoce el costo electoral de la guerra pero no se arrepiente; siguen los incendios de buques en Ormuz.",
+      "tema": "Mundo",
+      "fuente": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
     }
   ],
   "temas": [
@@ -31,28 +24,27 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "El Gobierno retira por completo la Ley de Competitividad Financiera tras la polémica por gravar los CEDEARs",
-          "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
-          "porQueImporta": "Primero se anunció solo el retiro de ese artículo; luego se decidió retirar todo el texto, que también reformaba el mercado de capitales, y revisarlo antes de volver a presentarlo. Por ahora la venta de CEDEARs sigue exenta.",
+          "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
+          "resumen": "El plenario de Presupuesto y Población firmó el texto con media sanción de Diputados: régimen permanente que reemplaza la emergencia, pensiones compatibles con empleo formal y aranceles actualizados por inflación. TN lo mostró como un consenso amplio; Infobae reveló que Casa Rosada había pedido recortar prestaciones y Bullrich se negó.",
+          "porQueImporta": "La emergencia vigente vence a fin de año; si no se aprueba antes, prestadores y beneficiarios quedan sin marco legal.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/",
-          "hilo": "ley-competitividad-financiera",
+          "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/",
+          "hilo": "megasesion-diputados",
           "glosario": [
-            "cedears",
-            "ley-competitividad-financiera",
-            "felipe-nunez"
+            "ley-discapacidad"
           ]
         },
         {
-          "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
-          "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
-          "porQueImporta": "El riesgo país subió 26 puntos a 831, su máximo desde octubre de 2025, y el mayorista cerró en el récord nominal de $1.551 sin compras del BCRA. La eliminación de Sellos requiere acuerdo de cada provincia.",
+          "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
+          "resumen": "El riesgo país subió 21 puntos a 852, máximo desde octubre de 2025; el Merval bajó 2,4% e YPF 6,6%, pese a la suba de Wall Street. Infobae atribuyó la caída a factores locales; La Nación destacó que Caputo, en un evento de FIEL, dijo que la derrota de Trump \"no cambia\" la relación con EE.UU.",
+          "porQueImporta": "Con el riesgo país en alza se aleja la posibilidad de que el Tesoro vuelva a emitir deuda en el mercado internacional a tasas razonables.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/",
+          "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/",
           "hilo": "riesgo-pais-mercados",
           "glosario": [
             "riesgo-pais",
-            "impuesto-sellos"
+            "merval",
+            "fiel"
           ]
         }
       ]
@@ -61,50 +53,37 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
-          "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
-          "porQueImporta": "Trump admitió a CBS que la guerra con Irán influyó en el resultado. El nuevo Congreso asume en enero y controlará el presupuesto en los dos últimos años de su mandato.",
-          "fuente": "NPR",
-          "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power",
-          "hilo": "elecciones-eeuu-2026",
-          "glosario": [
-            "talarico"
-          ]
-        },
-        {
-          "titulo": "Trump anunció que EE.UU. dejará de dar a Israel US$4.000 millones anuales desde fin de año",
-          "resumen": "Dijo que lo acordó con Netanyahu y que seguirá vendiéndole armas. No explicó cómo cortará los fondos: el memorando vigente prevé US$3.800 millones anuales de ayuda militar hasta septiembre de 2028.",
-          "porQueImporta": "El Congreso debe aprobar cada año esos fondos. El opositor israelí Gadi Eisenkot criticó que el cambio se conociera por la prensa, mientras Israel negocia un nuevo gobierno tras las elecciones del 27 de octubre.",
-          "fuente": "Reuters",
-          "url": "https://www.reuters.com/5f374b32b07b/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/",
-          "glosario": [
-            "eisenkot"
-          ]
-        },
-        {
-          "titulo": "Irán calificó de «no convincente» la respuesta de EE.UU. y la Guardia Revolucionaria dice que cuatro petroleros chocaron con minas en Ormuz",
-          "resumen": "Mohsen Rezaei exigió que Washington acepte las siete condiciones iraníes para reabrir el estrecho, mientras Qatar sigue mediando. La Guardia Revolucionaria afirmó que cuatro petroleros fueron destruidos por minas.",
-          "porQueImporta": "Trump confirmó el ataque a una instalación antiaérea en Qeshm y medios de EE.UU. informaron que el CENTCOM preparó planes de bombardeo que podrían empezar desde este miércoles.",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes",
+          "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
+          "resumen": "Trump admitió que la guerra pesó en la derrota republicana, pero dijo que \"lo haría de nuevo\" y que no hay ataques inmediatos previstos. La Guardia Revolucionaria informó que dos petroleros y un remolcador se incendiaron en Ormuz, uno tras chocar una mina; el Brent cayó a USD 94.",
+          "porQueImporta": "Con mayoría demócrata desde enero, Schumer anticipó que usarán el control del presupuesto para forzar el fin de la guerra.",
+          "fuente": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
           "hilo": "guerra-iran",
           "glosario": [
-            "rezaei",
             "guardia-revolucionaria",
-            "ormuz",
-            "qeshm"
+            "ormuz"
           ]
         },
         {
-          "titulo": "Rusia lanzó 365 drones y misiles contra la red eléctrica ucraniana y los muertos en Komyshuvakha subieron a 33",
-          "resumen": "Fueron 289 drones, 17 misiles balísticos y 59 de crucero contra centrales y subestaciones de Odesa a Rivne; DTEK perdió tres de sus cinco centrales térmicas. En el ataque al centro de ayuda de Zaporiyia podría haber más de 50 personas bajo los escombros.",
-          "porQueImporta": "Ocurrió una semana antes de las negociaciones previstas en Abu Dabi para el 10 y 11 de noviembre.",
-          "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/04/ukraine-war-briefing-dozens-trapped-komyshuvakha-russian-strikes",
-          "hilo": "guerra-ucrania",
+          "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
+          "resumen": "El comité electoral validó la elección del 27 de octubre sin hallar irregularidades: el bloque de Netanyahu tiene 53 bancas, el de Gadi Eisenkot 48 y los partidos árabes un récord de 19, sobre 120 de la Knéset. Herzog pidió a los partidos resignar promesas para evitar otra elección.",
+          "porQueImporta": "Quien reciba el encargo tendrá 28 días, prorrogables 14, para formar coalición; ningún bloque llega a 61 sin los partidos árabes o un cambio de alianzas.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo",
+          "hilo": "elecciones-israel",
           "glosario": [
-            "dtek",
-            "zaporiyia"
+            "herzog",
+            "eisenkot",
+            "knesset"
+          ]
+        },
+        {
+          "titulo": "Joshua Wong, rostro de las protestas de Hong Kong, condenado a 10 años más de prisión",
+          "resumen": "El activista de 30 años, preso desde hace seis y que iba a salir en enero, recibió 10 años por \"colusión con fuerzas extranjeras\" bajo la Ley de Seguridad Nacional, tras declararse culpable. Pekín respaldó el fallo; Human Rights Watch lo calificó de \"cruel e injusto\".",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwp9g3rlp8jlo",
+          "glosario": [
+            "ley-seguridad-nacional-hong-kong"
           ]
         }
       ]
@@ -113,32 +92,20 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic facturó US$17.000 millones en el tercer trimestre, pero el cómputo ya se lleva el 58% de sus ingresos",
-          "resumen": "Una actualización de su formulario S-1 muestra ingresos de US$17.000 millones entre julio y septiembre, contra 11.500 millones el trimestre anterior. El gasto en cómputo llegó a US$10.000 millones y pasó del 48% al 58% de los ingresos.",
-          "porQueImporta": "La mitad de ese cómputo se contrató a corto plazo y a precios más altos, como los US$1.250 millones mensuales que paga a SpaceX. Son los datos que evaluarán los inversores antes de su salida a bolsa.",
-          "fuente": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-          "hilo": "ipo-anthropic",
+          "titulo": "Anthropic publica FlashProve, un sistema para probar qué modelo de IA generó cada respuesta",
+          "resumen": "Es un prototipo de código abierto que genera pruebas criptográficas (zkSNARK) de que una respuesta salió de un modelo determinado sin revelar sus pesos: con una GPU H100 prueba unos 110 tokens por segundo sobre un modelo de 400.000 millones de parámetros, a 70-95 veces el costo de la inferencia normal.",
+          "porQueImporta": "Permitiría a reguladores y clientes verificar que un proveedor sirve el modelo aprobado o pagado; Anthropic aclara que es una investigación y no está en producción.",
+          "fuente": "Anthropic",
+          "url": "https://www.anthropic.com/research/provable-inference",
           "glosario": [
-            "s-1"
+            "zksnark"
           ]
         },
         {
-          "titulo": "Un abogado general del TJUE concluyó que Gemini puede violar los derechos de los editores de noticias",
-          "resumen": "Maciej Szpunar opinó que hay infracción cuando el asistente de Google reproduce de forma reconocible artículos o elude protecciones técnicas para acceder a ellos. El caso lo inició la editora húngara Like Company.",
-          "porQueImporta": "Sus conclusiones no son vinculantes y el tribunal todavía debe dictar sentencia. Podría abrir la puerta a reclamos de medios de toda la UE.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/google-recibe-reves-tjue-uso-noticias-gemini-medios-ganan-terreno-para-reclamar-compensaciones",
-          "glosario": [
-            "tjue",
-            "szpunar"
-          ]
-        },
-        {
-          "titulo": "Google apagará por defecto sus herramientas de IA para alumnos de primaria y secundaria, y quien las bloquee perderá el buscador",
-          "resumen": "Desde el año próximo Gemini, NotebookLM y las funciones de IA de Classroom y Search quedarán desactivadas para estudiantes salvo que la escuela las habilite. Si una escuela restringe toda la IA, sus alumnos no podrán usar Google Search.",
-          "fuente": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+          "titulo": "OpenAI lanza Images 2.6: imágenes 50% más rápidas y GIF animados en ChatGPT",
+          "resumen": "El nuevo modelo de imágenes llega a ChatGPT, Codex y la API para todos los planes: genera 50% más rápido, permite crear GIF animados y exportar en SVG. OpenAI dice que sus usuarios ya crean 4.000 millones de imágenes por semana.",
+          "fuente": "OpenAI",
+          "url": "https://openai.com/index/introducing-images-2-6/"
         }
       ]
     }
@@ -146,9 +113,15 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "interna-bullrich-milei",
-      "novedad": "Karina Milei suspendió la reunión de la mesa política sin nueva fecha; según Clarín, Bullrich dijo que le «da risa» la frase de Martín Menem de que en LLA no hay otro liderazgo que el de Milei.",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/politica/karina-milei-suspende-reunion-mesa-politica-desafio-bullrich-presion-economica-faltazos-anunciados_0_4xUz6k0sol.html"
+      "novedad": "Según Infobae, Bullrich rechazó un pedido de Casa Rosada de recortar prestaciones en la Ley de Discapacidad, y Caputo le respondió en FIEL que \"no cualquiera\" puede reemplazar a Milei.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
+    },
+    {
+      "hilo": "guerra-ucrania",
+      "novedad": "Más de 200 drones ucranianos atacaron la región rusa de Riazán y causaron un incendio en la refinería de Rosneft; Rusia golpeó una terminal de Nova Poshta cerca de Járkov.",
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
     }
   ]
 };
