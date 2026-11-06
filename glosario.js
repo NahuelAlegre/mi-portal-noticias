@@ -431,12 +431,13 @@ window.GLOSARIO = {
   "eisenkot": {
     "nombre": "Gadi Eisenkot",
     "tipo": "persona",
-    "texto": "Exjefe del Estado Mayor del ejército israelí (2015-2019) y exministro del gabinete de guerra. Encabeza el bloque opositor a Netanyahu.",
+    "texto": "Exjefe del Estado Mayor del ejército israelí (2015-2019). Lidera el partido Yashar! y recibió 67 recomendaciones para formar gobierno frente a 46 de Netanyahu.",
     "alias": [
-      "Gadi Eisenkot"
+      "Gadi Eisenkot",
+      "Eisenkot"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/330px-Gadi_Eisenkot_2_%28cropped%29.jpg",
-    "actualizado": "2026-10-27"
+    "actualizado": "2026-11-06"
   },
   "knesset": {
     "nombre": "Knéset",
@@ -1192,5 +1193,64 @@ window.GLOSARIO = {
       "zkSNARK"
     ],
     "actualizado": "2026-11-05"
-  }
+  },
+  "jorge-macri": {
+    "nombre": "Jorge Macri",
+    "tipo": "persona",
+    "texto": "Jefe de Gobierno de la Ciudad de Buenos Aires desde 2023 y primo de Mauricio Macri. Coordina con Nación la logística de la visita del papa León XIV.",
+    "alias": [
+      "Jorge Macri"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jorge_Macri_en_2024.jpg/330px-Jorge_Macri_en_2024.jpg",
+    "actualizado": "2026-11-06"
+  },
+  "santiago-pena": {
+    "nombre": "Santiago Peña",
+    "tipo": "persona",
+    "texto": "Presidente de Paraguay desde 2023 (Partido Colorado). Enfrenta juicio político tras el colapso de Ueno Bank, del que fue accionista hasta 2025.",
+    "alias": [
+      "Santiago Peña",
+      "Peña"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/President_Santiago_Pe%C3%B1a.jpg/330px-President_Santiago_Pe%C3%B1a.jpg",
+    "actualizado": "2026-11-06"
+  },
+  "ueno-bank": {
+    "nombre": "Ueno Bank",
+    "tipo": "organizacion",
+    "texto": "Banco digital paraguayo intervenido por el Banco Central tras caer su solvencia bajo el mínimo legal. Dejó sin acceso a depósitos a unos 3 millones de clientes.",
+    "alias": [
+      "Ueno Bank",
+      "Ueno"
+    ],
+    "actualizado": "2026-11-06"
+  },
+  "partido-colorado": {
+    "nombre": "Partido Colorado",
+    "tipo": "organizacion",
+    "texto": "Asociación Nacional Republicana, partido hegemónico de Paraguay. Gobierna con Peña y respaldó abrir el juicio político en su contra.",
+    "alias": [
+      "Partido Colorado"
+    ],
+    "actualizado": "2026-11-06"
+  },
+  "yashar": {
+    "nombre": "Yashar!",
+    "tipo": "organizacion",
+    "texto": "Partido centrista israelí fundado en 2025 y liderado por Gadi Eisenkot. Encabeza el bloque de 48 bancas opuesto a Netanyahu.",
+    "alias": [
+      "Yashar!",
+      "Yashar"
+    ],
+    "actualizado": "2026-11-06"
+  },
+  "roadshow": {
+    "nombre": "Roadshow",
+    "tipo": "concepto",
+    "texto": "Gira previa a un IPO en la que la empresa presenta su oferta a inversores institucionales para fijar demanda y precio. Anthropic lo tenía previsto la semana del 9 de noviembre.",
+    "alias": [
+      "roadshow"
+    ],
+    "actualizado": "2026-11-06"
+  },
 };

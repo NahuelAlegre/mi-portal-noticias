@@ -1,22 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-05",
-  "actualizado": "2026-11-05T07:09:30-03:00",
+  "fecha": "2026-11-06",
+  "actualizado": "2026-11-06T07:17:43-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
-      "resumen": "El riesgo país llegó a 852 puntos, máximo en un año, y las acciones argentinas cayeron pese a la suba de Wall Street.",
+      "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
+      "resumen": "El indicador de JP Morgan subió 73 unidades (+8,6%) hasta 925, máximo desde octubre de 2025, con caídas de hasta 2,7% en bonos soberanos. La Nación atribuyó el salto a un jueves de risk-off global; Perfil y BAE subrayaron dudas locales sobre 2027 y el programa financiero tras la derrota de Trump.",
       "tema": "Argentina",
-      "fuente": "Infobae",
-      "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
     },
     {
-      "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
-      "resumen": "Trump reconoce el costo electoral de la guerra pero no se arrepiente; siguen los incendios de buques en Ormuz.",
+      "titulo": "Trump advierte que puede \"destruir el resto\" de Irán y que se sabrá \"pronto\"",
+      "resumen": "En la Oficina Oval, Trump dijo que preferiría no destruir el resto del país, \"pero quizás tenga que hacerlo\", y que Irán tardará 25 años en reconstruirse tras la guerra con EE.UU. e Israel. En paralelo habló con el emir de Qatar sobre desescalada; la Guardia Revolucionaria reportó dos petroleros incendiados por minas en Ormuz.",
       "tema": "Mundo",
-      "fuente": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      "fuente": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
+    },
+    {
+      "titulo": "Paraguay: el Congreso rechazó la renuncia de Peña y arrancó el juicio político",
+      "resumen": "Tras el colapso de Ueno Bank, que dejó sin acceso a ahorros a unos 3 millones de clientes, Peña anunció su renuncia, pero Diputados quedó sin quórum y el Senado se erigió en tribunal. Este viernes debe defenderse; para destituirlo hacen falta 30 de 45 votos.",
+      "tema": "Mundo",
+      "fuente": "BBC",
+      "url": "https://www.bbc.com/mundo/articles/crwyddpl789do"
     }
   ],
   "temas": [
@@ -24,28 +31,22 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
-          "resumen": "El plenario de Presupuesto y Población firmó el texto con media sanción de Diputados: régimen permanente que reemplaza la emergencia, pensiones compatibles con empleo formal y aranceles actualizados por inflación. TN lo mostró como un consenso amplio; Infobae reveló que Casa Rosada había pedido recortar prestaciones y Bullrich se negó.",
-          "porQueImporta": "La emergencia vigente vence a fin de año; si no se aprueba antes, prestadores y beneficiarios quedan sin marco legal.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/",
-          "hilo": "megasesion-diputados",
-          "glosario": [
-            "ley-discapacidad"
-          ]
+          "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
+          "resumen": "El indicador de JP Morgan subió 73 unidades (+8,6%) hasta 925, máximo desde octubre de 2025; el Merval cayó 4,1% y Mercado Libre −12,4% en Wall Street. La Nación enfatizó el risk-off global y la toma de ganancias en tecnológicas; Perfil y BAE apuntaron a dudas locales sobre 2027, el pago al FMI y el respaldo de EE.UU. tras la derrota republicana.",
+          "porQueImporta": "Con bancos y mercados locales cerrados hasta el martes 10 por el Día del Bancario y la visita papal, la atención se concentra en la reapertura del miércoles y en los bonos que siguen operando en Nueva York.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/",
+          "hilo": "riesgo-pais-mercados",
+          "glosario": ["riesgo-pais", "merval"]
         },
         {
-          "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
-          "resumen": "El riesgo país subió 21 puntos a 852, máximo desde octubre de 2025; el Merval bajó 2,4% e YPF 6,6%, pese a la suba de Wall Street. Infobae atribuyó la caída a factores locales; La Nación destacó que Caputo, en un evento de FIEL, dijo que la derrota de Trump \"no cambia\" la relación con EE.UU.",
-          "porQueImporta": "Con el riesgo país en alza se aleja la posibilidad de que el Tesoro vuelva a emitir deuda en el mercado internacional a tasas razonables.",
+          "titulo": "A 48 horas del Papa: faltazo de Mauricio Macri, tregua forzada y pelea Milei-Bullrich",
+          "resumen": "León XIV aterriza el domingo 8; Infobae confirmó que Mauricio Macri no irá a la misa del lunes en el Monumento a los Españoles por el roce con Jorge Macri. El Congreso frena el Presupuesto 2027 y la reforma electoral; Bullrich exhibió a 15 diputados propios mientras Karina suspendía la mesa política.",
+          "porQueImporta": "La tregua institucional dura hasta el miércoles 11, cuando el Papa parte a Perú; después vuelven las negociaciones por discapacidad (sesión del 19), Presupuesto y alianzas 2027.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/",
-          "hilo": "riesgo-pais-mercados",
-          "glosario": [
-            "riesgo-pais",
-            "merval",
-            "fiel"
-          ]
+          "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
+          "hilo": "visita-papa-leon",
+          "glosario": ["jorge-macri"]
         }
       ]
     },
@@ -53,38 +54,31 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
-          "resumen": "Trump admitió que la guerra pesó en la derrota republicana, pero dijo que \"lo haría de nuevo\" y que no hay ataques inmediatos previstos. La Guardia Revolucionaria informó que dos petroleros y un remolcador se incendiaron en Ormuz, uno tras chocar una mina; el Brent cayó a USD 94.",
-          "porQueImporta": "Con mayoría demócrata desde enero, Schumer anticipó que usarán el control del presupuesto para forzar el fin de la guerra.",
-          "fuente": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+          "titulo": "Trump advierte que puede \"destruir el resto\" de Irán y que se sabrá \"pronto\"",
+          "resumen": "Trump dijo en la Oficina Oval que puede tener que \"destruir el resto\" de Irán para que \"nunca vuelva a pasar\" y que se sabrá \"pronto\". Habló con el emir de Qatar sobre desescalada; la Guardia Revolucionaria dijo que dos petroleros arden tras chocar minas en rutas \"no autorizadas\" de Ormuz.",
+          "porQueImporta": "El contraste con su mensaje de ayer —sin ataques inmediatos— reabre la incertidumbre sobre una nueva oleada de ataques tras las midterms.",
+          "fuente": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532",
           "hilo": "guerra-iran",
-          "glosario": [
-            "guardia-revolucionaria",
-            "ormuz"
-          ]
+          "glosario": ["ormuz", "guardia-revolucionaria"]
         },
         {
-          "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
-          "resumen": "El comité electoral validó la elección del 27 de octubre sin hallar irregularidades: el bloque de Netanyahu tiene 53 bancas, el de Gadi Eisenkot 48 y los partidos árabes un récord de 19, sobre 120 de la Knéset. Herzog pidió a los partidos resignar promesas para evitar otra elección.",
-          "porQueImporta": "Quien reciba el encargo tendrá 28 días, prorrogables 14, para formar coalición; ningún bloque llega a 61 sin los partidos árabes o un cambio de alianzas.",
+          "titulo": "Paraguay: el Congreso rechazó la renuncia de Peña y arrancó el juicio político",
+          "resumen": "Tras la intervención de Ueno Bank (≈3 millones de clientes sin depósitos), Peña anunció su renuncia en X, pero el Partido Colorado dejó sin quórum a Diputados. El Senado se constituyó en tribunal; este viernes se defiende y para destituirlo hacen falta 30 de 45 votos.",
+          "porQueImporta": "Si lo destituyen pierde la inmunidad y la vía a senador vitalicio; la Fiscalía ya abrió tres causas penales por el caso Ueno.",
           "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo",
+          "url": "https://www.bbc.com/mundo/articles/crwyddpl789do",
+          "hilo": "crisis-paraguay",
+          "glosario": ["santiago-pena", "ueno-bank", "partido-colorado"]
+        },
+        {
+          "titulo": "Herzog definirá el domingo quién arma gobierno tras 67 recomendaciones a Eisenkot",
+          "resumen": "Al cerrar las consultas, 67 diputados respaldaron a Gadi Eisenkot (Yashar!) y 46 a Netanyahu; Judaísmo Unido de la Torá no recomendó a nadie. Herzog dijo que los \"vetos mutuos\" entre bloques dejan poco claro quién puede juntar 61 y anunció la decisión para el domingo.",
+          "porQueImporta": "Quien reciba el encargo tendrá 28 días (prorrogables 14) para formar coalición; Netanyahu queda como premier interino hasta entonces.",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
           "hilo": "elecciones-israel",
-          "glosario": [
-            "herzog",
-            "eisenkot",
-            "knesset"
-          ]
-        },
-        {
-          "titulo": "Joshua Wong, rostro de las protestas de Hong Kong, condenado a 10 años más de prisión",
-          "resumen": "El activista de 30 años, preso desde hace seis y que iba a salir en enero, recibió 10 años por \"colusión con fuerzas extranjeras\" bajo la Ley de Seguridad Nacional, tras declararse culpable. Pekín respaldó el fallo; Human Rights Watch lo calificó de \"cruel e injusto\".",
-          "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwp9g3rlp8jlo",
-          "glosario": [
-            "ley-seguridad-nacional-hong-kong"
-          ]
+          "glosario": ["herzog", "eisenkot", "yashar", "knesset"]
         }
       ]
     },
@@ -92,20 +86,13 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic publica FlashProve, un sistema para probar qué modelo de IA generó cada respuesta",
-          "resumen": "Es un prototipo de código abierto que genera pruebas criptográficas (zkSNARK) de que una respuesta salió de un modelo determinado sin revelar sus pesos: con una GPU H100 prueba unos 110 tokens por segundo sobre un modelo de 400.000 millones de parámetros, a 70-95 veces el costo de la inferencia normal.",
-          "porQueImporta": "Permitiría a reguladores y clientes verificar que un proveedor sirve el modelo aprobado o pagado; Anthropic aclara que es una investigación y no está en producción.",
-          "fuente": "Anthropic",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "glosario": [
-            "zksnark"
-          ]
-        },
-        {
-          "titulo": "OpenAI lanza Images 2.6: imágenes 50% más rápidas y GIF animados en ChatGPT",
-          "resumen": "El nuevo modelo de imágenes llega a ChatGPT, Codex y la API para todos los planes: genera 50% más rápido, permite crear GIF animados y exportar en SVG. OpenAI dice que sus usuarios ya crean 4.000 millones de imágenes por semana.",
-          "fuente": "OpenAI",
-          "url": "https://openai.com/index/introducing-images-2-6/"
+          "titulo": "Inversores frenan el IPO de Anthropic: piden bajar de US$1,5 billones o postergar",
+          "resumen": "Cuatro fuentes dijeron a Reuters que dudan de que el roadshow de la semana del 9 de noviembre llegue a tiempo: ven la valuación de US$1,5 billones en el techo y algunos hablan de cerca de 1 billón o de diferir la oferta. El S-1 dejó en blanco el dato de ingresos de octubre; Anthropic no comentó.",
+          "porQueImporta": "Una postergación, en medio del mayor sell-off tecnológico en un año, reforzaría las dudas sobre el financiamiento del ecosistema de IA; el IPO se proyectaba como el mayor de la historia, de hasta US$100.000 millones.",
+          "fuente": "Reuters / CNA",
+          "url": "https://www.channelnewsasia.com/business/exclusive-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-6529336",
+          "hilo": "ipo-anthropic",
+          "glosario": ["s-1", "roadshow"]
         }
       ]
     }
@@ -113,15 +100,15 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "interna-bullrich-milei",
-      "novedad": "Según Infobae, Bullrich rechazó un pedido de Casa Rosada de recortar prestaciones en la Ley de Discapacidad, y Caputo le respondió en FIEL que \"no cualquiera\" puede reemplazar a Milei.",
+      "novedad": "Bullrich reunió a 15 diputados propios a la misma hora en que Karina suspendía la mesa política; Martín Menem reiteró que Milei es el único candidato 2027 y se especula con Nadia Márquez como eventual reemplazo de Bullrich al frente del bloque.",
       "fuente": "Infobae",
-      "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
+      "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
     },
     {
-      "hilo": "guerra-ucrania",
-      "novedad": "Más de 200 drones ucranianos atacaron la región rusa de Riazán y causaron un incendio en la refinería de Rosneft; Rusia golpeó una terminal de Nova Poshta cerca de Járkov.",
-      "fuente": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan"
+      "hilo": "hutis-arabia-saudita",
+      "novedad": "La coalición saudí interceptó dos misiles balísticos hutíes dirigidos a la provincia de Najrán; hubo restos tras el derribo y se evalúan daños.",
+      "fuente": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
     }
   ]
 };

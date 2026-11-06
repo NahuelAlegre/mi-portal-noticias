@@ -174,8 +174,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
+        "resumen": "La coalición dijo haber destruido dos misiles balísticos hutíes dirigidos a Najrán; hubo restos tras el derribo y se evalúan daños.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
+      },
       {
         "fecha": "2026-11-02",
         "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
@@ -445,8 +452,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Inversores frenan el IPO de Anthropic: piden bajar de US$1,5 billones o postergar",
+        "resumen": "Fuentes dijeron a Reuters que dudan del roadshow de la semana del 9/11: ven US$1,5 billones en el techo y algunos hablan de cerca de 1 billón o de diferir. Anthropic no comentó.",
+        "fuente": "Reuters / CNA",
+        "url": "https://www.channelnewsasia.com/business/exclusive-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-6529336"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Anthropic facturó US$17.000 millones en el tercer trimestre, pero el cómputo ya se lleva el 58% de sus ingresos",
@@ -481,8 +495,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "A 48 horas del Papa: faltazo de Mauricio Macri y tregua forzada en el Congreso",
+        "resumen": "León XIV aterriza el domingo 8; Infobae confirmó que Mauricio Macri no irá a la misa del lunes por el roce con Jorge Macri. El Congreso pausa Presupuesto y reforma electoral.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "Visita del Papa: Villarruel y los gobernadores, invitados al Palacio Libertad",
@@ -540,8 +561,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Trump advierte que puede \"destruir el resto\" de Irán y que se sabrá \"pronto\"",
+        "resumen": "Trump dijo que preferiría no destruir el resto del país, \"pero quizás tenga que hacerlo\". Habló con el emir de Qatar; la Guardia Revolucionaria reportó dos petroleros incendiados en Ormuz.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "Trump dice que no planea atacar Irán de inmediato mientras arden petroleros en Ormuz",
@@ -654,8 +682,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Herzog definirá el domingo quién arma gobierno tras 67 recomendaciones a Eisenkot",
+        "resumen": "67 diputados respaldaron a Eisenkot y 46 a Netanyahu; Herzog citó \"vetos mutuos\" entre bloques y anunció la decisión para el domingo.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
@@ -793,8 +828,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Bullrich exhibió a 15 diputados propios mientras Karina suspendía la mesa política",
+        "resumen": "La senadora reunió a su bloque paralelo; Menem reiteró que Milei es el único candidato 2027 y circula el nombre de Nadia Márquez como eventual reemplazo al frente del bloque.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "Bullrich rechazó recortar la Ley de Discapacidad y Caputo le respondió",
@@ -836,8 +878,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-06",
     "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
+        "resumen": "JP Morgan +73 a 925 (+8,6%), máximo desde octubre de 2025; Merval −4,1%. La Nación enfatizó el risk-off global; Perfil y BAE, las dudas locales y el respaldo de EE.UU.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
@@ -925,6 +974,21 @@ window.HILOS = {
         "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/"
+      }
+    ]
+  },
+  "crisis-paraguay": {
+    "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
+    "tema": "Mundo",
+    "creado": "2026-11-06",
+    "actualizado": "2026-11-06",
+    "entradas": [
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Paraguay: el Congreso rechazó la renuncia de Peña y arrancó el juicio político",
+        "resumen": "Tras el colapso de Ueno Bank, Peña anunció su renuncia, pero Diputados quedó sin quórum y el Senado se erigió en tribunal. Este viernes se defiende; hacen falta 30 de 45 votos para destituirlo.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/mundo/articles/crwyddpl789do"
       }
     ]
   }
