@@ -1207,13 +1207,13 @@ window.GLOSARIO = {
   "santiago-pena": {
     "nombre": "Santiago Peña",
     "tipo": "persona",
-    "texto": "Presidente de Paraguay desde 2023 (Partido Colorado). Enfrenta juicio político tras el colapso de Ueno Bank, del que fue accionista hasta 2025.",
+    "texto": "Expresidente de Paraguay (2023-2026), del Partido Colorado. El Senado lo destituyó el 6 de noviembre de 2026 por el colapso de Ueno Bank y quedó bajo arresto domiciliario.",
     "alias": [
       "Santiago Peña",
       "Peña"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/President_Santiago_Pe%C3%B1a.jpg/330px-President_Santiago_Pe%C3%B1a.jpg",
-    "actualizado": "2026-11-06"
+    "actualizado": "2026-11-07"
   },
   "ueno-bank": {
     "nombre": "Ueno Bank",
@@ -1253,4 +1253,85 @@ window.GLOSARIO = {
     ],
     "actualizado": "2026-11-06"
   },
+  "pedro-alliana": {
+    "nombre": "Pedro Alliana",
+    "tipo": "persona",
+    "texto": "Político del Partido Colorado, vicepresidente de Paraguay desde 2023. Asumió la presidencia el 6 de noviembre de 2026 tras la destitución de Santiago Peña.",
+    "alias": [
+      "Pedro Alliana",
+      "Alliana"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PedroAlliana.jpg/330px-PedroAlliana.jpg",
+    "actualizado": "2026-11-07"
+  },
+  "stephen-miller": {
+    "nombre": "Stephen Miller",
+    "tipo": "persona",
+    "texto": "Asesor de Trump desde su primer mandato y responsable de su política migratoria. Fue subjefe de gabinete hasta su designación como jefe de gabinete en noviembre de 2026.",
+    "alias": [
+      "Stephen Miller",
+      "Miller"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stephen_Miller_July_2025.jpg/330px-Stephen_Miller_July_2025.jpg",
+    "actualizado": "2026-11-07"
+  },
+  "susie-wiles": {
+    "nombre": "Susie Wiles",
+    "tipo": "persona",
+    "texto": "Estratega republicana, primera mujer jefa de gabinete de la Casa Blanca (2025-2026). Dejó el cargo tras las midterms y pasó al equipo político de Trump.",
+    "alias": [
+      "Susie Wiles"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Susie_Wiles_2025_%28edited_crop%29.jpg/330px-Susie_Wiles_2025_%28edited_crop%29.jpg",
+    "actualizado": "2026-11-07"
+  },
+  "medinsky": {
+    "nombre": "Vladímir Medinski",
+    "tipo": "persona",
+    "texto": "Asesor de Putin y exministro de Cultura de Rusia. Encabeza la delegación rusa en las negociaciones con Ucrania y EE.UU.",
+    "alias": [
+      "Vladímir Medinski",
+      "Medinski"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Vladimir_Medinsky_2025-06-05_%28cropped%29.jpg/330px-Vladimir_Medinsky_2025-06-05_%28cropped%29.jpg",
+    "actualizado": "2026-11-07"
+  },
+  "kostyukov": {
+    "nombre": "Ígor Kostiukov",
+    "tipo": "persona",
+    "texto": "Almirante ruso, director desde 2018 de la inteligencia militar (GRU). Integra la delegación rusa en Abu Dabi.",
+    "alias": [
+      "Ígor Kostiukov",
+      "Kostiukov"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Igor_Kostykov_%28official_portrait%29.jpg",
+    "actualizado": "2026-11-07"
+  },
+  "bonos-globales": {
+    "nombre": "Bonos Globales",
+    "tipo": "concepto",
+    "texto": "Bonos del Tesoro argentino en dólares emitidos bajo ley de Nueva York. Su precio determina en buena parte el riesgo país.",
+    "alias": [
+      "Globales"
+    ],
+    "actualizado": "2026-11-07"
+  },
+  "daybreak": {
+    "nombre": "Daybreak",
+    "tipo": "organizacion",
+    "texto": "Programa de OpenAI que da a equipos de seguridad informática acceso a sus modelos especializados. Daybreak Red habilita el desarrollo de exploits en pruebas autorizadas.",
+    "alias": [
+      "Daybreak Red"
+    ],
+    "actualizado": "2026-11-07"
+  },
+  "aprendizaje-por-refuerzo": {
+    "nombre": "Aprendizaje por refuerzo",
+    "tipo": "concepto",
+    "texto": "Etapa de entrenamiento en la que un modelo de IA se ajusta según las recompensas que asigna un evaluador a sus respuestas.",
+    "alias": [
+      "aprendizaje por refuerzo"
+    ],
+    "actualizado": "2026-11-07"
+  }
 };

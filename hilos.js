@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Rusia, EE.UU. y Ucrania negociarán el martes y miércoles en Abu Dabi",
+        "resumen": "Putin confirmó la ronda trilateral del 10 y 11 de noviembre, con Medinski al frente de la delegación rusa; Trump dijo que ve un acuerdo \"pronto\".",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi/4114672"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "Ucrania ataca la refinería de Riazán; Rusia golpea logística en Járkov",
@@ -373,8 +380,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-10-31",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Presupuesto 2027: el oficialismo apunta al 25 de noviembre en el recinto",
+        "resumen": "Busca dictamen una semana antes y media sanción antes del 30; el PRO dice que sus siete planteos siguen sin respuesta y la UCR condiciona su apoyo a discapacidad y universidades.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/presupuesto-2027-fechas-maneja-gobierno-reclamos-demoran-negociacion-congreso_0_lWJjiwzysh.html"
+      },
       {
         "fecha": "2026-10-31",
         "titulo": "Presupuesto 2027: el dictamen se corre a noviembre y el Gobierno ya evalúa sesiones extraordinarias",
@@ -452,8 +466,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Anthropic mantiene el roadshow del IPO, pero inversores ya hablan de US$1 a 1,25 billones",
+        "resumen": "Inversores consultados por CNBC y Bloomberg ubican la valuación entre US$1 y 1,3 billones; el roadshow arrancaría la semana próxima.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "Inversores frenan el IPO de Anthropic: piden bajar de US$1,5 billones o postergar",
@@ -495,8 +516,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "León XIV inició su gira sudamericana en Uruguay con un llamado a la unidad regional",
+        "resumen": "Lo recibió Yamandú Orsi en Montevideo; el domingo 8 llega a Buenos Aires.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/06/latinoamerica/papa-inicia-gira-america-latina-uruguay-orix"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "A 48 horas del Papa: faltazo de Mauricio Macri y tregua forzada en el Congreso",
@@ -561,8 +589,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "EE.UU. volvió a atacar Qeshm mientras Qatar ofrece reabrir Ormuz a cambio de inspecciones nucleares",
+        "resumen": "Trump confirmó ataques \"menores\" en Qeshm. Qatar propone levantar el bloqueo y liberar fondos a cambio de inspecciones del OIEA y la reapertura de Ormuz.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "Trump advierte que puede \"destruir el resto\" de Irán y que se sabrá \"pronto\"",
@@ -878,8 +913,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
+        "resumen": "Sexta suba seguida (+13 a 939), máximo desde octubre de 2025, pese al rebote del Nasdaq. Clarín y PPI apuntan a factores locales; IEB, en Infobae, ve un riesgo político exagerado.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
@@ -929,8 +971,15 @@ window.HILOS = {
     "nombre": "Elecciones de medio término en EE.UU.",
     "tema": "Mundo",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-04",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Tras la derrota en las midterms, Trump nombró a Stephen Miller jefe de gabinete",
+        "resumen": "Stephen Miller reemplaza a Susie Wiles desde el lunes; Trump anticipó cambios en el gabinete tras perder ambas cámaras.",
+        "fuente": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/mundo/estados-unidos/stephen-miller-sera-el-nuevo-jefe-de-gabinete-de-trump-tras-la-salida-de-susie-wiles/"
+      },
       {
         "fecha": "2026-11-04",
         "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
@@ -981,8 +1030,15 @@ window.HILOS = {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
     "creado": "2026-11-06",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-07",
     "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Paraguay: el Senado destituyó a Peña por 44 a 0, lo detuvieron y juró Alliana",
+        "resumen": "El Senado lo declaró culpable de mal desempeño por 44 a 0; quedó bajo arresto domiciliario y Pedro Alliana asumió hasta 2028.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261106/senado-paraguay-santiago-pena-juicio-politico/17304100.shtml"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "Paraguay: el Congreso rechazó la renuncia de Peña y arrancó el juicio político",
