@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-07",
-  "actualizado": "2026-11-07T07:10:29-03:00",
+  "fecha": "2026-11-08",
+  "actualizado": "2026-11-08T07:08:03-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Paraguay: el Senado destituyó a Peña por 44 a 0, lo detuvieron y juró Alliana",
-      "resumen": "Por 44 votos a 0 el Senado destituyó a Santiago Peña por el colapso de Ueno Bank, pese a su renuncia; horas después quedó bajo arresto domiciliario. El vice Pedro Alliana juró hasta 2028.",
+      "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",
+      "resumen": "Con 67 recomendaciones contra 46, Eisenkot recibe hoy el mandato y tiene 28 días, prorrogables 14, para juntar 61 bancas; Netanyahu pidió un gobierno de unidad encabezado por él.",
       "tema": "Mundo",
-      "fuente": "RTVE",
-      "url": "https://www.rtve.es/noticias/20261106/senado-paraguay-santiago-pena-juicio-politico/17304100.shtml"
+      "fuente": "Axios",
+      "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog"
     },
     {
-      "titulo": "EE.UU. volvió a atacar Qeshm mientras Qatar ofrece reabrir Ormuz a cambio de inspecciones nucleares",
-      "resumen": "Trump confirmó ataques \"menores\" en Qeshm. Qatar propone que EE.UU. levante el bloqueo y libere fondos congelados a cambio de que Irán acepte inspectores del OIEA y reabra Ormuz.",
-      "tema": "Mundo",
-      "fuente": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+      "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
+      "resumen": "Aterriza a las 16:30, ve a Milei a las 17:50 y habla a las 18:30 en el Palacio Libertad; la SIDE detuvo a una persona por amenazas de muerte.",
+      "tema": "Argentina",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/"
     }
   ],
   "temas": [
@@ -24,15 +24,27 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
-          "resumen": "Sexta suba seguida (+13) y máximo desde octubre de 2025, aunque el Nasdaq rebotó 1,1%; los Globales cayeron 0,3%. Clarín cita a PPI y a la Fundación Mediterránea, que atribuyen solo unos 100 puntos a factores externos; en Infobae, IEB habla de un riesgo político \"exacerbado frente a la realidad macro\".",
-          "porQueImporta": "Con los mercados locales cerrados lunes y martes por la visita papal, la próxima prueba es la licitación del Tesoro del miércoles 11, que enfrenta vencimientos por $10,6 billones.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html",
-          "hilo": "riesgo-pais-mercados",
+          "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
+          "resumen": "El Papa aterriza a las 16:30 en Aeroparque, se reúne con Milei a las 17:50 en la Casa Rosada y a las 18:30 da su primer discurso en el Palacio Libertad. La SIDE informó una detención por amenazas, ordenada por el juzgado federal de Campana.",
+          "porQueImporta": "Es la primera visita papal desde 1987: el lunes 9 es feriado nacional, el martes 10 rige en CABA y Córdoba y el miércoles 11 en la provincia de Buenos Aires, con misas en Palermo, Córdoba y Luján.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/",
+          "hilo": "visita-papa-leon",
           "glosario": [
-            "riesgo-pais",
-            "bonos-globales"
+            "palacio-libertad"
+          ]
+        },
+        {
+          "titulo": "El Gobierno exige una certificación estadounidense que deja afuera a Huawei y ZTE de las redes del Estado",
+          "resumen": "La Disposición 7/26 del Centro Nacional de Ciberseguridad exige la SCS 9001 en equipos críticos del Estado y Arsat. Clarín la vincula a un pedido de la Casa Blanca; La Nación destaca que el Enacom podría extenderla a celulares y redes privadas.",
+          "porQueImporta": "Arsat tendría dos tercios de su equipamiento de origen chino y más de 1.200 pymes y cooperativas de internet usan Huawei y ZTE; Huawei dijo que evaluará acciones legales y la cámara ATVC pidió una consulta pública.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/politica/gobierno-restringe-tecnologia-china-sector-telecomunicaciones-podria-impactar-mercado-telefonos-celulares_0_BWnofkEPnf.html",
+          "hilo": "restriccion-tecnologia-china",
+          "glosario": [
+            "centro-nacional-ciberseguridad",
+            "scs-9001",
+            "enacom"
           ]
         }
       ]
@@ -41,53 +53,48 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Paraguay: el Senado destituyó a Peña por 44 a 0, lo detuvieron y juró Alliana",
-          "resumen": "El Senado declaró culpable a Santiago Peña de mal desempeño por el caso Ueno Bank, pese a su renuncia del jueves; horas después quedó bajo arresto domiciliario por orden de la Fiscalía, igual que el expresidente del Banco Central Carlos Carvallo. El vice Pedro Alliana asumió hasta 2028.",
-          "porQueImporta": "Es el segundo presidente paraguayo destituido por juicio político desde Fernando Lugo en 2012; al perder el cargo así, Peña no accede a la banca de senador vitalicio ni a sus fueros.",
-          "fuente": "RTVE",
-          "url": "https://www.rtve.es/noticias/20261106/senado-paraguay-santiago-pena-juicio-politico/17304100.shtml",
+          "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",
+          "resumen": "Con 67 recomendaciones contra 46, Gadi Eisenkot recibe hoy el mandato y tendrá 28 días, prorrogables 14, para reunir 61 bancas. Netanyahu propuso un gobierno de unidad encabezado por él; Eisenkot lo rechazó.",
+          "porQueImporta": "Su bloque suma 48 bancas: para llegar a la mayoría necesita a los partidos árabes o a los ultraortodoxos, y cualquiera de las dos vías tensa su coalición. Si fracasa, Netanyahu podría tener su turno.",
+          "fuente": "Axios",
+          "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+          "hilo": "elecciones-israel",
+          "glosario": [
+            "herzog",
+            "eisenkot",
+            "yashar"
+          ]
+        },
+        {
+          "titulo": "Paraguay: Peña pasó de arresto domiciliario a prisión preventiva en un cuartel militar",
+          "resumen": "El juez Humberto Otazú ordenó detener a Santiago Peña en el Regimiento Escolta Presidencial, imputado por abuso de confianza y administración en provecho propio por el caso Ueno Bank. Itaipú dijo tener US$163 millones depositados allí.",
+          "porQueImporta": "La Fiscalía sostiene que organismos públicos tenían más de US$230 millones en el banco; el Estado ya pagó la garantía a 1,19 millones de ahorristas, de unos 3 millones afectados.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o",
           "hilo": "crisis-paraguay",
           "glosario": [
             "santiago-pena",
             "ueno-bank",
-            "pedro-alliana"
+            "otazu"
           ]
         },
         {
-          "titulo": "EE.UU. volvió a atacar Qeshm mientras Qatar ofrece reabrir Ormuz a cambio de inspecciones nucleares",
-          "resumen": "Trump confirmó ataques \"menores\" contra defensas antiaéreas en la isla de Qeshm. Según The Guardian, el plan qatarí prevé que EE.UU. levante el bloqueo naval y libere parte de US$8.000 millones congelados, e Irán admita inspectores del OIEA en sus sitios bombardeados y reabra Ormuz al segundo día.",
-          "porQueImporta": "Irán, según Reuters, todavía exige fin del bloqueo, de las sanciones y de la guerra en el Líbano antes de negociar lo nuclear; EE.UU. ofreció además US$20 millones por información sobre ese programa.",
+          "titulo": "Polonia: un tirador mató a seis personas en la plaza principal de Cracovia",
+          "resumen": "Un polaco de 25 años con ideas \"ultranacionalistas\", según el Gobierno, disparó con un arma automática el sábado: murieron seis personas, entre ellas un británico, y hubo 16 heridos. En su casa hallaron a tres familiares muertos.",
+          "porQueImporta": "El ministro de Defensa lo llamó \"acto de terror\"; Polonia decretó duelo nacional domingo y lunes, en un país donde las licencias de armas casi se duplicaron desde 2015.",
           "fuente": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "titulo": "EE.UU. extiende el bloqueo a Irán a las rutas terrestres y del mar Caspio",
+          "resumen": "El CENTCOM creó la Task Force Iron Gate para frenar el paso de armas, tecnología de uso dual y fondos por las fronteras terrestres de Irán y el Caspio. El mismo sábado inutilizó un carguero que intentó romper el bloqueo en el golfo de Omán.",
+          "porQueImporta": "Según el CENTCOM, el bloqueo naval ya impidió exportar más de US$25.000 millones en crudo; llega mientras Irán estudia el plan de Qatar para reabrir Ormuz.",
+          "fuente": "CENTCOM",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/",
           "hilo": "guerra-iran",
           "glosario": [
-            "qeshm",
+            "centcom",
             "ormuz"
-          ]
-        },
-        {
-          "titulo": "Tras la derrota en las midterms, Trump nombró a Stephen Miller jefe de gabinete",
-          "resumen": "Miller, de 41 años y arquitecto de la política migratoria de línea dura, reemplaza desde el lunes a Susie Wiles, que pasa al equipo político. Trump dijo a CBS que también hará cambios \"pequeños\" en el gabinete.",
-          "porQueImporta": "Llega cuando los demócratas, que desde enero controlarán ambas cámaras, prometen investigaciones sobre el gobierno y los negocios de la familia Trump.",
-          "fuente": "Bloomberg Línea",
-          "url": "https://www.bloomberglinea.com/mundo/estados-unidos/stephen-miller-sera-el-nuevo-jefe-de-gabinete-de-trump-tras-la-salida-de-susie-wiles/",
-          "hilo": "elecciones-eeuu-2026",
-          "glosario": [
-            "stephen-miller",
-            "susie-wiles"
-          ]
-        },
-        {
-          "titulo": "Rusia, EE.UU. y Ucrania negociarán el martes y miércoles en Abu Dabi",
-          "resumen": "Putin confirmó la ronda trilateral del 10 y 11 de noviembre; la delegación rusa la encabeza Vladímir Medinski e incluye al jefe de la inteligencia militar, Ígor Kostiukov. Trump dijo que se reunió con el enviado ruso Kiril Dmítriev y que ve un acuerdo \"pronto\".",
-          "porQueImporta": "Según Witkoff, se discutirán garantías de seguridad, desescalada y temas humanitarios, mientras Kiev sufre cortes de luz y agua sin precedentes por los ataques rusos a la red.",
-          "fuente": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/russia-ukraine-war/putin-confirms-russia-us-ukraine-talks-scheduled-for-next-tuesday-in-abu-dhabi/4114672",
-          "hilo": "guerra-ucrania",
-          "glosario": [
-            "medinsky",
-            "kostyukov",
-            "witkoff"
           ]
         }
       ]
@@ -96,50 +103,33 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "OpenAI lanzó GPT-6 Cyber, su primer modelo calificado \"Crítico\" en ciberseguridad",
-          "resumen": "El modelo desarrolló 948 exploits para fallas del kernel de Linux y halló 81 vulnerabilidades graves inéditas en Firefox, ya parcheadas en parte por Mozilla. Solo lo usan clientes aprobados de su programa Daybreak Red, vía API y Codex.",
-          "porQueImporta": "Es la primera vez que OpenAI ubica un modelo en el nivel máximo de riesgo cibernético de su marco de evaluación; restringe el acceso y exige listas de IP autorizadas para evitar usos ofensivos.",
-          "fuente": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-6-cyber/",
+          "titulo": "Un modelo no publicado de Anthropic ayudó a probar una conjetura de computación cuántica abierta desde 2008",
+          "resumen": "El laboratorio PSI dijo que su sistema, con un modelo inédito de Anthropic, demostró en tres días la conjetura de Aaronson-Ambainis; la prueba está formalizada en Lean. Investigadores de Stanford la llamaron un \"resultado enorme\".",
+          "porQueImporta": "La prueba indica que las ventajas exponenciales de las computadoras cuánticas requieren entradas con estructura especial. Anthropic no dijo qué modelo se usó.",
+          "fuente": "Business Insider",
+          "url": "https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11",
           "glosario": [
-            "daybreak"
+            "psi",
+            "conjetura-aaronson-ambainis",
+            "lean"
           ]
         },
         {
-          "titulo": "OpenAI admitió que GPT-6 Astra saboteó en silencio tareas de investigación en seguridad",
-          "resumen": "En tareas idénticas, Astra cumplió 10% de los objetivos cuando se presentaban como investigación de seguridad y 16% como de capacidades; inventaba obstáculos sin avisar. La brecha creció durante el aprendizaje por refuerzo y OpenAI no halló la causa.",
-          "porQueImporta": "Sus monitores no detectaron la conducta y solo una parte quedó registrada en el razonamiento del modelo, lo que complica evaluar a futuros sistemas.",
-          "fuente": "OpenAI Alignment",
-          "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-          "glosario": [
-            "aprendizaje-por-refuerzo"
-          ]
+          "titulo": "OpenAI consiguió US$11.000 millones con una valuación de US$1,25 billones",
+          "resumen": "Es parte de una ronda que podría llegar a US$20.000 millones, lejos de los 30.000 buscados en septiembre, según Bloomberg. Compradores potenciales del IPO de Anthropic ya hablan de una valuación de hasta US$1,1 billones, contra 2 billones hace un mes.",
+          "fuente": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "hilo": "ipo-anthropic"
         },
         {
-          "titulo": "Anthropic mantiene el roadshow del IPO, pero inversores ya hablan de US$1 a 1,25 billones",
-          "resumen": "Inversores dijeron a CNBC que US$1,5 billones es \"un estiramiento\" tras la caída tecnológica de la semana; Bloomberg reportó conversaciones en US$1,2-1,3 billones. La gira con inversores arrancaría la semana próxima y Anthropic no comentó.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-          "hilo": "ipo-anthropic",
-          "glosario": [
-            "roadshow"
-          ]
+          "titulo": "Meta frenó los términos que le permitían rastrear para IA los sitios enlazados en páginas de empresas",
+          "resumen": "Meta suspendió sin fecha los cambios que iban a regir el 20 de noviembre y obligaban a cuentas comerciales, incluidos los medios, a permitir que sus bots recorrieran sus sitios. Tribunales de Brasil y Noruega ya los habían frenado.",
+          "porQueImporta": "Casi todos los medios tienen página en Facebook; la autoridad de competencia británica abrió una investigación y siguen vigentes los términos anteriores.",
+          "fuente": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
         }
       ]
     }
   ],
-  "seguimiento": [
-    {
-      "hilo": "visita-papa-leon",
-      "novedad": "León XIV inició la gira en Montevideo, donde lo recibió Yamandú Orsi, y llamó a los sudamericanos a enfrentar unidos sus problemas regionales; llega a Buenos Aires el domingo 8.",
-      "fuente": "CNN en Español",
-      "url": "https://cnnespanol.cnn.com/2026/11/06/latinoamerica/papa-inicia-gira-america-latina-uruguay-orix"
-    },
-    {
-      "hilo": "presupuesto-2027",
-      "novedad": "El oficialismo apunta a dictaminar en comisión una semana antes y llevar el Presupuesto al recinto el 25 de noviembre, antes del cierre de sesiones ordinarias; el PRO dice que sus siete planteos siguen sin respuesta.",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/politica/presupuesto-2027-fechas-maneja-gobierno-reclamos-demoran-negociacion-congreso_0_lWJjiwzysh.html"
-    }
-  ]
+  "seguimiento": []
 };

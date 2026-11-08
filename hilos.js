@@ -466,8 +466,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-08",
     "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "OpenAI consiguió US$11.000 millones con una valuación de US$1,25 billones",
+        "resumen": "OpenAI levantó US$11.000 millones a US$1,25 billones; compradores del IPO de Anthropic hablan de hasta US$1,1 billones.",
+        "fuente": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "Anthropic mantiene el roadshow del IPO, pero inversores ya hablan de US$1 a 1,25 billones",
@@ -516,8 +523,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-08",
     "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
+        "resumen": "Llega a las 16:30 y ve a Milei a las 17:50; la SIDE informó la detención de una persona por amenazas de muerte contra el Papa.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "León XIV inició su gira sudamericana en Uruguay con un llamado a la unidad regional",
@@ -589,8 +603,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-08",
     "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "EE.UU. extiende el bloqueo a Irán a las rutas terrestres y del mar Caspio",
+        "resumen": "El CENTCOM creó la Task Force Iron Gate para vigilar las fronteras terrestres y el Caspio e inutilizó un carguero en el golfo de Omán.",
+        "fuente": "CENTCOM",
+        "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "EE.UU. volvió a atacar Qeshm mientras Qatar ofrece reabrir Ormuz a cambio de inspecciones nucleares",
@@ -717,8 +738,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-08",
     "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",
+        "resumen": "Herzog eligió a Eisenkot, que recibe el mandato el domingo y tiene 28 días (más 14) para formar gobierno; Netanyahu pidió una coalición de unidad.",
+        "fuente": "Axios",
+        "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "Herzog definirá el domingo quién arma gobierno tras 67 recomendaciones a Eisenkot",
@@ -1030,8 +1058,15 @@ window.HILOS = {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
     "creado": "2026-11-06",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-08",
     "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "Paraguay: Peña pasó de arresto domiciliario a prisión preventiva en un cuartel militar",
+        "resumen": "El juez Otazú le dictó prisión preventiva en el Regimiento Escolta Presidencial; está imputado por abuso de confianza.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c64g1nd9qvn0o"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "Paraguay: el Senado destituyó a Peña por 44 a 0, lo detuvieron y juró Alliana",
@@ -1045,6 +1080,21 @@ window.HILOS = {
         "resumen": "Tras el colapso de Ueno Bank, Peña anunció su renuncia, pero Diputados quedó sin quórum y el Senado se erigió en tribunal. Este viernes se defiende; hacen falta 30 de 45 votos para destituirlo.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/mundo/articles/crwyddpl789do"
+      }
+    ]
+  },
+  "restriccion-tecnologia-china": {
+    "nombre": "Restricciones a la tecnología china en telecomunicaciones",
+    "tema": "Argentina",
+    "creado": "2026-11-08",
+    "actualizado": "2026-11-08",
+    "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "El Gobierno exige una certificación estadounidense que deja afuera a Huawei y ZTE de las redes del Estado",
+        "resumen": "La Disposición 7/26 exige la certificación SCS 9001 para equipos críticos del Estado; el Enacom debe evaluar extenderla a la homologación de equipos.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/gobierno-restringe-tecnologia-china-sector-telecomunicaciones-podria-impactar-mercado-telefonos-celulares_0_BWnofkEPnf.html"
       }
     ]
   }

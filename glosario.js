@@ -431,13 +431,13 @@ window.GLOSARIO = {
   "eisenkot": {
     "nombre": "Gadi Eisenkot",
     "tipo": "persona",
-    "texto": "Exjefe del Estado Mayor del ejército israelí (2015-2019). Lidera el partido Yashar! y recibió 67 recomendaciones para formar gobierno frente a 46 de Netanyahu.",
+    "texto": "Exjefe del Estado Mayor del ejército israelí (2015-2019) y líder del partido Yashar!. El presidente Herzog le encargó formar gobierno tras la elección de 2026.",
     "alias": [
       "Gadi Eisenkot",
       "Eisenkot"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/330px-Gadi_Eisenkot_2_%28cropped%29.jpg",
-    "actualizado": "2026-11-06"
+    "actualizado": "2026-11-08"
   },
   "knesset": {
     "nombre": "Knéset",
@@ -1207,13 +1207,13 @@ window.GLOSARIO = {
   "santiago-pena": {
     "nombre": "Santiago Peña",
     "tipo": "persona",
-    "texto": "Expresidente de Paraguay (2023-2026), del Partido Colorado. El Senado lo destituyó el 6 de noviembre de 2026 por el colapso de Ueno Bank y quedó bajo arresto domiciliario.",
+    "texto": "Expresidente de Paraguay (2023-2026), del Partido Colorado. El Senado lo destituyó el 6 de noviembre de 2026 por el colapso de Ueno Bank y un juez le dictó prisión preventiva.",
     "alias": [
       "Santiago Peña",
       "Peña"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/President_Santiago_Pe%C3%B1a.jpg/330px-President_Santiago_Pe%C3%B1a.jpg",
-    "actualizado": "2026-11-07"
+    "actualizado": "2026-11-08"
   },
   "ueno-bank": {
     "nombre": "Ueno Bank",
@@ -1333,5 +1333,71 @@ window.GLOSARIO = {
       "aprendizaje por refuerzo"
     ],
     "actualizado": "2026-11-07"
+  },
+  "palacio-libertad": {
+    "nombre": "Palacio Libertad",
+    "tipo": "lugar",
+    "texto": "Centro cultural en el ex Palacio de Correos, en el centro porteño, antes llamado Centro Cultural Kirchner (CCK). Allí León XIV da su primer discurso en el país.",
+    "alias": [
+      "Palacio Libertad"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "centro-nacional-ciberseguridad": {
+    "nombre": "Centro Nacional de Ciberseguridad",
+    "tipo": "organizacion",
+    "texto": "Organismo de la Jefatura de Gabinete que fija requisitos de seguridad informática para el Estado. Su Disposición 7/26 exige la certificación SCS 9001 en redes críticas.",
+    "alias": [
+      "Centro Nacional de Ciberseguridad",
+      "CNC"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "scs-9001": {
+    "nombre": "SCS 9001",
+    "tipo": "concepto",
+    "texto": "Certificación de seguridad de la cadena de suministro de la TIA, asociación privada de la industria de telecomunicaciones de EE.UU. No admite a empresas sancionadas por Washington, como Huawei y ZTE.",
+    "alias": [
+      "SCS 9001"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "enacom": {
+    "nombre": "Ente Nacional de Comunicaciones (Enacom)",
+    "tipo": "organizacion",
+    "texto": "Regulador argentino de las telecomunicaciones, que homologa los equipos que se venden en el país. La Disposición 7/26 le pide evaluar si extiende la exigencia SCS 9001.",
+    "alias": [
+      "Enacom"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "otazu": {
+    "nombre": "Humberto Otazú",
+    "tipo": "persona",
+    "texto": "Juez penal de garantías de delitos económicos de Paraguay. Ordenó la prisión preventiva del expresidente Santiago Peña por el caso Ueno Bank.",
+    "alias": [
+      "Humberto Otazú",
+      "Otazú"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "psi": {
+    "nombre": "Physical Superintelligence (PSI)",
+    "tipo": "organizacion",
+    "texto": "Laboratorio de investigación en física que usa sistemas de IA. Anunció que un modelo no publicado de Anthropic probó la conjetura de Aaronson-Ambainis.",
+    "alias": [
+      "PSI"
+    ],
+    "actualizado": "2026-11-08"
+  },
+  "conjetura-aaronson-ambainis": {
+    "nombre": "Conjetura de Aaronson-Ambainis",
+    "tipo": "concepto",
+    "texto": "Problema planteado en 2008 por Scott Aaronson y Andris Ambainis sobre cuándo una computadora cuántica puede ser exponencialmente más rápida que una clásica.",
+    "alias": [
+      "conjetura de Aaronson-Ambainis",
+      "Aaronson-Ambainis"
+    ],
+    "actualizado": "2026-11-08"
   }
 };
