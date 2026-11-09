@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-09",
     "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Europa tendrá lugar en la negociación de Abu Dabi entre Rusia, Ucrania y EE.UU.",
+        "resumen": "La UE, la OTAN y el E3 estarán en la ronda de Abu Dabi del 10 y 11 de noviembre; el formato sigue sin definirse.",
+        "fuente": "The Kyiv Independent",
+        "url": "https://kyivindependent.com/europes-attendance-at-abu-dhabi-peace-talks-clarified/"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "Rusia, EE.UU. y Ucrania negociarán el martes y miércoles en Abu Dabi",
@@ -295,8 +302,15 @@ window.HILOS = {
     "nombre": "Milei, Lula y el balotaje en Brasil",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-01",
+    "actualizado": "2026-11-09",
     "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Brasil investiga si agentes argentinos, estadounidenses e israelíes ayudaron a escapar a Flávio Bolsonaro",
+        "resumen": "Según The Washington Post, la Policía Federal brasileña investiga si agentes de EE.UU., la Argentina e Israel ayudaron a Flávio a salir por Puerto Iguazú.",
+        "fuente": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/"
+      },
       {
         "fecha": "2026-11-01",
         "titulo": "Rubio niega que EE.UU. haya participado en la salida de Flávio Bolsonaro",
@@ -523,8 +537,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-08",
+    "actualizado": "2026-11-09",
     "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "León XIV, ante Milei: \"La economía debe estar al servicio de la persona\"",
+        "resumen": "En el Palacio Libertad pidió diálogo y una economía \"al servicio de la persona\"; Milei respondió que \"los debates no son honestos\".",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/sociedad/primer-discurso-papa-leon-xiv-argentina-pidio-dialogo-limites-poder-economia-servicio-gente_0_sMoCRKbCNq.html"
+      },
       {
         "fecha": "2026-11-08",
         "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
@@ -603,8 +624,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-08",
+    "actualizado": "2026-11-09",
     "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Trump recibe hoy al primer ministro de Qatar; Rubio dice que no hay un acuerdo cerca con Irán",
+        "resumen": "Trump recibe al primer ministro de Qatar; Rubio dijo que las exigencias iraníes son \"inaceptables\" y que no hay un acuerdo cerca.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+      },
       {
         "fecha": "2026-11-08",
         "titulo": "EE.UU. extiende el bloqueo a Irán a las rutas terrestres y del mar Caspio",
@@ -738,8 +766,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-08",
+    "actualizado": "2026-11-09",
     "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Eisenkot recibió el mandato e invitó al Likud y a Smotrich a un \"gobierno de emergencia\" encabezado por él",
+        "resumen": "Recibió formalmente el mandato de Herzog y ofreció sumarse al Likud y al partido de Smotrich, solo con él como primer ministro.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+      },
       {
         "fecha": "2026-11-08",
         "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",

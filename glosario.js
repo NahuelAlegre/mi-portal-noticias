@@ -1399,5 +1399,80 @@ window.GLOSARIO = {
       "Aaronson-Ambainis"
     ],
     "actualizado": "2026-11-08"
+  },
+  "mohammed-bin-abdulrahman": {
+    "nombre": "Mohammed bin Abdulrahman Al Thani",
+    "tipo": "persona",
+    "texto": "Primer ministro y canciller de Qatar desde 2023. Media entre EE.UU. e Irán para terminar la guerra y reabrir Ormuz.",
+    "alias": [
+      "Mohammed bin Abdulrahman Al Thani",
+      "Al Thani"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mohammed_bin_Abdulrahman_Al-Thani_of_Qatar_on_25_January_2024_-_2_%28cropped%29.jpg/330px-Mohammed_bin_Abdulrahman_Al-Thani_of_Qatar_on_25_January_2024_-_2_%28cropped%29.jpg",
+    "actualizado": "2026-11-09"
+  },
+  "anc": {
+    "nombre": "Congreso Nacional Africano (ANC)",
+    "tipo": "organizacion",
+    "texto": "Partido de Nelson Mandela, gobierna Sudáfrica desde 1994. Perdió la mayoría parlamentaria en 2024 y gobierna en coalición.",
+    "alias": [
+      "ANC"
+    ],
+    "actualizado": "2026-11-09"
+  },
+  "alianza-democratica": {
+    "nombre": "Alianza Democrática (DA)",
+    "tipo": "organizacion",
+    "texto": "Segundo partido de Sudáfrica, de centroderecha. Gobierna Ciudad del Cabo e integra la coalición nacional con el ANC desde 2024.",
+    "alias": [
+      "Alianza Democrática"
+    ],
+    "actualizado": "2026-11-09"
+  },
+  "partido-mk": {
+    "nombre": "uMkhonto weSizwe (MK)",
+    "tipo": "organizacion",
+    "texto": "Partido sudafricano fundado en 2023 por el expresidente Jacob Zuma tras romper con el ANC. Es fuerte en KwaZulu-Natal.",
+    "alias": [
+      "MK"
+    ],
+    "actualizado": "2026-11-09"
+  },
+  "ramaphosa": {
+    "nombre": "Cyril Ramaphosa",
+    "tipo": "persona",
+    "texto": "Presidente de Sudáfrica desde 2018 y líder del ANC. Deja la conducción del partido en 2027.",
+    "alias": [
+      "Ramaphosa"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/President_of_South_Africa_Cyril_Ramaphosa_%283x4_cropped%29.jpg/330px-President_of_South_Africa_Cyril_Ramaphosa_%283x4_cropped%29.jpg",
+    "actualizado": "2026-11-09"
+  },
+  "rsa": {
+    "nombre": "RSA",
+    "tipo": "concepto",
+    "texto": "Sistema de cifrado y firma digital de clave pública creado en 1977. Su seguridad depende de lo difícil que es factorizar números enormes; hoy se usan claves de 2048 bits o más.",
+    "alias": [
+      "RSA"
+    ],
+    "actualizado": "2026-11-09"
+  },
+  "inria": {
+    "nombre": "Inria",
+    "tipo": "organizacion",
+    "texto": "Instituto público francés de investigación en informática y matemática aplicada. Sus criptógrafos firmaron los trabajos con DeepMind.",
+    "alias": [
+      "Inria"
+    ],
+    "actualizado": "2026-11-09"
+  },
+  "hsm": {
+    "nombre": "Módulo de seguridad de hardware (HSM)",
+    "tipo": "concepto",
+    "texto": "Dispositivo físico que guarda claves criptográficas y firma o cifra sin exponerlas. Lo usan bancos, autoridades de certificación y nubes.",
+    "alias": [
+      "HSM"
+    ],
+    "actualizado": "2026-11-09"
   }
 };
