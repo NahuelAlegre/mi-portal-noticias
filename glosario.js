@@ -152,7 +152,8 @@ window.GLOSARIO = {
     "tipo": "organizacion",
     "texto": "Fuerza militar de élite de Irán, separada del ejército regular y subordinada al líder supremo. Tiene su propia armada, que opera en el Golfo y Ormuz.",
     "alias": [
-      "Guardia Revolucionaria"
+      "Guardia Revolucionaria",
+      "CGRI"
     ],
     "actualizado": "2026-10-23"
   },
@@ -1474,5 +1475,57 @@ window.GLOSARIO = {
       "HSM"
     ],
     "actualizado": "2026-11-09"
+  },
+  "umerov": {
+    "nombre": "Rustem Umerov",
+    "tipo": "persona",
+    "texto": "Político ucraniano, exministro de Defensa y jefe del Servicio de Inteligencia Exterior desde agosto de 2026. Encabeza la delegación de Kiev en las negociaciones de paz.",
+    "alias": [
+      "Rustem Umerov",
+      "Umerov"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B_%D0%A0%D1%83%D1%81%D1%82%D0%B5%D0%BC_%D0%A3%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_%28cropped%29.jpg/330px-%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D1%8B_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B_%D0%A0%D1%83%D1%81%D1%82%D0%B5%D0%BC_%D0%A3%D0%BC%D0%B5%D1%80%D0%BE%D0%B2_%28cropped%29.jpg",
+    "actualizado": "2026-11-10"
+  },
+  "iron-gate": {
+    "nombre": "Task Force Iron Gate",
+    "tipo": "concepto",
+    "texto": "Operación de EE.UU. anunciada en noviembre de 2026 para cortar el comercio de Irán por tierra y por el mar Caspio. Complementa el bloqueo naval a los puertos iraníes.",
+    "alias": [
+      "Task Force Iron Gate",
+      "Iron Gate"
+    ],
+    "actualizado": "2026-11-10"
+  },
+  "barrot": {
+    "nombre": "Jean-Noël Barrot",
+    "tipo": "persona",
+    "texto": "Político francés del MoDem, ministro de Asuntos Exteriores de Francia. Anunció que París atribuye a Irán el ciberataque a supermercados.",
+    "alias": [
+      "Jean-Noël Barrot",
+      "Barrot"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Jean-No%C3%ABl_Barrot_2024_%28cropped%29.jpg/330px-Jean-No%C3%ABl_Barrot_2024_%28cropped%29.jpg",
+    "actualizado": "2026-11-10"
+  },
+  "shahid-kaveh": {
+    "nombre": "Shahid Kaveh",
+    "tipo": "organizacion",
+    "texto": "Unidad de ciberguerra vinculada a la Guardia Revolucionaria iraní, activa desde 2020. Francia la acusa del ataque a las heladeras de 700 comercios.",
+    "alias": [
+      "Shahid Kaveh"
+    ],
+    "actualizado": "2026-11-10"
+  },
+  "jensen-huang": {
+    "nombre": "Jensen Huang",
+    "tipo": "persona",
+    "texto": "Ingeniero taiwanés-estadounidense, cofundador y CEO de Nvidia. Su directorio investiga si fue blanco de una operación de inteligencia china.",
+    "alias": [
+      "Jensen Huang",
+      "Huang"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/330px-Jensen_Huang_20231109.jpg",
+    "actualizado": "2026-11-10"
   }
 };

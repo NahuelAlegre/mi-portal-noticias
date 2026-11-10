@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-09",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Empezó en Abu Dabi la primera negociación trilateral entre Rusia, Ucrania y EE.UU. desde febrero",
+        "resumen": "Arrancó en Abu Dabi la primera ronda trilateral desde febrero, con Witkoff, Kushner, Medinski y Umerov. EE.UU. propone una arquitectura de seguridad con Europa y dice que hubo \"flexibilidad\" privada sobre Donetsk.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+      },
       {
         "fecha": "2026-11-09",
         "titulo": "Europa tendrá lugar en la negociación de Abu Dabi entre Rusia, Ucrania y EE.UU.",
@@ -537,8 +544,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-09",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "León XIV dio misa ante unos 2,5 millones en Palermo y pidió en la UCA empleo digno para todos",
+        "resumen": "Unos 2,5 millones fueron a la misa en Palermo, según cifras oficiales. En la UCA pidió empleo digno e incluir a los informales; la oposición lo usa en el debate del Presupuesto 2027.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/leon-xiv-encabezo-una-historica-misa-en-el-monumento-a-los-espanoles-nid09112026/"
+      },
       {
         "fecha": "2026-11-09",
         "titulo": "León XIV, ante Milei: \"La economía debe estar al servicio de la persona\"",
@@ -624,8 +638,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-09",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Tras ver al primer ministro de Qatar, Trump dijo que la guerra con Irán está \"militarmente terminada\"",
+        "resumen": "Sin acuerdo tras recibir a Al Thani, Trump dijo que no ve necesarios nuevos ataques y mantendrá el bloqueo naval y la Task Force Iron Gate.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+      },
       {
         "fecha": "2026-11-09",
         "titulo": "Trump recibe hoy al primer ministro de Qatar; Rubio dice que no hay un acuerdo cerca con Irán",
@@ -766,8 +787,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-09",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "El bloque de Eisenkot propone a Matan Kahana para presidir la Knesset",
+        "resumen": "El bloque de Eisenkot acordó proponer a Matan Kahana, de Yashar!, como presidente de la Knesset, que jura hoy, y se repartió las presidencias de comisiones clave.",
+        "fuente": "Ynetnews",
+        "url": "https://www.ynetnews.com/article/r1flu8erfe"
+      },
       {
         "fecha": "2026-11-09",
         "titulo": "Eisenkot recibió el mandato e invitó al Likud y a Smotrich a un \"gobierno de emergencia\" encabezado por él",
@@ -976,8 +1004,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
+        "resumen": "Bajó 66 puntos (−7%), a 872, con bonos que subieron hasta 3% en Nueva York durante el feriado. Infobae lo atribuyó al petróleo y a Paraguay; Clarín advierte un bache de US$10.000 millones para 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/el-riesgo-pais-cayo-con-fuerza-en-la-argentina-y-se-espera-una-baja-de-tasas-a-nivel-global/"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
@@ -1063,8 +1098,15 @@ window.HILOS = {
     "nombre": "Ciberataques a heladeras de supermercados en Europa",
     "tema": "Mundo",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-03",
+    "actualizado": "2026-11-10",
     "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Francia acusó a la Guardia Revolucionaria iraní del ciberataque a las heladeras de 700 supermercados",
+        "resumen": "Francia atribuyó el ataque de octubre a 700 supermercados a Shahid Kaveh, unidad del CGRI; convocó al embajador iraní y anunció sanciones europeas.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+      },
       {
         "fecha": "2026-11-03",
         "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
@@ -1130,6 +1172,21 @@ window.HILOS = {
         "resumen": "La Disposición 7/26 exige la certificación SCS 9001 para equipos críticos del Estado; el Enacom debe evaluar extenderla a la homologación de equipos.",
         "fuente": "Clarín",
         "url": "https://www.clarin.com/politica/gobierno-restringe-tecnologia-china-sector-telecomunicaciones-podria-impactar-mercado-telefonos-celulares_0_BWnofkEPnf.html"
+      }
+    ]
+  },
+  "investigacion-nvidia-huang": {
+    "nombre": "Investigación a Jensen Huang en Nvidia",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-10",
+    "actualizado": "2026-11-10",
+    "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
+        "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
       }
     ]
   }
