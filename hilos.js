@@ -68,8 +68,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Abu Dabi: segundo día de negociaciones; EE.UU. dice que se achicaron las diferencias y se discute un canje de 1.000 prisioneros por lado",
+        "resumen": "Hoy se tratan medidas de desescalada en energía y el mar Negro y una posible cumbre de líderes.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "Empezó en Abu Dabi la primera negociación trilateral entre Rusia, Ucrania y EE.UU. desde febrero",
@@ -401,8 +408,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-07",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Presupuesto 2027: el oficialismo intenta adelantar la sesión al 18 y aliados sospechan que prefiere prorrogar el actual",
+        "resumen": "Según Clarín, el jueves Bornoroni y Benegas Lynch recibirán a los bloques dialoguistas para dictaminar el 17 y votar el 18.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html"
+      },
       {
         "fecha": "2026-11-07",
         "titulo": "Presupuesto 2027: el oficialismo apunta al 25 de noviembre en el recinto",
@@ -487,8 +501,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-08",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Anthropic lanzó el roadshow de su salida a bolsa: busca hasta US$64.350 millones a US$70-78 por acción",
+        "resumen": "Ofrece 825 millones de acciones en el Nasdaq con el símbolo ANT, lo que la valuaría en hasta US$1,4 billones. Según CNBC, fijará el precio el 18 y empezará a cotizar el 19, con cerca de 20% para inversores minoristas.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      },
       {
         "fecha": "2026-11-08",
         "titulo": "OpenAI consiguió US$11.000 millones con una valuación de US$1,25 billones",
@@ -544,8 +565,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "León XIV reunió a 650.000 personas en Córdoba y a más de un millón de jóvenes en Palermo; hoy cierra su visita en Luján",
+        "resumen": "En la vigilia citó a Francisco (\"todos, todos, todos\") y advirtió contra los \"ídolos\" del dinero y el éxito.",
+        "fuente": "El País",
+        "url": "https://elpais.com/argentina/2026-11-11/leon-xiv-cita-a-francisco-en-buenos-aires-y-convoca-a-los-jovenes-a-acercarse-a-la-iglesia-todos-todos-todos.html"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "León XIV dio misa ante unos 2,5 millones en Palermo y pidió en la UCA empleo digno para todos",
@@ -638,8 +666,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Irán niega negociar con EE.UU. y dice que Ormuz seguirá cerrado; tres petroleros se incendiaron tras chocar con minas",
+        "resumen": "Mohsen Rezaei calificó de \"pura mentira\" que haya una reunión en Qatar y dijo que el estrecho no reabrirá hasta que Washington acepte siete condiciones.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "Tras ver al primer ministro de Qatar, Trump dijo que la guerra con Irán está \"militarmente terminada\"",
@@ -787,8 +822,15 @@ window.HILOS = {
     "nombre": "Elecciones en Israel",
     "tema": "Mundo",
     "creado": "2026-10-27",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Juró la nueva Knesset; el bloque de Eisenkot pidió reemplazar a Ohana por Kahana",
+        "resumen": "Juró la 26.ª Knesset sin acuerdo de gobierno. El bloque de Eisenkot presentó las firmas para reemplazar al presidente Amir Ohana por Matan Kahana, y Herzog pidió evitar otra elección.",
+        "fuente": "Ynetnews",
+        "url": "https://www.ynetnews.com/article/hkhobslrge"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "El bloque de Eisenkot propone a Matan Kahana para presidir la Knesset",
@@ -1004,8 +1046,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
+        "resumen": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
@@ -1135,8 +1184,15 @@ window.HILOS = {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
     "creado": "2026-11-06",
-    "actualizado": "2026-11-08",
+    "actualizado": "2026-11-11",
     "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "El Partido Colorado expulsó a Santiago Peña por el caso Ueno Bank",
+        "resumen": "El Tribunal de Conducta del Partido Colorado expulsó a Santiago Peña, destituido el 6 de noviembre y detenido por el caso Ueno Bank, sin esperar una condena judicial.",
+        "fuente": "El Poder (Paraguay)",
+        "url": "https://www.elpoder.com.py/politica/2026/11/10/el-tribunal-de-conducta-de-la-anr-expulsa-a-santiago-pena-del-partido-por-el-caso-ueno-bank/"
+      },
       {
         "fecha": "2026-11-08",
         "titulo": "Paraguay: Peña pasó de arresto domiciliario a prisión preventiva en un cuartel militar",
@@ -1187,6 +1243,21 @@ window.HILOS = {
         "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
         "fuente": "CNBC",
         "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
+      }
+    ]
+  },
+  "argentina-iran": {
+    "nombre": "Tensión diplomática entre Argentina e Irán",
+    "tema": "Argentina",
+    "creado": "2026-11-11",
+    "actualizado": "2026-11-11",
+    "entradas": [
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
+        "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
       }
     ]
   }

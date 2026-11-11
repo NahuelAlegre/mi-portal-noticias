@@ -917,11 +917,11 @@ window.GLOSARIO = {
   "kushner": {
     "nombre": "Jared Kushner",
     "tipo": "persona",
-    "texto": "Empresario estadounidense, yerno de Donald Trump y negociador informal de su gobierno. Pidió a Ucrania una pausa de 30 días en los ataques a refinerías rusas.",
+    "texto": "Empresario estadounidense, yerno de Donald Trump y negociador informal de su gobierno. Media junto a Witkoff en las negociaciones de Abu Dabi entre Rusia y Ucrania.",
     "alias": [
       "Kushner"
     ],
-    "actualizado": "2026-11-02",
+    "actualizado": "2026-11-11",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jared_Kushner_June._2019.jpg/330px-Jared_Kushner_June._2019.jpg"
   },
   "kstovo": {
@@ -1248,11 +1248,11 @@ window.GLOSARIO = {
   "roadshow": {
     "nombre": "Roadshow",
     "tipo": "concepto",
-    "texto": "Gira previa a un IPO en la que la empresa presenta su oferta a inversores institucionales para fijar demanda y precio. Anthropic lo tenía previsto la semana del 9 de noviembre.",
+    "texto": "Gira previa a un IPO en la que la empresa presenta su oferta a inversores institucionales para fijar demanda y precio. Anthropic lanzó el suyo el 10 de noviembre de 2026.",
     "alias": [
       "roadshow"
     ],
-    "actualizado": "2026-11-06"
+    "actualizado": "2026-11-11"
   },
   "pedro-alliana": {
     "nombre": "Pedro Alliana",
@@ -1527,5 +1527,72 @@ window.GLOSARIO = {
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/330px-Jensen_Huang_20231109.jpg",
     "actualizado": "2026-11-10"
+  },
+  "grynkewich": {
+    "nombre": "Alexus Grynkewich",
+    "tipo": "persona",
+    "texto": "General estadounidense, jefe del Comando Europeo de EE.UU. y comandante supremo aliado de la OTAN en Europa. Integra la delegación de EE.UU. en Abu Dabi.",
+    "alias": [
+      "Grynkewich"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gen_Alexus_G._Grynkewich_%283%29.jpg/330px-Gen_Alexus_G._Grynkewich_%283%29.jpg",
+    "actualizado": "2026-11-11"
+  },
+  "ryabkov": {
+    "nombre": "Serguéi Riabkov",
+    "tipo": "persona",
+    "texto": "Viceministro de Relaciones Exteriores de Rusia desde 2008, a cargo del vínculo con EE.UU. y el control de armas. Integra la delegación rusa en Abu Dabi.",
+    "alias": [
+      "Riabkov"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sergei_Ryabkov.jpg/330px-Sergei_Ryabkov.jpg",
+    "actualizado": "2026-11-11"
+  },
+  "bornoroni": {
+    "nombre": "Gabriel Bornoroni",
+    "tipo": "persona",
+    "texto": "Diputado nacional por Córdoba desde 2023 y jefe del bloque de La Libertad Avanza en Diputados. Conduce la negociación del Presupuesto 2027 con los aliados.",
+    "alias": [
+      "Bornoroni"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gabriel_Bornoroni.png",
+    "actualizado": "2026-11-11"
+  },
+  "benegas-lynch": {
+    "nombre": "Alberto «Bertie» Benegas Lynch",
+    "tipo": "persona",
+    "texto": "Economista y diputado nacional de La Libertad Avanza por Buenos Aires. Preside la comisión de Presupuesto de Diputados.",
+    "alias": [
+      "Benegas Lynch"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bertie_Benegas_Lynch_%282024%29.jpeg/330px-Bertie_Benegas_Lynch_%282024%29.jpeg",
+    "actualizado": "2026-11-11"
+  },
+  "dia-cero": {
+    "nombre": "Vulnerabilidad de día cero",
+    "tipo": "concepto",
+    "texto": "Falla de software que su fabricante desconoce y para la que no hay parche cuando se la descubre o explota.",
+    "alias": [
+      "día cero"
+    ],
+    "actualizado": "2026-11-11"
+  },
+  "ia-de-frontera": {
+    "nombre": "IA de frontera",
+    "tipo": "concepto",
+    "texto": "Término para los modelos de IA más avanzados del momento, como los de OpenAI, Anthropic o Google. Es el foco de las nuevas reglas australianas.",
+    "alias": [
+      "IA de frontera"
+    ],
+    "actualizado": "2026-11-11"
+  },
+  "medicare": {
+    "nombre": "Medicare (Australia)",
+    "tipo": "organizacion",
+    "texto": "Sistema público de salud de Australia, administrado por Services Australia. Agentes de IA de OpenAI accedieron sin autorización a estadísticas de su portal en 2026.",
+    "alias": [
+      "Medicare"
+    ],
+    "actualizado": "2026-11-11"
   }
 };
