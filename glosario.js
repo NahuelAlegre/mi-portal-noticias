@@ -1594,5 +1594,89 @@ window.GLOSARIO = {
       "Medicare"
     ],
     "actualizado": "2026-11-11"
+  },
+  "carta-organica-bcra": {
+    "nombre": "Carta Orgánica del BCRA",
+    "tipo": "ley",
+    "texto": "Ley que fija las funciones y el gobierno del Banco Central. La reforma del Gobierno, que prohíbe financiar al Tesoro, tiene media sanción y volvió a Diputados con cambios del Senado.",
+    "alias": [
+      "Carta Orgánica del BCRA",
+      "reforma del BCRA"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "diego-garcia": {
+    "nombre": "Diego García",
+    "tipo": "lugar",
+    "texto": "Isla británica del océano Índico donde EE.UU. tiene una base militar. Se cree que fue usada en los ataques contra Irán desde febrero de 2026.",
+    "alias": [
+      "Diego García"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "arakhamia": {
+    "nombre": "David Arajamia",
+    "tipo": "persona",
+    "texto": "Diputado ucraniano del partido de Zelensky, Servidor del Pueblo. Integra la delegación de Kiev en las negociaciones de paz con Rusia.",
+    "alias": [
+      "Arajamia"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arakhamia_Davyd.jpg/330px-Arakhamia_Davyd.jpg",
+    "actualizado": "2026-11-12"
+  },
+  "ccoo": {
+    "nombre": "Comisiones Obreras (CCOO)",
+    "tipo": "organizacion",
+    "texto": "Uno de los dos mayores sindicatos de España. Convocó junto con UGT la huelga general del 11 de noviembre de 2026.",
+    "alias": [
+      "CCOO"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "ugt": {
+    "nombre": "Unión General de Trabajadores (UGT)",
+    "tipo": "organizacion",
+    "texto": "Uno de los dos mayores sindicatos de España. Convocó junto con CCOO la huelga general del 11 de noviembre de 2026.",
+    "alias": [
+      "UGT"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "feijoo": {
+    "nombre": "Alberto Núñez Feijóo",
+    "tipo": "persona",
+    "texto": "Presidente del Partido Popular (PP) desde 2022, el principal partido de la oposición en España. Fue presidente de la Xunta de Galicia.",
+    "alias": [
+      "Feijóo"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ALBERTO_N%C3%9A%C3%91EZ_FEIJ%C3%93O.jpg/330px-ALBERTO_N%C3%9A%C3%91EZ_FEIJ%C3%93O.jpg",
+    "actualizado": "2026-11-12"
+  },
+  "ituri": {
+    "nombre": "Ituri",
+    "tipo": "lugar",
+    "texto": "Provincia del noreste de la República Democrática del Congo, con presencia de grupos armados. Es el epicentro del brote de ébola de 2026.",
+    "alias": [
+      "Ituri"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "kimberly-powell": {
+    "nombre": "Kimberly Powell",
+    "tipo": "persona",
+    "texto": "Vicepresidenta de salud de Nvidia, que reportaba a Jensen Huang. El New York Times informó que tuvo una relación con él.",
+    "alias": [
+      "Kimberly Powell"
+    ],
+    "actualizado": "2026-11-12"
+  },
+  "megaspeed": {
+    "nombre": "Megaspeed",
+    "tipo": "organizacion",
+    "texto": "Empresa de centros de datos con sede en Singapur que usa chips de Nvidia. EE.UU. sospecha que su ejecutiva Alice Huang es espía china.",
+    "alias": [
+      "Megaspeed"
+    ],
+    "actualizado": "2026-11-12"
   }
 };

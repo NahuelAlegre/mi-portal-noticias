@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
+        "resumen": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
@@ -68,8 +75,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Ucrania: Abu Dabi cerró con un acuerdo para el mayor canje de prisioneros y los enviados de Trump ya están en Moscú",
+        "resumen": "Las dos jornadas terminaron sin avances sobre el territorio; las cifras del canje se definen hoy y se haría en dos o tres semanas. Kushner y Witkoff llegaron a Moscú para ver a Putin y luego irán a Dublín a reunirse con Zelensky.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "Abu Dabi: segundo día de negociaciones; EE.UU. dice que se achicaron las diferencias y se discute un canje de 1.000 prisioneros por lado",
@@ -408,8 +422,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Diputados: el oficialismo negocia hoy el Presupuesto con los aliados y tiene como plan B la Ley Malvinas y la reforma del BCRA",
+        "resumen": "Bornoroni y Benegas Lynch reciben a las 14 a PRO, UCR, MID, Provincias Unidas y Argentina Federal para dictaminar y votar el 18 o el 25. Según Clarín, si no hay acuerdo el 18 irían la Ley Malvinas y la Carta Orgánica del BCRA.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/12/el-gobierno-negocia-el-presupuesto-2027-los-cambios-que-reclaman-los-aliados-para-acompanar-el-proyecto-en-diputados/"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "Presupuesto 2027: el oficialismo intenta adelantar la sesión al 18 y aliados sospechan que prefiere prorrogar el actual",
@@ -565,8 +586,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "León XIV se despidió en Ezeiza y partió hacia Perú",
+        "resumen": "León XIV cerró su visita con la misa en Luján y partió a Lima a las 14:38, despedido en Ezeiza por Milei, Karina Milei y Quirno. Terminará su gira en Perú y volverá a Roma el 17.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "León XIV reunió a 650.000 personas en Córdoba y a más de un millón de jóvenes en Palermo; hoy cierra su visita en Luján",
@@ -666,8 +694,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Irán se niega a entregar su uranio enriquecido y amenaza con atacar bases de EE.UU. en Europa",
+        "resumen": "Mohsen Rezaei dijo que \"ni una partícula\" saldrá del país porque lo usarán para buques y submarinos nucleares. La Guardia Revolucionaria informó que dos superpetroleros con más de 4 millones de barriles explotaron en Ormuz por usar una ruta \"no autorizada\".",
+        "fuente": "Middle East Eye",
+        "url": "https://www.middleeasteye.net/news/iran-wants-enriched-material-build-nuclear-powered-submarines-threaten-attack-us-bases-europe"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "Irán niega negociar con EE.UU. y dice que Ormuz seguirá cerrado; tres petroleros se incendiaron tras chocar con minas",
@@ -900,8 +935,15 @@ window.HILOS = {
     "nombre": "Brote de ébola en el Congo",
     "tema": "Mundo",
     "creado": "2026-10-28",
-    "actualizado": "2026-10-28",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "El ébola en el Congo superó los 11.000 casos y ya es el brote más mortal de la historia del país",
+        "resumen": "Hay 11.042 casos y 5.387 muertos, según datos oficiales del miércoles. Es el brote número 17 y el de crecimiento más rápido: pasó los 1.000 casos en 40 días, contra 235 en 2018.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases"
+      },
       {
         "fecha": "2026-10-28",
         "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
@@ -996,8 +1038,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Milei apuntó contra Bullrich tras la visita del Papa: \"Hay gente dispuesta a hundir el barco\"",
+        "resumen": "Según Clarín, en el Ejecutivo leen el posteo de Milei como un mensaje a Bullrich y suena Nadia Márquez para reemplazarla al frente del bloque libertario del Senado. TN, en cambio, dice que la Casa Rosada cree que la visita del Papa descomprimió la interna.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "Bullrich exhibió a 15 diputados propios mientras Karina suspendía la mesa política",
@@ -1184,8 +1233,15 @@ window.HILOS = {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
     "creado": "2026-11-06",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "La Fiscalía estima hasta 15 años de prisión para Peña por el caso Ueno Bank",
+        "resumen": "La Fiscalía estimó que Peña podría recibir hasta 15 años de prisión por lesión de confianza y administración en provecho propio; otros 27 imputados, entre ellos ocho exdirectivos de Ueno Bank, arriesgan hasta 12.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/america/america-latina/2026/11/11/la-fiscalia-de-paraguay-estimo-que-santiago-pena-podria-recibir-hasta-15-anos-de-carcel-por-el-caso-ueno-bank/"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "El Partido Colorado expulsó a Santiago Peña por el caso Ueno Bank",
@@ -1235,8 +1291,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-10",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
+        "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
+      },
       {
         "fecha": "2026-11-10",
         "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
@@ -1250,8 +1313,15 @@ window.HILOS = {
     "nombre": "Tensión diplomática entre Argentina e Irán",
     "tema": "Argentina",
     "creado": "2026-11-11",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-12",
     "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "La Cancillería rechazó la declaración iraní y Defensa evalúa medidas",
+        "resumen": "La Cancillería rechazó \"categóricamente\" la medida y reclamó a Teherán que entregue a los acusados por los atentados a la Embajada de Israel y la AMIA. En Defensa evalúan más controles de acceso y les preocupan los viajes de militares al exterior.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/gobierno-evaluan-medidas-luego-iran-declaro-armada-fuerza-aerea-argentinas-organizaciones-terroristas_0_cVEuFRTqzT.html"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",

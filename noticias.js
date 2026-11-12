@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-11",
-  "actualizado": "2026-11-11T06:56:01-03:00",
+  "fecha": "2026-11-12",
+  "actualizado": "2026-11-12T06:59:01-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
-      "resumen": "Teherán respondió así a la designación de la Guardia Revolucionaria como terrorista y advirtió que Argentina \"será responsable de todas las consecuencias\".",
-      "tema": "Argentina",
-      "fuente": "TN",
-      "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+      "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
+      "resumen": "El directorio se reunió tras un informe del WSJ de que se preparaba para echarlo; el NYT reveló otra relación de Huang con una vicepresidenta de la empresa.",
+      "tema": "Inteligencia Artificial",
+      "fuente": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
     },
     {
-      "titulo": "Anthropic lanzó el roadshow de su salida a bolsa: busca hasta US$64.350 millones a US$70-78 por acción",
-      "resumen": "825 millones de acciones a US$70-78 en el Nasdaq; valuación de hasta US$1,4 billones y debut previsto para el 19.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+      "titulo": "Ucrania: Abu Dabi cerró con un acuerdo para el mayor canje de prisioneros y los enviados de Trump ya están en Moscú",
+      "resumen": "Rusia y Ucrania acordaron un gran canje de prisioneros sin avances sobre territorio; Kushner y Witkoff ven hoy a Putin y luego a Zelensky en Dublín.",
+      "tema": "Mundo",
+      "fuente": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
     }
   ],
   "temas": [
@@ -24,35 +24,30 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "León XIV reunió a 650.000 personas en Córdoba y a más de un millón de jóvenes en Palermo; hoy cierra su visita en Luján",
-          "resumen": "En la vigilia citó a Francisco (\"todos, todos, todos\") y advirtió contra los \"ídolos\" del dinero y el éxito. Clarín destaca la polémica por la carpa VIP de la misa de Palermo; Ámbito, que en la Casa Rosada niegan que sus mensajes apunten a Milei.",
-          "porQueImporta": "Milei no fue a Córdoba ni irá a Luján, pero estará en la despedida de las 13:30 en Ezeiza; a las 14 el Papa parte hacia Lima. En Córdoba recibió en privado a familiares de desaparecidos durante la dictadura.",
-          "fuente": "El País",
-          "url": "https://elpais.com/argentina/2026-11-11/leon-xiv-cita-a-francisco-en-buenos-aires-y-convoca-a-los-jovenes-a-acercarse-a-la-iglesia-todos-todos-todos.html",
-          "hilo": "visita-papa-leon"
-        },
-        {
-          "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
-          "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
-          "porQueImporta": "La medida no alcanza al Ejército y se apoya en una ley iraní de 2019 contra los países que acompañen la designación hecha por EE.UU. A comienzos de mes Irán hizo lo mismo con la Marina y la Fuerza Aérea británicas.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/",
-          "hilo": "argentina-iran",
+          "titulo": "Milei apuntó contra Bullrich tras la visita del Papa: \"Hay gente dispuesta a hundir el barco\"",
+          "resumen": "Según Clarín, en el Ejecutivo leen el posteo de Milei como un mensaje a Bullrich y suena Nadia Márquez para reemplazarla al frente del bloque libertario del Senado. TN, en cambio, dice que la Casa Rosada cree que la visita del Papa descomprimió la interna.",
+          "porQueImporta": "Bullrich logró dictamen en el Senado para la Ley de Discapacidad sin los cambios que pedía el Gobierno, para votarla el 19, y en el oficialismo le atribuyen demorar la suspensión de las PASO. Clarín le atribuye haber dicho: \"Que me corran, pero no les sale ni una ley más\".",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html",
+          "hilo": "interna-bullrich-milei",
           "glosario": [
-            "guardia-revolucionaria"
+            "nadia-marquez",
+            "ley-discapacidad",
+            "paso"
           ]
         },
         {
-          "titulo": "Presupuesto 2027: el oficialismo intenta adelantar la sesión al 18 y aliados sospechan que prefiere prorrogar el actual",
-          "resumen": "Según Clarín, el jueves Bornoroni y Benegas Lynch recibirán a los bloques dialoguistas para dictaminar el 17 y votar el 18. Infobae dice que los libertarios siguen apuntando al 25 y que hay aliados que creen que el Gobierno dejará caer la negociación.",
-          "porQueImporta": "Siguen abiertos la deuda de coparticipación con la Ciudad, discapacidad, la movilidad de la AUH y las universidades ($7,3 billones contra los $11 billones que pide el CIN). Milei gobernó 2024 y 2025 con presupuestos prorrogados.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html",
+          "titulo": "Diputados: el oficialismo negocia hoy el Presupuesto con los aliados y tiene como plan B la Ley Malvinas y la reforma del BCRA",
+          "resumen": "Bornoroni y Benegas Lynch reciben a las 14 a PRO, UCR, MID, Provincias Unidas y Argentina Federal para dictaminar y votar el 18 o el 25. Según Clarín, si no hay acuerdo el 18 irían la Ley Malvinas y la Carta Orgánica del BCRA.",
+          "porQueImporta": "Los aliados piden fondos para universidades, discapacidad y obras viales, la coparticipación porteña y bajar el IVA a los huevos del 21% al 10,5%. El título electoral de la Ley Malvinas necesita 129 votos y Argentina Federal pide eliminarlo.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/politica/2026/11/12/el-gobierno-negocia-el-presupuesto-2027-los-cambios-que-reclaman-los-aliados-para-acompanar-el-proyecto-en-diputados/",
           "hilo": "presupuesto-2027",
           "glosario": [
             "bornoroni",
             "benegas-lynch",
-            "cin"
+            "ley-malvinas",
+            "carta-organica-bcra"
           ]
         }
       ]
@@ -61,31 +56,54 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Abu Dabi: segundo día de negociaciones; EE.UU. dice que se achicaron las diferencias y se discute un canje de 1.000 prisioneros por lado",
-          "resumen": "Hoy se tratan medidas de desescalada en energía y el mar Negro y una posible cumbre de líderes. Zelensky dijo estar \"muy contento\" con el cambio de enfoque de Kushner y Witkoff; Rusia rechaza un alto el fuego inmediato y exige la retirada ucraniana del Donbás.",
-          "porQueImporta": "Según Zelensky, el general Grynkewich, jefe militar de la OTAN en Europa, respaldó los mapas ucranianos frente a los rusos. Moscú sumó al vicecanciller Riabkov; el canje podría llegar a 1.500 por lado, aún sin anuncio oficial.",
-          "fuente": "Euronews",
-          "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu",
+          "titulo": "Ucrania: Abu Dabi cerró con un acuerdo para el mayor canje de prisioneros y los enviados de Trump ya están en Moscú",
+          "resumen": "Las dos jornadas terminaron sin avances sobre el territorio; las cifras del canje se definen hoy y se haría en dos o tres semanas. Kushner y Witkoff llegaron a Moscú para ver a Putin y luego irán a Dublín a reunirse con Zelensky.",
+          "porQueImporta": "EE.UU. le pedirá a Putin sumar a los europeos, con quienes la delegación rusa se negó a reunirse en Abu Dabi; Rusia sigue exigiendo todo el Donbás. El negociador ucraniano Arajamia habló de \"buen impulso\" para una solución antes de fin de año.",
+          "fuente": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
           "hilo": "guerra-ucrania",
           "glosario": [
             "kushner",
             "witkoff",
-            "grynkewich",
-            "ryabkov"
+            "arakhamia"
           ]
         },
         {
-          "titulo": "Irán niega negociar con EE.UU. y dice que Ormuz seguirá cerrado; tres petroleros se incendiaron tras chocar con minas",
-          "resumen": "Mohsen Rezaei calificó de \"pura mentira\" que haya una reunión en Qatar y dijo que el estrecho no reabrirá hasta que Washington acepte siete condiciones. Según la Guardia Revolucionaria, tres petroleros chocaron con minas; en noviembre ya hubo 37 ataques a barcos.",
-          "porQueImporta": "Araghchi dijo que Ormuz podría reabrir en dos días si se levantan las sanciones y el bloqueo naval, entre otras condiciones. En el G7 de París, Rubio dijo que no hacen falta más ataques porque la presión económica \"es devastadora\".",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+          "titulo": "Irán se niega a entregar su uranio enriquecido y amenaza con atacar bases de EE.UU. en Europa",
+          "resumen": "Mohsen Rezaei dijo que \"ni una partícula\" saldrá del país porque lo usarán para buques y submarinos nucleares. La Guardia Revolucionaria informó que dos superpetroleros con más de 4 millones de barriles explotaron en Ormuz por usar una ruta \"no autorizada\".",
+          "porQueImporta": "Entregar el material es una exigencia de EE.UU. para un acuerdo, y Rubio llamó \"absurdas\" las condiciones iraníes. Rezaei también advirtió que podría atacar islas \"fuera del alcance\" de sus misiles, en aparente alusión a Diego García.",
+          "fuente": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/iran-wants-enriched-material-build-nuclear-powered-submarines-threaten-attack-us-bases-europe",
           "hilo": "guerra-iran",
           "glosario": [
             "rezaei",
-            "ormuz",
             "guardia-revolucionaria",
-            "araghchi"
+            "ormuz",
+            "diego-garcia"
+          ]
+        },
+        {
+          "titulo": "España tuvo su primera huelga general en 14 años, contra la crisis de la vivienda",
+          "resumen": "La convocaron CCOO y UGT junto al Sindicato de Inquilinas: en Madrid marcharon 120.000 personas según el Gobierno y más de 500.000 según los organizadores. Hubo más de 70 detenidos y 1.500 incidentes.",
+          "porQueImporta": "Los alquileres subieron cerca de 80% en una década. Los sindicatos informaron 90% de adhesión en puertos y automotrices y la demanda eléctrica industrial cayó 25,6%; Feijóo dijo que la huelga fue un \"error histórico\".",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/12/spain-holds-its-first-general-strike-in-14-years-amid-mass-protests-and-police-charges",
+          "glosario": [
+            "ccoo",
+            "ugt",
+            "feijoo"
+          ]
+        },
+        {
+          "titulo": "El ébola en el Congo superó los 11.000 casos y ya es el brote más mortal de la historia del país",
+          "resumen": "Hay 11.042 casos y 5.387 muertos, según datos oficiales del miércoles. Es el brote número 17 y el de crecimiento más rápido: pasó los 1.000 casos en 40 días, contra 235 en 2018.",
+          "porQueImporta": "El virus Bundibugyo no tiene vacuna ni tratamiento aprobados; la OMS respaldó ensayos con dos candidatas, de Oxford-Serum Institute y de Moderna. Los combates en Ituri y Kivu del Norte, las huelgas por salarios impagos y la desconfianza frenan la respuesta.",
+          "fuente": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases",
+          "hilo": "ebola-congo",
+          "glosario": [
+            "bundibugyo",
+            "ituri"
           ]
         }
       ]
@@ -94,36 +112,16 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic lanzó el roadshow de su salida a bolsa: busca hasta US$64.350 millones a US$70-78 por acción",
-          "resumen": "Ofrece 825 millones de acciones en el Nasdaq con el símbolo ANT, lo que la valuaría en hasta US$1,4 billones. Según CNBC, fijará el precio el 18 y empezará a cotizar el 19, con cerca de 20% para inversores minoristas.",
-          "porQueImporta": "Google, Nvidia, Microsoft, TSMC, AMD, Broadcom y Micron comprarán US$26.000 millones en acciones aparte, al mismo precio. En nueve meses facturó US$33.240 millones y perdió US$104.000 millones, sobre todo por cambios contables.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-          "hilo": "ipo-anthropic",
+          "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
+          "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
+          "porQueImporta": "Si la caída se sostiene, Nvidia habrá perdido unos US$685.000 millones de valor desde que empezó la investigación por su vínculo con una ejecutiva de Megaspeed acusada de espiar para China. Presenta resultados el 17 y no tiene un sucesor definido.",
+          "fuente": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
+          "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "roadshow"
-          ]
-        },
-        {
-          "titulo": "Google lanzó Gemini 4 Carbon, su modelo más potente, con foco en ciberseguridad y agentes",
-          "resumen": "Ya está en la API para desarrolladores pagos y para suscriptores de AI Ultra. Cuesta US$2 y US$10 por millón de tokens de entrada y salida hasta el 30 de noviembre, luego US$4 y US$20; Google dice que lidera CursorBench 4.0 a menos de la mitad del costo por tarea.",
-          "porQueImporta": "Una versión para ciberseguridad, reservada a defensores verificados, halló fallas de día cero en dos grandes proveedores de software en la nube en menos de dos horas. Llega un día después de Claude Fable 5.2.",
-          "fuente": "Google",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-          "glosario": [
-            "token",
-            "dia-cero"
-          ]
-        },
-        {
-          "titulo": "Australia creará un regulador de seguridad de IA tras el acceso de agentes de OpenAI a datos de Medicare",
-          "resumen": "Albanese anunció obligaciones para las empresas de IA de frontera (controles de seguridad, evaluación independiente, aviso rápido de incidentes) con multas \"significativas\", y aceptó las 18 recomendaciones de la revisión del caso OpenAI, que no habría violado ninguna ley.",
-          "porQueImporta": "Los agentes accedieron en junio a estadísticas no públicas de Medicare; OpenAI lo detectó en agosto y avisó en septiembre por un correo público. Los Verdes y el senador independiente David Pocock lo consideraron insuficiente.",
-          "fuente": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-10/openai-medicare-hack-government-loophole/107368330",
-          "glosario": [
-            "ia-de-frontera",
-            "medicare"
+            "jensen-huang",
+            "kimberly-powell",
+            "megaspeed"
           ]
         }
       ]
@@ -131,22 +129,28 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "riesgo-pais-mercados",
-      "novedad": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
+      "hilo": "visita-papa-leon",
+      "novedad": "León XIV cerró su visita con la misa en Luján y partió a Lima a las 14:38, despedido en Ezeiza por Milei, Karina Milei y Quirno. Terminará su gira en Perú y volverá a Roma el 17.",
       "fuente": "Infobae",
-      "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
+      "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
     },
     {
-      "hilo": "elecciones-israel",
-      "novedad": "Juró la 26.ª Knesset sin acuerdo de gobierno. El bloque de Eisenkot presentó las firmas para reemplazar al presidente Amir Ohana por Matan Kahana, y Herzog pidió evitar otra elección.",
-      "fuente": "Ynetnews",
-      "url": "https://www.ynetnews.com/article/hkhobslrge"
+      "hilo": "argentina-iran",
+      "novedad": "La Cancillería rechazó \"categóricamente\" la medida y reclamó a Teherán que entregue a los acusados por los atentados a la Embajada de Israel y la AMIA. En Defensa evalúan más controles de acceso y les preocupan los viajes de militares al exterior.",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/politica/gobierno-evaluan-medidas-luego-iran-declaro-armada-fuerza-aerea-argentinas-organizaciones-terroristas_0_cVEuFRTqzT.html"
+    },
+    {
+      "hilo": "ley-malvinas",
+      "novedad": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
     },
     {
       "hilo": "crisis-paraguay",
-      "novedad": "El Tribunal de Conducta del Partido Colorado expulsó a Santiago Peña, destituido el 6 de noviembre y detenido por el caso Ueno Bank, sin esperar una condena judicial.",
-      "fuente": "El Poder (Paraguay)",
-      "url": "https://www.elpoder.com.py/politica/2026/11/10/el-tribunal-de-conducta-de-la-anr-expulsa-a-santiago-pena-del-partido-por-el-caso-ueno-bank/"
+      "novedad": "La Fiscalía estimó que Peña podría recibir hasta 15 años de prisión por lesión de confianza y administración en provecho propio; otros 27 imputados, entre ellos ocho exdirectivos de Ueno Bank, arriesgan hasta 12.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/america/america-latina/2026/11/11/la-fiscalia-de-paraguay-estimo-que-santiago-pena-podria-recibir-hasta-15-anos-de-carcel-por-el-caso-ueno-bank/"
     }
   ]
 };
