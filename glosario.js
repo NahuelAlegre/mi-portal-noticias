@@ -387,9 +387,10 @@ window.GLOSARIO = {
     "tipo": "persona",
     "texto": "Diplomático ruso, asesor de Putin en política exterior desde 2012 y exembajador en Estados Unidos.",
     "alias": [
-      "Yuri Ushakov"
+      "Yuri Ushakov",
+      "Ushakov"
     ],
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-11-13",
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yuri_Ushakov_%282023-05-23%29.jpg/330px-Yuri_Ushakov_%282023-05-23%29.jpg"
   },
   "taiz": {
@@ -1520,13 +1521,13 @@ window.GLOSARIO = {
   "jensen-huang": {
     "nombre": "Jensen Huang",
     "tipo": "persona",
-    "texto": "Ingeniero taiwanés-estadounidense, cofundador y CEO de Nvidia. Su directorio investiga si fue blanco de una operación de inteligencia china.",
+    "texto": "Ingeniero taiwanés-estadounidense, cofundador de Nvidia y su único CEO desde 1993. Renunció el 12 de noviembre de 2026 tras revelarse relaciones extramatrimoniales.",
     "alias": [
       "Jensen Huang",
       "Huang"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/330px-Jensen_Huang_20231109.jpg",
-    "actualizado": "2026-11-10"
+    "actualizado": "2026-11-13"
   },
   "grynkewich": {
     "nombre": "Alexus Grynkewich",
@@ -1678,5 +1679,127 @@ window.GLOSARIO = {
       "Megaspeed"
     ],
     "actualizado": "2026-11-12"
+  },
+  "inflacion-nucleo": {
+    "nombre": "Inflación núcleo",
+    "tipo": "concepto",
+    "texto": "Medición del INDEC que excluye los precios estacionales, como frutas y verduras, y los regulados, como las tarifas. Se usa para ver la tendencia de fondo de la inflación.",
+    "alias": [
+      "núcleo"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "zona-fria": {
+    "nombre": "Régimen de Zona Fría",
+    "tipo": "ley",
+    "texto": "Régimen de descuentos en la tarifa de gas para hogares de zonas frías. La Resolución 299/2026 de Energía lo modificó en octubre y redujo su alcance fuera de la Patagonia y La Pampa.",
+    "alias": [
+      "Zona Fría"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "rem": {
+    "nombre": "Relevamiento de Expectativas de Mercado",
+    "tipo": "concepto",
+    "texto": "Encuesta mensual del Banco Central a consultoras y bancos sobre sus proyecciones de inflación, dólar, tasas y actividad.",
+    "alias": [
+      "REM"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "agustin-coto": {
+    "nombre": "Agustín Coto",
+    "tipo": "persona",
+    "texto": "Senador nacional por Tierra del Fuego. Preside la Comisión de Asuntos Constitucionales del Senado, que debe dictaminar la reforma electoral.",
+    "alias": [
+      "Agustín Coto",
+      "Coto"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "ficha-limpia": {
+    "nombre": "Ficha Limpia",
+    "tipo": "ley",
+    "texto": "Proyecto que impide ser candidatos a cargos nacionales a condenados en segunda instancia por delitos de corrupción. PRO y UCR condicionan su apoyo a la reforma electoral a que avance.",
+    "alias": [
+      "Ficha Limpia"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "starshield": {
+    "nombre": "Starshield",
+    "tipo": "concepto",
+    "texto": "Versión militar del servicio satelital Starlink, desarrollada por SpaceX para gobiernos. Ucrania la usa en el frente para comunicarse e interceptar drones.",
+    "alias": [
+      "Starshield"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "sirik": {
+    "nombre": "Sirik",
+    "tipo": "lugar",
+    "texto": "Ciudad portuaria de la provincia de Hormozgán, en la costa sur de Irán. Irán denunció un ataque contra una torre de telecomunicaciones allí el 12 de noviembre.",
+    "alias": [
+      "Sirik"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "quinta-flota": {
+    "nombre": "Quinta Flota de EE.UU.",
+    "tipo": "organizacion",
+    "texto": "Flota de la Armada de EE.UU. para Medio Oriente, con comando en Manama, Baréin. Su base fue atacada por Irán al inicio de la guerra, el 28 de febrero.",
+    "alias": [
+      "Quinta Flota"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "kan": {
+    "nombre": "KAN",
+    "tipo": "organizacion",
+    "texto": "Corporación pública de radio y televisión de Israel. Informó que el gabinete de seguridad ordenó al ejército prepararse para un posible ataque a Irán.",
+    "alias": [
+      "KAN"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "colette-kress": {
+    "nombre": "Colette Kress",
+    "tipo": "persona",
+    "texto": "Ejecutiva estadounidense, directora financiera de Nvidia desde 2013. Asumió como CEO interina el 12 de noviembre de 2026, tras la renuncia de Jensen Huang.",
+    "alias": [
+      "Colette Kress",
+      "Kress"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Colette_Kress.png/330px-Colette_Kress.png",
+    "actualizado": "2026-11-13"
+  },
+  "harvey-jones": {
+    "nombre": "Harvey C. Jones",
+    "tipo": "persona",
+    "texto": "Inversor y ex CEO de Synopsys, integra el directorio de Nvidia desde 1993. Fue nombrado su primer presidente tras la salida de Jensen Huang.",
+    "alias": [
+      "Harvey Jones"
+    ],
+    "actualizado": "2026-11-13"
+  },
+  "lutnick": {
+    "nombre": "Howard Lutnick",
+    "tipo": "persona",
+    "texto": "Empresario estadounidense, secretario de Comercio de Donald Trump. Está cuestionado por la supervisión de las ventas de chips de Nvidia a China.",
+    "alias": [
+      "Howard Lutnick",
+      "Lutnick"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Howard_Lutnick_2025.jpg/330px-Howard_Lutnick_2025.jpg",
+    "actualizado": "2026-11-13"
+  },
+  "expresion-genica": {
+    "nombre": "Expresión génica",
+    "tipo": "concepto",
+    "texto": "Proceso por el que una célula activa un gen para producir proteínas u otras moléculas. Cada tipo de célula activa genes distintos aunque todas comparten el mismo ADN.",
+    "alias": [
+      "expresión de genes"
+    ],
+    "actualizado": "2026-11-13"
   }
 };

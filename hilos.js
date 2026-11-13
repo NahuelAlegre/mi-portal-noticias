@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
+        "resumen": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
@@ -75,8 +82,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Tras ver a Putin, los enviados de Trump le prometieron a Zelensky que Europa se sumará a la próxima ronda",
+        "resumen": "Witkoff y Kushner se reunieron con Putin en Moscú y luego con Zelensky en Dublín; Kushner dijo que Putin está \"dispuesto a intentarlo\" con los europeos. Rusia ratificó su reclamo territorial y Ushakov pidió que Europa deje de armar a Ucrania.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/ckn80j9jv3jxo"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "Ucrania: Abu Dabi cerró con un acuerdo para el mayor canje de prisioneros y los enviados de Trump ya están en Moscú",
@@ -422,8 +436,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Presupuesto 2027: el oficialismo acordó con el PRO y apunta a dictamen el martes 17 y sesión el 25",
+        "resumen": "Según El Cronista, LLA aceptó los siete pedidos del PRO, entre ellos prorrogar el régimen autopartista y bajar el IVA a los huevos al 10,5%. La Nación advierte que la UCR y los bloques provinciales siguen sin acuerdo y que la sesión podría pasar al 26.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "Diputados: el oficialismo negocia hoy el Presupuesto con los aliados y tiene como plan B la Ley Malvinas y la reforma del BCRA",
@@ -522,8 +543,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "La salida a bolsa de Anthropic recibió pedidos por seis veces lo ofrecido",
+        "resumen": "Según Bloomberg, la oferta recibió pedidos por unas seis veces las acciones disponibles y los bancos priorizarán a los accionistas actuales. Sigue previsto fijar el precio el 18 y debutar en el Nasdaq el 19.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "Anthropic lanzó el roadshow de su salida a bolsa: busca hasta US$64.350 millones a US$70-78 por acción",
@@ -694,8 +722,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "La Guardia Revolucionaria dice que destruyó un radar de EE.UU. en Baréin e Israel se prepara para un posible ataque",
+        "resumen": "Irán lo presentó como represalia por un ataque a una torre de telecomunicaciones en Sirik; es el primero que reivindica contra fuerzas de EE.UU. en el Golfo desde septiembre. Según KAN, el gabinete de seguridad israelí ordenó al ejército prepararse para atacar Irán.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "Irán se niega a entregar su uranio enriquecido y amenaza con atacar bases de EE.UU. en Europa",
@@ -1291,8 +1326,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-13",
     "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
+        "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
@@ -1328,6 +1370,21 @@ window.HILOS = {
         "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
         "fuente": "TN",
         "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+      }
+    ]
+  },
+  "reforma-electoral-paso": {
+    "nombre": "Reforma electoral y suspensión de las PASO",
+    "tema": "Argentina",
+    "creado": "2026-11-13",
+    "actualizado": "2026-11-13",
+    "entradas": [
+      {
+        "fecha": "2026-11-13",
+        "titulo": "PASO: el Gobierno acelera la reforma electoral en el Senado, pero el PRO y la UCR aún no dan los votos",
+        "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/"
       }
     ]
   }
