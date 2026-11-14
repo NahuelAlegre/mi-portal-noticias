@@ -82,8 +82,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-14",
     "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "Europa enviará diplomáticos a la negociación por Ucrania, que ahora incluye la seguridad europea",
+        "resumen": "António Costa anunció un equipo del Reino Unido, Francia, Alemania, Italia, Polonia y la UE; Kushner dijo que se tratará la seguridad europea de posguerra junto con lo territorial. En paralelo, Ucrania lanzó casi 1.200 drones contra Rusia en una noche.",
+        "fuente": "AP",
+        "url": "https://www.1news.co.nz/2026/11/14/ukraine-launches-nearly-1200-drones-at-russia-amid-us-security-talks/"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "Tras ver a Putin, los enviados de Trump le prometieron a Zelensky que Europa se sumará a la próxima ronda",
@@ -722,8 +729,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-14",
     "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "EE.UU. negó que Irán haya destruido su radar en Baréin: dice que derribó los dos drones",
+        "resumen": "El Comando Central de EE.UU. negó que la Guardia Revolucionaria haya destruido su radar en Baréin: dijo que derribó los dos drones de ataque lanzados y que no hubo heridos ni daños.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "La Guardia Revolucionaria dice que destruyó un radar de EE.UU. en Baréin e Israel se prepara para un posible ataque",
@@ -1130,8 +1144,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-11",
+    "actualizado": "2026-11-14",
     "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
+        "resumen": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
+      },
       {
         "fecha": "2026-11-11",
         "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
@@ -1326,8 +1347,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-14",
     "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
+        "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
+        "fuente": "Reuters",
+        "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
@@ -1377,14 +1405,36 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-14",
     "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
+        "resumen": "Según Clarín, el texto que irá el martes a Asuntos Constitucionales suspende las PASO solo en 2027, elimina el voto directo al Parlasur y habilita colectoras. Infobae, en cambio, da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "PASO: el Gobierno acelera la reforma electoral en el Senado, pero el PRO y la UCR aún no dan los votos",
         "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/"
+      }
+    ]
+  },
+  "cumbre-trump-xi-putin": {
+    "nombre": "Cumbre Trump-Xi-Putin en China",
+    "tema": "Mundo",
+    "creado": "2026-11-14",
+    "actualizado": "2026-11-14",
+    "entradas": [
+      {
+        "fecha": "2026-11-14",
+        "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",
+        "resumen": "Será al margen de la cumbre de la APEC en China. Trump planteará la reducción de armas nucleares e Irán, no Ucrania; un alto funcionario de EE.UU. dijo que no esperan un acuerdo, y China viene rechazando negociar sobre su arsenal.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
       }
     ]
   }

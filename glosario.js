@@ -1801,5 +1801,102 @@ window.GLOSARIO = {
       "expresión de genes"
     ],
     "actualizado": "2026-11-13"
+  },
+  "parlasur": {
+    "nombre": "Parlasur",
+    "tipo": "organizacion",
+    "texto": "Parlamento del Mercosur, órgano legislativo regional con sede en Montevideo. Desde 2015 la Argentina elige a sus parlamentarios por voto directo.",
+    "alias": [
+      "Parlasur"
+    ],
+    "actualizado": "2026-11-14"
+  },
+  "colectoras": {
+    "nombre": "Listas colectoras",
+    "tipo": "concepto",
+    "texto": "Listas de candidatos que se suman a una misma candidatura presidencial o de gobernador, de modo que sus votos se acumulan para ella.",
+    "alias": [
+      "colectoras"
+    ],
+    "actualizado": "2026-11-14"
+  },
+  "antonio-costa": {
+    "nombre": "António Costa",
+    "tipo": "persona",
+    "texto": "Político portugués, presidente del Consejo Europeo desde 2024 y primer ministro de Portugal entre 2015 y 2024.",
+    "alias": [
+      "António Costa"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Antonio_Costa_Portrait_2024_%28cropped%29.jpg/330px-Antonio_Costa_Portrait_2024_%28cropped%29.jpg",
+    "actualizado": "2026-11-14"
+  },
+  "kaja-kallas": {
+    "nombre": "Kaja Kallas",
+    "tipo": "persona",
+    "texto": "Política estonia, alta representante de la UE para Asuntos Exteriores desde 2024 y ex primera ministra de Estonia.",
+    "alias": [
+      "Kaja Kallas",
+      "Kallas"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Kaja_Kallas%2C_High_Representative_of_the_Union%2C_and_Vice-President_of_the_European_Commission_%283x4_cropped%29.jpg/330px-Kaja_Kallas%2C_High_Representative_of_the_Union%2C_and_Vice-President_of_the_European_Commission_%283x4_cropped%29.jpg",
+    "actualizado": "2026-11-14"
+  },
+  "apec": {
+    "nombre": "APEC (Foro de Cooperación Económica Asia-Pacífico)",
+    "tipo": "organizacion",
+    "texto": "Foro de 21 economías de la cuenca del Pacífico, entre ellas EE.UU., China y Rusia. Su cumbre de 2026 se hace en Shenzhen, China.",
+    "alias": [
+      "APEC"
+    ],
+    "actualizado": "2026-11-14"
+  },
+  "nuevo-start": {
+    "nombre": "Nuevo START",
+    "tipo": "ley",
+    "texto": "Tratado de 2010 entre EE.UU. y Rusia que limitaba a 1.550 por país sus ojivas nucleares estratégicas desplegadas. Venció en febrero de 2026.",
+    "alias": [
+      "Nuevo START"
+    ],
+    "actualizado": "2026-11-14"
+  },
+  "faa": {
+    "nombre": "FAA (Administración Federal de Aviación)",
+    "tipo": "organizacion",
+    "texto": "Organismo de EE.UU. que regula la aviación civil y opera el control del tráfico aéreo. Depende del Departamento de Transporte.",
+    "alias": [
+      "FAA"
+    ],
+    "actualizado": "2026-11-14"
+  },
+  "sean-duffy": {
+    "nombre": "Sean Duffy",
+    "tipo": "persona",
+    "texto": "Político republicano, secretario de Transporte de EE.UU. desde 2025, área de la que depende la FAA.",
+    "alias": [
+      "Sean Duffy",
+      "Duffy"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg/330px-Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg",
+    "actualizado": "2026-11-14"
+  },
+  "rene-haas": {
+    "nombre": "Rene Haas",
+    "tipo": "persona",
+    "texto": "Ejecutivo estadounidense, CEO de Arm desde 2022. Antes trabajó siete años en Nvidia, donde dirigió el negocio de productos de computación.",
+    "alias": [
+      "Rene Haas",
+      "Haas"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Rene_Haas_at_SXSW_2025.jpg/330px-Rene_Haas_at_SXSW_2025.jpg",
+    "actualizado": "2026-11-14"
+  },
+  "arm-holdings": {
+    "nombre": "Arm Holdings",
+    "tipo": "organizacion",
+    "texto": "Empresa británica que diseña arquitecturas de procesadores y las licencia a otros fabricantes; sus diseños dominan en los celulares. Cotiza en el Nasdaq desde 2023.",
+    "alias": [
+      "Arm"
+    ],
+    "actualizado": "2026-11-14"
   }
 };

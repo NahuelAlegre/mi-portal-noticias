@@ -1,29 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-13",
-  "actualizado": "2026-11-13T07:00:21-03:00",
+  "fecha": "2026-11-14",
+  "actualizado": "2026-11-14T06:54:00-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
-      "resumen": "Huang renunció tras revelarse una segunda relación con una empleada; Colette Kress queda como CEO interina y Harvey Jones preside el directorio.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
-    },
-    {
-      "titulo": "La inflación de octubre fue de 2,2%, la más alta en seis meses, empujada por el gas",
-      "resumen": "El INDEC informó 2,2% mensual, por encima del 1,8% esperado, por la suba del gas; la núcleo fue 1,5%, la más baja desde 2018 salvo julio de 2025.",
-      "tema": "Argentina",
-      "fuente": "Infobae",
-      "url": "https://www.infobae.com/economia/2026/11/12/que-dijo-el-ministro-luis-caputo-sobre-la-aceleracion-de-la-inflacion-en-octubre/"
-    },
-    {
-      "titulo": "Tras ver a Putin, los enviados de Trump le prometieron a Zelensky que Europa se sumará a la próxima ronda",
-      "resumen": "Witkoff y Kushner vieron a Putin y a Zelensky el mismo día; dicen que Europa se sumará a la próxima ronda, pero Moscú pone condiciones.",
+      "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",
+      "resumen": "Será al margen de la cumbre de la APEC; Trump planteará la reducción de armas nucleares e Irán, no Ucrania, y EE.UU. no espera un acuerdo.",
       "tema": "Mundo",
       "fuente": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckn80j9jv3jxo"
+      "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+    },
+    {
+      "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
+      "resumen": "Según Clarín, el nuevo texto las suspende solo en 2027 y habilita colectoras; Infobae da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
+      "tema": "Argentina",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html"
     }
   ],
   "temas": [
@@ -31,36 +24,17 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "La inflación de octubre fue de 2,2%, la más alta en seis meses, empujada por el gas",
-          "resumen": "El INDEC informó 2,2% mensual, 33,1% interanual y 26,3% acumulado; el consenso esperaba 1,8%. Página/12 subraya que se acelera; Caputo destacó que la núcleo, 1,5%, fue la más baja desde 2018 salvo julio de 2025.",
-          "porQueImporta": "Vivienda y servicios subió 4,2% por los cambios en el régimen de Zona Fría, que achicaron el subsidio al gas fuera de la Patagonia y La Pampa; los estacionales treparon 5,5%. El REM del BCRA prevé 1,7% para noviembre y 1,8% para diciembre.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/12/que-dijo-el-ministro-luis-caputo-sobre-la-aceleracion-de-la-inflacion-en-octubre/",
-          "glosario": [
-            "inflacion-nucleo",
-            "zona-fria",
-            "rem"
-          ]
-        },
-        {
-          "titulo": "Presupuesto 2027: el oficialismo acordó con el PRO y apunta a dictamen el martes 17 y sesión el 25",
-          "resumen": "Según El Cronista, LLA aceptó los siete pedidos del PRO, entre ellos prorrogar el régimen autopartista y bajar el IVA a los huevos al 10,5%. La Nación advierte que la UCR y los bloques provinciales siguen sin acuerdo y que la sesión podría pasar al 26.",
-          "porQueImporta": "El período ordinario cierra el 30 de noviembre y el Senado tendría pocos días; si no llega, deberá tratarse en extraordinarias. La UCR pide fondos para universidades y discapacidad y mantener la actualización por inflación de la AUH.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/",
-          "hilo": "presupuesto-2027"
-        },
-        {
-          "titulo": "PASO: el Gobierno acelera la reforma electoral en el Senado, pero el PRO y la UCR aún no dan los votos",
-          "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
-          "porQueImporta": "TN cita al oficialismo: \"Creemos que están los votos\"; cerca de Bullrich, jefa del bloque, dudan y sospechan que buscan culparla si fracasa. En el peronismo quieren conservar las primarias para definir su candidatura de 2027.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/",
+          "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
+          "resumen": "Según Clarín, el texto que irá el martes a Asuntos Constitucionales suspende las PASO solo en 2027, elimina el voto directo al Parlasur y habilita colectoras. Infobae, en cambio, da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
+          "porQueImporta": "Clarín dice que lo negociaron delegados de los gobernadores Pullaro, Cornejo y Valdés y que podría votarse el 26. Perfil recuerda que el PRO y la UCR piden Ficha Limpia y que el interbloque peronista de José Mayans rechaza la suspensión; Bullrich advirtió: \"No les sale ni una ley más\".",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html",
           "hilo": "reforma-electoral-paso",
           "glosario": [
-            "agustin-coto",
-            "ficha-limpia",
-            "paso"
+            "paso",
+            "parlasur",
+            "colectoras",
+            "ficha-limpia"
           ]
         }
       ]
@@ -69,31 +43,40 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Tras ver a Putin, los enviados de Trump le prometieron a Zelensky que Europa se sumará a la próxima ronda",
-          "resumen": "Witkoff y Kushner se reunieron con Putin en Moscú y luego con Zelensky en Dublín; Kushner dijo que Putin está \"dispuesto a intentarlo\" con los europeos. Rusia ratificó su reclamo territorial y Ushakov pidió que Europa deje de armar a Ucrania.",
-          "porQueImporta": "Ambos lados respaldaron el canje de prisioneros, que sería el mayor de la guerra y cuyos términos se están cerrando. Zelensky denunció restricciones \"sistemáticas\" a Starshield, el servicio satelital militar de SpaceX, que dificultan interceptar drones rusos.",
+          "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",
+          "resumen": "Será al margen de la cumbre de la APEC en China. Trump planteará la reducción de armas nucleares e Irán, no Ucrania; un alto funcionario de EE.UU. dijo que no esperan un acuerdo, y China viene rechazando negociar sobre su arsenal.",
+          "porQueImporta": "El Nuevo START, el último tratado que limitaba los arsenales de EE.UU. y Rusia, venció en febrero. Trump parte el lunes, pasará por la cumbre de la ASEAN en Filipinas y verá a Xi a solas el jueves, su cuarto encuentro desde 2025.",
           "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckn80j9jv3jxo",
+          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do",
+          "hilo": "cumbre-trump-xi-putin",
+          "glosario": [
+            "apec",
+            "nuevo-start"
+          ]
+        },
+        {
+          "titulo": "Europa enviará diplomáticos a la negociación por Ucrania, que ahora incluye la seguridad europea",
+          "resumen": "António Costa anunció un equipo del Reino Unido, Francia, Alemania, Italia, Polonia y la UE; Kushner dijo que se tratará la seguridad europea de posguerra junto con lo territorial. En paralelo, Ucrania lanzó casi 1.200 drones contra Rusia en una noche.",
+          "porQueImporta": "Discutir la arquitectura de seguridad europea es un reclamo ruso desde 2021: Merz respondió que ya existe, la OTAN, y Kaja Kallas pidió exigir antes un alto el fuego. Zelensky dice que las restricciones de Starshield siguen limitando sus drones a 161 km/h.",
+          "fuente": "AP",
+          "url": "https://www.1news.co.nz/2026/11/14/ukraine-launches-nearly-1200-drones-at-russia-amid-us-security-talks/",
           "hilo": "guerra-ucrania",
           "glosario": [
+            "antonio-costa",
             "kushner",
-            "witkoff",
-            "ushakov",
+            "kaja-kallas",
             "starshield"
           ]
         },
         {
-          "titulo": "La Guardia Revolucionaria dice que destruyó un radar de EE.UU. en Baréin e Israel se prepara para un posible ataque",
-          "resumen": "Irán lo presentó como represalia por un ataque a una torre de telecomunicaciones en Sirik; es el primero que reivindica contra fuerzas de EE.UU. en el Golfo desde septiembre. Según KAN, el gabinete de seguridad israelí ordenó al ejército prepararse para atacar Irán.",
-          "porQueImporta": "Baréin aloja el comando de la Quinta Flota. Trump dice que volverá a la guerra si fracasa la mediación de Qatar, mientras Rubio sostiene que la presión económica alcanza; el gabinete israelí se reuniría el domingo por primera vez en más de un mes.",
-          "fuente": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
-          "hilo": "guerra-iran",
+          "titulo": "EE.UU. paró todos los vuelos por más de cuatro horas, la interrupción más larga desde el 11-S",
+          "resumen": "La FAA frenó los despegues desde las 17:54 (hora argentina) del viernes por fallas intermitentes en comunicaciones y radares; más de 15.000 vuelos fueron demorados o cancelados y hubo 1,5 millones de pasajeros afectados.",
+          "porQueImporta": "El secretario de Transporte, Sean Duffy, culpó a equipos \"demasiado viejos\" y routers sobrecargados y anticipó demoras por varios días; el Departamento de Seguridad Nacional dice que no hay indicios de un ciberataque.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
           "glosario": [
-            "guardia-revolucionaria",
-            "sirik",
-            "quinta-flota",
-            "kan"
+            "faa",
+            "sean-duffy"
           ]
         }
       ]
@@ -102,28 +85,17 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
-          "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
-          "porQueImporta": "La acción cerró con una baja de 4,3% y AMD y Broadcom subieron cerca de 6%. Según Reuters, en la Casa Blanca discuten si desplazar al secretario de Comercio, Howard Lutnick, cuestionado por la venta de chips a China; Nvidia presenta resultados el martes 17.",
+          "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
+          "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
+          "porQueImporta": "Reuters reveló que en octubre Huang le dijo al jefe legal que su vínculo con Alice Huang, ex ejecutiva de Megaspeed, era trato normal con un cliente. Bessent culpó a Comercio por no sancionar a Megaspeed y Lutnick declarará en el Senado en diciembre; Nvidia perdió unos US$573.000 millones de valor en la semana.",
           "fuente": "Reuters",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980",
+          "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html",
           "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "jensen-huang",
-            "colette-kress",
-            "harvey-jones",
+            "rene-haas",
+            "arm-holdings",
+            "megaspeed",
             "lutnick"
-          ]
-        },
-        {
-          "titulo": "Google DeepMind presentó AlphaGenome 2, que predice cómo las variantes del ADN actúan en cada tipo de célula",
-          "resumen": "Entrenado con más de 107 millones de perfiles de células individuales de 68 tejidos, identifica casi el doble de variantes causales que alteran la expresión de genes que su antecesor: 30% contra 16% en un mapa de 28 tipos de células inmunes.",
-          "porQueImporta": "Puede analizar estados celulares nuevos, como los de una enfermedad o una vacunación, sin reentrenarse y con datos de unas pocas decenas de células. Está disponible para investigación no comercial y no está validado para uso clínico.",
-          "fuente": "Google DeepMind",
-          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-          "glosario": [
-            "deepmind",
-            "expresion-genica"
           ]
         }
       ]
@@ -131,16 +103,16 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "ley-malvinas",
-      "novedad": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
+      "hilo": "guerra-iran",
+      "novedad": "El Comando Central de EE.UU. negó que la Guardia Revolucionaria haya destruido su radar en Baréin: dijo que derribó los dos drones de ataque lanzados y que no hubo heridos ni daños.",
+      "fuente": "Euronews",
+      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
     },
     {
-      "hilo": "ipo-anthropic",
-      "novedad": "Según Bloomberg, la oferta recibió pedidos por unas seis veces las acciones disponibles y los bancos priorizarán a los accionistas actuales. Sigue previsto fijar el precio el 18 y debutar en el Nasdaq el 19.",
-      "fuente": "Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports-5023345"
+      "hilo": "riesgo-pais-mercados",
+      "novedad": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
     }
   ]
 };
