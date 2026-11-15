@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-14",
-  "actualizado": "2026-11-14T06:54:00-03:00",
+  "fecha": "2026-11-15",
+  "actualizado": "2026-11-15T07:21:00-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",
-      "resumen": "Será al margen de la cumbre de la APEC; Trump planteará la reducción de armas nucleares e Irán, no Ucrania, y EE.UU. no espera un acuerdo.",
+      "titulo": "Zelensky dice que EE.UU. le planteó por primera vez dejar el Donbás a cambio de entrar en la OTAN",
+      "resumen": "EE.UU. no lo confirmó; Zelensky dijo que no cederá territorio, pero que llevaría a referéndum un paquete con garantías, ejército sin límites y fondos de reconstrucción.",
       "tema": "Mundo",
       "fuente": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+      "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo"
     },
     {
-      "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
-      "resumen": "Según Clarín, el nuevo texto las suspende solo en 2027 y habilita colectoras; Infobae da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
+      "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
+      "resumen": "Asuntos Constitucionales buscará dictamen el martes 17; La Nación le cuenta 31 votos seguros de 37 y Clarín dice que la Casa Rosada los da por hechos.",
       "tema": "Argentina",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html"
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/"
     }
   ],
   "temas": [
@@ -24,17 +24,15 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
-          "resumen": "Según Clarín, el texto que irá el martes a Asuntos Constitucionales suspende las PASO solo en 2027, elimina el voto directo al Parlasur y habilita colectoras. Infobae, en cambio, da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
-          "porQueImporta": "Clarín dice que lo negociaron delegados de los gobernadores Pullaro, Cornejo y Valdés y que podría votarse el 26. Perfil recuerda que el PRO y la UCR piden Ficha Limpia y que el interbloque peronista de José Mayans rechaza la suspensión; Bullrich advirtió: \"No les sale ni una ley más\".",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html",
+          "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
+          "resumen": "Asuntos Constitucionales tratará el martes 17 un borrador que suspende las PASO y suma listas de acople. Según La Nación, el oficialismo tiene 31 votos seguros de los 37 que necesita; Clarín, en cambio, dice que en la Casa Rosada dan los votos por hechos.",
+          "porQueImporta": "Para el dictamen hacen falta 10 firmas de 19 y LLA tiene 6; la meta es votar el 26. Clarín cuenta que Macri y Karina Milei negocian un acuerdo entre partidos como garantía; Perfil dice que el peronismo, con 21 senadores, cree que no están los votos y lee el apuro como presión sobre Bullrich.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/",
           "hilo": "reforma-electoral-paso",
           "glosario": [
             "paso",
-            "parlasur",
-            "colectoras",
-            "ficha-limpia"
+            "colectoras"
           ]
         }
       ]
@@ -43,40 +41,27 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",
-          "resumen": "Será al margen de la cumbre de la APEC en China. Trump planteará la reducción de armas nucleares e Irán, no Ucrania; un alto funcionario de EE.UU. dijo que no esperan un acuerdo, y China viene rechazando negociar sobre su arsenal.",
-          "porQueImporta": "El Nuevo START, el último tratado que limitaba los arsenales de EE.UU. y Rusia, venció en febrero. Trump parte el lunes, pasará por la cumbre de la ASEAN en Filipinas y verá a Xi a solas el jueves, su cuarto encuentro desde 2025.",
+          "titulo": "Zelensky dice que EE.UU. le planteó por primera vez dejar el Donbás a cambio de entrar en la OTAN",
+          "resumen": "Según Zelensky, los negociadores de EE.UU. preguntaron si Ucrania se retiraría del Donbás si ingresa en la OTAN. Dijo que no cederá territorio, pero que llevaría a referéndum un paquete con garantías de seguridad, un ejército sin límites y fondos para reconstruir.",
+          "porQueImporta": "EE.UU. no lo confirmó y Kushner pidió \"confidencialidad\" y criticó las propuestas \"maximalistas\". Rusia exige la parte del Donbás que aún no controla antes de cualquier alto el fuego y rechaza el ingreso de Ucrania a la OTAN.",
           "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/ckz74jzpy18do",
-          "hilo": "cumbre-trump-xi-putin",
-          "glosario": [
-            "apec",
-            "nuevo-start"
-          ]
-        },
-        {
-          "titulo": "Europa enviará diplomáticos a la negociación por Ucrania, que ahora incluye la seguridad europea",
-          "resumen": "António Costa anunció un equipo del Reino Unido, Francia, Alemania, Italia, Polonia y la UE; Kushner dijo que se tratará la seguridad europea de posguerra junto con lo territorial. En paralelo, Ucrania lanzó casi 1.200 drones contra Rusia en una noche.",
-          "porQueImporta": "Discutir la arquitectura de seguridad europea es un reclamo ruso desde 2021: Merz respondió que ya existe, la OTAN, y Kaja Kallas pidió exigir antes un alto el fuego. Zelensky dice que las restricciones de Starshield siguen limitando sus drones a 161 km/h.",
-          "fuente": "AP",
-          "url": "https://www.1news.co.nz/2026/11/14/ukraine-launches-nearly-1200-drones-at-russia-amid-us-security-talks/",
+          "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo",
           "hilo": "guerra-ucrania",
           "glosario": [
-            "antonio-costa",
-            "kushner",
-            "kaja-kallas",
-            "starshield"
+            "donbas",
+            "kushner"
           ]
         },
         {
-          "titulo": "EE.UU. paró todos los vuelos por más de cuatro horas, la interrupción más larga desde el 11-S",
-          "resumen": "La FAA frenó los despegues desde las 17:54 (hora argentina) del viernes por fallas intermitentes en comunicaciones y radares; más de 15.000 vuelos fueron demorados o cancelados y hubo 1,5 millones de pasajeros afectados.",
-          "porQueImporta": "El secretario de Transporte, Sean Duffy, culpó a equipos \"demasiado viejos\" y routers sobrecargados y anticipó demoras por varios días; el Departamento de Seguridad Nacional dice que no hay indicios de un ciberataque.",
-          "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/c6wy9lynq4qno",
+          "titulo": "Trump les dijo a sus asesores que podría no volver a atacar a Irán si no hay nuevas provocaciones",
+          "resumen": "Según tres fuentes citadas por Reuters, Trump evalúa frenar los ataques salvo nuevas provocaciones de Irán o de los hutíes, mientras un tercer portaaviones llega a la región. El sábado Irán informó que tres petroleros se incendiaron al chocar con minas en Ormuz.",
+          "porQueImporta": "La inteligencia de EE.UU. estima que nuevos bombardeos no cambiarían las exigencias iraníes y que algunas reservas de municiones están en niveles preocupantes; Israel presiona por otra campaña. En una encuesta Reuters/Ipsos, el 55% de los estadounidenses dijo que la guerra no valió el costo.",
+          "fuente": "Reuters",
+          "url": "https://www.arabnews.com/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say-3011847",
+          "hilo": "guerra-iran",
           "glosario": [
-            "faa",
-            "sean-duffy"
+            "hutis",
+            "ormuz"
           ]
         }
       ]
@@ -85,17 +70,27 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
-          "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
-          "porQueImporta": "Reuters reveló que en octubre Huang le dijo al jefe legal que su vínculo con Alice Huang, ex ejecutiva de Megaspeed, era trato normal con un cliente. Bessent culpó a Comercio por no sancionar a Megaspeed y Lutnick declarará en el Senado en diciembre; Nvidia perdió unos US$573.000 millones de valor en la semana.",
-          "fuente": "Reuters",
-          "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html",
+          "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
+          "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
+          "porQueImporta": "Huang renunció el jueves y aceptó declarar ante el Congreso de EE.UU.; Colette Kress sigue como CEO interina mientras el directorio busca un reemplazo definitivo.",
+          "fuente": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
           "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "rene-haas",
-            "arm-holdings",
-            "megaspeed",
-            "lutnick"
+            "jensen-huang",
+            "colette-kress"
+          ]
+        },
+        {
+          "titulo": "La china Meituan liberó LongCat-2.5, un modelo de 1,6 billones de parámetros entrenado sin chips de Nvidia",
+          "resumen": "Publicó los pesos con licencia MIT; está pensado para agentes de programación y marca 88,4 en Terminal Bench v2.1, cerca de Claude Opus 5 (89,1). Su antecesor se entrenó en más de 50.000 chips chinos y la guía de instalación usa 194 aceleradores Huawei Ascend.",
+          "porQueImporta": "La guía no incluye instrucciones para GPU de Nvidia: el modelo está optimizado desde el inicio para hardware chino, que EE.UU. busca frenar con sus restricciones a la exportación de chips.",
+          "fuente": "The Decoder",
+          "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+          "glosario": [
+            "meituan",
+            "pesos-abiertos",
+            "huawei-ascend"
           ]
         }
       ]
@@ -103,16 +98,10 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "guerra-iran",
-      "novedad": "El Comando Central de EE.UU. negó que la Guardia Revolucionaria haya destruido su radar en Baréin: dijo que derribó los dos drones de ataque lanzados y que no hubo heridos ni daños.",
-      "fuente": "Euronews",
-      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
-    },
-    {
-      "hilo": "riesgo-pais-mercados",
-      "novedad": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
+      "hilo": "ipo-anthropic",
+      "novedad": "Según Bloomberg, los bancos rechazaron o desalentaron órdenes de inversores institucionales de China continental y Hong Kong, en parte por las normas de EE.UU. sobre armas (ITAR). El precio se fija el miércoles 18.",
+      "fuente": "Bloomberg",
+      "url": "https://news.bloomberglaw.com/artificial-intelligence/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
     }
   ]
 };

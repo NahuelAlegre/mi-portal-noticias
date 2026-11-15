@@ -82,8 +82,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-15",
     "entradas": [
+      {
+        "fecha": "2026-11-15",
+        "titulo": "Zelensky dice que EE.UU. le planteó por primera vez dejar el Donbás a cambio de entrar en la OTAN",
+        "resumen": "Según Zelensky, los negociadores de EE.UU. preguntaron si Ucrania se retiraría del Donbás si ingresa en la OTAN. Dijo que no cederá territorio, pero que llevaría a referéndum un paquete con garantías de seguridad, un ejército sin límites y fondos para reconstruir.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "Europa enviará diplomáticos a la negociación por Ucrania, que ahora incluye la seguridad europea",
@@ -550,8 +557,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-15",
     "entradas": [
+      {
+        "fecha": "2026-11-15",
+        "titulo": "La salida a bolsa de Anthropic deja afuera a inversores de China y Hong Kong",
+        "resumen": "Según Bloomberg, los bancos rechazaron o desalentaron órdenes de inversores institucionales de China continental y Hong Kong, en parte por las normas de EE.UU. sobre armas (ITAR). El precio se fija el miércoles 18.",
+        "fuente": "Bloomberg",
+        "url": "https://news.bloomberglaw.com/artificial-intelligence/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "La salida a bolsa de Anthropic recibió pedidos por seis veces lo ofrecido",
@@ -729,8 +743,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-15",
     "entradas": [
+      {
+        "fecha": "2026-11-15",
+        "titulo": "Trump les dijo a sus asesores que podría no volver a atacar a Irán si no hay nuevas provocaciones",
+        "resumen": "Según tres fuentes citadas por Reuters, Trump evalúa frenar los ataques salvo nuevas provocaciones de Irán o de los hutíes, mientras un tercer portaaviones llega a la región. El sábado Irán informó que tres petroleros se incendiaron al chocar con minas en Ormuz.",
+        "fuente": "Reuters",
+        "url": "https://www.arabnews.com/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say-3011847"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "EE.UU. negó que Irán haya destruido su radar en Baréin: dice que derribó los dos drones",
@@ -1347,8 +1368,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-15",
     "entradas": [
+      {
+        "fecha": "2026-11-15",
+        "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
+        "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
+        "fuente": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
@@ -1405,8 +1433,15 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-15",
     "entradas": [
+      {
+        "fecha": "2026-11-15",
+        "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
+        "resumen": "Asuntos Constitucionales tratará el martes 17 un borrador que suspende las PASO y suma listas de acople. Según La Nación, el oficialismo tiene 31 votos seguros de los 37 que necesita; Clarín, en cambio, dice que en la Casa Rosada dan los votos por hechos.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",

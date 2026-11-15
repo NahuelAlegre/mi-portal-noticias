@@ -1816,9 +1816,10 @@ window.GLOSARIO = {
     "tipo": "concepto",
     "texto": "Listas de candidatos que se suman a una misma candidatura presidencial o de gobernador, de modo que sus votos se acumulan para ella.",
     "alias": [
-      "colectoras"
+      "colectoras",
+      "listas de acople"
     ],
-    "actualizado": "2026-11-14"
+    "actualizado": "2026-11-15"
   },
   "antonio-costa": {
     "nombre": "António Costa",
@@ -1898,5 +1899,32 @@ window.GLOSARIO = {
       "Arm"
     ],
     "actualizado": "2026-11-14"
+  },
+  "donbas": {
+    "nombre": "Donbás",
+    "tipo": "lugar",
+    "texto": "Región industrial del este de Ucrania formada por las provincias de Donetsk y Lugansk. Rusia ocupa la mayor parte y exige el resto como condición para un alto el fuego.",
+    "alias": [
+      "Donbás"
+    ],
+    "actualizado": "2026-11-15"
+  },
+  "meituan": {
+    "nombre": "Meituan",
+    "tipo": "organizacion",
+    "texto": "Empresa china de reparto de comida y servicios a domicilio, que cotiza en Hong Kong. Su equipo LongCat desarrolla modelos de IA de pesos abiertos.",
+    "alias": [
+      "Meituan"
+    ],
+    "actualizado": "2026-11-15"
+  },
+  "huawei-ascend": {
+    "nombre": "Huawei Ascend",
+    "tipo": "concepto",
+    "texto": "Línea de chips aceleradores de IA diseñados por la china Huawei. Son la principal alternativa local a las GPU de Nvidia, cuya venta a China restringe EE.UU.",
+    "alias": [
+      "Huawei Ascend"
+    ],
+    "actualizado": "2026-11-15"
   }
 };
