@@ -82,8 +82,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-15",
+    "actualizado": "2026-11-16",
     "entradas": [
+      {
+        "fecha": "2026-11-16",
+        "titulo": "Ucrania lanzó más de 1.300 drones contra Rusia, unos 600 hacia Moscú, y golpeó el puente de Kerch",
+        "resumen": "Rusia dijo haber interceptado más de 1.300 drones en una noche, uno de los mayores ataques de la guerra; el gobernador prorruso de Crimea informó que el impacto en el puente de Kerch frenó el tránsito. Ataques rusos dejaron sin luz a seis regiones ucranianas.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+      },
       {
         "fecha": "2026-11-15",
         "titulo": "Zelensky dice que EE.UU. le planteó por primera vez dejar el Donbás a cambio de entrar en la OTAN",
@@ -743,8 +750,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-15",
+    "actualizado": "2026-11-16",
     "entradas": [
+      {
+        "fecha": "2026-11-16",
+        "titulo": "Irán volvió a atacar Baréin: segundo ataque en tres días contra una base usada por EE.UU.",
+        "resumen": "La Guardia Revolucionaria dijo que lanzó seis drones contra un radar de defensa aérea de EE.UU. en la base de Al Riffa; Baréin informó que los interceptó. Es el segundo ataque desde el viernes, tras una pausa desde septiembre.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo"
+      },
       {
         "fecha": "2026-11-15",
         "titulo": "Trump les dijo a sus asesores que podría no volver a atacar a Irán si no hay nuevas provocaciones",
@@ -1368,8 +1382,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-15",
+    "actualizado": "2026-11-16",
     "entradas": [
+      {
+        "fecha": "2026-11-16",
+        "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
+        "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
+        "fuente": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
+      },
       {
         "fecha": "2026-11-15",
         "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
@@ -1433,8 +1454,15 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-15",
+    "actualizado": "2026-11-16",
     "entradas": [
+      {
+        "fecha": "2026-11-16",
+        "titulo": "PASO: Clarín cuenta hasta 10 radicales a favor de suspenderlas y el PRO duda de que haya dictamen el martes",
+        "resumen": "Según Clarín, al menos 6 de los 10 senadores de la UCR votarían la suspensión y podrían ser todos. Infobae, en cambio, recoge que el jefe del bloque PRO, Martín Goerling, no cree que haya dictamen el martes 17 si el Gobierno cambia el texto a último momento.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/pelea-paso-bloque-senadores-radicales-incluso-responden-gobernadores-avalaria-suspension_0_xdVjMNow7C.html"
+      },
       {
         "fecha": "2026-11-15",
         "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
@@ -1462,8 +1490,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-16",
     "entradas": [
+      {
+        "fecha": "2026-11-16",
+        "titulo": "China confirmó la cumbre Trump-Xi-Putin del jueves en Shenzhen",
+        "resumen": "China confirmó el lunes la reunión del jueves 19 en Shenzhen, la primera de los tres líderes, y Trump ya partió hacia Asia. EE.UU. quiere hablar de armas nucleares e Irán; Rusia, de Ucrania.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "Trump, Xi y Putin se reunirán el jueves en Shenzhen, el primer encuentro de los tres",

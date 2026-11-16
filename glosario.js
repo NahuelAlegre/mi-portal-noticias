@@ -1926,5 +1926,54 @@ window.GLOSARIO = {
       "Huawei Ascend"
     ],
     "actualizado": "2026-11-15"
+  },
+  "martin-goerling": {
+    "nombre": "Martín Goerling",
+    "tipo": "persona",
+    "texto": "Senador nacional del PRO por Misiones desde 2023 y jefe de ese bloque en el Senado. Su bancada, de tres miembros, aún no definió si apoya suspender las PASO.",
+    "alias": [
+      "Martín Goerling",
+      "Goerling"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Enrique_Mart%C3%ADn_Goerling_Lara.png",
+    "actualizado": "2026-11-16"
+  },
+  "puente-kerch": {
+    "nombre": "Puente de Crimea (Kerch)",
+    "tipo": "lugar",
+    "texto": "Puente de 19 km sobre el estrecho de Kerch que une Rusia con la península de Crimea, anexada en 2014. Es clave para abastecer a las tropas rusas y Ucrania ya lo atacó antes.",
+    "alias": [
+      "puente de Kerch"
+    ],
+    "actualizado": "2026-11-16"
+  },
+  "gru": {
+    "nombre": "GRU",
+    "tipo": "organizacion",
+    "texto": "Servicio de inteligencia militar de Rusia, dependiente del Estado Mayor. Gobiernos europeos le atribuyen sabotajes e intentos de incendio en su territorio.",
+    "alias": [
+      "GRU"
+    ],
+    "actualizado": "2026-11-16"
+  },
+  "pax-silica": {
+    "nombre": "Pax Silica",
+    "tipo": "organizacion",
+    "texto": "Iniciativa lanzada por EE.UU. en diciembre de 2025 para asegurar con países aliados la cadena de suministro de chips, minerales y otros insumos de la IA.",
+    "alias": [
+      "Pax Silica"
+    ],
+    "actualizado": "2026-11-16"
+  },
+  "jacob-helberg": {
+    "nombre": "Jacob Helberg",
+    "tipo": "persona",
+    "texto": "Subsecretario de Estado de EE.UU. para Asuntos Económicos en el gobierno de Trump. Encabeza la iniciativa Pax Silica.",
+    "alias": [
+      "Jacob Helberg",
+      "Helberg"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jacob-Helberg-photo_2025.jpg/330px-Jacob-Helberg-photo_2025.jpg",
+    "actualizado": "2026-11-16"
   }
 };
