@@ -82,8 +82,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-16",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
+        "resumen": "Imágenes geolocalizadas por CNN muestran caído un tramo de la calzada vial del puente que une Rusia con Crimea, atacado por segundo día; Rusia dijo haber derribado 1.441 drones. Los ataques rusos dañaron los puentes Norte y Sur de Kiev y cortaron agua y calefacción.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/17/mundo/ataque-ucrania-derrumba-puente-kerch-crimea-trax"
+      },
       {
         "fecha": "2026-11-16",
         "titulo": "Ucrania lanzó más de 1.300 drones contra Rusia, unos 600 hacia Moscú, y golpeó el puente de Kerch",
@@ -750,8 +757,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-16",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "Un petrolero ardió tras ser atacado en Ormuz mientras llega un tercer portaaviones de EE.UU.",
+        "resumen": "La agencia británica UKMTO informó que un petrolero fue alcanzado por un proyectil en el estrecho y se incendió; la armada iraní dijo que cuatro petroleros chocaron con minas en 24 horas. El portaaviones Theodore Roosevelt se sumó a otros dos en la región.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+      },
       {
         "fecha": "2026-11-16",
         "titulo": "Irán volvió a atacar Baréin: segundo ataque en tres días contra una base usada por EE.UU.",
@@ -1179,8 +1193,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-14",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
+        "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/"
+      },
       {
         "fecha": "2026-11-14",
         "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
@@ -1382,8 +1403,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-16",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
+        "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+        "fuente": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+      },
       {
         "fecha": "2026-11-16",
         "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
@@ -1454,8 +1482,15 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-16",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
+        "resumen": "Asuntos Constitucionales trata hoy a las 15 el borrador: suspende las PASO solo en 2027, permite dos listas legislativas por fórmula presidencial y suma Ficha Limpia. Perfil cuenta 13 posibles firmas de las 10 necesarias; Página/12 lo llama \"maniobra desesperada\".",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/politica/paso-la-casa-rosada-lleva-un-nuevo-proyecto-al-senado-cruzado-por-lo-que-piden-los-gobernadores-y-la-tension-con-bullrich-aXuvw8F8ZfXh"
+      },
       {
         "fecha": "2026-11-16",
         "titulo": "PASO: Clarín cuenta hasta 10 radicales a favor de suspenderlas y el PRO duda de que haya dictamen el martes",
@@ -1490,8 +1525,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-16",
+    "actualizado": "2026-11-17",
     "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "Trump dijo que podría reunirse con Kim Jong Un durante su viaje a China",
+        "resumen": "Trump dijo al partir que \"quizás\" se reúna con Kim Jong Un en China, según cómo lo definan Kim y Xi. El Kremlin confirmó que Putin estará en Shenzhen el 18 y 19, con la cumbre de los tres como eje.",
+        "fuente": "Anadolu",
+        "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
+      },
       {
         "fecha": "2026-11-16",
         "titulo": "China confirmó la cumbre Trump-Xi-Putin del jueves en Shenzhen",
@@ -1505,6 +1547,21 @@ window.HILOS = {
         "resumen": "Será al margen de la cumbre de la APEC en China. Trump planteará la reducción de armas nucleares e Irán, no Ucrania; un alto funcionario de EE.UU. dijo que no esperan un acuerdo, y China viene rechazando negociar sobre su arsenal.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/news/articles/ckz74jzpy18do"
+      }
+    ]
+  },
+  "demandas-seguridad-openai": {
+    "nombre": "Demandas a OpenAI por la seguridad de sus agentes de IA",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-17",
+    "actualizado": "2026-11-17",
+    "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "California demanda a OpenAI por los ataques de sus agentes de IA, entre ellos el sufrido por Hugging Face",
+        "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
+        "fuente": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches"
       }
     ]
   }

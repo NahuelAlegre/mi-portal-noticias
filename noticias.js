@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-16",
-  "actualizado": "2026-11-16T07:26:00-03:00",
+  "fecha": "2026-11-17",
+  "actualizado": "2026-11-17T07:26:10-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Ucrania lanzó más de 1.300 drones contra Rusia, unos 600 hacia Moscú, y golpeó el puente de Kerch",
-      "resumen": "Rusia dijo haber interceptado más de 1.300 drones en una noche, uno de los mayores ataques de la guerra; el gobernador prorruso de Crimea informó que el impacto en el puente de Kerch frenó el tránsito.",
+      "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
+      "resumen": "Imágenes geolocalizadas por CNN muestran caído un tramo de la calzada vial del puente que une Rusia con Crimea, atacado por segundo día; Rusia dijo haber derribado 1.441 drones. Los ataques rusos dañaron los puentes Norte y Sur de Kiev y cortaron agua y calefacción.",
       "tema": "Mundo",
-      "fuente": "France 24",
-      "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+      "fuente": "CNN en Español",
+      "url": "https://cnnespanol.cnn.com/2026/11/17/mundo/ataque-ucrania-derrumba-puente-kerch-crimea-trax"
     },
     {
-      "titulo": "Irán volvió a atacar Baréin: segundo ataque en tres días contra una base usada por EE.UU.",
-      "resumen": "La Guardia Revolucionaria dijo que lanzó seis drones contra un radar de EE.UU. en la base de Al Riffa; Baréin los interceptó. Es el segundo ataque desde el viernes, tras una pausa desde septiembre.",
-      "tema": "Mundo",
-      "fuente": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo"
+      "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
+      "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+      "tema": "Inteligencia Artificial",
+      "fuente": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
     }
   ],
   "temas": [
@@ -24,15 +24,39 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "PASO: Clarín cuenta hasta 10 radicales a favor de suspenderlas y el PRO duda de que haya dictamen el martes",
-          "resumen": "Según Clarín, al menos 6 de los 10 senadores de la UCR votarían la suspensión y podrían ser todos. Infobae, en cambio, recoge que el jefe del bloque PRO, Martín Goerling, no cree que haya dictamen el martes 17 si el Gobierno cambia el texto a último momento.",
-          "porQueImporta": "El dictamen requiere 10 de 19 firmas y el recinto, 37 votos: LLA tiene 21 y depende de la UCR, el PRO y los provinciales. Según Clarín, Mauricio Macri enfrió el vínculo con el Gobierno antes de relanzar el PRO el 1 de diciembre.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/politica/pelea-paso-bloque-senadores-radicales-incluso-responden-gobernadores-avalaria-suspension_0_xdVjMNow7C.html",
+          "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
+          "resumen": "Asuntos Constitucionales trata hoy a las 15 el borrador: suspende las PASO solo en 2027, permite dos listas legislativas por fórmula presidencial y suma Ficha Limpia. Perfil cuenta 13 posibles firmas de las 10 necesarias; Página/12 lo llama \"maniobra desesperada\".",
+          "porQueImporta": "La Nación le cuenta al oficialismo 30 apoyos y 27 rechazos en el recinto, donde necesita 37. Si hay dictamen, la sesión sería el jueves 26; el bullrichismo no quiere suspender las PASO y el diputado Gerardo Milman calificó de \"inconstitucionales\" las colectoras.",
+          "fuente": "Perfil",
+          "url": "https://www.perfil.com/politica/paso-la-casa-rosada-lleva-un-nuevo-proyecto-al-senado-cruzado-por-lo-que-piden-los-gobernadores-y-la-tension-con-bullrich-aXuvw8F8ZfXh",
           "hilo": "reforma-electoral-paso",
           "glosario": [
             "paso",
-            "martin-goerling"
+            "colectoras",
+            "ficha-limpia"
+          ]
+        },
+        {
+          "titulo": "La UCA calcula que, con canastas actualizadas, la pobreza no bajó desde 2023",
+          "resumen": "Con ingresos homogéneos y canastas de 2017/18, el ODSA-UCA calcula que entre 2023 y 2026 la pobreza pasó de 37,7% a 37,5%, y no de 41,3% a 34,4% como dice el INDEC. Clarín remarca que igual cayó desde el pico de 2024; la agencia NA lo presenta como una refutación a Milei.",
+          "porQueImporta": "Con una canasta más exigente, la pobreza habría subido de 40,8% a 42,4%. Las tres series, incluida la oficial, muestran un aumento en el último año; los autores aclaran que las diferencias no prueban manipulación de los datos.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/economia/uca-indices-pobreza-mejorado-gobierno-milei-actualizara-medicion-oficial_0_RSBHEdEFzK.html",
+          "glosario": [
+            "odsa-uca"
+          ]
+        },
+        {
+          "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
+          "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
+          "porQueImporta": "El IERAL calcula que en 2027 vencen USD 28.000 millones de deuda del Tesoro y el BCRA y que, con las fuentes de financiamiento disponibles, faltan unos USD 17.000 millones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/",
+          "hilo": "riesgo-pais-mercados",
+          "glosario": [
+            "riesgo-pais",
+            "merval",
+            "ieral"
           ]
         }
       ]
@@ -41,37 +65,35 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Ucrania lanzó más de 1.300 drones contra Rusia, unos 600 hacia Moscú, y golpeó el puente de Kerch",
-          "resumen": "Rusia dijo haber interceptado más de 1.300 drones en una noche, uno de los mayores ataques de la guerra; el gobernador prorruso de Crimea informó que el impacto en el puente de Kerch frenó el tránsito. Ataques rusos dejaron sin luz a seis regiones ucranianas.",
-          "porQueImporta": "Ocurre tres días antes de la cumbre Trump-Xi-Putin en Shenzhen, donde EE.UU. no prevé tratar Ucrania. La UE acordará hoy 113 nuevas sanciones contra Rusia y, según el FT, la Comisión propondrá un préstamo de 45.000 millones de euros para Kiev.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic",
+          "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
+          "resumen": "Imágenes geolocalizadas por CNN muestran caído un tramo de la calzada vial del puente que une Rusia con Crimea, atacado por segundo día; Rusia dijo haber derribado 1.441 drones. Los ataques rusos dañaron los puentes Norte y Sur de Kiev y cortaron agua y calefacción.",
+          "porQueImporta": "El puente es una vía clave de abastecimiento de las tropas rusas en Crimea; el tramo ferroviario parecía en pie. Trump dijo que en la cumbre del jueves en Shenzhen hablará de Ucrania, aunque funcionarios suyos habían dicho que no estaría en la agenda.",
+          "fuente": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/17/mundo/ataque-ucrania-derrumba-puente-kerch-crimea-trax",
           "hilo": "guerra-ucrania",
           "glosario": [
             "puente-kerch"
           ]
         },
         {
-          "titulo": "Irán volvió a atacar Baréin: segundo ataque en tres días contra una base usada por EE.UU.",
-          "resumen": "La Guardia Revolucionaria dijo que lanzó seis drones contra un radar de defensa aérea de EE.UU. en la base de Al Riffa; Baréin informó que los interceptó. Es el segundo ataque desde el viernes, tras una pausa desde septiembre.",
-          "porQueImporta": "Llega dos días después de que Reuters informara que Trump podría frenar los ataques salvo nuevas provocaciones. La Guardia Revolucionaria declaró \"cerrado\" Ormuz y advirtió que responderá con más dureza a cualquier agresión de EE.UU.",
-          "fuente": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo",
+          "titulo": "Un petrolero ardió tras ser atacado en Ormuz mientras llega un tercer portaaviones de EE.UU.",
+          "resumen": "La agencia británica UKMTO informó que un petrolero fue alcanzado por un proyectil en el estrecho y se incendió; la armada iraní dijo que cuatro petroleros chocaron con minas en 24 horas. El portaaviones Theodore Roosevelt se sumó a otros dos en la región.",
+          "porQueImporta": "La Guardia Revolucionaria declaró \"totalmente cerrada\" la ruta sur respaldada por EE.UU., y el Ejército iraní dijo que Ormuz no reabrirá hasta que se acepten sus condiciones. Las conversaciones indirectas vía Qatar siguen estancadas.",
+          "fuente": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
           "hilo": "guerra-iran",
           "glosario": [
-            "guardia-revolucionaria",
-            "ormuz"
+            "ukmto",
+            "ormuz",
+            "guardia-revolucionaria"
           ]
         },
         {
-          "titulo": "Estonia cerrará desde el 1 de diciembre sus pasos fronterizos con Rusia tras un sabotaje atribuido al GRU",
-          "resumen": "Ocho ciudadanos letones fueron detenidos el sábado por intentar incendiar al fabricante de drones Threod Systems, cerca de Tallin; la inteligencia estonia atribuyó la orden al GRU. Se cerrarán los tres pasos viales: Narva, Luhamaa y Koidula.",
-          "porQueImporta": "Es el segundo intento de incendio contra una empresa de defensa estonia desde agosto. Narva es uno de los pocos pasos terrestres de Europa hacia Rusia todavía abiertos a viajeros; el Kremlin negó la acusación.",
-          "fuente": "ERR",
-          "url": "https://news.err.ee/1610196794/estonia-to-close-border-crossings-with-russia-after-gru-linked-sabotage-attacks",
-          "glosario": [
-            "gru"
-          ]
+          "titulo": "Cinco países de la UE abrirán en 2027 un centro en Ruanda para deportar migrantes",
+          "resumen": "Alemania, Dinamarca, Austria, Grecia y los Países Bajos anunciaron un \"centro de retorno\" para migrantes con orden de expulsión firme. Empezaría como piloto con unas 100 personas, solo hombres solteros, que podrán quedarse en Ruanda o volver a su país.",
+          "porQueImporta": "Lo habilita una reforma reciente de la UE que permite centros fuera del bloque. Human Rights Watch cuestionó el historial de Ruanda; un plan británico similar fue descartado en 2024.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cmlywv925gzlo"
         }
       ]
     },
@@ -79,26 +101,28 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
-          "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
-          "porQueImporta": "Bessent cuestionó si Nvidia impulsó ventas \"aparentemente ilícitas\" de chips a China para inflar sus ingresos. La empresa presenta resultados el martes 17, los primeros con Colette Kress como CEO interina.",
-          "fuente": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo",
+          "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
+          "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+          "porQueImporta": "Llega tras la renuncia de Jensen Huang por el caso Megaspeed, cuyos centros de datos alquilaban ese cómputo a clientes chinos. Trump dijo que \"quizás\" lo trate con Xi y que el regreso de Huang no sería \"mala idea\"; Nvidia presenta resultados hoy.",
+          "fuente": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
           "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "jensen-huang",
-            "colette-kress"
+            "megaspeed",
+            "jensen-huang"
           ]
         },
         {
-          "titulo": "EE.UU. y nueve aliados firmaron un pacto para proteger de China la cadena de suministro de la IA",
-          "resumen": "La Declaración de San Francisco, de la iniciativa Pax Silica, la firmaron el domingo EE.UU., Australia, India, Israel, Japón, Corea del Sur, Qatar, Singapur, Emiratos y el Reino Unido. Define tecnologías e infraestructura a proteger y crea cinco grupos de trabajo.",
-          "porQueImporta": "La convocó el subsecretario de Estado Jacob Helberg. El texto habla de \"superinteligencia\" porque un decreto de Trump renombró así a la IA en el gobierno de EE.UU.",
-          "fuente": "The Hindu",
-          "url": "https://www.thehindu.com/sci-tech/india-us-eight-other-nations-sign-declaration-to-safeguard-ai-supply-chains/article71707057.ece",
+          "titulo": "California demanda a OpenAI por los ataques de sus agentes de IA, entre ellos el sufrido por Hugging Face",
+          "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
+          "porQueImporta": "Un mes antes, otros siete fiscales estatales demandaron a OpenAI por ChatGPT. La empresa respondió que la demanda la señala por un problema que \"identificaron todos los grandes laboratorios\" y que reforzó sus resguardos.",
+          "fuente": "Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches",
+          "hilo": "demandas-seguridad-openai",
           "glosario": [
-            "pax-silica",
-            "jacob-helberg"
+            "rob-bonta",
+            "agentes-ia",
+            "hugging-face"
           ]
         }
       ]
@@ -107,9 +131,9 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "cumbre-trump-xi-putin",
-      "novedad": "China confirmó el lunes la reunión del jueves 19 en Shenzhen, la primera de los tres líderes, y Trump ya partió hacia Asia. EE.UU. quiere hablar de armas nucleares e Irán; Rusia, de Ucrania.",
-      "fuente": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html"
+      "novedad": "Trump dijo al partir que \"quizás\" se reúna con Kim Jong Un en China, según cómo lo definan Kim y Xi. El Kremlin confirmó que Putin estará en Shenzhen el 18 y 19, con la cumbre de los tres como eje.",
+      "fuente": "Anadolu",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
     }
   ]
 };

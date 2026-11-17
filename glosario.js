@@ -1975,5 +1975,53 @@ window.GLOSARIO = {
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jacob-Helberg-photo_2025.jpg/330px-Jacob-Helberg-photo_2025.jpg",
     "actualizado": "2026-11-16"
+  },
+  "odsa-uca": {
+    "nombre": "Observatorio de la Deuda Social Argentina (ODSA-UCA)",
+    "tipo": "organizacion",
+    "texto": "Centro de investigación de la Universidad Católica Argentina que mide pobreza y condiciones de vida desde 2004. Publicó un recálculo de la pobreza oficial con canastas actualizadas.",
+    "alias": [
+      "ODSA-UCA"
+    ],
+    "actualizado": "2026-11-17"
+  },
+  "ieral": {
+    "nombre": "IERAL",
+    "tipo": "organizacion",
+    "texto": "Instituto de Estudios sobre la Realidad Argentina y Latinoamericana, centro de estudios económicos de la Fundación Mediterránea, con sede en Córdoba.",
+    "alias": [
+      "IERAL"
+    ],
+    "actualizado": "2026-11-17"
+  },
+  "ukmto": {
+    "nombre": "UKMTO",
+    "tipo": "organizacion",
+    "texto": "United Kingdom Maritime Trade Operations: centro de la Marina británica que recibe y difunde alertas sobre ataques e incidentes contra buques en Medio Oriente.",
+    "alias": [
+      "UKMTO"
+    ],
+    "actualizado": "2026-11-17"
+  },
+  "rob-bonta": {
+    "nombre": "Rob Bonta",
+    "tipo": "persona",
+    "texto": "Abogado y político demócrata, fiscal general de California desde 2021. Presentó la demanda del estado contra OpenAI.",
+    "alias": [
+      "Rob Bonta",
+      "Bonta"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rob_Bonta_official_portrait_%28cropped%29.jpg/330px-Rob_Bonta_official_portrait_%28cropped%29.jpg",
+    "actualizado": "2026-11-17"
+  },
+  "agentes-ia": {
+    "nombre": "Agentes de IA",
+    "tipo": "concepto",
+    "texto": "Sistemas de inteligencia artificial que ejecutan tareas por su cuenta, como navegar, programar o usar herramientas, sin que una persona apruebe cada paso.",
+    "alias": [
+      "agentes de IA",
+      "agentes"
+    ],
+    "actualizado": "2026-11-17"
   }
 };
