@@ -5,9 +5,10 @@ window.GLOSARIO = {
     "tipo": "ley",
     "texto": "Nombre coloquial del proyecto oficial de Defensa de la Soberanía Nacional, de 133 artículos, que también reforma defensa e inteligencia. Se debate en Diputados.",
     "alias": [
-      "Ley de Malvinas"
+      "Ley de Malvinas",
+      "Ley Malvinas"
     ],
-    "actualizado": "2026-10-22"
+    "actualizado": "2026-11-18"
   },
   "amcham": {
     "nombre": "AmCham Argentina",
@@ -2023,5 +2024,93 @@ window.GLOSARIO = {
       "agentes"
     ],
     "actualizado": "2026-11-17"
+  },
+  "alejandra-vigo": {
+    "nombre": "Alejandra Vigo",
+    "tipo": "persona",
+    "texto": "Senadora nacional del PJ por Córdoba y esposa del exgobernador Juan Schiaretti. Integra la comisión de Asuntos Constitucionales, que debe dictaminar la reforma electoral.",
+    "alias": [
+      "Alejandra Vigo",
+      "Vigo"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Senadora_Alejandra_Vigo.jpg/330px-Senadora_Alejandra_Vigo.jpg",
+    "actualizado": "2026-11-18"
+  },
+  "tettamanti": {
+    "nombre": "María del Carmen Tettamanti",
+    "tipo": "persona",
+    "texto": "Economista, secretaria de Energía de la Nación desde octubre de 2024; antes dirigió Camuzzi Gas Pampeana. La PIA la denunció por la habilitación de Harbour Energy.",
+    "alias": [
+      "María Tettamanti",
+      "Tettamanti"
+    ],
+    "actualizado": "2026-11-18"
+  },
+  "rodriguez-chirillo": {
+    "nombre": "Eduardo Rodríguez Chirillo",
+    "tipo": "persona",
+    "texto": "Abogado, primer secretario de Energía del gobierno de Milei, entre diciembre de 2023 y octubre de 2024. Está entre los denunciados por la habilitación de Harbour Energy.",
+    "alias": [
+      "Eduardo Rodríguez Chirillo",
+      "Rodríguez Chirillo"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EduardoChirilloEnergia_%28cropped%29.jpg/330px-EduardoChirilloEnergia_%28cropped%29.jpg",
+    "actualizado": "2026-11-18"
+  },
+  "harbour-energy": {
+    "nombre": "Harbour Energy",
+    "tipo": "organizacion",
+    "texto": "Petrolera británica con sede en Londres, surgida en 2021 de la fusión de Premier Oil con Chrysaor. Opera en Vaca Muerta y Tierra del Fuego desde que compró Wintershall Dea en 2024.",
+    "alias": [
+      "Harbour Energy",
+      "Harbour"
+    ],
+    "actualizado": "2026-11-18"
+  },
+  "rodriguez-machado": {
+    "nombre": "Laura Rodríguez Machado",
+    "tipo": "persona",
+    "texto": "Abogada, diputada nacional por Córdoba del bloque de La Libertad Avanza y exsenadora del PRO. Anunció en la comisión de Presupuesto la eliminación de los artículos sobre discapacidad.",
+    "alias": [
+      "Rodríguez Machado"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Laura_Rodriguez_Machado.JPG/330px-Laura_Rodriguez_Machado.JPG",
+    "actualizado": "2026-11-18"
+  },
+  "provincias-unidas": {
+    "nombre": "Provincias Unidas",
+    "tipo": "organizacion",
+    "texto": "Bloque de diputados nacionales que responde a gobernadores provinciales, entre ellos los de Córdoba y Jujuy. Sus dos miembros en la comisión de Presupuesto no firmaron el dictamen.",
+    "alias": [
+      "Provincias Unidas"
+    ],
+    "actualizado": "2026-11-18"
+  },
+  "ali-al-salem": {
+    "nombre": "Base aérea Ali Al-Salem",
+    "tipo": "lugar",
+    "texto": "Base aérea del noroeste de Kuwait que usan fuerzas de EE.UU. Irán dijo haber atacado allí sistemas de defensa Patriot.",
+    "alias": [
+      "Ali Al-Salem"
+    ],
+    "actualizado": "2026-11-18"
+  },
+  "adnoc": {
+    "nombre": "ADNOC (Abu Dhabi National Oil Company)",
+    "tipo": "organizacion",
+    "texto": "Petrolera estatal de los Emiratos Árabes Unidos, con sede en Abu Dabi. Uno de sus buques fue alcanzado en el estrecho de Ormuz.",
+    "alias": [
+      "ADNOC"
+    ],
+    "actualizado": "2026-11-18"
+  },
+  "ops": {
+    "nombre": "Organización Panamericana de la Salud (OPS)",
+    "tipo": "organizacion",
+    "texto": "Organismo de salud pública de las Américas y oficina regional de la OMS, con sede en Washington. Certifica qué países mantienen eliminado el sarampión.",
+    "alias": [
+      "OPS"
+    ],
+    "actualizado": "2026-11-18"
   }
 };

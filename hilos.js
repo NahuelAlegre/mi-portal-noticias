@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
+        "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
@@ -464,8 +471,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-13",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
+        "resumen": "LLA sumó siete firmas aliadas, cinco con disidencias, y lo llevará al recinto el miércoles 25. Clarín y Página/12 ven un giro electoral en reponer la movilidad de la AUH y quitar los recortes en discapacidad; la oficialista Rodríguez Machado habla de un compromiso cumplido.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/politica/discapacidad-rutas-y-universidades-el-gobierno-cedio-ante-sus-aliados-para-conseguir-dictamen-del-presupuesto-2027-avmeu3P1XoeP"
+      },
       {
         "fecha": "2026-11-13",
         "titulo": "Presupuesto 2027: el oficialismo acordó con el PRO y apunta a dictamen el martes 17 y sesión el 25",
@@ -649,8 +663,15 @@ window.HILOS = {
     "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
     "creado": "2026-10-22",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "León XIV, en el avión: \"Hay que cambiar el chip, no es necesario odiarnos\"",
+        "resumen": "En el vuelo de regreso, León XIV dijo que en la Argentina \"hay que cambiar el chip\" porque \"no es necesario odiarnos\", y contó que animó a Milei a tener más en cuenta a los más necesitados.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/el-papa-a-la-argentina-hay-que-cambiar-el-chip-no-es-necesario-odiarnos-ni-usar-un-lenguaje-tan-nid17112026/"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "León XIV se despidió en Ezeiza y partió hacia Perú",
@@ -757,8 +778,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
+        "resumen": "EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm \"en defensa propia\", tras el tercer intento iraní de golpear sus bases en cinco días. Irán apuntó luego a la base Ali Al-Salem, en Kuwait; Kuwait y Baréin dijeron haber interceptado los drones.",
+        "fuente": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "Un petrolero ardió tras ser atacado en Ormuz mientras llega un tercer portaaviones de EE.UU.",
@@ -940,8 +968,15 @@ window.HILOS = {
     "nombre": "Elecciones y cambio de gobierno en Serbia",
     "tema": "Mundo",
     "creado": "2026-10-26",
-    "actualizado": "2026-10-26",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Serbia: la Lista Estudiantil asumió en el Parlamento y terminó la mayoría del SNS",
+        "resumen": "Los 140 diputados de la Lista Estudiantil asumieron sus bancas el martes, lo que cierra 14 años de mayoría del SNS; Aleksandar Čupić es su candidato a presidir el Parlamento.",
+        "fuente": "Reuters",
+        "url": "https://piqmarkets.com/reuters/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win-2026-11-17-12-43-19"
+      },
       {
         "fecha": "2026-10-26",
         "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
@@ -1136,8 +1171,15 @@ window.HILOS = {
     "nombre": "Tensión entre Patricia Bullrich y los Milei",
     "tema": "Argentina",
     "creado": "2026-11-02",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Bullrich volvió a la mesa política y se alineó con la reforma electoral",
+        "resumen": "Bullrich volvió a la mesa política, que no se reunía desde el 20 de octubre, y se alineó con la reforma electoral, según La Nación; cerca de ella aclaran que sigue pidiendo cambios en la economía.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-gobierno-admite-que-todavia-no-cuenta-con-los-votos-en-comision-y-que-el-debate-nid17112026/"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "Milei apuntó contra Bullrich tras la visita del Papa: \"Hay gente dispuesta a hundir el barco\"",
@@ -1403,8 +1445,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
+        "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
@@ -1482,8 +1531,15 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
+        "resumen": "Asuntos Constitucionales retoma hoy a las 12 tras no reunir las 10 firmas; la cordobesa Alejandra Vigo apoya suspender las PASO pero rechazó las colectoras. Infobae recoge que aliados esperan un acuerdo en horas; Página/12 dice que las colectoras \"hicieron fracasar, por ahora\" la reforma.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
@@ -1525,8 +1581,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-18",
     "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Trump llegó a Shenzhen; Xi y Putin se reunieron antes de la cumbre",
+        "resumen": "Trump llegó a Shenzhen y Xi y Putin se reunieron antes de la cumbre de los tres del jueves, su quinto encuentro este año. Putin calificó de fracaso las sanciones occidentales a Rusia.",
+        "fuente": "AFP",
+        "url": "https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "Trump dijo que podría reunirse con Kim Jong Un durante su viaje a China",

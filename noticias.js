@@ -1,22 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-17",
-  "actualizado": "2026-11-17T07:26:10-03:00",
+  "fecha": "2026-11-18",
+  "actualizado": "2026-11-18T07:20:53-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
-      "resumen": "Imágenes geolocalizadas por CNN muestran caído un tramo de la calzada vial del puente que une Rusia con Crimea, atacado por segundo día; Rusia dijo haber derribado 1.441 drones. Los ataques rusos dañaron los puentes Norte y Sur de Kiev y cortaron agua y calefacción.",
+      "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
+      "resumen": "EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm \"en defensa propia\", tras el tercer intento iraní de golpear sus bases en cinco días. Irán apuntó luego a la base Ali Al-Salem, en Kuwait; Kuwait y Baréin dijeron haber interceptado los drones.",
       "tema": "Mundo",
-      "fuente": "CNN en Español",
-      "url": "https://cnnespanol.cnn.com/2026/11/17/mundo/ataque-ucrania-derrumba-puente-kerch-crimea-trax"
+      "fuente": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
     },
     {
-      "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
-      "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+      "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
+      "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
+      "tema": "Argentina",
+      "fuente": "El Cronista",
+      "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
+    },
+    {
+      "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
+      "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
       "tema": "Inteligencia Artificial",
-      "fuente": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+      "fuente": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
     }
   ],
   "temas": [
@@ -24,39 +31,55 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
-          "resumen": "Asuntos Constitucionales trata hoy a las 15 el borrador: suspende las PASO solo en 2027, permite dos listas legislativas por fórmula presidencial y suma Ficha Limpia. Perfil cuenta 13 posibles firmas de las 10 necesarias; Página/12 lo llama \"maniobra desesperada\".",
-          "porQueImporta": "La Nación le cuenta al oficialismo 30 apoyos y 27 rechazos en el recinto, donde necesita 37. Si hay dictamen, la sesión sería el jueves 26; el bullrichismo no quiere suspender las PASO y el diputado Gerardo Milman calificó de \"inconstitucionales\" las colectoras.",
+          "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
+          "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
+          "porQueImporta": "Ese Título VII pena con 5 a 12 años a quien organice o financie \"campañas de injerencia extranjera\" y necesita 129 votos; UCR y Coalición Cívica lo objetan. Tras el reclamo de EE.UU., el dictamen exceptúa a accionistas de hasta 2% y a fondos sin control sobre sus activos.",
+          "fuente": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/",
+          "hilo": "ley-malvinas",
+          "glosario": [
+            "ley-malvinas",
+            "landau",
+            "carta-organica-bcra"
+          ]
+        },
+        {
+          "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
+          "resumen": "LLA sumó siete firmas aliadas, cinco con disidencias, y lo llevará al recinto el miércoles 25. Clarín y Página/12 ven un giro electoral en reponer la movilidad de la AUH y quitar los recortes en discapacidad; la oficialista Rodríguez Machado habla de un compromiso cumplido.",
+          "porQueImporta": "El dictamen prevé gastos consolidados por $216 billones, inflación de 18% y un dólar a $1.847 a fines de 2027. No firmaron Provincias Unidas ni Argentina Federal, y las disidencias abren otra negociación antes de la sesión.",
           "fuente": "Perfil",
-          "url": "https://www.perfil.com/politica/paso-la-casa-rosada-lleva-un-nuevo-proyecto-al-senado-cruzado-por-lo-que-piden-los-gobernadores-y-la-tension-con-bullrich-aXuvw8F8ZfXh",
+          "url": "https://www.perfil.com/politica/discapacidad-rutas-y-universidades-el-gobierno-cedio-ante-sus-aliados-para-conseguir-dictamen-del-presupuesto-2027-avmeu3P1XoeP",
+          "hilo": "presupuesto-2027",
+          "glosario": [
+            "rodriguez-machado",
+            "provincias-unidas",
+            "argentina-federal"
+          ]
+        },
+        {
+          "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
+          "resumen": "Asuntos Constitucionales retoma hoy a las 12 tras no reunir las 10 firmas; la cordobesa Alejandra Vigo apoya suspender las PASO pero rechazó las colectoras. Infobae recoge que aliados esperan un acuerdo en horas; Página/12 dice que las colectoras \"hicieron fracasar, por ahora\" la reforma.",
+          "porQueImporta": "Con dictamen, el Gobierno quiere votarla el jueves 26 en el recinto, donde necesita 37 votos. Según La Nación, en la Casa Rosada admiten que no está claro que tengan los mismos apoyos para la suspensión y para las colectoras.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/",
           "hilo": "reforma-electoral-paso",
           "glosario": [
             "paso",
             "colectoras",
-            "ficha-limpia"
+            "alejandra-vigo"
           ]
         },
         {
-          "titulo": "La UCA calcula que, con canastas actualizadas, la pobreza no bajó desde 2023",
-          "resumen": "Con ingresos homogéneos y canastas de 2017/18, el ODSA-UCA calcula que entre 2023 y 2026 la pobreza pasó de 37,7% a 37,5%, y no de 41,3% a 34,4% como dice el INDEC. Clarín remarca que igual cayó desde el pico de 2024; la agencia NA lo presenta como una refutación a Milei.",
-          "porQueImporta": "Con una canasta más exigente, la pobreza habría subido de 40,8% a 42,4%. Las tres series, incluida la oficial, muestran un aumento en el último año; los autores aclaran que las diferencias no prueban manipulación de los datos.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/economia/uca-indices-pobreza-mejorado-gobierno-milei-actualizara-medicion-oficial_0_RSBHEdEFzK.html",
+          "titulo": "Denuncian a la secretaria de Energía por habilitar a una petrolera sancionada por operar en Malvinas",
+          "resumen": "La PIA acusa a María Tettamanti y a su antecesor, Eduardo Rodríguez Chirillo, de permitir que Harbour Energy, continuadora de Premier Oil e inhabilitada hasta 2028, entrara en Vaca Muerta y en un proyecto de GNL. El juez Ariel Lijo ya ordenó medidas de prueba.",
+          "porQueImporta": "La compra que trajo a Harbour al país, por US$11.200 millones, estaba atada a una cláusula llamada \"Condición del Perdón Argentino\". La empresa no hizo declaraciones; fuentes del sector dicen que no es continuadora de Premier y que dejó Malvinas en 2021.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/un-fiscal-anticorrupcion-denuncio-a-la-secretaria-de-energia-la-acuso-de-favorecer-a-una-empresa-nid17112026/",
           "glosario": [
-            "odsa-uca"
-          ]
-        },
-        {
-          "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
-          "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
-          "porQueImporta": "El IERAL calcula que en 2027 vencen USD 28.000 millones de deuda del Tesoro y el BCRA y que, con las fuentes de financiamiento disponibles, faltan unos USD 17.000 millones.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/",
-          "hilo": "riesgo-pais-mercados",
-          "glosario": [
-            "riesgo-pais",
-            "merval",
-            "ieral"
+            "pia",
+            "tettamanti",
+            "rodriguez-chirillo",
+            "harbour-energy"
           ]
         }
       ]
@@ -65,35 +88,28 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
-          "resumen": "Imágenes geolocalizadas por CNN muestran caído un tramo de la calzada vial del puente que une Rusia con Crimea, atacado por segundo día; Rusia dijo haber derribado 1.441 drones. Los ataques rusos dañaron los puentes Norte y Sur de Kiev y cortaron agua y calefacción.",
-          "porQueImporta": "El puente es una vía clave de abastecimiento de las tropas rusas en Crimea; el tramo ferroviario parecía en pie. Trump dijo que en la cumbre del jueves en Shenzhen hablará de Ucrania, aunque funcionarios suyos habían dicho que no estaría en la agenda.",
-          "fuente": "CNN en Español",
-          "url": "https://cnnespanol.cnn.com/2026/11/17/mundo/ataque-ucrania-derrumba-puente-kerch-crimea-trax",
-          "hilo": "guerra-ucrania",
-          "glosario": [
-            "puente-kerch"
-          ]
-        },
-        {
-          "titulo": "Un petrolero ardió tras ser atacado en Ormuz mientras llega un tercer portaaviones de EE.UU.",
-          "resumen": "La agencia británica UKMTO informó que un petrolero fue alcanzado por un proyectil en el estrecho y se incendió; la armada iraní dijo que cuatro petroleros chocaron con minas en 24 horas. El portaaviones Theodore Roosevelt se sumó a otros dos en la región.",
-          "porQueImporta": "La Guardia Revolucionaria declaró \"totalmente cerrada\" la ruta sur respaldada por EE.UU., y el Ejército iraní dijo que Ormuz no reabrirá hasta que se acepten sus condiciones. Las conversaciones indirectas vía Qatar siguen estancadas.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+          "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
+          "resumen": "EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm \"en defensa propia\", tras el tercer intento iraní de golpear sus bases en cinco días. Irán apuntó luego a la base Ali Al-Salem, en Kuwait; Kuwait y Baréin dijeron haber interceptado los drones.",
+          "porQueImporta": "Kuwait lo llamó una \"escalada peligrosa\". En Ormuz, un buque de la petrolera emiratí ADNOC fue alcanzado: un tripulante está desaparecido y hay 11 heridos. Irak reanudó el bombeo de crudo a Turquía por oleoducto para esquivar el estrecho.",
+          "fuente": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
           "hilo": "guerra-iran",
           "glosario": [
-            "ukmto",
-            "ormuz",
-            "guardia-revolucionaria"
+            "qeshm",
+            "guardia-revolucionaria",
+            "ali-al-salem",
+            "adnoc"
           ]
         },
         {
-          "titulo": "Cinco países de la UE abrirán en 2027 un centro en Ruanda para deportar migrantes",
-          "resumen": "Alemania, Dinamarca, Austria, Grecia y los Países Bajos anunciaron un \"centro de retorno\" para migrantes con orden de expulsión firme. Empezaría como piloto con unas 100 personas, solo hombres solteros, que podrán quedarse en Ruanda o volver a su país.",
-          "porQueImporta": "Lo habilita una reforma reciente de la UE que permite centros fuera del bloque. Human Rights Watch cuestionó el historial de Ruanda; un plan británico similar fue descartado en 2024.",
+          "titulo": "México, EE.UU. y Bolivia perdieron el estatus de países libres de sarampión",
+          "resumen": "La OPS determinó que en los tres países el mismo linaje del virus circuló 12 meses o más. En América van más de 58.000 casos este año, cuatro veces más que en 2025; EE.UU. suma 5.400 casos y 10 muertes, la cifra más alta desde los años 90.",
+          "porQueImporta": "La OPS lo atribuye a brechas de vacunación: en EE.UU. la cobertura de la triple viral cayó a 92,4%, debajo del 95% necesario. Canadá logró cortar el brote por el que perdió el estatus el año pasado.",
           "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cmlywv925gzlo"
+          "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro",
+          "glosario": [
+            "ops"
+          ]
         }
       ]
     },
@@ -101,28 +117,26 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
-          "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
-          "porQueImporta": "Llega tras la renuncia de Jensen Huang por el caso Megaspeed, cuyos centros de datos alquilaban ese cómputo a clientes chinos. Trump dijo que \"quizás\" lo trate con Xi y que el regreso de Huang no sería \"mala idea\"; Nvidia presenta resultados hoy.",
-          "fuente": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+          "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
+          "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
+          "porQueImporta": "Huang había dicho que sería un \"honor\" volver, con el respaldo de Trump y Elon Musk. Colette Kress sigue como CEO interina; la acción subió más de 4% fuera de hora, tras perder más de US$700.000 millones de valor desde el escándalo.",
+          "fuente": "Reuters",
+          "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739",
           "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "megaspeed",
-            "jensen-huang"
+            "harvey-jones",
+            "jensen-huang",
+            "colette-kress"
           ]
         },
         {
-          "titulo": "California demanda a OpenAI por los ataques de sus agentes de IA, entre ellos el sufrido por Hugging Face",
-          "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
-          "porQueImporta": "Un mes antes, otros siete fiscales estatales demandaron a OpenAI por ChatGPT. La empresa respondió que la demanda la señala por un problema que \"identificaron todos los grandes laboratorios\" y que reforzó sus resguardos.",
-          "fuente": "Bloomberg Law",
-          "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches",
-          "hilo": "demandas-seguridad-openai",
+          "titulo": "OpenAI lanzó GPT-6.2 Astra y Sol, con más rendimiento a menor costo",
+          "resumen": "Astra, su modelo de frontera, cuesta 20% menos por token que GPT-6 Astra y, según OpenAI, supera a Claude Fable 5.2 en tareas profesionales de varios pasos. Sol, el modelo para uso cotidiano, mejora a GPT-6.1 Sol al mismo precio.",
+          "porQueImporta": "En la API, Astra cuesta US$8 por millón de tokens de entrada y US$40 de salida. Las comparaciones de rendimiento son mediciones publicadas por la propia OpenAI.",
+          "fuente": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
           "glosario": [
-            "rob-bonta",
-            "agentes-ia",
-            "hugging-face"
+            "token"
           ]
         }
       ]
@@ -131,9 +145,27 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "cumbre-trump-xi-putin",
-      "novedad": "Trump dijo al partir que \"quizás\" se reúna con Kim Jong Un en China, según cómo lo definan Kim y Xi. El Kremlin confirmó que Putin estará en Shenzhen el 18 y 19, con la cumbre de los tres como eje.",
-      "fuente": "Anadolu",
-      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-17-2026/4127219"
+      "novedad": "Trump llegó a Shenzhen y Xi y Putin se reunieron antes de la cumbre de los tres del jueves, su quinto encuentro este año. Putin calificó de fracaso las sanciones occidentales a Rusia.",
+      "fuente": "AFP",
+      "url": "https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit"
+    },
+    {
+      "hilo": "interna-bullrich-milei",
+      "novedad": "Bullrich volvió a la mesa política, que no se reunía desde el 20 de octubre, y se alineó con la reforma electoral, según La Nación; cerca de ella aclaran que sigue pidiendo cambios en la economía.",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-gobierno-admite-que-todavia-no-cuenta-con-los-votos-en-comision-y-que-el-debate-nid17112026/"
+    },
+    {
+      "hilo": "visita-papa-leon",
+      "novedad": "En el vuelo de regreso, León XIV dijo que en la Argentina \"hay que cambiar el chip\" porque \"no es necesario odiarnos\", y contó que animó a Milei a tener más en cuenta a los más necesitados.",
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-a-la-argentina-hay-que-cambiar-el-chip-no-es-necesario-odiarnos-ni-usar-un-lenguaje-tan-nid17112026/"
+    },
+    {
+      "hilo": "elecciones-serbia",
+      "novedad": "Los 140 diputados de la Lista Estudiantil asumieron sus bancas el martes, lo que cierra 14 años de mayoría del SNS; Aleksandar Čupić es su candidato a presidir el Parlamento.",
+      "fuente": "Reuters",
+      "url": "https://piqmarkets.com/reuters/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win-2026-11-17-12-43-19"
     }
   ]
 };
