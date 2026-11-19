@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
+        "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
@@ -89,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Ucrania atacó por tercera vez en la semana el puente de Crimea y volvió a cortar el tráfico",
+        "resumen": "Ucrania atacó por tercera vez en la semana el puente de Crimea, esta vez la línea ferroviaria, y el tráfico volvió a cortarse. Zelensky dijo que busca castigar a Rusia por rechazar una tregua energética en las negociaciones de Abu Dabi.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261119/guerra-ucrania-tercer-ataque-puente-crimea/17320881.shtml"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "Un ataque ucraniano derrumbó un tramo del puente de Kerch; Rusia dañó dos puentes clave de Kiev",
@@ -265,8 +279,15 @@ window.HILOS = {
     "nombre": "Conflicto entre los hutíes y Arabia Saudita",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-06",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Restos de un misil hutí dañaron la torre del fondo soberano saudita en Riad",
+        "resumen": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
+        "fuente": "Clarín (AFP)",
+        "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
+      },
       {
         "fecha": "2026-11-06",
         "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
@@ -350,8 +371,15 @@ window.HILOS = {
     "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-05",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
+        "resumen": "Desde las 11, el oficialismo busca sancionar la Ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras. TN destaca el acuerdo que celebró Bullrich; elDiarioAR, que el texto replica casi todo el esquema de la emergencia que vence en diciembre.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/19/el-senado-debate-hoy-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-de-patentes/"
+      },
       {
         "fecha": "2026-11-05",
         "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
@@ -585,8 +613,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-15",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
+        "resumen": "Vendió acciones a US$83, sobre el rango de 70 a 78, y recaudó US$81.300 millones en la oferta base, más que los US$75.000 millones de SpaceX. Con una colocación privada de US$26.000 millones suma US$107.300 millones y queda valuada en unos US$1,5 billones.",
+        "fuente": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/"
+      },
       {
         "fecha": "2026-11-15",
         "titulo": "La salida a bolsa de Anthropic deja afuera a inversores de China y Hong Kong",
@@ -748,8 +783,15 @@ window.HILOS = {
     "nombre": "Fallas críticas en PHP descubiertas por IA",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-22",
-    "actualizado": "2026-10-22",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Una empresa halló con IA una falla crítica en Java, un mes después de las de PHP",
+        "resumen": "Calif, la startup que expuso las fallas de PHP en octubre, descubrió con ayuda del modelo GPT-6 Cyber de OpenAI, aún no público, la vulnerabilidad Java4Shell, que permite ejecutar comandos a distancia. Oracle no la reconoció, pero el martes publicó una actualización crítica.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o"
+      },
       {
         "fecha": "2026-10-22",
         "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
@@ -1531,8 +1573,15 @@ window.HILOS = {
     "nombre": "Reforma electoral y suspensión de las PASO",
     "tema": "Argentina",
     "creado": "2026-11-13",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Sin colectoras, el oficialismo logró dictamen para suspender las PASO; el Senado vota el 26",
+        "resumen": "Asuntos Constitucionales firmó con 11 firmas, una más de las necesarias, un texto que suspende las PASO de 2027 y suma Ficha Limpia. El Cronista recoge que LLA cuenta 40 votos de los 37 necesarios; Página/12 enumera los cambios que Bullrich \"tuvo que aceptar\" para salvarlo.",
+        "fuente": "El Canciller",
+        "url": "https://elcanciller.com/politica/reforma-electoral--el-oficialismo-acepto-retirar-las-listas-colectoras-y-apuesta-al-dictamen-para-suspender-las-paso_a6afd814273d989d88c6af507"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
@@ -1581,8 +1630,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-19",
     "entradas": [
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
+        "resumen": "En la primera reunión de los líderes de las tres mayores potencias nucleares, al margen de la APEC, Xi pidió prohibir y destruir las armas nucleares, Trump propuso reducir los arsenales y Putin habló de resolver el conflicto en Ucrania.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261119/trump-xi-putin-cumbre-trilateral-apec/17320863.shtml"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "Trump llegó a Shenzhen; Xi y Putin se reunieron antes de la cumbre",

@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-18",
-  "actualizado": "2026-11-18T07:20:53-03:00",
+  "fecha": "2026-11-19",
+  "actualizado": "2026-11-19T07:28:14-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
-      "resumen": "EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm \"en defensa propia\", tras el tercer intento iraní de golpear sus bases en cinco días. Irán apuntó luego a la base Ali Al-Salem, en Kuwait; Kuwait y Baréin dijeron haber interceptado los drones.",
+      "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
+      "resumen": "En la primera reunión de los líderes de las tres mayores potencias nucleares, al margen de la APEC, Xi pidió prohibir y destruir las armas nucleares, Trump propuso reducir los arsenales y Putin habló de resolver el conflicto en Ucrania.",
       "tema": "Mundo",
-      "fuente": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+      "fuente": "RTVE",
+      "url": "https://www.rtve.es/noticias/20261119/trump-xi-putin-cumbre-trilateral-apec/17320863.shtml"
     },
     {
-      "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
-      "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
-      "tema": "Argentina",
-      "fuente": "El Cronista",
-      "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
-    },
-    {
-      "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
-      "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
+      "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
+      "resumen": "Vendió acciones a US$83, sobre el rango de 70 a 78, y recaudó US$81.300 millones en la oferta base, más que los US$75.000 millones de SpaceX. Con una colocación privada de US$26.000 millones suma US$107.300 millones y queda valuada en unos US$1,5 billones.",
       "tema": "Inteligencia Artificial",
-      "fuente": "Reuters",
-      "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
+      "fuente": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/"
+    },
+    {
+      "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
+      "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+      "tema": "Argentina",
+      "fuente": "Clarín",
+      "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
     }
   ],
   "temas": [
@@ -31,56 +31,50 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
-          "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
-          "porQueImporta": "Ese Título VII pena con 5 a 12 años a quien organice o financie \"campañas de injerencia extranjera\" y necesita 129 votos; UCR y Coalición Cívica lo objetan. Tras el reclamo de EE.UU., el dictamen exceptúa a accionistas de hasta 2% y a fondos sin control sobre sus activos.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/",
+          "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
+          "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+          "porQueImporta": "Según TN, el Gobierno evalúa volver a convocar la próxima semana, antes de que el Tribunal del Mar resuelva el 28 el pedido argentino contra el proyecto Sea Lion. La reforma del BCRA queda a un paso de ser ley y Clarín advierte por la sesión del Presupuesto del 25.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html",
           "hilo": "ley-malvinas",
           "glosario": [
             "ley-malvinas",
-            "landau",
-            "carta-organica-bcra"
-          ]
-        },
-        {
-          "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
-          "resumen": "LLA sumó siete firmas aliadas, cinco con disidencias, y lo llevará al recinto el miércoles 25. Clarín y Página/12 ven un giro electoral en reponer la movilidad de la AUH y quitar los recortes en discapacidad; la oficialista Rodríguez Machado habla de un compromiso cumplido.",
-          "porQueImporta": "El dictamen prevé gastos consolidados por $216 billones, inflación de 18% y un dólar a $1.847 a fines de 2027. No firmaron Provincias Unidas ni Argentina Federal, y las disidencias abren otra negociación antes de la sesión.",
-          "fuente": "Perfil",
-          "url": "https://www.perfil.com/politica/discapacidad-rutas-y-universidades-el-gobierno-cedio-ante-sus-aliados-para-conseguir-dictamen-del-presupuesto-2027-avmeu3P1XoeP",
-          "hilo": "presupuesto-2027",
-          "glosario": [
-            "rodriguez-machado",
             "provincias-unidas",
-            "argentina-federal"
+            "consejo-magistratura",
+            "sea-lion"
           ]
         },
         {
-          "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
-          "resumen": "Asuntos Constitucionales retoma hoy a las 12 tras no reunir las 10 firmas; la cordobesa Alejandra Vigo apoya suspender las PASO pero rechazó las colectoras. Infobae recoge que aliados esperan un acuerdo en horas; Página/12 dice que las colectoras \"hicieron fracasar, por ahora\" la reforma.",
-          "porQueImporta": "Con dictamen, el Gobierno quiere votarla el jueves 26 en el recinto, donde necesita 37 votos. Según La Nación, en la Casa Rosada admiten que no está claro que tengan los mismos apoyos para la suspensión y para las colectoras.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/",
+          "titulo": "Sin colectoras, el oficialismo logró dictamen para suspender las PASO; el Senado vota el 26",
+          "resumen": "Asuntos Constitucionales firmó con 11 firmas, una más de las necesarias, un texto que suspende las PASO de 2027 y suma Ficha Limpia. El Cronista recoge que LLA cuenta 40 votos de los 37 necesarios; Página/12 enumera los cambios que Bullrich \"tuvo que aceptar\" para salvarlo.",
+          "porQueImporta": "El texto pasó de 79 a 25 artículos: deroga la veda electoral, deja el debate presidencial obligatorio solo para el balotaje, reduce a la mitad la publicidad gratuita en radio y TV y pasa a las legislaturas la elección de los parlamentarios del Mercosur.",
+          "fuente": "El Canciller",
+          "url": "https://elcanciller.com/politica/reforma-electoral--el-oficialismo-acepto-retirar-las-listas-colectoras-y-apuesta-al-dictamen-para-suspender-las-paso_a6afd814273d989d88c6af507",
           "hilo": "reforma-electoral-paso",
           "glosario": [
             "paso",
             "colectoras",
-            "alejandra-vigo"
+            "ficha-limpia"
           ]
         },
         {
-          "titulo": "Denuncian a la secretaria de Energía por habilitar a una petrolera sancionada por operar en Malvinas",
-          "resumen": "La PIA acusa a María Tettamanti y a su antecesor, Eduardo Rodríguez Chirillo, de permitir que Harbour Energy, continuadora de Premier Oil e inhabilitada hasta 2028, entrara en Vaca Muerta y en un proyecto de GNL. El juez Ariel Lijo ya ordenó medidas de prueba.",
-          "porQueImporta": "La compra que trajo a Harbour al país, por US$11.200 millones, estaba atada a una cláusula llamada \"Condición del Perdón Argentino\". La empresa no hizo declaraciones; fuentes del sector dicen que no es continuadora de Premier y que dejó Malvinas en 2021.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/un-fiscal-anticorrupcion-denuncio-a-la-secretaria-de-energia-la-acuso-de-favorecer-a-una-empresa-nid17112026/",
+          "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
+          "resumen": "Desde las 11, el oficialismo busca sancionar la Ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras. TN destaca el acuerdo que celebró Bullrich; elDiarioAR, que el texto replica casi todo el esquema de la emergencia que vence en diciembre.",
+          "porQueImporta": "La ley de discapacidad fija un cronograma de pago de las deudas con prestadores y 30 días para reglamentarla. La Ley de Tierras, de 2011, limita la compra de tierras rurales por extranjeros; si el Senado no cambia el texto de Diputados, vuelve a regir.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/politica/2026/11/19/el-senado-debate-hoy-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-de-patentes/",
+          "hilo": "megasesion-diputados",
           "glosario": [
-            "pia",
-            "tettamanti",
-            "rodriguez-chirillo",
-            "harbour-energy"
+            "ley-discapacidad",
+            "ley-de-tierras"
           ]
+        },
+        {
+          "titulo": "Por decreto, el Gobierno sumó $15,6 billones al gasto de 2026 y achicó el superávit previsto",
+          "resumen": "El Decreto 1391/2026 amplía 10,2% el crédito vigente. Infobae y Ámbito calculan que el superávit de fin de año baja de $26,4 a $18,9 billones por una inflación cercana a 33%, contra 18% presupuestado; el Gobierno lo justifica en partidas que no alcanzaban.",
+          "porQueImporta": "Cerca de $10 billones van a transferencias al PAMI y $3,9 billones a intereses de la deuda; Servicios Económicos pierde $2,3 billones. Al 16 de noviembre el superávit acumulado era de unos $33,2 billones, así que buena parte del gasto extra llegará en las últimas semanas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/19/el-gobierno-amplio-el-presupuesto-2026-en-156-billones-y-resigna-parte-del-superavit-previsto-para-fin-de-ano/"
         }
       ]
     },
@@ -88,27 +82,15 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
-          "resumen": "EE.UU. atacó un sitio de misiles de la Guardia Revolucionaria en Qeshm \"en defensa propia\", tras el tercer intento iraní de golpear sus bases en cinco días. Irán apuntó luego a la base Ali Al-Salem, en Kuwait; Kuwait y Baréin dijeron haber interceptado los drones.",
-          "porQueImporta": "Kuwait lo llamó una \"escalada peligrosa\". En Ormuz, un buque de la petrolera emiratí ADNOC fue alcanzado: un tripulante está desaparecido y hay 11 heridos. Irak reanudó el bombeo de crudo a Turquía por oleoducto para esquivar el estrecho.",
-          "fuente": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
-          "hilo": "guerra-iran",
+          "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
+          "resumen": "En la primera reunión de los líderes de las tres mayores potencias nucleares, al margen de la APEC, Xi pidió prohibir y destruir las armas nucleares, Trump propuso reducir los arsenales y Putin habló de resolver el conflicto en Ucrania.",
+          "porQueImporta": "La Casa Blanca había anticipado que no esperaba un acuerdo inmediato. Antes, en su reunión bilateral, Trump y Xi coincidieron en mantener abierto el estrecho de Ormuz e impedir que Irán tenga un arma nuclear.",
+          "fuente": "RTVE",
+          "url": "https://www.rtve.es/noticias/20261119/trump-xi-putin-cumbre-trilateral-apec/17320863.shtml",
+          "hilo": "cumbre-trump-xi-putin",
           "glosario": [
-            "qeshm",
-            "guardia-revolucionaria",
-            "ali-al-salem",
-            "adnoc"
-          ]
-        },
-        {
-          "titulo": "México, EE.UU. y Bolivia perdieron el estatus de países libres de sarampión",
-          "resumen": "La OPS determinó que en los tres países el mismo linaje del virus circuló 12 meses o más. En América van más de 58.000 casos este año, cuatro veces más que en 2025; EE.UU. suma 5.400 casos y 10 muertes, la cifra más alta desde los años 90.",
-          "porQueImporta": "La OPS lo atribuye a brechas de vacunación: en EE.UU. la cobertura de la triple viral cayó a 92,4%, debajo del 95% necesario. Canadá logró cortar el brote por el que perdió el estatus el año pasado.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro",
-          "glosario": [
-            "ops"
+            "apec",
+            "ormuz"
           ]
         }
       ]
@@ -117,26 +99,26 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
-          "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
-          "porQueImporta": "Huang había dicho que sería un \"honor\" volver, con el respaldo de Trump y Elon Musk. Colette Kress sigue como CEO interina; la acción subió más de 4% fuera de hora, tras perder más de US$700.000 millones de valor desde el escándalo.",
-          "fuente": "Reuters",
-          "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739",
-          "hilo": "investigacion-nvidia-huang",
+          "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
+          "resumen": "Vendió acciones a US$83, sobre el rango de 70 a 78, y recaudó US$81.300 millones en la oferta base, más que los US$75.000 millones de SpaceX. Con una colocación privada de US$26.000 millones suma US$107.300 millones y queda valuada en unos US$1,5 billones.",
+          "porQueImporta": "Es el primer laboratorio de IA de frontera que cotiza en bolsa; OpenAI no prevé hacerlo antes de 2027. Nvidia comprará US$10.000 millones en acciones en la colocación privada, junto a Google, Microsoft y AMD.",
+          "fuente": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/",
+          "hilo": "ipo-anthropic",
           "glosario": [
-            "harvey-jones",
-            "jensen-huang",
-            "colette-kress"
+            "colocacion-privada",
+            "ia-de-frontera"
           ]
         },
         {
-          "titulo": "OpenAI lanzó GPT-6.2 Astra y Sol, con más rendimiento a menor costo",
-          "resumen": "Astra, su modelo de frontera, cuesta 20% menos por token que GPT-6 Astra y, según OpenAI, supera a Claude Fable 5.2 en tareas profesionales de varios pasos. Sol, el modelo para uso cotidiano, mejora a GPT-6.1 Sol al mismo precio.",
-          "porQueImporta": "En la API, Astra cuesta US$8 por millón de tokens de entrada y US$40 de salida. Las comparaciones de rendimiento son mediciones publicadas por la propia OpenAI.",
-          "fuente": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+          "titulo": "Una empresa halló con IA una falla crítica en Java, un mes después de las de PHP",
+          "resumen": "Calif, la startup que expuso las fallas de PHP en octubre, descubrió con ayuda del modelo GPT-6 Cyber de OpenAI, aún no público, la vulnerabilidad Java4Shell, que permite ejecutar comandos a distancia. Oracle no la reconoció, pero el martes publicó una actualización crítica.",
+          "porQueImporta": "Java está en sistemas de bancos, aerolíneas, telecomunicaciones y gobiernos, y la falla estuvo oculta unos 12 años. No se sabe si alguien llegó a explotarla.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o",
+          "hilo": "php-vulnerabilidades-ia",
           "glosario": [
-            "token"
+            "calif"
           ]
         }
       ]
@@ -144,28 +126,16 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "cumbre-trump-xi-putin",
-      "novedad": "Trump llegó a Shenzhen y Xi y Putin se reunieron antes de la cumbre de los tres del jueves, su quinto encuentro este año. Putin calificó de fracaso las sanciones occidentales a Rusia.",
-      "fuente": "AFP",
-      "url": "https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit"
+      "hilo": "guerra-ucrania",
+      "novedad": "Ucrania atacó por tercera vez en la semana el puente de Crimea, esta vez la línea ferroviaria, y el tráfico volvió a cortarse. Zelensky dijo que busca castigar a Rusia por rechazar una tregua energética en las negociaciones de Abu Dabi.",
+      "fuente": "RTVE",
+      "url": "https://www.rtve.es/noticias/20261119/guerra-ucrania-tercer-ataque-puente-crimea/17320881.shtml"
     },
     {
-      "hilo": "interna-bullrich-milei",
-      "novedad": "Bullrich volvió a la mesa política, que no se reunía desde el 20 de octubre, y se alineó con la reforma electoral, según La Nación; cerca de ella aclaran que sigue pidiendo cambios en la economía.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-gobierno-admite-que-todavia-no-cuenta-con-los-votos-en-comision-y-que-el-debate-nid17112026/"
-    },
-    {
-      "hilo": "visita-papa-leon",
-      "novedad": "En el vuelo de regreso, León XIV dijo que en la Argentina \"hay que cambiar el chip\" porque \"no es necesario odiarnos\", y contó que animó a Milei a tener más en cuenta a los más necesitados.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/el-mundo/el-papa-a-la-argentina-hay-que-cambiar-el-chip-no-es-necesario-odiarnos-ni-usar-un-lenguaje-tan-nid17112026/"
-    },
-    {
-      "hilo": "elecciones-serbia",
-      "novedad": "Los 140 diputados de la Lista Estudiantil asumieron sus bancas el martes, lo que cierra 14 años de mayoría del SNS; Aleksandar Čupić es su candidato a presidir el Parlamento.",
-      "fuente": "Reuters",
-      "url": "https://piqmarkets.com/reuters/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win-2026-11-17-12-43-19"
+      "hilo": "hutis-arabia-saudita",
+      "novedad": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
+      "fuente": "Clarín (AFP)",
+      "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
     }
   ]
 };

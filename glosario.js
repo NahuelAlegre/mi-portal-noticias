@@ -1154,11 +1154,11 @@ window.GLOSARIO = {
   "ley-discapacidad": {
     "nombre": "Ley de Discapacidad",
     "tipo": "ley",
-    "texto": "Proyecto que reemplaza la emergencia en discapacidad, que vence a fin de año, por un régimen permanente de pensiones y prestaciones. Tiene media sanción de Diputados y dictamen del Senado.",
+    "texto": "Proyecto que reemplaza la emergencia en discapacidad, que vence a fin de año, por un régimen permanente de pensiones y prestaciones. Tiene media sanción de Diputados y el Senado lo vota el 19 de noviembre.",
     "alias": [
       "Ley de Discapacidad"
     ],
-    "actualizado": "2026-11-05"
+    "actualizado": "2026-11-19"
   },
   "fiel": {
     "nombre": "FIEL",
@@ -1582,11 +1582,11 @@ window.GLOSARIO = {
   "ia-de-frontera": {
     "nombre": "IA de frontera",
     "tipo": "concepto",
-    "texto": "Término para los modelos de IA más avanzados del momento, como los de OpenAI, Anthropic o Google. Es el foco de las nuevas reglas australianas.",
+    "texto": "Término para los modelos de IA más avanzados del momento, como los de OpenAI, Anthropic o Google. Anthropic es el primer laboratorio de este grupo en salir a la bolsa.",
     "alias": [
       "IA de frontera"
     ],
-    "actualizado": "2026-11-11"
+    "actualizado": "2026-11-19"
   },
   "medicare": {
     "nombre": "Medicare (Australia)",
@@ -1721,11 +1721,11 @@ window.GLOSARIO = {
   "ficha-limpia": {
     "nombre": "Ficha Limpia",
     "tipo": "ley",
-    "texto": "Proyecto que impide ser candidatos a cargos nacionales a condenados en segunda instancia por delitos de corrupción. PRO y UCR condicionan su apoyo a la reforma electoral a que avance.",
+    "texto": "Norma que impide ser candidatos a condenados por delitos dolosos con sentencia confirmada en segunda instancia. Quedó incluida en el dictamen de reforma electoral del Senado.",
     "alias": [
       "Ficha Limpia"
     ],
-    "actualizado": "2026-11-13"
+    "actualizado": "2026-11-19"
   },
   "starshield": {
     "nombre": "Starshield",
@@ -2080,11 +2080,11 @@ window.GLOSARIO = {
   "provincias-unidas": {
     "nombre": "Provincias Unidas",
     "tipo": "organizacion",
-    "texto": "Bloque de diputados nacionales que responde a gobernadores provinciales, entre ellos los de Córdoba y Jujuy. Sus dos miembros en la comisión de Presupuesto no firmaron el dictamen.",
+    "texto": "Bloque de 18 diputados nacionales que responde a gobernadores provinciales, entre ellos los de Córdoba y Santa Fe. Al no sentarse en sus bancas dejó sin quórum la sesión del 18 de noviembre.",
     "alias": [
       "Provincias Unidas"
     ],
-    "actualizado": "2026-11-18"
+    "actualizado": "2026-11-19"
   },
   "ali-al-salem": {
     "nombre": "Base aérea Ali Al-Salem",
@@ -2112,5 +2112,41 @@ window.GLOSARIO = {
       "OPS"
     ],
     "actualizado": "2026-11-18"
+  },
+  "consejo-magistratura": {
+    "nombre": "Consejo de la Magistratura",
+    "tipo": "organizacion",
+    "texto": "Órgano que selecciona, sanciona y puede acusar a los jueces federales; lo integran legisladores, jueces, abogados y académicos. Provincias Unidas y el PRO se disputan una de las bancas de Diputados.",
+    "alias": [
+      "Consejo de la Magistratura"
+    ],
+    "actualizado": "2026-11-19"
+  },
+  "ley-de-tierras": {
+    "nombre": "Ley de Tierras",
+    "tipo": "ley",
+    "texto": "Ley 26.737, de 2011, que limita la compra de tierras rurales por extranjeros. El DNU 70/2023 la derogó y el proyecto de Propiedad Privada la restituye.",
+    "alias": [
+      "Ley de Tierras"
+    ],
+    "actualizado": "2026-11-19"
+  },
+  "calif": {
+    "nombre": "Calif",
+    "tipo": "organizacion",
+    "texto": "Empresa emergente de ciberseguridad que usa modelos de IA para buscar fallas en software. Halló vulnerabilidades críticas en PHP y luego en Java.",
+    "alias": [
+      "Calif"
+    ],
+    "actualizado": "2026-11-19"
+  },
+  "colocacion-privada": {
+    "nombre": "Colocación privada",
+    "tipo": "concepto",
+    "texto": "Venta de acciones a inversores elegidos, por fuera de la oferta al público. En la salida a bolsa de Anthropic suma US$26.000 millones de empresas como Nvidia, Google y Microsoft.",
+    "alias": [
+      "colocación privada"
+    ],
+    "actualizado": "2026-11-19"
   }
 };
