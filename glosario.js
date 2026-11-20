@@ -1154,11 +1154,11 @@ window.GLOSARIO = {
   "ley-discapacidad": {
     "nombre": "Ley de Discapacidad",
     "tipo": "ley",
-    "texto": "Proyecto que reemplaza la emergencia en discapacidad, que vence a fin de año, por un régimen permanente de pensiones y prestaciones. Tiene media sanción de Diputados y el Senado lo vota el 19 de noviembre.",
+    "texto": "Ley que reemplaza la emergencia en discapacidad, que vence a fin de año, por un régimen permanente de pensiones y prestaciones. El Senado la sancionó por unanimidad el 19 de noviembre de 2026.",
     "alias": [
       "Ley de Discapacidad"
     ],
-    "actualizado": "2026-11-19"
+    "actualizado": "2026-11-20"
   },
   "fiel": {
     "nombre": "FIEL",
@@ -2007,13 +2007,13 @@ window.GLOSARIO = {
   "rob-bonta": {
     "nombre": "Rob Bonta",
     "tipo": "persona",
-    "texto": "Abogado y político demócrata, fiscal general de California desde 2021. Presentó la demanda del estado contra OpenAI.",
+    "texto": "Abogado y político demócrata, fiscal general de California desde 2021. Demandó a OpenAI e investiga a Nvidia por el posible desvío de chips a China.",
     "alias": [
       "Rob Bonta",
       "Bonta"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rob_Bonta_official_portrait_%28cropped%29.jpg/330px-Rob_Bonta_official_portrait_%28cropped%29.jpg",
-    "actualizado": "2026-11-17"
+    "actualizado": "2026-11-20"
   },
   "agentes-ia": {
     "nombre": "Agentes de IA",
@@ -2125,11 +2125,11 @@ window.GLOSARIO = {
   "ley-de-tierras": {
     "nombre": "Ley de Tierras",
     "tipo": "ley",
-    "texto": "Ley 26.737, de 2011, que limita la compra de tierras rurales por extranjeros. El DNU 70/2023 la derogó y el proyecto de Propiedad Privada la restituye.",
+    "texto": "Ley 26.737, de 2011, que limita la compra de tierras rurales por extranjeros. El DNU 70/2023 la derogó y la ley de Propiedad Privada, sancionada el 19 de noviembre de 2026, la restituye.",
     "alias": [
       "Ley de Tierras"
     ],
-    "actualizado": "2026-11-19"
+    "actualizado": "2026-11-20"
   },
   "calif": {
     "nombre": "Calif",
@@ -2148,5 +2148,89 @@ window.GLOSARIO = {
       "colocación privada"
     ],
     "actualizado": "2026-11-19"
+  },
+  "pct": {
+    "nombre": "Tratado de Cooperación en materia de Patentes (PCT)",
+    "tipo": "ley",
+    "texto": "Tratado que permite pedir una patente en 158 países con una sola solicitud. La Argentina adhirió por ley el 19 de noviembre de 2026, con reserva del capítulo II, como pedían los laboratorios locales.",
+    "alias": [
+      "PCT",
+      "tratado de patentes"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "dnu-70": {
+    "nombre": "DNU 70/2023",
+    "tipo": "ley",
+    "texto": "Decreto de necesidad y urgencia que Milei firmó en diciembre de 2023 para desregular la economía, con cientos de artículos. En noviembre de 2026 la Corte anuló por primera vez dos de ellos.",
+    "alias": [
+      "DNU 70/2023",
+      "DNU 70"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "superintendencia-servicios-salud": {
+    "nombre": "Superintendencia de Servicios de Salud",
+    "tipo": "organizacion",
+    "texto": "Organismo del Ministerio de Salud que controla a obras sociales y prepagas. Tras el fallo de la Corte vuelve a tener que revisar y autorizar los aumentos de cuotas.",
+    "alias": [
+      "Superintendencia de Servicios de Salud"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "uas": {
+    "nombre": "Unión Argentina de Salud (UAS)",
+    "tipo": "organizacion",
+    "texto": "Entidad que agrupa a cámaras de prepagas, clínicas y otros prestadores privados de salud. La preside Hugo Magonza.",
+    "alias": [
+      "UAS"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "adr": {
+    "nombre": "ADR",
+    "tipo": "concepto",
+    "texto": "Certificados que cotizan en Wall Street y representan acciones de empresas extranjeras. En el caso argentino, sobre todo bancos, YPF y energéticas.",
+    "alias": [
+      "ADR"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "cij": {
+    "nombre": "Corte Internacional de Justicia (CIJ)",
+    "tipo": "organizacion",
+    "texto": "Principal tribunal de la ONU, con sede en La Haya, que resuelve disputas entre Estados. Sus fallos son obligatorios, pero no tiene medios propios para hacerlos cumplir.",
+    "alias": [
+      "Corte Internacional de Justicia",
+      "CIJ"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "rohinyas": {
+    "nombre": "Rohinyás",
+    "tipo": "concepto",
+    "texto": "Minoría mayormente musulmana del oeste de Myanmar, a la que el país niega la ciudadanía. Unos 700.000 huyeron a Bangladés tras la ofensiva militar de 2017.",
+    "alias": [
+      "rohinyás"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "rakain": {
+    "nombre": "Rakáin",
+    "tipo": "lugar",
+    "texto": "Estado del oeste de Myanmar, sobre el golfo de Bengala y en la frontera con Bangladés. Allí vivía la mayoría de los rohinyás.",
+    "alias": [
+      "Rakáin"
+    ],
+    "actualizado": "2026-11-20"
+  },
+  "valuacion-diluida": {
+    "nombre": "Valuación diluida",
+    "tipo": "concepto",
+    "texto": "Valor de una empresa calculado con todas las acciones que podrían existir, incluidas opciones y acciones de empleados. Suele ser mayor que el que surge solo de las acciones en circulación.",
+    "alias": [
+      "valuación diluida"
+    ],
+    "actualizado": "2026-11-20"
   }
 };

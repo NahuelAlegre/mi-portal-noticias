@@ -96,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-19",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "Un ataque ruso masivo dejó al menos ocho muertos en Ucrania y cortes de luz en Kiev",
+        "resumen": "Con cerca de un centenar de misiles y drones, Rusia dañó tres puentes de Kiev y la empresa de agua de la capital, y cortó la luz en partes de la ciudad y en Leópolis, Ivano-Frankivsk y Transcarpatia.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261120/ataque-ruso-ucrania/17322878.shtml"
+      },
       {
         "fecha": "2026-11-19",
         "titulo": "Ucrania atacó por tercera vez en la semana el puente de Crimea y volvió a cortar el tráfico",
@@ -371,8 +378,15 @@ window.HILOS = {
     "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-19",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "El Senado sancionó la ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras",
+        "resumen": "Discapacidad salió por unanimidad (71 votos) y Propiedad Privada, con la Ley de Tierras, por 42 a 26; también se aprobó el tratado de patentes (PCT) por 47 a 22. Las leyes pasan al Ejecutivo para su promulgación.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/"
+      },
       {
         "fecha": "2026-11-19",
         "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
@@ -613,8 +627,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-19",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "Anthropic subió 17% en su debut en el Nasdaq y cerró valuada en unos US$1,8 billones",
+        "resumen": "Abrió a US$111,50, frente a los US$83 de la oferta, y cerró a US$97,17; se negociaron 846 millones de acciones, más que en el debut de SpaceX. Con esa valuación diluida es la séptima empresa más valiosa de EE.UU.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+      },
       {
         "fecha": "2026-11-19",
         "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
@@ -1277,8 +1298,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-17",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
+        "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
+      },
       {
         "fecha": "2026-11-17",
         "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
@@ -1487,8 +1515,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
+        "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
@@ -1630,8 +1665,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-19",
+    "actualizado": "2026-11-20",
     "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "La «declaración de paz» de Trump, Xi y Putin omitió las guerras en Ucrania e Irán",
+        "resumen": "El texto firmado en Shenzhen promete reducir los riesgos nucleares, reformar la ONU y aumentar el suministro de combustibles refinados, y pide a la Corte Penal Internacional no abusar de sus poderes. No menciona Ucrania ni Irán.",
+        "fuente": "DW",
+        "url": "https://www.dw.com/es/la-foto-con-xi-y-trump-fortalece-la-posici%C3%B3n-internacional-de-putin/a-79997135"
+      },
       {
         "fecha": "2026-11-19",
         "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
@@ -1681,6 +1723,21 @@ window.HILOS = {
         "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
         "fuente": "Bloomberg Law",
         "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches"
+      }
+    ]
+  },
+  "fallo-prepagas-dnu-70": {
+    "nombre": "Fallo de la Corte contra el DNU 70 en las prepagas",
+    "tema": "Argentina",
+    "creado": "2026-11-20",
+    "actualizado": "2026-11-20",
+    "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
+        "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
       }
     ]
   }

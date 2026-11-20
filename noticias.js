@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-19",
-  "actualizado": "2026-11-19T07:28:14-03:00",
+  "fecha": "2026-11-20",
+  "actualizado": "2026-11-20T07:24:56-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
-      "resumen": "En la primera reunión de los líderes de las tres mayores potencias nucleares, al margen de la APEC, Xi pidió prohibir y destruir las armas nucleares, Trump propuso reducir los arsenales y Putin habló de resolver el conflicto en Ucrania.",
-      "tema": "Mundo",
-      "fuente": "RTVE",
-      "url": "https://www.rtve.es/noticias/20261119/trump-xi-putin-cumbre-trilateral-apec/17320863.shtml"
-    },
-    {
-      "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
-      "resumen": "Vendió acciones a US$83, sobre el rango de 70 a 78, y recaudó US$81.300 millones en la oferta base, más que los US$75.000 millones de SpaceX. Con una colocación privada de US$26.000 millones suma US$107.300 millones y queda valuada en unos US$1,5 billones.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "Bloomberg Línea",
-      "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/"
-    },
-    {
-      "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
-      "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+      "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
+      "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
       "tema": "Argentina",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
+      "fuente": "La Nación",
+      "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
+    },
+    {
+      "titulo": "El Senado sancionó la ley permanente de Discapacidad, la vuelta de la Ley de Tierras y el tratado de patentes",
+      "resumen": "Discapacidad salió por unanimidad (71 votos), Propiedad Privada con la Ley de Tierras por 42 a 26 y el PCT por 47 a 22. TN destaca el acuerdo que celebró Bullrich; Infobae, que el texto conserva casi todo lo que el Gobierno tuvo que ceder a la oposición.",
+      "tema": "Argentina",
+      "fuente": "TN",
+      "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/"
+    },
+    {
+      "titulo": "La Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinyás",
+      "resumen": "Es la primera vez que el tribunal de la ONU declara a un Estado responsable de genocidio. El fallo, en la demanda que Gambia presentó en 2019, abarca la ofensiva militar de 2017 en Rakáin: unos 10.000 muertos y 700.000 huidos a Bangladés.",
+      "tema": "Mundo",
+      "fuente": "Noticias ONU",
+      "url": "https://news.un.org/es/story/2026/11/1542191"
     }
   ],
   "temas": [
@@ -31,50 +31,43 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
-          "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
-          "porQueImporta": "Según TN, el Gobierno evalúa volver a convocar la próxima semana, antes de que el Tribunal del Mar resuelva el 28 el pedido argentino contra el proyecto Sea Lion. La reforma del BCRA queda a un paso de ser ley y Clarín advierte por la sesión del Presupuesto del 25.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html",
-          "hilo": "ley-malvinas",
-          "glosario": [
-            "ley-malvinas",
-            "provincias-unidas",
-            "consejo-magistratura",
-            "sea-lion"
-          ]
-        },
-        {
-          "titulo": "Sin colectoras, el oficialismo logró dictamen para suspender las PASO; el Senado vota el 26",
-          "resumen": "Asuntos Constitucionales firmó con 11 firmas, una más de las necesarias, un texto que suspende las PASO de 2027 y suma Ficha Limpia. El Cronista recoge que LLA cuenta 40 votos de los 37 necesarios; Página/12 enumera los cambios que Bullrich \"tuvo que aceptar\" para salvarlo.",
-          "porQueImporta": "El texto pasó de 79 a 25 artículos: deroga la veda electoral, deja el debate presidencial obligatorio solo para el balotaje, reduce a la mitad la publicidad gratuita en radio y TV y pasa a las legislaturas la elección de los parlamentarios del Mercosur.",
-          "fuente": "El Canciller",
-          "url": "https://elcanciller.com/politica/reforma-electoral--el-oficialismo-acepto-retirar-las-listas-colectoras-y-apuesta-al-dictamen-para-suspender-las-paso_a6afd814273d989d88c6af507",
-          "hilo": "reforma-electoral-paso",
-          "glosario": [
-            "paso",
-            "colectoras",
-            "ficha-limpia"
-          ]
-        },
-        {
-          "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
-          "resumen": "Desde las 11, el oficialismo busca sancionar la Ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras. TN destaca el acuerdo que celebró Bullrich; elDiarioAR, que el texto replica casi todo el esquema de la emergencia que vence en diciembre.",
-          "porQueImporta": "La ley de discapacidad fija un cronograma de pago de las deudas con prestadores y 30 días para reglamentarla. La Ley de Tierras, de 2011, limita la compra de tierras rurales por extranjeros; si el Senado no cambia el texto de Diputados, vuelve a regir.",
+          "titulo": "El Senado sancionó la ley permanente de Discapacidad, la vuelta de la Ley de Tierras y el tratado de patentes",
+          "resumen": "Discapacidad salió por unanimidad (71 votos), Propiedad Privada con la Ley de Tierras por 42 a 26 y el PCT por 47 a 22. TN destaca el acuerdo que celebró Bullrich; Infobae, que el texto conserva casi todo lo que el Gobierno tuvo que ceder a la oposición.",
+          "porQueImporta": "La ley de discapacidad reemplaza la emergencia que vence el 31 de diciembre: la pensión sigue en 70% de la jubilación mínima, compatible con un empleo formal de hasta dos salarios mínimos, y hay 90 días para pagar las deudas con prestadores. La Ley de Tierras vuelve a limitar al 15% la propiedad extranjera de tierras rurales.",
           "fuente": "TN",
-          "url": "https://tn.com.ar/politica/2026/11/19/el-senado-debate-hoy-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-de-patentes/",
+          "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/",
           "hilo": "megasesion-diputados",
           "glosario": [
             "ley-discapacidad",
-            "ley-de-tierras"
+            "ley-de-tierras",
+            "pct"
           ]
         },
         {
-          "titulo": "Por decreto, el Gobierno sumó $15,6 billones al gasto de 2026 y achicó el superávit previsto",
-          "resumen": "El Decreto 1391/2026 amplía 10,2% el crédito vigente. Infobae y Ámbito calculan que el superávit de fin de año baja de $26,4 a $18,9 billones por una inflación cercana a 33%, contra 18% presupuestado; el Gobierno lo justifica en partidas que no alcanzaban.",
-          "porQueImporta": "Cerca de $10 billones van a transferencias al PAMI y $3,9 billones a intereses de la deuda; Servicios Económicos pierde $2,3 billones. Al 16 de noviembre el superávit acumulado era de unos $33,2 billones, así que buena parte del gasto extra llegará en las últimas semanas.",
+          "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
+          "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
+          "porQueImporta": "La Corte no fijó un tope atado a la inflación, pero tiene cientos de casos similares en espera. Las prepagas, a través de la UAS, advirtieron sobre una ola de juicios; el Gobierno no informó qué hará.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/",
+          "hilo": "fallo-prepagas-dnu-70",
+          "glosario": [
+            "dnu-70",
+            "superintendencia-servicios-salud",
+            "uas"
+          ]
+        },
+        {
+          "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
+          "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
+          "porQueImporta": "Fue la mayor suba diaria desde octubre de 2025 y deja al indicador cerca del máximo anual de 939 puntos del 6 de noviembre, con 63% de alza en el año. La brecha entre el CCL y el mayorista llegó a 13,2%.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/19/el-gobierno-amplio-el-presupuesto-2026-en-156-billones-y-resigna-parte-del-superavit-previsto-para-fin-de-ano/"
+          "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/",
+          "hilo": "riesgo-pais-mercados",
+          "glosario": [
+            "riesgo-pais",
+            "adr",
+            "ccl"
+          ]
         }
       ]
     },
@@ -82,16 +75,35 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Trump, Xi y Putin hicieron en Shenzhen su primera cumbre a tres, sin acuerdos anunciados",
-          "resumen": "En la primera reunión de los líderes de las tres mayores potencias nucleares, al margen de la APEC, Xi pidió prohibir y destruir las armas nucleares, Trump propuso reducir los arsenales y Putin habló de resolver el conflicto en Ucrania.",
-          "porQueImporta": "La Casa Blanca había anticipado que no esperaba un acuerdo inmediato. Antes, en su reunión bilateral, Trump y Xi coincidieron en mantener abierto el estrecho de Ormuz e impedir que Irán tenga un arma nuclear.",
-          "fuente": "RTVE",
-          "url": "https://www.rtve.es/noticias/20261119/trump-xi-putin-cumbre-trilateral-apec/17320863.shtml",
+          "titulo": "La «declaración de paz» de Trump, Xi y Putin omitió las guerras en Ucrania e Irán",
+          "resumen": "El texto firmado en Shenzhen promete reducir los riesgos nucleares, reformar la ONU y aumentar el suministro de combustibles refinados, y pide a la Corte Penal Internacional no abusar de sus poderes. No menciona Ucrania ni Irán.",
+          "porQueImporta": "China, con unas 500 ojivas frente a más de 5.000 de EE.UU. y de Rusia, se resiste a un control de armas a tres; el Nuevo START venció en febrero. Antes de la cumbre, Zelensky había advertido sobre una «segunda Yalta».",
+          "fuente": "DW",
+          "url": "https://www.dw.com/es/la-foto-con-xi-y-trump-fortalece-la-posici%C3%B3n-internacional-de-putin/a-79997135",
           "hilo": "cumbre-trump-xi-putin",
           "glosario": [
-            "apec",
-            "ormuz"
+            "nuevo-start"
           ]
+        },
+        {
+          "titulo": "La Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinyás",
+          "resumen": "Es la primera vez que el tribunal de la ONU declara a un Estado responsable de genocidio. El fallo, en la demanda que Gambia presentó en 2019, abarca la ofensiva militar de 2017 en Rakáin: unos 10.000 muertos y 700.000 huidos a Bangladés.",
+          "porQueImporta": "La sentencia es definitiva: ordena a Myanmar juzgar a los responsables, permitir el retorno de los desplazados e indemnizarlos, y le da dos años para informar qué hizo. El monto de la reparación se fijará en una etapa posterior.",
+          "fuente": "Noticias ONU",
+          "url": "https://news.un.org/es/story/2026/11/1542191",
+          "glosario": [
+            "cij",
+            "rohinyas",
+            "rakain"
+          ]
+        },
+        {
+          "titulo": "Un ataque ruso masivo dejó al menos ocho muertos en Ucrania y cortes de luz en Kiev",
+          "resumen": "Con cerca de un centenar de misiles y drones, Rusia dañó tres puentes de Kiev y la empresa de agua de la capital, y cortó la luz en partes de la ciudad y en Leópolis, Ivano-Frankivsk y Transcarpatia.",
+          "porQueImporta": "Polonia investiga dos posibles violaciones de su espacio aéreo durante el ataque y encontró un objeto caído en Lipowiec, en la región de Lublin.",
+          "fuente": "RTVE",
+          "url": "https://www.rtve.es/noticias/20261120/ataque-ruso-ucrania/17322878.shtml",
+          "hilo": "guerra-ucrania"
         }
       ]
     },
@@ -99,43 +111,31 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic debuta hoy en el Nasdaq tras la mayor salida a bolsa de la historia",
-          "resumen": "Vendió acciones a US$83, sobre el rango de 70 a 78, y recaudó US$81.300 millones en la oferta base, más que los US$75.000 millones de SpaceX. Con una colocación privada de US$26.000 millones suma US$107.300 millones y queda valuada en unos US$1,5 billones.",
-          "porQueImporta": "Es el primer laboratorio de IA de frontera que cotiza en bolsa; OpenAI no prevé hacerlo antes de 2027. Nvidia comprará US$10.000 millones en acciones en la colocación privada, junto a Google, Microsoft y AMD.",
-          "fuente": "Bloomberg Línea",
-          "url": "https://www.bloomberglinea.com/mercados/anthropic-habria-fijado-el-precio-de-su-salida-a-bolsa-en-us83-por-accion-por-encima-del-rango-previsto/",
+          "titulo": "Anthropic subió 17% en su debut en el Nasdaq y cerró valuada en unos US$1,8 billones",
+          "resumen": "Abrió a US$111,50, frente a los US$83 de la oferta, y cerró a US$97,17; se negociaron 846 millones de acciones, más que en el debut de SpaceX. Con esa valuación diluida es la séptima empresa más valiosa de EE.UU.",
+          "porQueImporta": "El estreno no frenó a Wall Street: el S&P 500 cayó 2% y sumó seis ruedas en baja, con ventas en tecnológicas y semiconductores por dudas sobre el auge de la IA.",
+          "fuente": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
           "hilo": "ipo-anthropic",
           "glosario": [
-            "colocacion-privada",
-            "ia-de-frontera"
+            "valuacion-diluida"
           ]
         },
         {
-          "titulo": "Una empresa halló con IA una falla crítica en Java, un mes después de las de PHP",
-          "resumen": "Calif, la startup que expuso las fallas de PHP en octubre, descubrió con ayuda del modelo GPT-6 Cyber de OpenAI, aún no público, la vulnerabilidad Java4Shell, que permite ejecutar comandos a distancia. Oracle no la reconoció, pero el martes publicó una actualización crítica.",
-          "porQueImporta": "Java está en sistemas de bancos, aerolíneas, telecomunicaciones y gobiernos, y la falla estuvo oculta unos 12 años. No se sabe si alguien llegó a explotarla.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o",
-          "hilo": "php-vulnerabilidades-ia",
+          "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
+          "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
+          "porQueImporta": "La acción de Nvidia cayó 22% en las nueve ruedas desde que Huang admitió la relación y va camino a su séptima semana seguida en baja, con una pérdida acumulada de 38%.",
+          "fuente": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+          "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "calif"
+            "rob-bonta",
+            "jensen-huang",
+            "megaspeed"
           ]
         }
       ]
     }
   ],
-  "seguimiento": [
-    {
-      "hilo": "guerra-ucrania",
-      "novedad": "Ucrania atacó por tercera vez en la semana el puente de Crimea, esta vez la línea ferroviaria, y el tráfico volvió a cortarse. Zelensky dijo que busca castigar a Rusia por rechazar una tregua energética en las negociaciones de Abu Dabi.",
-      "fuente": "RTVE",
-      "url": "https://www.rtve.es/noticias/20261119/guerra-ucrania-tercer-ataque-puente-crimea/17320881.shtml"
-    },
-    {
-      "hilo": "hutis-arabia-saudita",
-      "novedad": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
-      "fuente": "Clarín (AFP)",
-      "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
-    }
-  ]
+  "seguimiento": []
 };
