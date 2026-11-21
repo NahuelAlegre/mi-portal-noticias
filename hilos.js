@@ -96,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-20",
+    "actualizado": "2026-11-21",
     "entradas": [
+      {
+        "fecha": "2026-11-21",
+        "titulo": "Dos misiles y un dron rusos cayeron en Polonia y la OTAN condenó una «grave violación» de su espacio aéreo",
+        "resumen": "Un misil de crucero Kh-101 impactó en Nowy Lipowiec, a 50 km de Ucrania; otro cayó cerca de Rudnik nad Sanem y un dron a reacción, cerca de Mołodycz. No hubo heridos; Tusk dijo que no fue casual, porque cerca se hacían maniobras de la coalición de voluntarios.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o"
+      },
       {
         "fecha": "2026-11-20",
         "titulo": "Un ataque ruso masivo dejó al menos ocho muertos en Ucrania y cortes de luz en Kiev",
@@ -627,8 +634,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-20",
+    "actualizado": "2026-11-21",
     "entradas": [
+      {
+        "fecha": "2026-11-21",
+        "titulo": "Anthropic cayó 8,5% en su primera jornada completa en medio de una venta masiva de acciones de IA",
+        "resumen": "Cerró a US$97,17, por debajo de la apertura de US$111,50 del jueves pero sobre los US$83 de la oferta. Nvidia y AMD se desplomaron más de 13% y el Nasdaq perdió 10% en la semana, por dudas sobre el gasto en centros de datos y la suba de tasas.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+      },
       {
         "fecha": "2026-11-20",
         "titulo": "Anthropic subió 17% en su debut en el Nasdaq y cerró valuada en unos US$1,8 billones",
@@ -1298,8 +1312,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-20",
+    "actualizado": "2026-11-21",
     "entradas": [
+      {
+        "fecha": "2026-11-21",
+        "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
+        "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
+      },
       {
         "fecha": "2026-11-20",
         "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
@@ -1738,6 +1759,21 @@ window.HILOS = {
         "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
         "fuente": "La Nación",
         "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
+      }
+    ]
+  },
+  "argentina-lng": {
+    "nombre": "Argentina LNG: exportación de gas licuado de Vaca Muerta",
+    "tema": "Argentina",
+    "creado": "2026-11-21",
+    "actualizado": "2026-11-21",
+    "entradas": [
+      {
+        "fecha": "2026-11-21",
+        "titulo": "El Gobierno aprobó el RIGI para Argentina LNG, el proyecto de gas licuado de US$50.750 millones",
+        "resumen": "YPF, Eni y XRG prevén invertir US$25.000 millones hasta 2030 para exportar desde 2031 12 millones de toneladas anuales de GNL desde el Golfo San Matías. Clarín destaca los beneficios (Ganancias al 25%, cero retenciones); Infobae, US$15.000 millones para proveedores locales.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/"
       }
     ]
   }

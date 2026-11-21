@@ -1,29 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-20",
-  "actualizado": "2026-11-20T07:24:56-03:00",
+  "fecha": "2026-11-21",
+  "actualizado": "2026-11-21T07:25:59-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
-      "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
-      "tema": "Argentina",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
+      "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
+      "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/",
+      "tema": "Argentina"
     },
     {
-      "titulo": "El Senado sancionó la ley permanente de Discapacidad, la vuelta de la Ley de Tierras y el tratado de patentes",
-      "resumen": "Discapacidad salió por unanimidad (71 votos), Propiedad Privada con la Ley de Tierras por 42 a 26 y el PCT por 47 a 22. TN destaca el acuerdo que celebró Bullrich; Infobae, que el texto conserva casi todo lo que el Gobierno tuvo que ceder a la oposición.",
-      "tema": "Argentina",
-      "fuente": "TN",
-      "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/"
+      "titulo": "Dos misiles y un dron rusos cayeron en Polonia y la OTAN condenó una «grave violación» de su espacio aéreo",
+      "resumen": "Un misil de crucero Kh-101 impactó en Nowy Lipowiec, a 50 km de Ucrania; otro cayó cerca de Rudnik nad Sanem y un dron a reacción, cerca de Mołodycz. No hubo heridos; Tusk dijo que no fue casual, porque cerca se hacían maniobras de la coalición de voluntarios.",
+      "fuente": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o",
+      "tema": "Mundo"
     },
     {
-      "titulo": "La Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinyás",
-      "resumen": "Es la primera vez que el tribunal de la ONU declara a un Estado responsable de genocidio. El fallo, en la demanda que Gambia presentó en 2019, abarca la ofensiva militar de 2017 en Rakáin: unos 10.000 muertos y 700.000 huidos a Bangladés.",
-      "tema": "Mundo",
-      "fuente": "Noticias ONU",
-      "url": "https://news.un.org/es/story/2026/11/1542191"
+      "titulo": "El Gobierno aprobó el RIGI para Argentina LNG, el proyecto de gas licuado de US$50.750 millones",
+      "resumen": "YPF, Eni y XRG prevén invertir US$25.000 millones hasta 2030 para exportar desde 2031 12 millones de toneladas anuales de GNL desde el Golfo San Matías. Clarín destaca los beneficios (Ganancias al 25%, cero retenciones); Infobae, US$15.000 millones para proveedores locales.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/",
+      "tema": "Argentina"
     }
   ],
   "temas": [
@@ -31,42 +31,28 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "El Senado sancionó la ley permanente de Discapacidad, la vuelta de la Ley de Tierras y el tratado de patentes",
-          "resumen": "Discapacidad salió por unanimidad (71 votos), Propiedad Privada con la Ley de Tierras por 42 a 26 y el PCT por 47 a 22. TN destaca el acuerdo que celebró Bullrich; Infobae, que el texto conserva casi todo lo que el Gobierno tuvo que ceder a la oposición.",
-          "porQueImporta": "La ley de discapacidad reemplaza la emergencia que vence el 31 de diciembre: la pensión sigue en 70% de la jubilación mínima, compatible con un empleo formal de hasta dos salarios mínimos, y hay 90 días para pagar las deudas con prestadores. La Ley de Tierras vuelve a limitar al 15% la propiedad extranjera de tierras rurales.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/",
-          "hilo": "megasesion-diputados",
-          "glosario": [
-            "ley-discapacidad",
-            "ley-de-tierras",
-            "pct"
-          ]
-        },
-        {
-          "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
-          "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
-          "porQueImporta": "La Corte no fijó un tope atado a la inflación, pero tiene cientos de casos similares en espera. Las prepagas, a través de la UAS, advirtieron sobre una ola de juicios; el Gobierno no informó qué hará.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/",
-          "hilo": "fallo-prepagas-dnu-70",
-          "glosario": [
-            "dnu-70",
-            "superintendencia-servicios-salud",
-            "uas"
-          ]
-        },
-        {
-          "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
-          "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
-          "porQueImporta": "Fue la mayor suba diaria desde octubre de 2025 y deja al indicador cerca del máximo anual de 939 puntos del 6 de noviembre, con 63% de alza en el año. La brecha entre el CCL y el mayorista llegó a 13,2%.",
+          "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
+          "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
+          "porQueImporta": "Según La Nación, la Casa Rosada lo atribuye al contexto externo y a las dudas sobre la reelección de Milei, incluidos los amagos de Bullrich, y repite que «el plan no se toca». La brecha entre el mayorista y el CCL, de 13,6%, es la más alta desde abril de 2025.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/",
+          "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/",
           "hilo": "riesgo-pais-mercados",
           "glosario": [
             "riesgo-pais",
-            "adr",
             "ccl"
+          ]
+        },
+        {
+          "titulo": "El Gobierno aprobó el RIGI para Argentina LNG, el proyecto de gas licuado de US$50.750 millones",
+          "resumen": "YPF, Eni y XRG prevén invertir US$25.000 millones hasta 2030 para exportar desde 2031 12 millones de toneladas anuales de GNL desde el Golfo San Matías. Clarín destaca los beneficios (Ganancias al 25%, cero retenciones); Infobae, US$15.000 millones para proveedores locales.",
+          "porQueImporta": "La decisión final de inversión se firmará el 30 de noviembre. El proyecto requiere producir 65 millones de m³ diarios de gas, más del 40% de la producción actual del país, y un gasoducto y un poliducto de 524 km desde Vaca Muerta.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/",
+          "hilo": "argentina-lng",
+          "glosario": [
+            "rigi",
+            "xrg",
+            "golfo-san-matias"
           ]
         }
       ]
@@ -75,35 +61,38 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "La «declaración de paz» de Trump, Xi y Putin omitió las guerras en Ucrania e Irán",
-          "resumen": "El texto firmado en Shenzhen promete reducir los riesgos nucleares, reformar la ONU y aumentar el suministro de combustibles refinados, y pide a la Corte Penal Internacional no abusar de sus poderes. No menciona Ucrania ni Irán.",
-          "porQueImporta": "China, con unas 500 ojivas frente a más de 5.000 de EE.UU. y de Rusia, se resiste a un control de armas a tres; el Nuevo START venció en febrero. Antes de la cumbre, Zelensky había advertido sobre una «segunda Yalta».",
+          "titulo": "Dos misiles y un dron rusos cayeron en Polonia y la OTAN condenó una «grave violación» de su espacio aéreo",
+          "resumen": "Un misil de crucero Kh-101 impactó en Nowy Lipowiec, a 50 km de Ucrania; otro cayó cerca de Rudnik nad Sanem y un dron a reacción, cerca de Mołodycz. No hubo heridos; Tusk dijo que no fue casual, porque cerca se hacían maniobras de la coalición de voluntarios.",
+          "porQueImporta": "El ministro de Defensa, Kosiniak-Kamysz, pedirá más apoyo a la OTAN, y Mark Rutte, que activó aviones aliados, visita Varsovia este sábado. Moldavia también denunció la entrada de un dron ruso ese día.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o",
+          "hilo": "guerra-ucrania",
+          "glosario": [
+            "kosiniak-kamysz",
+            "coalicion-voluntarios",
+            "rutte"
+          ]
+        },
+        {
+          "titulo": "Reino Unido y la UE cerraron el «reinicio» pos-Brexit: comercio de alimentos, movilidad juvenil y carbono",
+          "resumen": "En la cumbre de Bruselas acordaron quitar la mayoría de los controles a los alimentos desde marzo de 2028, a cambio de que el Reino Unido siga normas de la UE, un programa para 100.000 jóvenes por lado y la vinculación de sus mercados de carbono.",
+          "porQueImporta": "Burnham estima un impulso de US$22.000 millones y hasta 0,5% del PIB británico; conservadores y Reform UK prometen resistirlo. Las tasas universitarias para estudiantes europeos se negociarán en los próximos seis meses.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o",
+          "glosario": [
+            "burnham",
+            "comercio-emisiones"
+          ]
+        },
+        {
+          "titulo": "Dinamarca expulsa al agregado de Defensa ruso por un complot para asesinar a un rapero ucraniano",
+          "resumen": "La inteligencia danesa (PET) atribuye a Rusia un intento de asesinato del rapero Kyivstoner en septiembre; dos miembros de la banda Loyal to Familia fueron acusados. Copenhague dio siete días al agregado y pide frenar las visas Schengen no esenciales a rusos.",
           "fuente": "DW",
-          "url": "https://www.dw.com/es/la-foto-con-xi-y-trump-fortalece-la-posici%C3%B3n-internacional-de-putin/a-79997135",
-          "hilo": "cumbre-trump-xi-putin",
+          "url": "https://www.dw.com/es/dinamarca-expulsa-a-un-diplom%C3%A1tico-ruso-tras-intento-de-asesinato-de-un-ucraniano-en-territorio-dan%C3%A9s/a-80006798",
           "glosario": [
-            "nuevo-start"
+            "pet",
+            "loyal-to-familia"
           ]
-        },
-        {
-          "titulo": "La Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los rohinyás",
-          "resumen": "Es la primera vez que el tribunal de la ONU declara a un Estado responsable de genocidio. El fallo, en la demanda que Gambia presentó en 2019, abarca la ofensiva militar de 2017 en Rakáin: unos 10.000 muertos y 700.000 huidos a Bangladés.",
-          "porQueImporta": "La sentencia es definitiva: ordena a Myanmar juzgar a los responsables, permitir el retorno de los desplazados e indemnizarlos, y le da dos años para informar qué hizo. El monto de la reparación se fijará en una etapa posterior.",
-          "fuente": "Noticias ONU",
-          "url": "https://news.un.org/es/story/2026/11/1542191",
-          "glosario": [
-            "cij",
-            "rohinyas",
-            "rakain"
-          ]
-        },
-        {
-          "titulo": "Un ataque ruso masivo dejó al menos ocho muertos en Ucrania y cortes de luz en Kiev",
-          "resumen": "Con cerca de un centenar de misiles y drones, Rusia dañó tres puentes de Kiev y la empresa de agua de la capital, y cortó la luz en partes de la ciudad y en Leópolis, Ivano-Frankivsk y Transcarpatia.",
-          "porQueImporta": "Polonia investiga dos posibles violaciones de su espacio aéreo durante el ataque y encontró un objeto caído en Lipowiec, en la región de Lublin.",
-          "fuente": "RTVE",
-          "url": "https://www.rtve.es/noticias/20261120/ataque-ruso-ucrania/17322878.shtml",
-          "hilo": "guerra-ucrania"
         }
       ]
     },
@@ -111,31 +100,45 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic subió 17% en su debut en el Nasdaq y cerró valuada en unos US$1,8 billones",
-          "resumen": "Abrió a US$111,50, frente a los US$83 de la oferta, y cerró a US$97,17; se negociaron 846 millones de acciones, más que en el debut de SpaceX. Con esa valuación diluida es la séptima empresa más valiosa de EE.UU.",
-          "porQueImporta": "El estreno no frenó a Wall Street: el S&P 500 cayó 2% y sumó seis ruedas en baja, con ventas en tecnológicas y semiconductores por dudas sobre el auge de la IA.",
+          "titulo": "Anthropic cayó 8,5% en su primera jornada completa en medio de una venta masiva de acciones de IA",
+          "resumen": "Cerró a US$97,17, por debajo de la apertura de US$111,50 del jueves pero sobre los US$83 de la oferta. Nvidia y AMD se desplomaron más de 13% y el Nasdaq perdió 10% en la semana, por dudas sobre el gasto en centros de datos y la suba de tasas.",
+          "porQueImporta": "El secretario del Tesoro, Scott Bessent, elogió a la empresa; los analistas están divididos: Seaport dice que su valuación exige un crecimiento mucho mayor y William Blair recomienda comprar.",
           "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-          "hilo": "ipo-anthropic",
-          "glosario": [
-            "valuacion-diluida"
-          ]
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+          "hilo": "ipo-anthropic"
         },
         {
-          "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
-          "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
-          "porQueImporta": "La acción de Nvidia cayó 22% en las nueve ruedas desde que Huang admitió la relación y va camino a su séptima semana seguida en baja, con una pérdida acumulada de 38%.",
-          "fuente": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-          "hilo": "investigacion-nvidia-huang",
+          "titulo": "La Comisión Europea confirmó un ciberataque hecho con una herramienta de IA de código abierto",
+          "resumen": "Detectado el 22 de octubre, dejó sin funcionar más de 10 días los sistemas de sueldos, licencias y reintegros médicos del personal. Según Politico, el CERT-EU identificó el uso de ARTEX, que automatiza la búsqueda y explotación de fallas con modelos comerciales.",
+          "porQueImporta": "El FBI había advertido que ARTEX, publicado en julio, lo usan delincuentes y grupos estatales, con intrusiones que llegan a acceso privilegiado en menos de tres horas. La Comisión no detectó una filtración masiva de datos ni pedidos de rescate.",
+          "fuente": "The Record",
+          "url": "https://therecord.media/european-commission-confirms-cyberattack-using-ai",
           "glosario": [
-            "rob-bonta",
-            "jensen-huang",
-            "megaspeed"
+            "artex",
+            "cert-eu"
           ]
         }
       ]
     }
   ],
-  "seguimiento": []
+  "seguimiento": [
+    {
+      "hilo": "riesgo-pais-mercados",
+      "novedad": "El viernes el riesgo país pasó de 931 a 1.071 puntos, por encima de 1.000 por primera vez desde octubre de 2025, y el dólar oficial llegó a $1600.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
+    },
+    {
+      "hilo": "guerra-ucrania",
+      "novedad": "Polonia confirmó que dos misiles y un dron rusos cayeron en su territorio durante el ataque del viernes; la OTAN lo condenó y Varsovia pedirá más apoyo aliado.",
+      "fuente": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cmkgkd79q9e6o"
+    },
+    {
+      "hilo": "ipo-anthropic",
+      "novedad": "Tras subir 17% en el debut, la acción cayó 8,5% el viernes, a US$97,17, arrastrada por la caída de Nvidia, AMD y el Nasdaq.",
+      "fuente": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+    }
+  ]
 };

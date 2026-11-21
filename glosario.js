@@ -2232,5 +2232,118 @@ window.GLOSARIO = {
       "valuación diluida"
     ],
     "actualizado": "2026-11-20"
+  },
+  "rigi": {
+    "nombre": "Régimen de Incentivo para Grandes Inversiones (RIGI)",
+    "tipo": "ley",
+    "texto": "Régimen creado por la Ley Bases en 2024 que da beneficios impositivos, aduaneros y cambiarios y estabilidad por 30 años a inversiones de más de US$200 millones.",
+    "alias": [
+      "RIGI"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "xrg": {
+    "nombre": "XRG",
+    "tipo": "organizacion",
+    "texto": "Brazo de inversiones internacionales en gas y energía de ADNOC, la petrolera estatal de Abu Dabi. Es socia de YPF y Eni en Argentina LNG, con el 32%.",
+    "alias": [
+      "XRG"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "golfo-san-matias": {
+    "nombre": "Golfo San Matías",
+    "tipo": "lugar",
+    "texto": "Golfo del Atlántico en la costa de Río Negro. Allí operarán los barcos licuefactores que exportarán el gas de Vaca Muerta.",
+    "alias": [
+      "Golfo San Matías"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "kosiniak-kamysz": {
+    "nombre": "Władysław Kosiniak-Kamysz",
+    "tipo": "persona",
+    "texto": "Médico y político polaco, viceprimer ministro y ministro de Defensa desde 2023 y líder del Partido Campesino Polaco (PSL).",
+    "alias": [
+      "Kosiniak-Kamysz"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/W%C5%82adys%C5%82aw_Kosiniak-Kamysz_2025_%28cropped%29.jpg/330px-W%C5%82adys%C5%82aw_Kosiniak-Kamysz_2025_%28cropped%29.jpg",
+    "actualizado": "2026-11-21"
+  },
+  "coalicion-voluntarios": {
+    "nombre": "Coalición de voluntarios",
+    "tipo": "organizacion",
+    "texto": "Grupo de unos 40 países encabezado por Reino Unido y Francia que se prepara para dar garantías de seguridad a Ucrania si hay un acuerdo de paz.",
+    "alias": [
+      "coalición de voluntarios"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "rutte": {
+    "nombre": "Mark Rutte",
+    "tipo": "persona",
+    "texto": "Político neerlandés, secretario general de la OTAN desde octubre de 2024. Fue primer ministro de los Países Bajos entre 2010 y 2024.",
+    "alias": [
+      "Mark Rutte",
+      "Rutte"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/2025_NATO_Secretary_General_Mark_Rutte_in_2025_%28cropped%29.jpg/330px-2025_NATO_Secretary_General_Mark_Rutte_in_2025_%28cropped%29.jpg",
+    "actualizado": "2026-11-21"
+  },
+  "burnham": {
+    "nombre": "Andy Burnham",
+    "tipo": "persona",
+    "texto": "Político laborista, primer ministro del Reino Unido desde julio de 2026. Antes fue alcalde del Gran Mánchester.",
+    "alias": [
+      "Burnham"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Prime_Minister_Andy_Burnham_portrait_%28cropped%29.jpg/330px-Prime_Minister_Andy_Burnham_portrait_%28cropped%29.jpg",
+    "actualizado": "2026-11-21"
+  },
+  "comercio-emisiones": {
+    "nombre": "Mercado de carbono",
+    "tipo": "concepto",
+    "texto": "Sistema en el que las empresas compran y venden permisos para emitir CO₂ bajo un tope total. La UE y el Reino Unido tienen cada uno el suyo y acordaron vincularlos.",
+    "alias": [
+      "mercados de carbono",
+      "mercado de carbono"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "pet": {
+    "nombre": "PET (Servicio de Seguridad e Inteligencia de Dinamarca)",
+    "tipo": "organizacion",
+    "texto": "Servicio de inteligencia interior de Dinamarca, dependiente de la policía. Atribuye a Rusia un plan para asesinar a un rapero ucraniano en Copenhague.",
+    "alias": [
+      "PET"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "loyal-to-familia": {
+    "nombre": "Loyal to Familia (LTF)",
+    "tipo": "organizacion",
+    "texto": "Banda criminal danesa prohibida por la justicia en 2021. Dos personas vinculadas a ella están acusadas por el complot atribuido a Rusia.",
+    "alias": [
+      "Loyal to Familia"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "artex": {
+    "nombre": "ARTEX",
+    "tipo": "concepto",
+    "texto": "Herramienta de código abierto publicada en julio de 2026 que usa modelos de IA comerciales para automatizar la búsqueda y explotación de fallas. Se usó en el ataque a la Comisión Europea.",
+    "alias": [
+      "ARTEX"
+    ],
+    "actualizado": "2026-11-21"
+  },
+  "cert-eu": {
+    "nombre": "CERT-EU",
+    "tipo": "organizacion",
+    "texto": "Equipo de respuesta a incidentes informáticos de las instituciones, órganos y agencias de la Unión Europea.",
+    "alias": [
+      "CERT-EU"
+    ],
+    "actualizado": "2026-11-21"
   }
 };
