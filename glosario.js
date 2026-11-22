@@ -2345,5 +2345,99 @@ window.GLOSARIO = {
       "CERT-EU"
     ],
     "actualizado": "2026-11-21"
+  },
+  "sitra": {
+    "nombre": "Sitra",
+    "tipo": "lugar",
+    "texto": "Isla de la costa este de Baréin donde hay varias plantas industriales y la refinería de la petrolera estatal Bapco.",
+    "alias": [
+      "Sitra"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "kaliningrado": {
+    "nombre": "Kaliningrado",
+    "tipo": "lugar",
+    "texto": "Exclave ruso sobre el mar Báltico, entre Polonia y Lituania, sin conexión terrestre con el resto de Rusia. Es sede de la Flota del Báltico rusa.",
+    "alias": [
+      "Kaliningrado"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "cop31": {
+    "nombre": "COP31",
+    "tipo": "organizacion",
+    "texto": "Conferencia de la ONU sobre cambio climático de 2026, en Antalya (Turquía), con Australia a cargo de las negociaciones. Sus decisiones se adoptan por consenso entre unos 200 países.",
+    "alias": [
+      "COP31"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "cop28": {
+    "nombre": "COP28 (Dubái, 2023)",
+    "tipo": "organizacion",
+    "texto": "Cumbre del clima de la ONU de 2023 en Emiratos Árabes Unidos. Su acuerdo final es el único de estas cumbres que llamó a dejar atrás los combustibles fósiles.",
+    "alias": [
+      "COP28"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "garcia-harfuch": {
+    "nombre": "Omar García Harfuch",
+    "tipo": "persona",
+    "texto": "Secretario de Seguridad y Protección Ciudadana de México desde octubre de 2024, en el gobierno de Claudia Sheinbaum. Fue jefe de la policía de Ciudad de México.",
+    "alias": [
+      "Omar García Harfuch",
+      "García Harfuch"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Garc%C3%ADa_Harfuch_%28cropped_3%29.jpg/330px-Garc%C3%ADa_Harfuch_%28cropped_3%29.jpg",
+    "actualizado": "2026-11-22"
+  },
+  "mazatlecos": {
+    "nombre": "Los Mazatlecos (cartel Meza-Flores)",
+    "tipo": "organizacion",
+    "texto": "Grupo narco de Sinaloa liderado por Fausto Isidro Meza Flores, surgido de la Organización Beltrán Leyva y enfrentado con el Cartel de Sinaloa.",
+    "alias": [
+      "Mazatlecos"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "hipotesis-riemann": {
+    "nombre": "Hipótesis de Riemann",
+    "tipo": "concepto",
+    "texto": "Conjetura planteada por Bernhard Riemann en 1859 sobre los ceros de la función zeta, ligada a cómo se distribuyen los números primos. Es uno de los siete problemas del Milenio.",
+    "alias": [
+      "hipótesis de Riemann"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "alpoge": {
+    "nombre": "Levent Alpöge",
+    "tipo": "persona",
+    "texto": "Matemático turco-estadounidense nacido en 1992 que trabaja en Anthropic. Usa IA para resolver problemas matemáticos abiertos.",
+    "alias": [
+      "Levent Alpöge",
+      "Alpöge"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Levent_Alp%C3%B6ge_2024_MFO.jpg/330px-Levent_Alp%C3%B6ge_2024_MFO.jpg",
+    "actualizado": "2026-11-22"
+  },
+  "mathlib": {
+    "nombre": "Mathlib",
+    "tipo": "organizacion",
+    "texto": "Biblioteca abierta de matemática formalizada en Lean, mantenida por una comunidad de matemáticos. Junto con la comunidad de Lean certificó la prueba de Alpöge.",
+    "alias": [
+      "Mathlib"
+    ],
+    "actualizado": "2026-11-22"
+  },
+  "ccac": {
+    "nombre": "Convención sobre Ciertas Armas Convencionales",
+    "tipo": "ley",
+    "texto": "Tratado de la ONU de 1980 que prohíbe o restringe armas que causan daños excesivos o indiscriminados. Desde 2014 sus Estados parte discuten las armas autónomas letales.",
+    "alias": [
+      "Convención sobre Ciertas Armas Convencionales"
+    ],
+    "actualizado": "2026-11-22"
   }
 };

@@ -96,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-21",
+    "actualizado": "2026-11-22",
     "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "Un ataque con drones atribuido a Ucrania incendió un carguero ruso en el golfo de Finlandia",
+        "resumen": "El Sparta II, que iba a Kaliningrado y según Finlandia tiene vínculos con las Fuerzas Armadas rusas, fue alcanzado el sábado en aguas internacionales y derivó a aguas finlandesas; su tripulación fue evacuada. Helsinki ve «probable» la autoría ucraniana.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/es/europa/20261121-un-ataque-con-drones-atribuido-a-ucrania-incendia-un-carguero-ruso-en-el-golfo-de-finlandia"
+      },
       {
         "fecha": "2026-11-21",
         "titulo": "Dos misiles y un dron rusos cayeron en Polonia y la OTAN condenó una «grave violación» de su espacio aéreo",
@@ -855,8 +862,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-22",
     "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "Irán alcanzó una planta industrial en Baréin y tres petroleros fueron atacados en Ormuz",
+        "resumen": "Baréin denunció que un ataque iraní incendió una instalación industrial civil, sin heridos; vecinos vieron humo en la isla de Sitra. Según la UKMTO, dos petroleros fueron alcanzados por proyectiles, y la armada iraní dijo que otro chocó con una mina.",
+        "fuente": "Milenio",
+        "url": "https://www.milenio.com/internacional/iran-lanza-ataques-barein-petroleros-ormuz-21-noviembre"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "EE.UU. bombardeó la isla iraní de Qeshm e Irán respondió con drones contra Kuwait y Baréin",
@@ -1686,8 +1700,15 @@ window.HILOS = {
     "nombre": "Cumbre Trump-Xi-Putin en China",
     "tema": "Mundo",
     "creado": "2026-11-14",
-    "actualizado": "2026-11-20",
+    "actualizado": "2026-11-22",
     "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "Trump y Xi acordaron que las grandes decisiones militares sigan en manos humanas y no de la IA",
+        "resumen": "Lo reveló el secretario del Tesoro, Scott Bessent: el entendimiento de Shenzhen busca que los sistemas de IA no puedan iniciar por sí solos grandes operaciones. No hay tratado ni mecanismos de verificación; en septiembre habían creado un canal de alerta sobre incidentes de IA.",
+        "fuente": "El Mundo",
+        "url": "https://www.elmundo.es/internacional/2026/11/22/6b016f05fc6c833b4d8b456e.html"
+      },
       {
         "fecha": "2026-11-20",
         "titulo": "La «declaración de paz» de Trump, Xi y Putin omitió las guerras en Ucrania e Irán",
@@ -1774,6 +1795,51 @@ window.HILOS = {
         "resumen": "YPF, Eni y XRG prevén invertir US$25.000 millones hasta 2030 para exportar desde 2031 12 millones de toneladas anuales de GNL desde el Golfo San Matías. Clarín destaca los beneficios (Ganancias al 25%, cero retenciones); Infobae, US$15.000 millones para proveedores locales.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/economia/2026/11/20/caputo-anuncio-el-ingreso-al-rigi-de-la-mayor-inversion-de-la-historia-argentina/"
+      }
+    ]
+  },
+  "cgt-plan-de-lucha": {
+    "nombre": "Plan de lucha de la CGT",
+    "tema": "Argentina",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-22",
+    "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "La CGT ratificó un paro parcial de cuatro horas para mediados de diciembre",
+        "resumen": "Jorge Sola y Cristian Jerónimo, dos de los tres jefes de la central, dijeron a Clarín que el cese en los lugares de trabajo está confirmado y que la fecha se fijará a inicios de diciembre. La Nación había informado el viernes que seguía sin unanimidad.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/cgt-da-marcha-plan-lucha-milei-iba-arrancar-diciembre_0_4mSEdYV93S.html"
+      }
+    ]
+  },
+  "cop31": {
+    "nombre": "Cumbre del clima COP31 en Antalya",
+    "tema": "Mundo",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-22",
+    "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "La COP31 se estira sin acuerdo: el último borrador omite la salida de los combustibles fósiles",
+        "resumen": "La cumbre de Antalya, que debía cerrar el viernes, sigue el domingo con un texto de Turquía y Australia que solo remite al acuerdo de la COP28 y pide que en 2035 el 35% de la energía consumida sea eléctrica. Francia lo llamó «retroceso inaceptable».",
+        "fuente": "El País",
+        "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html"
+      }
+    ]
+  },
+  "ia-matematicas": {
+    "nombre": "La IA y los grandes problemas matemáticos",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-22",
+    "entradas": [
+      {
+        "fecha": "2026-11-22",
+        "titulo": "Verificaron la demostración de la hipótesis de Riemann que un matemático de Anthropic hizo con Claude",
+        "resumen": "Levent Alpöge publicó el viernes la prueba, desarrollada en unas seis semanas con Claude y escrita en Lean; el sábado la comunidad de Lean y la iniciativa Mathlib certificaron que el enunciado y la demostración son correctos.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
       }
     ]
   }
