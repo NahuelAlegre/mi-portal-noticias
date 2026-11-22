@@ -1,7 +1,7 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
   "fecha": "2026-11-22",
-  "actualizado": "2026-11-22T10:23:33+00:00",
+  "actualizado": "2026-11-22T07:23:33-03:00",
   "ejemplo": false,
   "esencial": [
     {
