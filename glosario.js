@@ -3,12 +3,12 @@ window.GLOSARIO = {
   "ley-malvinas": {
     "nombre": "Ley de Malvinas",
     "tipo": "ley",
-    "texto": "Nombre coloquial del proyecto oficial de Defensa de la Soberanía Nacional, de 133 artículos, que también reforma defensa e inteligencia. Se debate en Diputados.",
+    "texto": "Nombre coloquial del proyecto oficial de Defensa de la Soberanía Nacional, que también reforma defensa e inteligencia. Su votación en Diputados se cayó el 18 de noviembre por falta de quórum.",
     "alias": [
       "Ley de Malvinas",
       "Ley Malvinas"
     ],
-    "actualizado": "2026-11-18"
+    "actualizado": "2026-11-23"
   },
   "amcham": {
     "nombre": "AmCham Argentina",
@@ -2080,11 +2080,11 @@ window.GLOSARIO = {
   "provincias-unidas": {
     "nombre": "Provincias Unidas",
     "tipo": "organizacion",
-    "texto": "Bloque de 18 diputados nacionales que responde a gobernadores provinciales, entre ellos los de Córdoba y Santa Fe. Al no sentarse en sus bancas dejó sin quórum la sesión del 18 de noviembre.",
+    "texto": "Bloque de 18 diputados nacionales que responde a gobernadores, entre ellos Llaryora (Córdoba) y Pullaro (Santa Fe). Dejó sin quórum la sesión del 18 de noviembre y presentó un dictamen propio del Presupuesto 2027.",
     "alias": [
       "Provincias Unidas"
     ],
-    "actualizado": "2026-11-19"
+    "actualizado": "2026-11-23"
   },
   "ali-al-salem": {
     "nombre": "Base aérea Ali Al-Salem",
@@ -2439,5 +2439,64 @@ window.GLOSARIO = {
       "Convención sobre Ciertas Armas Convencionales"
     ],
     "actualizado": "2026-11-22"
+  },
+  "ejercito-nacional-libio": {
+    "nombre": "Ejército Nacional Libio",
+    "tipo": "organizacion",
+    "texto": "Fuerza armada que controla el este y el sur de Libia, rival del gobierno de Trípoli. Sus oficiales informaron del ataque contra la corbeta rusa en Bengasi.",
+    "alias": [
+      "militares libios",
+      "Ejército Nacional Libio"
+    ],
+    "actualizado": "2026-11-23"
+  },
+  "kh-101": {
+    "nombre": "Misil Kh-101",
+    "tipo": "concepto",
+    "texto": "Misil de crucero ruso lanzado desde bombarderos, de largo alcance. Tres de ellos cayeron en Polonia el 20 de noviembre de 2026.",
+    "alias": [
+      "Kh-101"
+    ],
+    "actualizado": "2026-11-23"
+  },
+  "ejercito-blanco": {
+    "nombre": "Ejército Blanco",
+    "tipo": "organizacion",
+    "texto": "Red de milicias de jóvenes armados, en su mayoría de etnia nuer, de Sudán del Sur. Sus vínculos con la oposición de Riek Machar son objeto de controversia.",
+    "alias": [
+      "Ejército Blanco"
+    ],
+    "actualizado": "2026-11-23"
+  },
+  "riek-machar": {
+    "nombre": "Riek Machar",
+    "tipo": "persona",
+    "texto": "Primer vicepresidente de Sudán del Sur y líder del opositor SPLM-IO. Está suspendido de sus funciones y procesado en Yuba.",
+    "alias": [
+      "Riek Machar",
+      "Machar"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Riek_Machar_VOA_photo.jpg/330px-Riek_Machar_VOA_photo.jpg",
+    "actualizado": "2026-11-23"
+  },
+  "jakub-pachocki": {
+    "nombre": "Jakub Pachocki",
+    "tipo": "persona",
+    "texto": "Informático polaco, científico jefe de OpenAI. Supervisó el desarrollo de GPT-4.",
+    "alias": [
+      "Jakub Pachocki",
+      "Pachocki"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jakub_Pachocki_in_2012_%28cropped%29.jpg/330px-Jakub_Pachocki_in_2012_%28cropped%29.jpg",
+    "actualizado": "2026-11-23"
+  },
+  "perplejidad": {
+    "nombre": "Perplejidad (IA)",
+    "tipo": "concepto",
+    "texto": "Métrica que mide qué tan bien un modelo de lenguaje predice el siguiente token de un texto; cuanto más baja, mejor predice.",
+    "alias": [
+      "perplejidad"
+    ],
+    "actualizado": "2026-11-23"
   }
 };

@@ -96,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-22",
+    "actualizado": "2026-11-23",
     "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "Un ataque ruso derrumbó un edificio cerca de Kiev y drones atribuidos a Ucrania dañaron una corbeta rusa en Libia",
+        "resumen": "Al menos diez personas murieron en la región de Kiev, siete en un edificio de cinco pisos en Dymer. En Bengasi, dos drones marítimos alcanzaron la corbeta Merkury, según militares libios; el embajador ruso acusó a Ucrania y dijo que el Kremlin evalúa cómo responder.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev"
+      },
       {
         "fecha": "2026-11-22",
         "titulo": "Un ataque con drones atribuido a Ucrania incendió un carguero ruso en el golfo de Finlandia",
@@ -527,8 +534,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-18",
+    "actualizado": "2026-11-23",
     "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "Última semana de sesiones ordinarias: Diputados votaría el Presupuesto 2027 el jueves 26",
+        "resumen": "El oficialismo cuenta unos 126 votos de 129 y sigue la pelea entre el PRO y Provincias Unidas. Infobae da por hecho que la Ley Malvinas y la reforma del BCRA pasan a extraordinarias; La Nación dice que el Gobierno evalúa llevar Malvinas al recinto ese día.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/"
+      },
       {
         "fecha": "2026-11-18",
         "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
@@ -862,8 +876,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-22",
+    "actualizado": "2026-11-23",
     "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "Irán dice que dos superpetroleros chocaron con minas en Ormuz, donde ya fueron atacados 25 barcos en una semana",
+        "resumen": "Según la Armada iraní, los buques entraron con los sistemas de navegación apagados a una zona restringida al norte de la isla de Ghanam y se incendiaron. La UKMTO registró 114 cruces con escolta de EE.UU. entre el 19 y el 21, frente a 138 diarios antes de la guerra.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/es/medio-oriente/20261122-bahrein-denuncia-un-ataque-iran%C3%AD-a-una-instalaci%C3%B3n-industrial-dos-petroleros-se-incendian-en-ormuz"
+      },
       {
         "fecha": "2026-11-22",
         "titulo": "Irán alcanzó una planta industrial en Baréin y tres petroleros fueron atacados en Ormuz",
@@ -1817,8 +1838,15 @@ window.HILOS = {
     "nombre": "Cumbre del clima COP31 en Antalya",
     "tema": "Mundo",
     "creado": "2026-11-22",
-    "actualizado": "2026-11-22",
+    "actualizado": "2026-11-23",
     "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "La COP31 terminó sin acuerdo: el bloque árabe, con Arabia Saudita a la cabeza, vetó nombrar los combustibles fósiles",
+        "resumen": "Tras dos semanas y dos días de prórroga en Antalya, el texto final no fue adoptado: la UE, Panamá y las Islas Marshall lo rechazaron por omitir los combustibles fósiles, y la Liga Árabe, encabezada por Arabia Saudita, se opuso a mencionar su abandono.",
+        "fuente": "Noticias ONU",
+        "url": "https://news.un.org/es/story/2026/11/1542199"
+      },
       {
         "fecha": "2026-11-22",
         "titulo": "La COP31 se estira sin acuerdo: el último borrador omite la salida de los combustibles fósiles",
@@ -1840,6 +1868,21 @@ window.HILOS = {
         "resumen": "Levent Alpöge publicó el viernes la prueba, desarrollada en unas seis semanas con Claude y escrita en Lean; el sábado la comunidad de Lean y la iniciativa Mathlib certificaron que el enunciado y la demostración son correctos.",
         "fuente": "The Guardian",
         "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+      }
+    ]
+  },
+  "limites-comunes-ia": {
+    "nombre": "Propuestas de límites comunes al desarrollo de la IA",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-23",
+    "actualizado": "2026-11-23",
+    "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
+        "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
+        "fuente": "La Nación (Reuters)",
+        "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/"
       }
     ]
   }
