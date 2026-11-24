@@ -96,8 +96,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-23",
+    "actualizado": "2026-11-24",
     "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Zelenski se atribuyó el hundimiento de la corbeta rusa en Libia; la OTAN enviará un avión AWACS a Polonia",
+        "resumen": "Kiev dice que siete drones navales hundieron la corbeta Merkury en Bengasi y alcanzaron el carguero MV Angara, usado para llevar armas. Dos funcionarios libios dicen que la corbeta quedó muy dañada pero no se hundió.",
+        "fuente": "Euronews",
+        "url": "https://es.euronews.com/2026/11/23/zelenski-confirma-ataque-ucrania-buque-ruso-libia"
+      },
       {
         "fecha": "2026-11-23",
         "titulo": "Un ataque ruso derrumbó un edificio cerca de Kiev y drones atribuidos a Ucrania dañaron una corbeta rusa en Libia",
@@ -1347,8 +1354,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-21",
+    "actualizado": "2026-11-24",
     "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
+        "resumen": "El índice cayó 30 puntos tras subir 240 en la semana, en un rebote global impulsado por la vuelta de Huang a Nvidia; Globant ganó 9,5% y Galicia 5,5%. Página/12 recoge a economistas que hablan del fin del «trade Milei».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
+      },
       {
         "fecha": "2026-11-21",
         "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
@@ -1571,8 +1585,15 @@ window.HILOS = {
     "nombre": "Investigación a Jensen Huang en Nvidia",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-10",
-    "actualizado": "2026-11-20",
+    "actualizado": "2026-11-24",
     "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
+        "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
+      },
       {
         "fecha": "2026-11-20",
         "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
@@ -1875,14 +1896,36 @@ window.HILOS = {
     "nombre": "Propuestas de límites comunes al desarrollo de la IA",
     "tema": "Inteligencia Artificial",
     "creado": "2026-11-23",
-    "actualizado": "2026-11-23",
+    "actualizado": "2026-11-24",
     "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Guterres pidió a los países crear en un año un marco global para gestionar los riesgos de la IA",
+        "resumen": "En una cumbre sobre seguridad de la IA en Barbados, el secretario general de la ONU pidió un marco multilateral con supervisión independiente, que empiece por medidas comunes de seguridad, un régimen de pruebas y requisitos básicos de control.",
+        "fuente": "Euronews",
+        "url": "https://es.euronews.com/2026/11/24/guterres-pide-a-los-paises-adoptar-en-un-ano-medidas-de-seguridad-de-la-ia"
+      },
       {
         "fecha": "2026-11-23",
         "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
         "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
         "fuente": "La Nación (Reuters)",
         "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/"
+      }
+    ]
+  },
+  "satelite-nuclear-rusia": {
+    "nombre": "Satélite nuclear ruso Sputnik-S",
+    "tema": "Mundo",
+    "creado": "2026-11-24",
+    "actualizado": "2026-11-24",
+    "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Inteligencias de la OTAN creen que Rusia podría lanzar en 60 días un satélite con una ojiva nuclear",
+        "resumen": "Según NDR, WDR y el Süddeutsche Zeitung, el «Sputnik-S» está armado y guardado cerca de Moscú, y el comando espacial alemán ve posible su lanzamiento en diciembre. Rutte dijo que la OTAN se defenderá también en el espacio; el Kremlin lo descartó.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
       }
     ]
   }

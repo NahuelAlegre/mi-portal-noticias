@@ -1522,13 +1522,13 @@ window.GLOSARIO = {
   "jensen-huang": {
     "nombre": "Jensen Huang",
     "tipo": "persona",
-    "texto": "Ingeniero taiwanés-estadounidense, cofundador de Nvidia y su único CEO desde 1993. Renunció el 12 de noviembre de 2026 tras revelarse relaciones extramatrimoniales.",
+    "texto": "Ingeniero taiwanés-estadounidense, cofundador y CEO de Nvidia. Renunció el 12 de noviembre de 2026 por relaciones extramatrimoniales y fue restituido el 23 de noviembre.",
     "alias": [
       "Jensen Huang",
       "Huang"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Jensen_Huang_20231109.jpg/330px-Jensen_Huang_20231109.jpg",
-    "actualizado": "2026-11-13"
+    "actualizado": "2026-11-24"
   },
   "grynkewich": {
     "nombre": "Alexus Grynkewich",
@@ -1675,11 +1675,11 @@ window.GLOSARIO = {
   "megaspeed": {
     "nombre": "Megaspeed",
     "tipo": "organizacion",
-    "texto": "Empresa de centros de datos con sede en Singapur que usa chips de Nvidia. EE.UU. sospecha que su ejecutiva Alice Huang es espía china.",
+    "texto": "Empresa de centros de datos con sede en Singapur que compraba chips de Nvidia. Su ex CEO Alice Huang es investigada en EE.UU., que la sumó a su lista negra de exportaciones en noviembre de 2026.",
     "alias": [
       "Megaspeed"
     ],
-    "actualizado": "2026-11-12"
+    "actualizado": "2026-11-24"
   },
   "inflacion-nucleo": {
     "nombre": "Inflación núcleo",
@@ -1766,13 +1766,13 @@ window.GLOSARIO = {
   "colette-kress": {
     "nombre": "Colette Kress",
     "tipo": "persona",
-    "texto": "Ejecutiva estadounidense, directora financiera de Nvidia desde 2013. Asumió como CEO interina el 12 de noviembre de 2026, tras la renuncia de Jensen Huang.",
+    "texto": "Ejecutiva estadounidense, directora financiera de Nvidia desde 2013. Fue CEO interina entre el 12 y el 23 de noviembre de 2026, tras la renuncia de Jensen Huang.",
     "alias": [
       "Colette Kress",
       "Kress"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Colette_Kress.png/330px-Colette_Kress.png",
-    "actualizado": "2026-11-13"
+    "actualizado": "2026-11-24"
   },
   "harvey-jones": {
     "nombre": "Harvey C. Jones",
@@ -2498,5 +2498,60 @@ window.GLOSARIO = {
       "perplejidad"
     ],
     "actualizado": "2026-11-23"
+  },
+  "veronica-perez": {
+    "nombre": "Verónica Gabriela Pérez",
+    "tipo": "persona",
+    "texto": "Abogada y escribana, dirigió la delegación del PAMI en San Martín y desde septiembre de 2026 era su coordinadora ejecutiva. Fue designada directora ejecutiva el 23 de noviembre de 2026.",
+    "alias": [
+      "Verónica Pérez"
+    ],
+    "actualizado": "2026-11-24"
+  },
+  "sbu": {
+    "nombre": "SBU (Servicio de Seguridad de Ucrania)",
+    "tipo": "organizacion",
+    "texto": "Principal servicio de inteligencia y seguridad interior de Ucrania. Difundió los videos del ataque con drones navales contra buques rusos en Libia.",
+    "alias": [
+      "SBU"
+    ],
+    "actualizado": "2026-11-24"
+  },
+  "awacs": {
+    "nombre": "AWACS",
+    "tipo": "concepto",
+    "texto": "Avión de alerta temprana con un gran radar rotativo que vigila el espacio aéreo y guía a cazas aliados. La OTAN tiene 14, con base en Geilenkirchen (Alemania).",
+    "alias": [
+      "AWACS"
+    ],
+    "actualizado": "2026-11-24"
+  },
+  "tratado-espacio-ultraterrestre": {
+    "nombre": "Tratado del Espacio Ultraterrestre",
+    "tipo": "ley",
+    "texto": "Tratado internacional de 1967, firmado por Rusia, que prohíbe poner en órbita armas nucleares o de destrucción masiva.",
+    "alias": [
+      "Tratado del Espacio Ultraterrestre"
+    ],
+    "actualizado": "2026-11-24"
+  },
+  "plan-moretti": {
+    "nombre": "Plan Moretti",
+    "tipo": "ley",
+    "texto": "Paquete de ajuste fiscal del gobierno de Lula, llamado así por el ministro de Planificación, Bruno Moretti. Permite congelar más gasto y recortar beneficios tributarios para cumplir las metas de 2027.",
+    "alias": [
+      "Plan Moretti"
+    ],
+    "actualizado": "2026-11-24"
+  },
+  "lista-de-entidades": {
+    "nombre": "Lista de Entidades (EE.UU.)",
+    "tipo": "concepto",
+    "texto": "Lista negra del Departamento de Comercio de EE.UU.: exportar productos estadounidenses a las empresas incluidas requiere una licencia que en general se deniega.",
+    "alias": [
+      "lista negra de exportaciones",
+      "lista negra"
+    ],
+    "actualizado": "2026-11-24"
   }
 };

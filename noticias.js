@@ -1,22 +1,22 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-23",
-  "actualizado": "2026-11-23T07:23:33-03:00",
+  "fecha": "2026-11-24",
+  "actualizado": "2026-11-24T07:25:03-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "La COP31 terminó sin acuerdo: el bloque árabe, con Arabia Saudita a la cabeza, vetó nombrar los combustibles fósiles",
-      "resumen": "Tras dos semanas y dos días de prórroga en Antalya, el texto final no fue adoptado: la UE, Panamá y las Islas Marshall lo rechazaron por omitir los combustibles fósiles, y la Liga Árabe, encabezada por Arabia Saudita, se opuso a mencionar su abandono.",
-      "tema": "Mundo",
-      "fuente": "Noticias ONU",
-      "url": "https://news.un.org/es/story/2026/11/1542199"
+      "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
+      "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
+      "tema": "Inteligencia Artificial",
+      "fuente": "CNN en Español",
+      "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
     },
     {
-      "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
-      "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
-      "tema": "Inteligencia Artificial",
-      "fuente": "La Nación (Reuters)",
-      "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/"
+      "titulo": "Zelenski se atribuyó el hundimiento de la corbeta rusa en Libia; la OTAN enviará un avión AWACS a Polonia",
+      "resumen": "Kiev dice que siete drones navales hundieron la corbeta Merkury en Bengasi y alcanzaron el carguero MV Angara, usado para llevar armas. Dos funcionarios libios dicen que la corbeta quedó muy dañada pero no se hundió.",
+      "tema": "Mundo",
+      "fuente": "Euronews",
+      "url": "https://es.euronews.com/2026/11/23/zelenski-confirma-ataque-ucrania-buque-ruso-libia"
     }
   ],
   "temas": [
@@ -24,16 +24,13 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "Última semana de sesiones ordinarias: Diputados votaría el Presupuesto 2027 el jueves 26",
-          "resumen": "El oficialismo cuenta unos 126 votos de 129 y sigue la pelea entre el PRO y Provincias Unidas. Infobae da por hecho que la Ley Malvinas y la reforma del BCRA pasan a extraordinarias; La Nación dice que el Gobierno evalúa llevar Malvinas al recinto ese día.",
-          "porQueImporta": "Provincias Unidas presentó un dictamen alternativo que pide más fondos para universidades y discapacidad y menos impuesto a los combustibles. Ese jueves el Senado vota la suspensión de las PASO; el período ordinario termina el viernes 27.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/",
-          "hilo": "presupuesto-2027",
+          "titulo": "El Gobierno reemplazó a las dos máximas autoridades del PAMI en plena crisis de pagos a prestadores",
+          "resumen": "Verónica Pérez y Elizabeth Osterberg reemplazan a Esteban Leguízamo y Carlos Zamparolo (Decreto 1412/2026). Salud habló de una «nueva etapa» de modernización; Clarín e Infobae lo atribuyen a la puja con funcionarios de Santiago Caputo.",
+          "porQueImporta": "El PAMI atiende a casi 6 millones de afiliados y en 2026 acumuló deudas con clínicas y sanatorios por demoras en las partidas del Tesoro, con honorarios médicos atrasados e interrupciones en la atención.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/sociedad/gobierno-cambio-cupula-pami-van-jefe-segundo-medio-fuerte-crisis_0_fLP9cVBwZx.html",
           "glosario": [
-            "provincias-unidas",
-            "ley-malvinas",
-            "carta-organica-bcra"
+            "veronica-perez"
           ]
         }
       ]
@@ -42,50 +39,40 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "La COP31 terminó sin acuerdo: el bloque árabe, con Arabia Saudita a la cabeza, vetó nombrar los combustibles fósiles",
-          "resumen": "Tras dos semanas y dos días de prórroga en Antalya, el texto final no fue adoptado: la UE, Panamá y las Islas Marshall lo rechazaron por omitir los combustibles fósiles, y la Liga Árabe, encabezada por Arabia Saudita, se opuso a mencionar su abandono.",
-          "porQueImporta": "Fue la cumbre del clima más larga registrada. Guterres habló de un revés «profundamente decepcionante»; los temas pendientes, como la financiación para países en desarrollo, pasan a la COP32, en Addis Abeba (Etiopía).",
-          "fuente": "Noticias ONU",
-          "url": "https://news.un.org/es/story/2026/11/1542199",
-          "hilo": "cop31",
-          "glosario": [
-            "cop31"
-          ]
-        },
-        {
-          "titulo": "Un ataque ruso derrumbó un edificio cerca de Kiev y drones atribuidos a Ucrania dañaron una corbeta rusa en Libia",
-          "resumen": "Al menos diez personas murieron en la región de Kiev, siete en un edificio de cinco pisos en Dymer. En Bengasi, dos drones marítimos alcanzaron la corbeta Merkury, según militares libios; el embajador ruso acusó a Ucrania y dijo que el Kremlin evalúa cómo responder.",
-          "porQueImporta": "Polonia confirmó que los tres proyectiles caídos el viernes en su territorio eran misiles Kh-101 fabricados en 2026, y la OTAN se reúne este lunes en Bruselas por el incidente. Zelenski pidió a EE.UU. autorizar más misiles Patriot tras una semana con 2.700 drones rusos.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev",
+          "titulo": "Zelenski se atribuyó el hundimiento de la corbeta rusa en Libia; la OTAN enviará un avión AWACS a Polonia",
+          "resumen": "Kiev dice que siete drones navales hundieron la corbeta Merkury en Bengasi y alcanzaron el carguero MV Angara, usado para llevar armas. Dos funcionarios libios dicen que la corbeta quedó muy dañada pero no se hundió.",
+          "porQueImporta": "El gobierno del este de Libia anunció una investigación conjunta con Rusia y el de Trípoli expresó preocupación por el uso de infraestructura civil libia. Tras la reunión de la OTAN por los tres Kh-101 caídos en Polonia, el SACEUR autorizó desplegar allí un AWACS.",
+          "fuente": "Euronews",
+          "url": "https://es.euronews.com/2026/11/23/zelenski-confirma-ataque-ucrania-buque-ruso-libia",
           "hilo": "guerra-ucrania",
           "glosario": [
-            "ejercito-nacional-libio",
+            "sbu",
+            "awacs",
             "kh-101",
-            "pac-3"
+            "ejercito-nacional-libio"
           ]
         },
         {
-          "titulo": "Irán dice que dos superpetroleros chocaron con minas en Ormuz, donde ya fueron atacados 25 barcos en una semana",
-          "resumen": "Según la Armada iraní, los buques entraron con los sistemas de navegación apagados a una zona restringida al norte de la isla de Ghanam y se incendiaron. La UKMTO registró 114 cruces con escolta de EE.UU. entre el 19 y el 21, frente a 138 diarios antes de la guerra.",
-          "porQueImporta": "Baréin elevó a dos los heridos, uno grave, por el ataque iraní del sábado contra una zona industrial; Jordania, Qatar, Emiratos, Arabia Saudita y la Liga Árabe lo condenaron.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261122-bahrein-denuncia-un-ataque-iran%C3%AD-a-una-instalaci%C3%B3n-industrial-dos-petroleros-se-incendian-en-ormuz",
-          "hilo": "guerra-iran",
+          "titulo": "Inteligencias de la OTAN creen que Rusia podría lanzar en 60 días un satélite con una ojiva nuclear",
+          "resumen": "Según NDR, WDR y el Süddeutsche Zeitung, el «Sputnik-S» está armado y guardado cerca de Moscú, y el comando espacial alemán ve posible su lanzamiento en diciembre. Rutte dijo que la OTAN se defenderá también en el espacio; el Kremlin lo descartó.",
+          "porQueImporta": "Violaría el Tratado del Espacio Ultraterrestre de 1967. El jefe del Comando Espacial de EE.UU. estimó que una detonación así inutilizaría en horas o días un tercio de los satélites en órbita baja.",
+          "fuente": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo",
+          "hilo": "satelite-nuclear-rusia",
           "glosario": [
-            "ormuz",
-            "ukmto"
+            "tratado-espacio-ultraterrestre",
+            "rutte"
           ]
         },
         {
-          "titulo": "Al menos 45 muertos, 24 de ellos niños, en un ataque contra aldeas de Sudán del Sur",
-          "resumen": "Hombres armados atacaron el domingo de madrugada aldeas del condado de Tonj Norte, en Warrap, y robaron ganado. El gobernador Angelo Ngout Mayar culpó al Ejército Blanco, milicia vinculada a Riek Machar; la autoría no fue verificada de forma independiente.",
-          "porQueImporta": "El país prepara para el 11 de febrero de 2027 sus primeras elecciones generales desde la independencia de 2011, con Machar suspendido como vicepresidente y procesado en Yuba.",
-          "fuente": "SWI swissinfo.ch (EFE)",
-          "url": "https://www.swissinfo.ch/spa/al-menos-45-muertos%2c-entre-ellos-24-ni%c3%b1os%2c-en-un-ataque-contra-aldeas-en-sud%c3%a1n-del-sur/92420571",
+          "titulo": "Brasil aprobó el ajuste fiscal de Lula mientras el real tocaba los 6 por dólar",
+          "resumen": "Diputados aprobó el «Plan Moretti» por 352 a 128, ya votado por el Senado: baja el techo de aumento real del gasto de 2,5% a 2% y recorta 10% los beneficios tributarios, con un ahorro de hasta 56.000 millones de reales en 2027.",
+          "porQueImporta": "La deuda supera el 80% del PIB y la tasa está en 13,75%. Lula se negó a tocar la regla de aumento del salario mínimo, que reclamaba el mercado; el PL de Bolsonaro votó en contra.",
+          "fuente": "DW",
+          "url": "https://www.dw.com/es/congreso-de-brasil-aprueba-paquete-de-ajuste-fiscal-del-gobierno-de-lula-da-silva/a-80027920",
           "glosario": [
-            "ejercito-blanco",
-            "riek-machar"
+            "plan-moretti",
+            "partido-liberal"
           ]
         }
       ]
@@ -94,15 +81,35 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
-          "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
-          "porQueImporta": "Pachocki estima que la IA podría acelerar la investigación sobre su propio entrenamiento ya en 2027, más rápido que los avances en seguridad. OpenAI dice que sus modelos ya bajaron de 0,8 de log-perplejidad y que eso trajo capacidades nuevas en ciberseguridad y matemáticas.",
-          "fuente": "La Nación (Reuters)",
-          "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/",
-          "hilo": "limites-comunes-ia",
+          "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
+          "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
+          "porQueImporta": "El Nasdaq rebotó 6,5%. Comercio sumó a Megaspeed, la empresa de Alice Huang, y a seis firmas asociadas a su lista negra de exportaciones; la investigación interna sigue y Huang declarará el jueves ante el Senado.",
+          "fuente": "CNN en Español",
+          "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax",
+          "hilo": "investigacion-nvidia-huang",
           "glosario": [
-            "jakub-pachocki",
-            "perplejidad"
+            "jensen-huang",
+            "megaspeed",
+            "lista-de-entidades"
+          ]
+        },
+        {
+          "titulo": "Guterres pidió a los países crear en un año un marco global para gestionar los riesgos de la IA",
+          "resumen": "En una cumbre sobre seguridad de la IA en Barbados, el secretario general de la ONU pidió un marco multilateral con supervisión independiente, que empiece por medidas comunes de seguridad, un régimen de pruebas y requisitos básicos de control.",
+          "porQueImporta": "Dijo que se lo recomendará a su sucesor, que asume a comienzos de 2027 y aún no fue elegido. En EE.UU., donde la IA avanza más rápido, solo rige un código de conducta voluntario que las tecnológicas aceptaron en septiembre ante Trump.",
+          "fuente": "Euronews",
+          "url": "https://es.euronews.com/2026/11/24/guterres-pide-a-los-paises-adoptar-en-un-ano-medidas-de-seguridad-de-la-ia",
+          "hilo": "limites-comunes-ia"
+        },
+        {
+          "titulo": "Agentes de IA de Google DeepMind abarataron hasta 11,8 veces circuitos de computación cuántica",
+          "resumen": "Equipos de agentes de Gemini 4 mejoraron algoritmos cuánticos conocidos y probaron cada resultado en Lean: el circuito para simular fusión por láser bajó su costo 11,8 veces y el de la enzima P450, 2,5 veces.",
+          "porQueImporta": "Los circuitos no pueden probarse en las computadoras actuales y las cifras son de la propia empresa, que publicó el código y las pruebas para que otros las verifiquen.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/24/google-uso-agentes-de-ia-para-abaratar-hasta-118-veces-un-calculo-de-computadoras-cuanticas/",
+          "glosario": [
+            "deepmind",
+            "lean"
           ]
         }
       ]
@@ -110,28 +117,28 @@ window.NOTICIAS = {
   ],
   "seguimiento": [
     {
-      "hilo": "cop31",
-      "novedad": "Un día después del último borrador, la cumbre cerró sin adoptar ningún texto: la UE rechazó el «Pacto de Antalya» y el bloque árabe vetó mencionar los combustibles fósiles.",
-      "fuente": "Noticias ONU",
-      "url": "https://news.un.org/es/story/2026/11/1542199"
+      "hilo": "investigacion-nvidia-huang",
+      "novedad": "Cuatro días después de que el directorio descartara devolverle el cargo, Nvidia restituyó a Huang como CEO tras la presión de Trump, y Comercio sancionó a Megaspeed.",
+      "fuente": "CNN en Español",
+      "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
     },
     {
       "hilo": "guerra-ucrania",
-      "novedad": "Tras el carguero del golfo de Finlandia, drones atribuidos a Ucrania alcanzaron la corbeta rusa Merkury en Bengasi, y un ataque ruso mató al menos a diez personas en la región de Kiev.",
-      "fuente": "France 24",
-      "url": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev"
+      "novedad": "Zelenski reivindicó el ataque en Libia, dijo que la corbeta Merkury se hundió y sumó al carguero MV Angara; la OTAN enviará un AWACS a Polonia tras los Kh-101.",
+      "fuente": "Euronews",
+      "url": "https://es.euronews.com/2026/11/23/zelenski-confirma-ataque-ucrania-buque-ruso-libia"
     },
     {
-      "hilo": "guerra-iran",
-      "novedad": "Irán informó que otros dos superpetroleros chocaron con minas al este de Ormuz, y Baréin elevó a dos los heridos del ataque del sábado, que el día anterior se daba sin víctimas.",
-      "fuente": "France 24",
-      "url": "https://www.france24.com/es/medio-oriente/20261122-bahrein-denuncia-un-ataque-iran%C3%AD-a-una-instalaci%C3%B3n-industrial-dos-petroleros-se-incendian-en-ormuz"
+      "hilo": "riesgo-pais-mercados",
+      "novedad": "Tras cerrar el viernes en 1.071 puntos, el riesgo país bajó a 1.035 en un rebote global; el mercado local no operó por el feriado.",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
     },
     {
-      "hilo": "presupuesto-2027",
-      "novedad": "La sesión prevista para el miércoles 25 pasó al jueves 26, con unos 126 votos asegurados y Provincias Unidas con dictamen propio y reclamos pendientes.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/"
+      "hilo": "limites-comunes-ia",
+      "novedad": "Un día después de la propuesta de OpenAI, Guterres pidió a los Estados un marco multilateral de gestión de riesgos de la IA en el plazo de un año.",
+      "fuente": "Euronews",
+      "url": "https://es.euronews.com/2026/11/24/guterres-pide-a-los-paises-adoptar-en-un-ano-medidas-de-seguridad-de-la-ia"
     }
   ]
 };
