@@ -4,8 +4,15 @@ window.HILOS = {
     "nombre": "Ley de Malvinas en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-19",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "La Ley Malvinas quedó fuera de la sesión del jueves y pasa a las extraordinarias de diciembre",
+        "resumen": "El Gobierno la sacó del temario, que se concentra en el Presupuesto 2027 y la Carta Orgánica del BCRA, y anunció que será la primera iniciativa de las extraordinarias. Santiago Caputo respondió en X con críticas leídas como dirigidas a los Menem.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      },
       {
         "fecha": "2026-11-19",
         "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
@@ -541,8 +548,15 @@ window.HILOS = {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-23",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "Diputados sesiona el jueves por el Presupuesto 2027; la Ley Malvinas pasó a extraordinarias",
+        "resumen": "La sesión será el jueves 26 a las 12, con el Presupuesto y la reforma del BCRA. La Nación cuenta quórum y unos 126 votos; Infobae dice que Provincias Unidas anticipó que no dará quórum, aunque negocia por biocombustibles y el Consejo de la Magistratura.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      },
       {
         "fecha": "2026-11-23",
         "titulo": "Última semana de sesiones ordinarias: Diputados votaría el Presupuesto 2027 el jueves 26",
@@ -662,8 +676,15 @@ window.HILOS = {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
     "creado": "2026-10-21",
-    "actualizado": "2026-11-21",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "Anthropic cayó por debajo de su precio de salida a bolsa, menos de una semana después del debut",
+        "resumen": "La acción llegó a US$76,6 el martes, bajo los US$83 de la oferta y lejos de los US$111,50 con que abrió el jueves, y cerró en US$81,91 (-6,5%), en una jornada de caídas para Nvidia y el Nasdaq tras el rebote del lunes.",
+        "fuente": "Forbes Perú",
+        "url": "https://forbes.pe/negocios/2026-11-24/las-acciones-de-anthropic-caen-por-debajo-de-los-us83-por-accion-su-precio-de-salida-a-bolsa/"
+      },
       {
         "fecha": "2026-11-21",
         "titulo": "Anthropic cayó 8,5% en su primera jornada completa en medio de una venta masiva de acciones de IA",
@@ -883,8 +904,15 @@ window.HILOS = {
     "nombre": "Guerra con Irán y crisis en el estrecho de Ormuz",
     "tema": "Mundo",
     "creado": "2026-10-24",
-    "actualizado": "2026-11-23",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "Irán ordenó endurecer cada día el bloqueo de Ormuz mientras Qatar busca reabrir el diálogo con EE.UU.",
+        "resumen": "El jefe del Ejército, Amir Hatami, dijo que el estrecho no se abrirá hasta que se cumplan las siete condiciones de Irán. La Guardia Revolucionaria afirma que tres petroleros escoltados por EE.UU. chocaron con minas; no hay confirmación independiente.",
+        "fuente": "Euronews",
+        "url": "https://es.euronews.com/2026/11/24/iran-endurece-cierre-estrecho-ormuz-mientras-qatar-busca-retomar-dialogo"
+      },
       {
         "fecha": "2026-11-23",
         "titulo": "Irán dice que dos superpetroleros chocaron con minas en Ormuz, donde ya fueron atacados 25 barcos en una semana",
@@ -1354,8 +1382,15 @@ window.HILOS = {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
     "creado": "2026-11-03",
-    "actualizado": "2026-11-24",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
+        "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
+      },
       {
         "fecha": "2026-11-24",
         "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
@@ -1527,8 +1562,15 @@ window.HILOS = {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
     "creado": "2026-11-06",
-    "actualizado": "2026-11-12",
+    "actualizado": "2026-11-25",
     "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "Paraguay: la Fiscalía amplió la imputación a Santiago Peña por lavado de activos y cohecho en el caso Ueno",
+        "resumen": "Sostiene que Pear SRL, de su hermano Francisco y su cuñada, compró en 2023 un campo de 1.184 hectáreas a Ueno por US$3 millones y que las cuotas se pagaron con dinero del Grupo Vázquez, dueño del banco. Ambos fueron detenidos e imputados.",
+        "fuente": "DW",
+        "url": "https://www.dw.com/es/la-fiscal%C3%ADa-de-paraguay-acusa-al-expresidente-santiago-pe%C3%B1a-por-lavado-de-activos-y-cohecho/a-80042116"
+      },
       {
         "fecha": "2026-11-12",
         "titulo": "La Fiscalía estima hasta 15 años de prisión para Peña por el caso Ueno Bank",
@@ -1926,6 +1968,21 @@ window.HILOS = {
         "resumen": "Según NDR, WDR y el Süddeutsche Zeitung, el «Sputnik-S» está armado y guardado cerca de Moscú, y el comando espacial alemán ve posible su lanzamiento en diciembre. Rutte dijo que la OTAN se defenderá también en el espacio; el Kremlin lo descartó.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
+      }
+    ]
+  },
+  "recesion-tecnica-2026": {
+    "nombre": "Recesión técnica y actividad económica",
+    "tema": "Argentina",
+    "creado": "2026-11-25",
+    "actualizado": "2026-11-25",
+    "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "La economía entró en recesión técnica: cayó 1,8% en el tercer trimestre pese al rebote de 1,1% en septiembre",
+        "resumen": "Según el EMAE del Indec, septiembre quedó 1,2% debajo de 2025 y las consultoras calculan dos trimestres seguidos en baja (-1% y -1,8%). Caputo destacó la suba mensual y Furiase habló de recesión «estadística»; Página/12 tituló «Fracasó el plan».",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/economia/actividad-economica-subio-apenas-11-septiembre-argentina-entro-recesion-tecnica_0_KY9aL53tCZ.html"
       }
     ]
   }

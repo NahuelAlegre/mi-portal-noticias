@@ -3,12 +3,12 @@ window.GLOSARIO = {
   "ley-malvinas": {
     "nombre": "Ley de Malvinas",
     "tipo": "ley",
-    "texto": "Nombre coloquial del proyecto oficial de Defensa de la Soberanía Nacional, que también reforma defensa e inteligencia. Su votación en Diputados se cayó el 18 de noviembre por falta de quórum.",
+    "texto": "Nombre coloquial del proyecto oficial de Defensa de la Soberanía Nacional, que impulsa Santiago Caputo. Tras caerse su sesión por falta de quórum, pasó a las extraordinarias de diciembre.",
     "alias": [
       "Ley de Malvinas",
       "Ley Malvinas"
     ],
-    "actualizado": "2026-11-23"
+    "actualizado": "2026-11-25"
   },
   "amcham": {
     "nombre": "AmCham Argentina",
@@ -1210,13 +1210,13 @@ window.GLOSARIO = {
   "santiago-pena": {
     "nombre": "Santiago Peña",
     "tipo": "persona",
-    "texto": "Expresidente de Paraguay (2023-2026), del Partido Colorado. El Senado lo destituyó el 6 de noviembre de 2026 por el colapso de Ueno Bank y un juez le dictó prisión preventiva.",
+    "texto": "Expresidente de Paraguay (2023-2026), destituido el 6 de noviembre de 2026 y preso por el caso Ueno Bank. Está imputado también por lavado de activos y cohecho.",
     "alias": [
       "Santiago Peña",
       "Peña"
     ],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/President_Santiago_Pe%C3%B1a.jpg/330px-President_Santiago_Pe%C3%B1a.jpg",
-    "actualizado": "2026-11-08"
+    "actualizado": "2026-11-25"
   },
   "ueno-bank": {
     "nombre": "Ueno Bank",
@@ -2553,5 +2553,110 @@ window.GLOSARIO = {
       "lista negra"
     ],
     "actualizado": "2026-11-24"
+  },
+  "emae": {
+    "nombre": "Estimador Mensual de Actividad Económica (EMAE)",
+    "tipo": "concepto",
+    "texto": "Indicador mensual del Indec que anticipa la evolución del PIB. El dato oficial del PIB se publica por trimestre.",
+    "alias": [
+      "EMAE"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "recesion-tecnica": {
+    "nombre": "Recesión técnica",
+    "tipo": "concepto",
+    "texto": "Nombre usual para dos trimestres consecutivos de caída del PIB desestacionalizado. El Indec aclaró que no le corresponde declarar si hay recesión.",
+    "alias": [
+      "recesión técnica",
+      "recesión"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "federico-furiase": {
+    "nombre": "Federico Furiase",
+    "tipo": "persona",
+    "texto": "Economista y secretario de Finanzas del Ministerio de Economía que conduce Luis Caputo.",
+    "alias": [
+      "Furiase"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "amir-hatami": {
+    "nombre": "Amir Hatami",
+    "tipo": "persona",
+    "texto": "Mayor general y comandante en jefe del Ejército de Irán. Fue ministro de Defensa entre 2017 y 2021.",
+    "alias": [
+      "Amir Hatami",
+      "Hatami"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Meeting_of_the_members_of_the_National_Security_Committee_of_the_Islamic_Consultative_Assembly_with_the_Commander-in-Chief_of_the_Army_3_Mehr.jpg/330px-Meeting_of_the_members_of_the_National_Security_Committee_of_the_Islamic_Consultative_Assembly_with_the_Commander-in-Chief_of_the_Army_3_Mehr.jpg",
+    "actualizado": "2026-11-25"
+  },
+  "grupo-vazquez": {
+    "nombre": "Grupo Vázquez",
+    "tipo": "organizacion",
+    "texto": "Conglomerado empresarial paraguayo al que pertenecen Ueno Bank y la tecnológica Itti. La Fiscalía dice que pagó las cuotas de un campo comprado por la firma del hermano de Peña.",
+    "alias": [
+      "Grupo Vázquez"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "nikol-pashinian": {
+    "nombre": "Nikol Pashinián",
+    "tipo": "persona",
+    "texto": "Primer ministro de Armenia desde 2018, del partido Contrato Civil. Impulsa una nueva Constitución para firmar la paz con Azerbaiyán.",
+    "alias": [
+      "Pashinián"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nikol_Pashinyan_at_the_2025_SCO_Summit.jpg/330px-Nikol_Pashinyan_at_the_2025_SCO_Summit.jpg",
+    "actualizado": "2026-11-25"
+  },
+  "nagorno-karabaj": {
+    "nombre": "Nagorno Karabaj",
+    "tipo": "lugar",
+    "texto": "Región de mayoría armenia reconocida como parte de Azerbaiyán, que la retomó en 2023 tras una ofensiva. Más de 100.000 armenios huyeron; los armenios la llaman Artsaj.",
+    "alias": [
+      "Nagorno Karabaj",
+      "Karabaj"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "ilham-aliyev": {
+    "nombre": "Ilham Alíyev",
+    "tipo": "persona",
+    "texto": "Presidente de Azerbaiyán desde 2003. Condiciona la firma de la paz a que Armenia quite de su Constitución la referencia a Karabaj.",
+    "alias": [
+      "Alíyev"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg/330px-Ilham_Aliyev%2C_December_2025_%28cropped%29.jpg",
+    "actualizado": "2026-11-25"
+  },
+  "axios": {
+    "nombre": "Axios",
+    "tipo": "organizacion",
+    "texto": "Medio digital estadounidense de noticias de política, negocios y tecnología. Publicó el informe sobre los temores internos en Anthropic y OpenAI.",
+    "alias": [
+      "Axios"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "grok": {
+    "nombre": "Grok",
+    "tipo": "concepto",
+    "texto": "Chatbot y generador de imágenes de IA de las empresas de Elon Musk, integrado en la red social X; hoy los opera SpaceX. Su «modo picante» permitía crear imágenes sexuales.",
+    "alias": [
+      "Grok"
+    ],
+    "actualizado": "2026-11-25"
+  },
+  "tidal": {
+    "nombre": "Tidal",
+    "tipo": "organizacion",
+    "texto": "Plataforma de streaming musical controlada por Block, la empresa de pagos de Jack Dorsey, y en parte propiedad del rapero Jay-Z.",
+    "alias": [
+      "Tidal"
+    ],
+    "actualizado": "2026-11-25"
   }
 };
