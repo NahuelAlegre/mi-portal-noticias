@@ -1,101 +1,194 @@
 // Historial persistente de hilos. Crece cada día; nunca se reinicia.
 window.HILOS = {
-  "ley-malvinas": {
-    "nombre": "Ley de Malvinas en el Congreso",
+  "riesgo-pais-mercados": {
+    "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
-    "creado": "2026-10-20",
-    "actualizado": "2026-11-25",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-26",
     "entradas": [
       {
-        "fecha": "2026-11-25",
-        "titulo": "La Ley Malvinas quedó fuera de la sesión del jueves y pasa a las extraordinarias de diciembre",
-        "resumen": "El Gobierno la sacó del temario, que se concentra en el Presupuesto 2027 y la Carta Orgánica del BCRA, y anunció que será la primera iniciativa de las extraordinarias. Santiago Caputo respondió en X con críticas leídas como dirigidas a los Menem.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+        "fecha": "2026-11-26",
+        "titulo": "Caputo pidió a China fondear US$5.000 millones del swap como reaseguro para pagar la deuda de 2027",
+        "resumen": "El dólar mayorista superó por primera vez los $1.600 ($1.604) y el riesgo país tocó 1.139 puntos antes de cerrar en 1.067. Caputo habló de dar «certidumbre» si falla la refinanciación; Página/12 tituló «Caputo busca salvataje chino para evitar el default».",
+        "fuente": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/"
       },
       {
-        "fecha": "2026-11-19",
-        "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
-        "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+        "fecha": "2026-11-25",
+        "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
+        "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
+      },
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
+        "resumen": "El índice cayó 30 puntos tras subir 240 en la semana, en un rebote global impulsado por la vuelta de Huang a Nvidia; Globant ganó 9,5% y Galicia 5,5%. Página/12 recoge a economistas que hablan del fin del «trade Milei».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
+      },
+      {
+        "fecha": "2026-11-21",
+        "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
+        "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
+      },
+      {
+        "fecha": "2026-11-20",
+        "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
+        "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
+      },
+      {
+        "fecha": "2026-11-17",
+        "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
+        "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/"
+      },
+      {
+        "fecha": "2026-11-14",
+        "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
+        "resumen": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
+        "resumen": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
+        "resumen": "Bajó 66 puntos (−7%), a 872, con bonos que subieron hasta 3% en Nueva York durante el feriado. Infobae lo atribuyó al petróleo y a Paraguay; Clarín advierte un bache de US$10.000 millones para 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/el-riesgo-pais-cayo-con-fuerza-en-la-argentina-y-se-espera-una-baja-de-tasas-a-nivel-global/"
+      },
+      {
+        "fecha": "2026-11-07",
+        "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
+        "resumen": "Sexta suba seguida (+13 a 939), máximo desde octubre de 2025, pese al rebote del Nasdaq. Clarín y PPI apuntan a factores locales; IEB, en Infobae, ve un riesgo político exagerado.",
         "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
+        "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
+        "resumen": "JP Morgan +73 a 925 (+8,6%), máximo desde octubre de 2025; Merval −4,1%. La Nación enfatizó el risk-off global; Perfil y BAE, las dudas locales y el respaldo de EE.UU.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
+      },
+      {
+        "fecha": "2026-11-05",
+        "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
+        "resumen": "Riesgo país 852 (+21), Merval −2,4%, YPF −6,6% y bonos −1,1%, mientras Wall Street subía tras la victoria demócrata. Caputo dijo que la relación con EE.UU. no cambia.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+      },
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
+        "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
+        "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
+      }
+    ]
+  },
+  "interna-bullrich-milei": {
+    "nombre": "Tensión entre Patricia Bullrich y los Milei",
+    "tema": "Argentina",
+    "creado": "2026-11-02",
+    "actualizado": "2026-11-26",
+    "entradas": [
+      {
+        "fecha": "2026-11-26",
+        "titulo": "Bullrich dijo estar «preparada para ser presidenta» y Caputo le respondió que «nadie puede reemplazar a Milei»",
+        "resumen": "La jefa del bloque libertario del Senado pidió cambios «quirúrgicos»: bajar impuestos, costos logísticos y tasas, porque «no alcanza con decir que todo va a mejorar en 2028». TN lo presentó como un «fuerte desafío» a Milei; LPO destacó que fue la primera respuesta pública de Caputo.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/25/patricia-bullrich-volvio-a-reclamar-cambios-en-el-plan-economico-y-afirmo-estoy-preparada-para-ser-presidenta/"
       },
       {
         "fecha": "2026-11-18",
-        "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
-        "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
-        "fuente": "El Cronista",
-        "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
-        "resumen": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
+        "titulo": "Bullrich volvió a la mesa política y se alineó con la reforma electoral",
+        "resumen": "Bullrich volvió a la mesa política, que no se reunía desde el 20 de octubre, y se alineó con la reforma electoral, según La Nación; cerca de ella aclaran que sigue pidiendo cambios en la economía.",
         "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
+        "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-gobierno-admite-que-todavia-no-cuenta-con-los-votos-en-comision-y-que-el-debate-nid17112026/"
       },
       {
         "fecha": "2026-11-12",
-        "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
-        "resumen": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
+        "titulo": "Milei apuntó contra Bullrich tras la visita del Papa: \"Hay gente dispuesta a hundir el barco\"",
+        "resumen": "Según Clarín, en el Ejecutivo leen el posteo de Milei como un mensaje a Bullrich y suena Nadia Márquez para reemplazarla al frente del bloque libertario del Senado. TN, en cambio, dice que la Casa Rosada cree que la visita del Papa descomprimió la interna.",
         "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
+        "url": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html"
       },
       {
-        "fecha": "2026-10-28",
-        "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
-        "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+        "fecha": "2026-11-06",
+        "titulo": "Bullrich exhibió a 15 diputados propios mientras Karina suspendía la mesa política",
+        "resumen": "La senadora reunió a su bloque paralelo; Menem reiteró que Milei es el único candidato 2027 y circula el nombre de Nadia Márquez como eventual reemplazo al frente del bloque.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
       },
       {
-        "fecha": "2026-10-27",
-        "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
-        "resumen": "El plenario del 27/10 será solo informativo. Caputo acepta sumar a Menem y Abdala al Consejo de Seguridad, crear una bicameral y bajar a 2 años la pena mínima para proveedores; el recinto apunta al 18 de noviembre.",
-        "fuente": "Letra P",
-        "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+        "fecha": "2026-11-05",
+        "titulo": "Bullrich rechazó recortar la Ley de Discapacidad y Caputo le respondió",
+        "resumen": "Según Infobae, Bullrich rechazó un pedido de Casa Rosada de recortar prestaciones en la Ley de Discapacidad, y Caputo le respondió en FIEL que \"no cualquiera\" puede reemplazar a Milei.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
       },
       {
-        "fecha": "2026-10-26",
-        "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
-        "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+        "fecha": "2026-11-04",
+        "titulo": "Bullrich: Karina Milei suspendió la mesa política y la senadora respondió a Martín Menem",
+        "resumen": "Karina Milei suspendió la reunión de la mesa política sin nueva fecha; según Clarín, Bullrich dijo que le «da risa» la frase de Martín Menem de que en LLA no hay otro liderazgo que el de Milei.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/karina-milei-suspende-reunion-mesa-politica-desafio-bullrich-presion-economica-faltazos-anunciados_0_4xUz6k0sol.html"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Bullrich: trascendió que Milei le ofreció la vicepresidencia y Martín Menem cerró filas",
+        "resumen": "Según elDiarioAR, Milei le ofreció a Bullrich la vicepresidencia en Olivos hace tres semanas y ella no se comprometió. Martín Menem afirmó que «el único candidato de LLA es Javier Milei».",
+        "fuente": "elDiarioAR",
+        "url": "https://www.eldiarioar.com/politica/karina-milei-le-marca-cancha-bullrich-ambiciones-presidenciales-crece-tension-oficialismo_1_13632186.html"
+      },
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
+        "resumen": "Según Clarín, Bullrich rearma su equipo y se lanzaría si Milei mide en abril como Alberto Fernández en 2023. Infobae lee como advertencia la foto de Milei con Nadia Márquez, a quien el karinismo impulsa para la Comisión de Acuerdos; Página/12 dice que \"estira su distancia\".",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html"
       },
       {
         "fecha": "2026-10-25",
-        "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
-        "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
-      },
+        "titulo": "Bullrich se diferencia de Milei: dijo que \"cruzó un límite\" al hablar de quemar periodistas",
+        "resumen": "La jefa del bloque de La Libertad Avanza en el Senado cuestionó públicamente los ataques del Presidente al periodismo.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/"
+      }
+    ]
+  },
+  "aranceles-sobrecapacidad": {
+    "nombre": "Aranceles de Trump por sobrecapacidad industrial",
+    "tema": "Mundo",
+    "creado": "2026-11-26",
+    "actualizado": "2026-11-26",
+    "entradas": [
       {
-        "fecha": "2026-10-23",
-        "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
-        "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
-        "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
-        "resumen": "Las comisiones no lograron consenso sobre el proyecto de Defensa de la Soberanía Nacional, de 133 artículos. Unión por la Patria y Provincias Unidas piden separar el tema Malvinas del resto de la reforma de seguridad e inteligencia.",
-        "fuente": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html"
-      },
-      {
-        "fecha": "2026-10-20",
-        "titulo": "El oficialismo posterga al 27 de octubre el debate de la \"ley de Malvinas\"",
-        "resumen": "El proyecto, que también reforma defensa e inteligencia y prevé penas por desinformación, se demora por reclamos de empresas de EE.UU. y falta de apoyos. Esta semana el oficialismo busca tratar en sesión especial la Carta Orgánica del BCRA y el régimen de biocombustibles.",
-        "fuente": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html"
+        "fecha": "2026-11-26",
+        "titulo": "Trump propuso nuevos aranceles a 14 socios, entre ellos China, la UE y Japón, por sobrecapacidad industrial",
+        "resumen": "La USTR fijó topes de 20% para China (40% si cae la tregua que vence el 10 de enero), 15% para la UE, Japón y Corea del Sur y 25% para India si no hay acuerdo. Regirían tras una audiencia el 25 de enero; aparte, propuso un 10% a los aviones de Embraer.",
+        "fuente": "Reuters",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
       }
     ]
   },
@@ -103,8 +196,15 @@ window.HILOS = {
     "nombre": "Guerra en Ucrania y negociaciones de paz",
     "tema": "Mundo",
     "creado": "2026-10-20",
-    "actualizado": "2026-11-24",
+    "actualizado": "2026-11-26",
     "entradas": [
+      {
+        "fecha": "2026-11-26",
+        "titulo": "Una filtración de datos oficiales rusos registra al menos 490.000 soldados muertos en la guerra de Ucrania",
+        "resumen": "La BBC y Mediazona analizaron 11 millones de actas de defunción de Rosstat obtenidas por hackers bielorrusos y ucranianos: en 2025, el 65% de los rusos de 18 a 24 años que murieron cayeron en la guerra. Rosstat admitió el ciberataque, pero negó la filtración.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o"
+      },
       {
         "fecha": "2026-11-24",
         "titulo": "Zelenski se atribuyó el hundimiento de la corbeta rusa en Libia; la OTAN enviará un avión AWACS a Polonia",
@@ -314,6 +414,127 @@ window.HILOS = {
         "resumen": "Zelensky, líderes europeos y el enviado de Trump acordaron propuestas que incluyen garantías de seguridad; Witkoff se reúne con Putin en San Petersburgo este miércoles. Zelensky dijo que EE.UU. volvió a compartir inteligencia.",
         "fuente": "BBC",
         "url": "https://www.bbc.com/news/articles/cq5ynkx3xy11o"
+      }
+    ]
+  },
+  "ia-matematicas": {
+    "nombre": "La IA y los grandes problemas matemáticos",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-26",
+    "entradas": [
+      {
+        "fecha": "2026-11-26",
+        "titulo": "OpenAI afirma haber probado que el exponente de la multiplicación de matrices es exactamente 9/4",
+        "resumen": "Un preprint de 111 páginas, sin autores individuales, suma una cota inferior a la superior de 9/4 que OpenAI publicó en octubre: cerraría un problema abierto desde 1969 y descartaría que el valor sea 2. Lean solo verificó la versión sin divisiones.",
+        "fuente": "Tech Times",
+        "url": "https://www.techtimes.com/articles/331575/20261126/openai-claims-matrix-multiplication-exponent-exactly-9-4-lower-bound-lacks-expert-review.htm"
+      },
+      {
+        "fecha": "2026-11-22",
+        "titulo": "Verificaron la demostración de la hipótesis de Riemann que un matemático de Anthropic hizo con Claude",
+        "resumen": "Levent Alpöge publicó el viernes la prueba, desarrollada en unas seis semanas con Claude y escrita en Lean; el sábado la comunidad de Lean y la iniciativa Mathlib certificaron que el enunciado y la demostración son correctos.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+      }
+    ]
+  },
+  "ley-malvinas": {
+    "nombre": "Ley de Malvinas en el Congreso",
+    "tema": "Argentina",
+    "creado": "2026-10-20",
+    "actualizado": "2026-11-25",
+    "entradas": [
+      {
+        "fecha": "2026-11-25",
+        "titulo": "La Ley Malvinas quedó fuera de la sesión del jueves y pasa a las extraordinarias de diciembre",
+        "resumen": "El Gobierno la sacó del temario, que se concentra en el Presupuesto 2027 y la Carta Orgánica del BCRA, y anunció que será la primera iniciativa de las extraordinarias. Santiago Caputo respondió en X con críticas leídas como dirigidas a los Menem.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      },
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
+        "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
+        "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
+        "resumen": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
+        "resumen": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
+        "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      },
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
+        "resumen": "El plenario del 27/10 será solo informativo. Caputo acepta sumar a Menem y Abdala al Consejo de Seguridad, crear una bicameral y bajar a 2 años la pena mínima para proveedores; el recinto apunta al 18 de noviembre.",
+        "fuente": "Letra P",
+        "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
+        "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
+        "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
+        "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
+        "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
+        "resumen": "Las comisiones no lograron consenso sobre el proyecto de Defensa de la Soberanía Nacional, de 133 artículos. Unión por la Patria y Provincias Unidas piden separar el tema Malvinas del resto de la reforma de seguridad e inteligencia.",
+        "fuente": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html"
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "El oficialismo posterga al 27 de octubre el debate de la \"ley de Malvinas\"",
+        "resumen": "El proyecto, que también reforma defensa e inteligencia y prevé penas por desinformación, se demora por reclamos de empresas de EE.UU. y falta de apoyos. Esta semana el oficialismo busca tratar en sesión especial la Carta Orgánica del BCRA y el régimen de biocombustibles.",
+        "fuente": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html"
       }
     ]
   },
@@ -1314,169 +1535,6 @@ window.HILOS = {
       }
     ]
   },
-  "interna-bullrich-milei": {
-    "nombre": "Tensión entre Patricia Bullrich y los Milei",
-    "tema": "Argentina",
-    "creado": "2026-11-02",
-    "actualizado": "2026-11-18",
-    "entradas": [
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Bullrich volvió a la mesa política y se alineó con la reforma electoral",
-        "resumen": "Bullrich volvió a la mesa política, que no se reunía desde el 20 de octubre, y se alineó con la reforma electoral, según La Nación; cerca de ella aclaran que sigue pidiendo cambios en la economía.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/reforma-electoral-el-gobierno-admite-que-todavia-no-cuenta-con-los-votos-en-comision-y-que-el-debate-nid17112026/"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "Milei apuntó contra Bullrich tras la visita del Papa: \"Hay gente dispuesta a hundir el barco\"",
-        "resumen": "Según Clarín, en el Ejecutivo leen el posteo de Milei como un mensaje a Bullrich y suena Nadia Márquez para reemplazarla al frente del bloque libertario del Senado. TN, en cambio, dice que la Casa Rosada cree que la visita del Papa descomprimió la interna.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/gente-dispuesta-hundir-barco-sugestivo-mensaje-milei-medio-conflicto-gobierno-patricia-bullrich_0_1f174QW9qW.html"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "Bullrich exhibió a 15 diputados propios mientras Karina suspendía la mesa política",
-        "resumen": "La senadora reunió a su bloque paralelo; Menem reiteró que Milei es el único candidato 2027 y circula el nombre de Nadia Márquez como eventual reemplazo al frente del bloque.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
-      },
-      {
-        "fecha": "2026-11-05",
-        "titulo": "Bullrich rechazó recortar la Ley de Discapacidad y Caputo le respondió",
-        "resumen": "Según Infobae, Bullrich rechazó un pedido de Casa Rosada de recortar prestaciones en la Ley de Discapacidad, y Caputo le respondió en FIEL que \"no cualquiera\" puede reemplazar a Milei.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
-      },
-      {
-        "fecha": "2026-11-04",
-        "titulo": "Bullrich: Karina Milei suspendió la mesa política y la senadora respondió a Martín Menem",
-        "resumen": "Karina Milei suspendió la reunión de la mesa política sin nueva fecha; según Clarín, Bullrich dijo que le «da risa» la frase de Martín Menem de que en LLA no hay otro liderazgo que el de Milei.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/karina-milei-suspende-reunion-mesa-politica-desafio-bullrich-presion-economica-faltazos-anunciados_0_4xUz6k0sol.html"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "Bullrich: trascendió que Milei le ofreció la vicepresidencia y Martín Menem cerró filas",
-        "resumen": "Según elDiarioAR, Milei le ofreció a Bullrich la vicepresidencia en Olivos hace tres semanas y ella no se comprometió. Martín Menem afirmó que «el único candidato de LLA es Javier Milei».",
-        "fuente": "elDiarioAR",
-        "url": "https://www.eldiarioar.com/politica/karina-milei-le-marca-cancha-bullrich-ambiciones-presidenciales-crece-tension-oficialismo_1_13632186.html"
-      },
-      {
-        "fecha": "2026-11-02",
-        "titulo": "Bullrich dice que definirá en marzo o abril si compite en 2027 y el Gobierno responde con Nadia Márquez",
-        "resumen": "Según Clarín, Bullrich rearma su equipo y se lanzaría si Milei mide en abril como Alberto Fernández en 2023. Infobae lee como advertencia la foto de Milei con Nadia Márquez, a quien el karinismo impulsa para la Comisión de Acuerdos; Página/12 dice que \"estira su distancia\".",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/patoneta-empezo-moverse-bullrich-toma-distancia-arma-equipo-alternativa-milei-repunta_0_yBKMBxn8vh.html"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Bullrich se diferencia de Milei: dijo que \"cruzó un límite\" al hablar de quemar periodistas",
-        "resumen": "La jefa del bloque de La Libertad Avanza en el Senado cuestionó públicamente los ataques del Presidente al periodismo.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cuestiono-a-milei-por-sus-ataques-al-periodismo-se-cruzo-un-limite-nid25102026/"
-      }
-    ]
-  },
-  "riesgo-pais-mercados": {
-    "nombre": "Riesgo país y mercados argentinos",
-    "tema": "Argentina",
-    "creado": "2026-11-03",
-    "actualizado": "2026-11-25",
-    "entradas": [
-      {
-        "fecha": "2026-11-25",
-        "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
-        "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
-      },
-      {
-        "fecha": "2026-11-24",
-        "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
-        "resumen": "El índice cayó 30 puntos tras subir 240 en la semana, en un rebote global impulsado por la vuelta de Huang a Nvidia; Globant ganó 9,5% y Galicia 5,5%. Página/12 recoge a economistas que hablan del fin del «trade Milei».",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
-      },
-      {
-        "fecha": "2026-11-21",
-        "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
-        "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
-      },
-      {
-        "fecha": "2026-11-20",
-        "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
-        "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
-      },
-      {
-        "fecha": "2026-11-17",
-        "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
-        "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/"
-      },
-      {
-        "fecha": "2026-11-14",
-        "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
-        "resumen": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
-      },
-      {
-        "fecha": "2026-11-11",
-        "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
-        "resumen": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
-        "resumen": "Bajó 66 puntos (−7%), a 872, con bonos que subieron hasta 3% en Nueva York durante el feriado. Infobae lo atribuyó al petróleo y a Paraguay; Clarín advierte un bache de US$10.000 millones para 2027.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/10/el-riesgo-pais-cayo-con-fuerza-en-la-argentina-y-se-espera-una-baja-de-tasas-a-nivel-global/"
-      },
-      {
-        "fecha": "2026-11-07",
-        "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
-        "resumen": "Sexta suba seguida (+13 a 939), máximo desde octubre de 2025, pese al rebote del Nasdaq. Clarín y PPI apuntan a factores locales; IEB, en Infobae, ve un riesgo político exagerado.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
-        "resumen": "JP Morgan +73 a 925 (+8,6%), máximo desde octubre de 2025; Merval −4,1%. La Nación enfatizó el risk-off global; Perfil y BAE, las dudas locales y el respaldo de EE.UU.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
-      },
-      {
-        "fecha": "2026-11-05",
-        "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
-        "resumen": "Riesgo país 852 (+21), Merval −2,4%, YPF −6,6% y bonos −1,1%, mientras Wall Street subía tras la victoria demócrata. Caputo dijo que la relación con EE.UU. no cambia.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
-      },
-      {
-        "fecha": "2026-11-04",
-        "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
-        "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
-        "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
-      }
-    ]
-  },
   "candidatura-cfk-2027": {
     "nombre": "Cristina Kirchner y la candidatura 2027",
     "tema": "Argentina",
@@ -1916,21 +1974,6 @@ window.HILOS = {
         "resumen": "La cumbre de Antalya, que debía cerrar el viernes, sigue el domingo con un texto de Turquía y Australia que solo remite al acuerdo de la COP28 y pide que en 2035 el 35% de la energía consumida sea eléctrica. Francia lo llamó «retroceso inaceptable».",
         "fuente": "El País",
         "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html"
-      }
-    ]
-  },
-  "ia-matematicas": {
-    "nombre": "La IA y los grandes problemas matemáticos",
-    "tema": "Inteligencia Artificial",
-    "creado": "2026-11-22",
-    "actualizado": "2026-11-22",
-    "entradas": [
-      {
-        "fecha": "2026-11-22",
-        "titulo": "Verificaron la demostración de la hipótesis de Riemann que un matemático de Anthropic hizo con Claude",
-        "resumen": "Levent Alpöge publicó el viernes la prueba, desarrollada en unas seis semanas con Claude y escrita en Lean; el sábado la comunidad de Lean y la iniciativa Mathlib certificaron que el enunciado y la demostración son correctos.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
       }
     ]
   },

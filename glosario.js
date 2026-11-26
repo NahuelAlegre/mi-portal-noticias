@@ -2658,5 +2658,154 @@ window.GLOSARIO = {
       "Tidal"
     ],
     "actualizado": "2026-11-25"
+  },
+  "swap-china": {
+    "nombre": "Swap de monedas con China",
+    "tipo": "concepto",
+    "texto": "Acuerdo de intercambio de monedas entre el BCRA y el Banco Popular de China por 130.000 millones de yuanes (unos US$20.000 millones), vigente hasta 2031. Un tramo de US$5.000 millones está activado desde 2023.",
+    "alias": [
+      "swap"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "side": {
+    "nombre": "Secretaría de Inteligencia de Estado (SIDE)",
+    "tipo": "organizacion",
+    "texto": "Organismo de inteligencia del Estado argentino, que reemplazó a la AFI en 2024. Su conducción responde al asesor presidencial Santiago Caputo.",
+    "alias": [
+      "SIDE"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "diego-santilli": {
+    "nombre": "Diego Santilli",
+    "tipo": "persona",
+    "texto": "Político del PRO y jefe de Gabinete de Javier Milei desde junio de 2026; antes fue ministro del Interior. El 25 de noviembre presentó su primer informe de gestión ante el Senado.",
+    "alias": [
+      "Diego Santilli",
+      "Santilli"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SantilliOficial_%28cropped%29.jpg/330px-SantilliOficial_%28cropped%29.jpg",
+    "actualizado": "2026-11-26"
+  },
+  "santiago-caputo": {
+    "nombre": "Santiago Caputo",
+    "tipo": "persona",
+    "texto": "Consultor político y asesor de Javier Milei, estratega de su campaña de 2023. Bajo su órbita está la SIDE; no tiene cargo formal en el Gabinete.",
+    "alias": [
+      "Santiago Caputo"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/89/GabineteMilei2do_%28cropped%29.jpg",
+    "actualizado": "2026-11-26"
+  },
+  "gastos-reservados": {
+    "nombre": "Gastos reservados",
+    "tipo": "concepto",
+    "texto": "Fondos de los organismos de inteligencia cuyo destino no se detalla públicamente ni se rinde por las vías habituales; los controla la comisión bicameral de Inteligencia del Congreso.",
+    "alias": [
+      "gastos reservados"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "ustr": {
+    "nombre": "Oficina del Representante Comercial de EE.UU. (USTR)",
+    "tipo": "organizacion",
+    "texto": "Agencia del gobierno de EE.UU. que negocia acuerdos comerciales e investiga prácticas de otros países; la dirige Jamieson Greer. Propone los aranceles de la Sección 301.",
+    "alias": [
+      "USTR"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "seccion-301": {
+    "nombre": "Sección 301",
+    "tipo": "ley",
+    "texto": "Artículo de la Ley de Comercio de EE.UU. de 1974 que permite imponer aranceles a países con prácticas comerciales consideradas desleales, tras una investigación de la USTR.",
+    "alias": [
+      "Sección 301"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "rosstat": {
+    "nombre": "Rosstat",
+    "tipo": "organizacion",
+    "texto": "Servicio Federal de Estadísticas de Rusia. Dejó de publicar datos de muertes por causas externas hace dos años y en 2026 sufrió un ciberataque.",
+    "alias": [
+      "Rosstat"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "mediazona": {
+    "nombre": "Mediazona",
+    "tipo": "organizacion",
+    "texto": "Medio ruso independiente que trabaja desde el exilio. Junto con el servicio ruso de la BBC lleva desde 2022 una lista con nombre de los soldados rusos muertos en Ucrania.",
+    "alias": [
+      "Mediazona"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "meduza": {
+    "nombre": "Meduza",
+    "tipo": "organizacion",
+    "texto": "Medio ruso independiente con sede en Letonia, declarado «indeseable» por el gobierno ruso. Estima las bajas rusas junto con Mediazona.",
+    "alias": [
+      "Meduza"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "exponente-matrices": {
+    "nombre": "Exponente de la multiplicación de matrices (ω)",
+    "tipo": "concepto",
+    "texto": "Número que mide cómo crecen las operaciones necesarias para multiplicar dos matrices de n×n (unas n^ω). Está entre 2 y 3; Strassen lo bajó de 3 a 2,81 en 1969.",
+    "alias": [
+      "exponente de la multiplicación de matrices"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "timothy-gowers": {
+    "nombre": "Timothy Gowers",
+    "tipo": "persona",
+    "texto": "Matemático británico de la Universidad de Cambridge, ganador de la Medalla Fields en 1998.",
+    "alias": [
+      "Timothy Gowers"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Timothy_Gowers_Washington_2009.jpg/330px-Timothy_Gowers_Washington_2009.jpg",
+    "actualizado": "2026-11-26"
+  },
+  "scott-aaronson": {
+    "nombre": "Scott Aaronson",
+    "tipo": "persona",
+    "texto": "Informático teórico estadounidense, profesor de la Universidad de Texas en Austin, especialista en complejidad computacional y computación cuántica.",
+    "alias": [
+      "Scott Aaronson"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Scott_Aaronson_retouched.jpg/330px-Scott_Aaronson_retouched.jpg",
+    "actualizado": "2026-11-26"
+  },
+  "fcc": {
+    "nombre": "Comisión Federal de Comunicaciones (FCC)",
+    "tipo": "organizacion",
+    "texto": "Agencia de EE.UU. que regula las telecomunicaciones y otorga licencias para satélites y uso del espectro. La preside Brendan Carr.",
+    "alias": [
+      "FCC"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "starmind": {
+    "nombre": "Starmind",
+    "tipo": "concepto",
+    "texto": "Proyecto de SpaceX para poner en órbita baja hasta un millón de satélites que funcionen como centros de datos con energía solar. La FCC lo autorizó en noviembre de 2026.",
+    "alias": [
+      "Starmind"
+    ],
+    "actualizado": "2026-11-26"
+  },
+  "alphafold": {
+    "nombre": "AlphaFold",
+    "tipo": "concepto",
+    "texto": "Sistema de IA de Google DeepMind que predice la estructura 3D de las proteínas. Su versión de 2020 le valió a sus creadores el Nobel de Química 2024.",
+    "alias": [
+      "AlphaFold"
+    ],
+    "actualizado": "2026-11-26"
   }
 };

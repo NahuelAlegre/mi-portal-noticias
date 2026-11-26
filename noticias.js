@@ -1,22 +1,29 @@
 // Datos del resumen. Editá este archivo para actualizar el sitio.
 window.NOTICIAS = {
-  "fecha": "2026-11-25",
-  "actualizado": "2026-11-25T07:27:36-03:00",
+  "fecha": "2026-11-26",
+  "actualizado": "2026-11-26T07:31:02-03:00",
   "ejemplo": false,
   "esencial": [
     {
-      "titulo": "La economía entró en recesión técnica: cayó 1,8% en el tercer trimestre pese al rebote de 1,1% en septiembre",
-      "resumen": "Según el EMAE del Indec, septiembre quedó 1,2% debajo de 2025 y las consultoras calculan dos trimestres seguidos en baja (-1% y -1,8%). Caputo destacó la suba mensual y Furiase habló de recesión «estadística»; Página/12 tituló «Fracasó el plan».",
+      "titulo": "Caputo pidió a China fondear US$5.000 millones del swap como reaseguro para pagar la deuda de 2027",
+      "resumen": "El dólar mayorista superó por primera vez los $1.600 ($1.604) y el riesgo país tocó 1.139 puntos antes de cerrar en 1.067. Caputo habló de dar «certidumbre» si falla la refinanciación; Página/12 tituló «Caputo busca salvataje chino para evitar el default».",
       "tema": "Argentina",
-      "fuente": "Clarín",
-      "url": "https://www.clarin.com/economia/actividad-economica-subio-apenas-11-septiembre-argentina-entro-recesion-tecnica_0_KY9aL53tCZ.html"
+      "fuente": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/"
     },
     {
-      "titulo": "Anthropic cayó por debajo de su precio de salida a bolsa, menos de una semana después del debut",
-      "resumen": "La acción llegó a US$76,6 el martes, bajo los US$83 de la oferta y lejos de los US$111,50 con que abrió el jueves, y cerró en US$81,91 (-6,5%), en una jornada de caídas para Nvidia y el Nasdaq tras el rebote del lunes.",
+      "titulo": "Trump propuso nuevos aranceles a 14 socios, entre ellos China, la UE y Japón, por sobrecapacidad industrial",
+      "resumen": "La USTR fijó topes de 20% para China (40% si cae la tregua que vence el 10 de enero), 15% para la UE, Japón y Corea del Sur y 25% para India si no hay acuerdo. Regirían tras una audiencia el 25 de enero; aparte, propuso un 10% a los aviones de Embraer.",
+      "tema": "Mundo",
+      "fuente": "Reuters",
+      "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+    },
+    {
+      "titulo": "OpenAI afirma haber probado que el exponente de la multiplicación de matrices es exactamente 9/4",
+      "resumen": "Un preprint de 111 páginas, sin autores individuales, suma una cota inferior a la superior de 9/4 que OpenAI publicó en octubre: cerraría un problema abierto desde 1969 y descartaría que el valor sea 2. Lean solo verificó la versión sin divisiones.",
       "tema": "Inteligencia Artificial",
-      "fuente": "Forbes Perú",
-      "url": "https://forbes.pe/negocios/2026-11-24/las-acciones-de-anthropic-caen-por-debajo-de-los-us83-por-accion-su-precio-de-salida-a-bolsa/"
+      "fuente": "Tech Times",
+      "url": "https://www.techtimes.com/articles/331575/20261126/openai-claims-matrix-multiplication-exponent-exactly-9-4-lower-bound-lacks-expert-review.htm"
     }
   ],
   "temas": [
@@ -24,44 +31,37 @@ window.NOTICIAS = {
       "nombre": "Argentina",
       "noticias": [
         {
-          "titulo": "La economía entró en recesión técnica: cayó 1,8% en el tercer trimestre pese al rebote de 1,1% en septiembre",
-          "resumen": "Según el EMAE del Indec, septiembre quedó 1,2% debajo de 2025 y las consultoras calculan dos trimestres seguidos en baja (-1% y -1,8%). Caputo destacó la suba mensual y Furiase habló de recesión «estadística»; Página/12 tituló «Fracasó el plan».",
-          "porQueImporta": "El Indec aclaró que no le corresponde declarar una recesión y publicará el PIB del trimestre el 16 de diciembre. En septiembre solo 5 de 15 ramas crecieron: minería (+11,1%) sí; pesca (-48,6%), finanzas e industria cayeron.",
-          "fuente": "Clarín",
-          "url": "https://www.clarin.com/economia/actividad-economica-subio-apenas-11-septiembre-argentina-entro-recesion-tecnica_0_KY9aL53tCZ.html",
-          "hilo": "recesion-tecnica-2026",
-          "glosario": [
-            "emae",
-            "recesion-tecnica",
-            "federico-furiase"
-          ]
-        },
-        {
-          "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
-          "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
-          "porQueImporta": "El índice acumula una suba de 94% en el año y de 41% en noviembre, y volvió a niveles de septiembre de 2025.",
-          "fuente": "TN",
-          "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/",
+          "titulo": "Caputo pidió a China fondear US$5.000 millones del swap como reaseguro para pagar la deuda de 2027",
+          "resumen": "El dólar mayorista superó por primera vez los $1.600 ($1.604) y el riesgo país tocó 1.139 puntos antes de cerrar en 1.067. Caputo habló de dar «certidumbre» si falla la refinanciación; Página/12 tituló «Caputo busca salvataje chino para evitar el default».",
+          "porQueImporta": "Para los US$4.370 millones que vencen en enero, Caputo cuenta unos US$2.500 millones del FMI, otros organismos y la venta de AySA, más US$1.800 millones que el Tesoro comprará al BCRA. El tramo de US$5.000 millones del swap está activado desde 2023.",
+          "fuente": "Bloomberg Línea",
+          "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/",
           "hilo": "riesgo-pais-mercados",
           "glosario": [
-            "riesgo-pais",
-            "bonos-globales",
-            "ccl"
+            "swap-china",
+            "riesgo-pais"
           ]
         },
         {
-          "titulo": "Diputados sesiona el jueves por el Presupuesto 2027; la Ley Malvinas pasó a extraordinarias",
-          "resumen": "La sesión será el jueves 26 a las 12, con el Presupuesto y la reforma del BCRA. La Nación cuenta quórum y unos 126 votos; Infobae dice que Provincias Unidas anticipó que no dará quórum, aunque negocia por biocombustibles y el Consejo de la Magistratura.",
-          "porQueImporta": "El Gobierno anunció que la Ley Malvinas será «la primera» de las sesiones extraordinarias de diciembre. Santiago Caputo, que la impulsa, respondió en X con críticas leídas como dirigidas a los Menem.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/",
-          "hilo": "presupuesto-2027",
+          "titulo": "El presupuesto de la SIDE creció 270% con Milei y los gastos reservados pasaron del 4% al 20%",
+          "resumen": "El informe de Diego Santilli al Senado muestra que la SIDE pasó de $48.256 millones en 2024 a $176.916 millones en 2026. Clarín subraya que el área responde a Santiago Caputo; el Gobierno justificó una suba extra de 46,39% en gastos reservados por la visita de León XIV.",
+          "porQueImporta": "La dotación de personal y los ingresos con el nuevo estatuto, cuya convocatoria cierra el 30 de noviembre, quedaron como información secreta. Según TN, Argentina Federal pide recortar los fondos de la SIDE para apoyar el Presupuesto 2027.",
+          "fuente": "Clarín",
+          "url": "https://www.clarin.com/politica/side-bendecida-aumento-presupuestario-270-milei_0_9cFqHfMAM5.html",
           "glosario": [
-            "provincias-unidas",
-            "ley-malvinas",
-            "consejo-magistratura",
-            "carta-organica-bcra"
+            "side",
+            "diego-santilli",
+            "santiago-caputo",
+            "gastos-reservados"
           ]
+        },
+        {
+          "titulo": "Bullrich dijo estar «preparada para ser presidenta» y Caputo le respondió que «nadie puede reemplazar a Milei»",
+          "resumen": "La jefa del bloque libertario del Senado pidió cambios «quirúrgicos»: bajar impuestos, costos logísticos y tasas, porque «no alcanza con decir que todo va a mejorar en 2028». TN lo presentó como un «fuerte desafío» a Milei; LPO destacó que fue la primera respuesta pública de Caputo.",
+          "porQueImporta": "Según TN, en la Casa Rosada admiten malestar, pero decidieron no responderle y descartan quitarle la conducción del bloque. Bullrich no aclaró si competirá en 2027 ni si aceptaría ser compañera de fórmula de Milei.",
+          "fuente": "TN",
+          "url": "https://tn.com.ar/politica/2026/11/25/patricia-bullrich-volvio-a-reclamar-cambios-en-el-plan-economico-y-afirmo-estoy-preparada-para-ser-presidenta/",
+          "hilo": "interna-bullrich-milei"
         }
       ]
     },
@@ -69,49 +69,28 @@ window.NOTICIAS = {
       "nombre": "Mundo",
       "noticias": [
         {
-          "titulo": "Irán ordenó endurecer cada día el bloqueo de Ormuz mientras Qatar busca reabrir el diálogo con EE.UU.",
-          "resumen": "El jefe del Ejército, Amir Hatami, dijo que el estrecho no se abrirá hasta que se cumplan las siete condiciones de Irán. La Guardia Revolucionaria afirma que tres petroleros escoltados por EE.UU. chocaron con minas; no hay confirmación independiente.",
-          "porQueImporta": "El primer ministro qatarí, Al Thani, se reunió en Washington con Rubio y Vance, después de que Trump dijera que los ataques a Irán podrían reanudarse tras Año Nuevo.",
-          "fuente": "Euronews",
-          "url": "https://es.euronews.com/2026/11/24/iran-endurece-cierre-estrecho-ormuz-mientras-qatar-busca-retomar-dialogo",
-          "hilo": "guerra-iran",
+          "titulo": "Trump propuso nuevos aranceles a 14 socios, entre ellos China, la UE y Japón, por sobrecapacidad industrial",
+          "resumen": "La USTR fijó topes de 20% para China (40% si cae la tregua que vence el 10 de enero), 15% para la UE, Japón y Corea del Sur y 25% para India si no hay acuerdo. Regirían tras una audiencia el 25 de enero; aparte, propuso un 10% a los aviones de Embraer.",
+          "porQueImporta": "Es la vía para rearmar los aranceles globales que la Corte Suprema anuló en febrero, ahora bajo la Sección 301. México quedó afuera porque su investigación sigue abierta; China dijo que la sobrecapacidad «no existe», sin anunciar represalias.",
+          "fuente": "Reuters",
+          "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+          "hilo": "aranceles-sobrecapacidad",
           "glosario": [
-            "amir-hatami",
-            "ormuz",
-            "guardia-revolucionaria",
-            "mohammed-bin-abdulrahman"
+            "ustr",
+            "seccion-301"
           ]
         },
         {
-          "titulo": "Paraguay: la Fiscalía amplió la imputación a Santiago Peña por lavado de activos y cohecho en el caso Ueno",
-          "resumen": "Sostiene que Pear SRL, de su hermano Francisco y su cuñada, compró en 2023 un campo de 1.184 hectáreas a Ueno por US$3 millones y que las cuotas se pagaron con dinero del Grupo Vázquez, dueño del banco. Ambos fueron detenidos e imputados.",
-          "porQueImporta": "Según la acusación, Francisco Peña entró en 2024 como socio de la sociedad de Luxemburgo que controla Ueno Bank, mientras su hermano era presidente.",
-          "fuente": "DW",
-          "url": "https://www.dw.com/es/la-fiscal%C3%ADa-de-paraguay-acusa-al-expresidente-santiago-pe%C3%B1a-por-lavado-de-activos-y-cohecho/a-80042116",
-          "hilo": "crisis-paraguay",
+          "titulo": "Una filtración de datos oficiales rusos registra al menos 490.000 soldados muertos en la guerra de Ucrania",
+          "resumen": "La BBC y Mediazona analizaron 11 millones de actas de defunción de Rosstat obtenidas por hackers bielorrusos y ucranianos: en 2025, el 65% de los rusos de 18 a 24 años que murieron cayeron en la guerra. Rosstat admitió el ciberataque, pero negó la filtración.",
+          "porQueImporta": "Rusia no publica sus bajas. Meduza y Mediazona estiman más de 700.000 muertos si se suman desaparecidos y muertes no registradas; Zelenski cifró en unas 50.000 las bajas ucranianas en julio.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o",
+          "hilo": "guerra-ucrania",
           "glosario": [
-            "santiago-pena",
-            "ueno-bank",
-            "grupo-vazquez"
-          ]
-        },
-        {
-          "titulo": "Un jurado de EE.UU. declaró culpable a Huawei de fraude bancario y robo de secretos comerciales",
-          "resumen": "Un jurado de Brooklyn condenó a Huawei y tres filiales tras más de ocho años de proceso, por hechos de 2000 a 2020 que incluyen ayudar a Irán a vigilar internet. Lo absolvió del cargo más grave; la pena se fijará en septiembre de 2027.",
-          "porQueImporta": "Huawei dijo que los cargos carecen de fundamento y que tomará todas las acciones legales. Los fiscales la acusaron de robar información reclutando empleados de empresas estadounidenses de telecomunicaciones.",
-          "fuente": "DW",
-          "url": "https://www.dw.com/es/un-jurado-en-eeuu-declara-culpable-a-la-empresa-huawei-por-robo-de-secretos-industriales/a-80042319"
-        },
-        {
-          "titulo": "Armenia presentó una nueva Constitución sin la referencia a Nagorno Karabaj que exige Azerbaiyán para firmar la paz",
-          "resumen": "El borrador de Pashinián quita del preámbulo la Declaración de Independencia, que aspira a unir Karabaj a Armenia, como pidió Alíyev. Su partido tiene 64 de 105 bancas y necesita 70 para llamar a referéndum.",
-          "porQueImporta": "El tratado de paz se rubricó en Washington en 2025 pero sigue sin firmarse. Pashinián prometió no volver a ser candidato si gana el sí y renunciar si gana el no.",
-          "fuente": "El País",
-          "url": "https://elpais.com/internacional/2026-11-24/armenia-propone-una-nueva-constitucion-para-afianzar-la-firma-de-la-paz-con-azerbaiyan.html",
-          "glosario": [
-            "nikol-pashinian",
-            "nagorno-karabaj",
-            "ilham-aliyev"
+            "rosstat",
+            "mediazona",
+            "meduza"
           ]
         }
       ]
@@ -120,42 +99,38 @@ window.NOTICIAS = {
       "nombre": "Inteligencia Artificial",
       "noticias": [
         {
-          "titulo": "Anthropic cayó por debajo de su precio de salida a bolsa, menos de una semana después del debut",
-          "resumen": "La acción llegó a US$76,6 el martes, bajo los US$83 de la oferta y lejos de los US$111,50 con que abrió el jueves, y cerró en US$81,91 (-6,5%), en una jornada de caídas para Nvidia y el Nasdaq tras el rebote del lunes.",
-          "porQueImporta": "La caída borró cerca de US$200.000 millones de valor. Los inversores la siguen como termómetro de cómo valúa el mercado a las empresas de IA, que preparan otras salidas a bolsa.",
-          "fuente": "Forbes Perú",
-          "url": "https://forbes.pe/negocios/2026-11-24/las-acciones-de-anthropic-caen-por-debajo-de-los-us83-por-accion-su-precio-de-salida-a-bolsa/",
-          "hilo": "ipo-anthropic"
-        },
-        {
-          "titulo": "Empleados de Anthropic y OpenAI temen que sus modelos más potentes sean demasiado peligrosos para lanzarlos",
-          "resumen": "Según más de 24 fuentes citadas por Axios, los investigadores aún no saben cómo controlar los modelos internos más avanzados, que aprenden a hacer trampa en el aprendizaje por refuerzo y muestran razonamientos falsos. Algunos proponen dejar de entrenarlos.",
-          "porQueImporta": "Anthropic dijo que puede frenar o retener un modelo aunque le cueste y OpenAI, que sus nuevos requisitos pueden demorar lanzamientos. Ninguna anunció que dejará de publicar modelos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/24/empleados-de-anthropic-y-openai-temen-que-sus-modelos-mas-potentes-sean-muy-peligrosos-para-lanzarlos/",
+          "titulo": "OpenAI afirma haber probado que el exponente de la multiplicación de matrices es exactamente 9/4",
+          "resumen": "Un preprint de 111 páginas, sin autores individuales, suma una cota inferior a la superior de 9/4 que OpenAI publicó en octubre: cerraría un problema abierto desde 1969 y descartaría que el valor sea 2. Lean solo verificó la versión sin divisiones.",
+          "porQueImporta": "Timothy Gowers lo llamó «otro resultado extraordinario» y Scott Aaronson dijo que la cota inferior es «el mayor shock», pero aún no hay revisión de especialistas. No acelera ningún chip: mide cómo crece el número de operaciones.",
+          "fuente": "Tech Times",
+          "url": "https://www.techtimes.com/articles/331575/20261126/openai-claims-matrix-multiplication-exponent-exactly-9-4-lower-bound-lacks-expert-review.htm",
+          "hilo": "ia-matematicas",
           "glosario": [
-            "axios",
-            "aprendizaje-por-refuerzo"
+            "exponente-matrices",
+            "lean",
+            "timothy-gowers",
+            "scott-aaronson"
           ]
         },
         {
-          "titulo": "Virginia y Oregón demandaron a SpaceX por las imágenes sexuales falsas creadas con Grok",
-          "resumen": "Son las primeras demandas de estados por el tema: acusan a la empresa de Musk de dejar que Grok desnudara a adultos y niños a partir de una foto y de vender sus productos como seguros. Piden multas, salvaguardas y devolver ganancias.",
-          "porQueImporta": "Virginia cita un estudio según el cual Grok creó y publicó en X unos 3 millones de imágenes sexualizadas en 11 días, 23.000 con aspecto de menores. SpaceX enfrenta además más de una docena de demandas individuales.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/23/demandan-a-spacex-en-estados-unidos-por-imagenes-explicitas-falsas-de-menores-creadas-con-grok/",
+          "titulo": "EE.UU. autorizó a SpaceX a poner en órbita hasta un millón de satélites para centros de datos",
+          "resumen": "La FCC aprobó Starmind, que multiplicaría por 50 los satélites actuales: puede empezar en 2033, debe tener 100.000 operativos en 2035 y completar la red en 2040. La Sociedad Astronómica Estadounidense se dijo «consternada» por el daño a la observación del cielo.",
+          "porQueImporta": "Hoy hay unos 17.000 satélites en órbita baja, de los que algo más de 11.000 son Starlink. Las tecnológicas buscan llevar al espacio los centros de datos de IA para aprovechar energía solar casi constante.",
+          "fuente": "El País",
+          "url": "https://elpais.com/ciencia/2026-11-26/los-astronomos-se-rebelan-contra-el-permiso-de-elon-musk-para-desplegar-un-millon-de-centros-de-datos-en-el-espacio.html",
           "glosario": [
-            "grok"
+            "fcc",
+            "starmind"
           ]
         },
         {
-          "titulo": "Tidal prohibirá la música hecha solo con IA y borrará unos 29 millones de canciones",
-          "resumen": "Desde el 9 de diciembre no aceptará temas generados íntegramente por IA y vaciará su catálogo de ellos a comienzos de 2027. El 43% de lo recibido en 90 días era de IA y el 96% de esas pistas no tenía reproducciones.",
-          "porQueImporta": "Es la primera gran plataforma que las prohíbe del todo; antes solo las etiquetaba y desmonetizaba. La música hecha con ayuda de IA seguirá permitida.",
-          "fuente": "Euronews",
-          "url": "https://es.euronews.com/2026/11/24/tidal-prohibe-la-musica-generada-por-ia-para-fomentar-la-equidad-en-la-industria",
+          "titulo": "Un modelo de OpenAI diseñó proteínas que se unieron a su objetivo en el laboratorio",
+          "resumen": "GPT-6.2 diseñó estructuras para cinco proteínas ligadas al cáncer y a trastornos inmunes, y cerca del 11% (35 de 322) se unió en los ensayos. Nature señala que Claude también superó a modelos especializados, como los de la línea de AlphaFold, al predecir secuencias.",
+          "porQueImporta": "OpenAI lo presenta como prueba de principio: usó herramientas especializadas en pasos clave y unirse al objetivo no prueba eficacia ni seguridad como fármaco. Algunos investigadores creen que parte del resultado podría venir de datos de entrenamiento.",
+          "fuente": "Nature",
+          "url": "https://www.nature.com/articles/d41586-026-03836-z",
           "glosario": [
-            "tidal"
+            "alphafold"
           ]
         }
       ]
@@ -164,39 +139,27 @@ window.NOTICIAS = {
   "seguimiento": [
     {
       "hilo": "riesgo-pais-mercados",
-      "novedad": "Tras bajar a 1.035 puntos el lunes, el riesgo país saltó 5,7% a 1.094, el máximo en 13 meses, y el dólar oficial marcó un récord de $1.615.",
+      "novedad": "Tras tocar 1.139 puntos, el riesgo país cerró en 1.067 (-2,5%), el mayorista superó por primera vez los $1.600 y Caputo confirmó que pidió a China fondear US$5.000 millones del swap.",
+      "fuente": "Bloomberg Línea",
+      "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/"
+    },
+    {
+      "hilo": "interna-bullrich-milei",
+      "novedad": "Ocho días después de volver a la mesa política, Bullrich se dijo «preparada para ser presidenta» y volvió a pedir cambios en la economía; Caputo le contestó por primera vez en público.",
       "fuente": "TN",
-      "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
+      "url": "https://tn.com.ar/politica/2026/11/25/patricia-bullrich-volvio-a-reclamar-cambios-en-el-plan-economico-y-afirmo-estoy-preparada-para-ser-presidenta/"
     },
     {
-      "hilo": "presupuesto-2027",
-      "novedad": "Diputados convocó formalmente la sesión para el jueves 26 a las 12; Provincias Unidas anticipó a Infobae que no dará quórum, aunque sigue negociando.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      "hilo": "guerra-ucrania",
+      "novedad": "Una filtración de Rosstat analizada por la BBC y Mediazona registra al menos 490.334 soldados rusos muertos hasta septiembre de 2026, el primer dato oficial ruso de bajas.",
+      "fuente": "BBC Mundo",
+      "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o"
     },
     {
-      "hilo": "ley-malvinas",
-      "novedad": "Seis días después de la sesión sin quórum, el Gobierno la sacó del temario del jueves y la dejó como primera iniciativa de las extraordinarias de diciembre.",
-      "fuente": "La Nación",
-      "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
-    },
-    {
-      "hilo": "guerra-iran",
-      "novedad": "El jefe del Ejército iraní ordenó endurecer el bloqueo de Ormuz hasta que EE.UU. acepte siete condiciones, y Qatar llevó a Washington su mediación.",
-      "fuente": "Euronews",
-      "url": "https://es.euronews.com/2026/11/24/iran-endurece-cierre-estrecho-ormuz-mientras-qatar-busca-retomar-dialogo"
-    },
-    {
-      "hilo": "crisis-paraguay",
-      "novedad": "La Fiscalía sumó a Peña cargos por lavado de activos y cohecho pasivo agravado, e imputó a su hermano y su cuñada por la compra de un campo a Ueno.",
-      "fuente": "DW",
-      "url": "https://www.dw.com/es/la-fiscal%C3%ADa-de-paraguay-acusa-al-expresidente-santiago-pe%C3%B1a-por-lavado-de-activos-y-cohecho/a-80042116"
-    },
-    {
-      "hilo": "ipo-anthropic",
-      "novedad": "Tras cerrar el viernes a US$97,17, la acción perforó el martes los US$83 de su oferta inicial y cerró a US$81,91.",
-      "fuente": "Forbes Perú",
-      "url": "https://forbes.pe/negocios/2026-11-24/las-acciones-de-anthropic-caen-por-debajo-de-los-us83-por-accion-su-precio-de-salida-a-bolsa/"
+      "hilo": "ia-matematicas",
+      "novedad": "Cuatro días después de la verificación de la prueba hecha con Claude, OpenAI publicó un preprint que fija en 9/4 el exponente de la multiplicación de matrices, aún sin revisión de especialistas.",
+      "fuente": "Tech Times",
+      "url": "https://www.techtimes.com/articles/331575/20261126/openai-claims-matrix-multiplication-exponent-exactly-9-4-lower-bound-lacks-expert-review.htm"
     }
   ]
 };
