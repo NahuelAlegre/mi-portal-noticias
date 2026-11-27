@@ -246,11 +246,11 @@ window.GLOSARIO = {
   "cin": {
     "nombre": "Consejo Interuniversitario Nacional",
     "tipo": "organizacion",
-    "texto": "Organismo que reúne a los rectores de las universidades públicas argentinas. Reclama $11 billones para el sistema universitario en el Presupuesto 2027.",
+    "texto": "Organismo que reúne a los rectores de las universidades públicas argentinas. Diputados incluyó en el Presupuesto 2027 los $11 billones que reclamaba.",
     "alias": [
       "CIN"
     ],
-    "actualizado": "2026-10-25"
+    "actualizado": "2026-11-27"
   },
   "clayton": {
     "nombre": "Jay Clayton",
@@ -1368,11 +1368,11 @@ window.GLOSARIO = {
   "enacom": {
     "nombre": "Ente Nacional de Comunicaciones (Enacom)",
     "tipo": "organizacion",
-    "texto": "Regulador argentino de las telecomunicaciones, que homologa los equipos que se venden en el país. La Disposición 7/26 le pide evaluar si extiende la exigencia SCS 9001.",
+    "texto": "Ente Nacional de Comunicaciones, regulador argentino de las telecomunicaciones. Un proyecto de Bullrich le permitiría bloquear en 24 horas sitios de apuestas ilegales sin orden judicial.",
     "alias": [
       "Enacom"
     ],
-    "actualizado": "2026-11-08"
+    "actualizado": "2026-11-27"
   },
   "otazu": {
     "nombre": "Humberto Otazú",
@@ -1600,12 +1600,13 @@ window.GLOSARIO = {
   "carta-organica-bcra": {
     "nombre": "Carta Orgánica del BCRA",
     "tipo": "ley",
-    "texto": "Ley que fija las funciones y el gobierno del Banco Central. La reforma del Gobierno, que prohíbe financiar al Tesoro, tiene media sanción y volvió a Diputados con cambios del Senado.",
+    "texto": "Ley que fija las funciones y el gobierno del Banco Central. Su reforma, ley desde el 26 de noviembre de 2026, prohíbe financiar al Tesoro y deja como único mandato preservar el valor de la moneda.",
     "alias": [
       "Carta Orgánica del BCRA",
-      "reforma del BCRA"
+      "reforma del BCRA",
+      "reforma del Banco Central"
     ],
-    "actualizado": "2026-11-12"
+    "actualizado": "2026-11-27"
   },
   "diego-garcia": {
     "nombre": "Diego García",
@@ -1721,11 +1722,11 @@ window.GLOSARIO = {
   "ficha-limpia": {
     "nombre": "Ficha Limpia",
     "tipo": "ley",
-    "texto": "Norma que impide ser candidatos a condenados por delitos dolosos con sentencia confirmada en segunda instancia. Quedó incluida en el dictamen de reforma electoral del Senado.",
+    "texto": "Norma que impide ser candidatos a condenados por delitos dolosos de corrupción con sentencia confirmada en segunda instancia. La incluye la reforma electoral que el Senado aprobó el 26 de noviembre de 2026.",
     "alias": [
       "Ficha Limpia"
     ],
-    "actualizado": "2026-11-19"
+    "actualizado": "2026-11-27"
   },
   "starshield": {
     "nombre": "Starshield",
@@ -2807,5 +2808,93 @@ window.GLOSARIO = {
       "AlphaFold"
     ],
     "actualizado": "2026-11-26"
+  },
+  "santiago-bausili": {
+    "nombre": "Santiago Bausili",
+    "tipo": "persona",
+    "texto": "Economista, presidente del Banco Central desde diciembre de 2023. Fue socio de Luis Caputo en la consultora Anker.",
+    "alias": [
+      "Santiago Bausili",
+      "Bausili"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CaputoBausili_%28cropped%29.jpg/330px-CaputoBausili_%28cropped%29.jpg",
+    "actualizado": "2026-11-27"
+  },
+  "adelantos-transitorios": {
+    "nombre": "Adelantos transitorios",
+    "tipo": "concepto",
+    "texto": "Préstamos del Banco Central al Tesoro para cubrir gastos, con un tope y un plazo de devolución. La reforma de la Carta Orgánica de 2026 los elimina.",
+    "alias": [
+      "adelantos transitorios"
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "letras-intransferibles": {
+    "nombre": "Letras intransferibles",
+    "tipo": "concepto",
+    "texto": "Títulos que el Tesoro le entregó al Banco Central a cambio de dólares de las reservas para pagar deuda, y que no pueden venderse. La reforma del BCRA las elimina.",
+    "alias": [
+      "letras intransferibles"
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "pablo-hernandez-de-cos": {
+    "nombre": "Pablo Hernández de Cos",
+    "tipo": "persona",
+    "texto": "Economista español, gobernador del Banco de España entre 2018 y 2024 y director general del Banco de Pagos Internacionales desde 2025. Fue elegido para presidir el BCE desde febrero de 2027.",
+    "alias": [
+      "Pablo Hernández de Cos",
+      "Hernández de Cos"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg/330px-Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+    "actualizado": "2026-11-27"
+  },
+  "frugales": {
+    "nombre": "Países «frugales» de la UE",
+    "tipo": "concepto",
+    "texto": "Grupo de siete países de la Unión Europea, entre ellos Países Bajos, que pide recortar el presupuesto común. Boicoteó parte de la cumbre del 26 de noviembre de 2026.",
+    "alias": [
+      "frugales"
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "jazan": {
+    "nombre": "Jazán",
+    "tipo": "lugar",
+    "texto": "Ciudad y puerto de Arabia Saudita sobre el mar Rojo, cerca de la frontera con Yemen, con una refinería de Saudi Aramco de hasta 400.000 barriles diarios.",
+    "alias": [
+      "Jazán"
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "abelardo-de-la-espriella": {
+    "nombre": "Abelardo de la Espriella",
+    "tipo": "persona",
+    "texto": "Abogado y empresario colombiano, presidente de Colombia desde el 7 de agosto de 2026. Su gobierno revirtió varias decisiones de política exterior de Gustavo Petro.",
+    "alias": [
+      "Abelardo de la Espriella",
+      "De la Espriella"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg/330px-Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_%28cropped%29.jpg",
+    "actualizado": "2026-11-27"
+  },
+  "nuevo-banco-desarrollo": {
+    "nombre": "Nuevo Banco de Desarrollo",
+    "tipo": "organizacion",
+    "texto": "Banco multilateral creado por los BRICS (Brasil, Rusia, India, China y Sudáfrica), con sede en Shanghái. Lo preside Dilma Rousseff.",
+    "alias": [
+      "Nuevo Banco de Desarrollo",
+      "banco de los BRICS"
+    ],
+    "actualizado": "2026-11-27"
+  },
+  "bytedance": {
+    "nombre": "ByteDance",
+    "tipo": "organizacion",
+    "texto": "Empresa tecnológica china dueña de TikTok. Accede a chips de Nvidia a través de centros de datos en el sudeste asiático.",
+    "alias": [
+      "ByteDance"
+    ],
+    "actualizado": "2026-11-27"
   }
 };

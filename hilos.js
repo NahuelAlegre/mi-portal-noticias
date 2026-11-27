@@ -1,5 +1,345 @@
 // Historial persistente de hilos. Crece cada día; nunca se reinicia.
 window.HILOS = {
+  "presupuesto-2027": {
+    "nombre": "Presupuesto 2027 en el Congreso",
+    "tema": "Argentina",
+    "creado": "2026-10-21",
+    "actualizado": "2026-11-27",
+    "entradas": [
+      {
+        "fecha": "2026-11-27",
+        "titulo": "Diputados aprobó el Presupuesto 2027, pero la oposición subió a $11 billones los fondos universitarios",
+        "resumen": "Salió en general 136 a 112 tras 17 horas, pero se impuso el capítulo opositor con los $11 billones que pedía el CIN y más fondos para INTI, INTA, Senasa y Conicet. Clarín habló de «revés»; Página/12, de que «el ajuste avanza».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/27/el-gobierno-logro-aprobar-el-presupuesto-en-diputados-pero-tuvo-que-aumentar-los-fondos-para-las-universidades/"
+      },
+      {
+        "fecha": "2026-11-25",
+        "titulo": "Diputados sesiona el jueves por el Presupuesto 2027; la Ley Malvinas pasó a extraordinarias",
+        "resumen": "La sesión será el jueves 26 a las 12, con el Presupuesto y la reforma del BCRA. La Nación cuenta quórum y unos 126 votos; Infobae dice que Provincias Unidas anticipó que no dará quórum, aunque negocia por biocombustibles y el Consejo de la Magistratura.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      },
+      {
+        "fecha": "2026-11-23",
+        "titulo": "Última semana de sesiones ordinarias: Diputados votaría el Presupuesto 2027 el jueves 26",
+        "resumen": "El oficialismo cuenta unos 126 votos de 129 y sigue la pelea entre el PRO y Provincias Unidas. Infobae da por hecho que la Ley Malvinas y la reforma del BCRA pasan a extraordinarias; La Nación dice que el Gobierno evalúa llevar Malvinas al recinto ese día.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
+        "resumen": "LLA sumó siete firmas aliadas, cinco con disidencias, y lo llevará al recinto el miércoles 25. Clarín y Página/12 ven un giro electoral en reponer la movilidad de la AUH y quitar los recortes en discapacidad; la oficialista Rodríguez Machado habla de un compromiso cumplido.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/politica/discapacidad-rutas-y-universidades-el-gobierno-cedio-ante-sus-aliados-para-conseguir-dictamen-del-presupuesto-2027-avmeu3P1XoeP"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Presupuesto 2027: el oficialismo acordó con el PRO y apunta a dictamen el martes 17 y sesión el 25",
+        "resumen": "Según El Cronista, LLA aceptó los siete pedidos del PRO, entre ellos prorrogar el régimen autopartista y bajar el IVA a los huevos al 10,5%. La Nación advierte que la UCR y los bloques provinciales siguen sin acuerdo y que la sesión podría pasar al 26.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Diputados: el oficialismo negocia hoy el Presupuesto con los aliados y tiene como plan B la Ley Malvinas y la reforma del BCRA",
+        "resumen": "Bornoroni y Benegas Lynch reciben a las 14 a PRO, UCR, MID, Provincias Unidas y Argentina Federal para dictaminar y votar el 18 o el 25. Según Clarín, si no hay acuerdo el 18 irían la Ley Malvinas y la Carta Orgánica del BCRA.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/12/el-gobierno-negocia-el-presupuesto-2027-los-cambios-que-reclaman-los-aliados-para-acompanar-el-proyecto-en-diputados/"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Presupuesto 2027: el oficialismo intenta adelantar la sesión al 18 y aliados sospechan que prefiere prorrogar el actual",
+        "resumen": "Según Clarín, el jueves Bornoroni y Benegas Lynch recibirán a los bloques dialoguistas para dictaminar el 17 y votar el 18.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html"
+      },
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Presupuesto 2027: el oficialismo apunta al 25 de noviembre en el recinto",
+        "resumen": "Busca dictamen una semana antes y media sanción antes del 30; el PRO dice que sus siete planteos siguen sin respuesta y la UCR condiciona su apoyo a discapacidad y universidades.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/presupuesto-2027-fechas-maneja-gobierno-reclamos-demoran-negociacion-congreso_0_lWJjiwzysh.html"
+      },
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Presupuesto 2027: el dictamen se corre a noviembre y el Gobierno ya evalúa sesiones extraordinarias",
+        "resumen": "La firma pasaría al 11 o al 17 de noviembre y la media sanción apunta al 25; según Perfil, la Casa Rosada prevé extraordinarias desde el 1 de diciembre. Infobae cita a aliados que dicen que \"está todo muy verde\"; el entorno de Menem busca evitarlas.",
+        "fuente": "Perfil",
+        "url": "https://perfil.com/politica/el-gobierno-cada-vez-mas-complicado-para-apurar-el-presupuesto-y-eliminar-las-paso-a1yLF3W2sONx"
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
+        "resumen": "Los aliados piden coparticipación para la Ciudad, obras viales, bajar el impuesto a los combustibles y más fondos universitarios (el CIN reclama $11 billones; el proyecto da $7,7). C5N habla de \"presión de los aliados\"; Infobae, de una demora sin riesgo real.",
+        "fuente": "C5N",
+        "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Presupuesto 2027: el Gobierno ahora busca un acuerdo con las universidades",
+        "resumen": "Según TN, Casa Rosada evalúa subir las partidas a un monto intermedio entre los $7,7 billones del proyecto y los $11 billones que pide el CIN, o aliviar contribuciones patronales. Un día antes, Letra P citaba al bloque oficialista: \"La partida de Universidades no se toca\".",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/24/tras-las-tensiones-por-la-ley-de-discapacidad-el-gobierno-busca-un-acuerdo-con-las-universidades-para-el-presupuesto-2027/"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Presupuesto 2027: tensión en Diputados por los fondos universitarios",
+        "resumen": "El secretario de Educación, Carlos Torrendell, defendió los $7,7 billones previstos para las universidades frente a los $11 billones que pide el CIN y acusó a los rectores de un \"acuerdo de casta\". El oficialismo quiere dictamen la semana próxima.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/20/tension-en-diputados-por-el-presupuesto-universitario-el-oficialismo-buscara-emitir-dictamen-la-semana-proxima/"
+      }
+    ]
+  },
+  "reforma-electoral-paso": {
+    "nombre": "Reforma electoral y suspensión de las PASO",
+    "tema": "Argentina",
+    "creado": "2026-11-13",
+    "actualizado": "2026-11-27",
+    "entradas": [
+      {
+        "fecha": "2026-11-27",
+        "titulo": "El Senado aprobó suspender las PASO de 2027 con 43 votos y sumó Ficha Limpia",
+        "resumen": "Pasa a Diputados en extraordinarias; también elimina la veda electoral y deja el debate presidencial obligatorio solo en el balotaje. La Nación la ve como una jugada para complicar al peronismo; Página/12, como un alivio tras una «turbulenta semana económica».",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/sesion-crucial-en-el-senado-el-oficialismo-pretende-aprobar-la-suspension-de-las-paso-y-se-debate-la-nid26112026/"
+      },
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Sin colectoras, el oficialismo logró dictamen para suspender las PASO; el Senado vota el 26",
+        "resumen": "Asuntos Constitucionales firmó con 11 firmas, una más de las necesarias, un texto que suspende las PASO de 2027 y suma Ficha Limpia. El Cronista recoge que LLA cuenta 40 votos de los 37 necesarios; Página/12 enumera los cambios que Bullrich \"tuvo que aceptar\" para salvarlo.",
+        "fuente": "El Canciller",
+        "url": "https://elcanciller.com/politica/reforma-electoral--el-oficialismo-acepto-retirar-las-listas-colectoras-y-apuesta-al-dictamen-para-suspender-las-paso_a6afd814273d989d88c6af507"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
+        "resumen": "Asuntos Constitucionales retoma hoy a las 12 tras no reunir las 10 firmas; la cordobesa Alejandra Vigo apoya suspender las PASO pero rechazó las colectoras. Infobae recoge que aliados esperan un acuerdo en horas; Página/12 dice que las colectoras \"hicieron fracasar, por ahora\" la reforma.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/"
+      },
+      {
+        "fecha": "2026-11-17",
+        "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
+        "resumen": "Asuntos Constitucionales trata hoy a las 15 el borrador: suspende las PASO solo en 2027, permite dos listas legislativas por fórmula presidencial y suma Ficha Limpia. Perfil cuenta 13 posibles firmas de las 10 necesarias; Página/12 lo llama \"maniobra desesperada\".",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/politica/paso-la-casa-rosada-lleva-un-nuevo-proyecto-al-senado-cruzado-por-lo-que-piden-los-gobernadores-y-la-tension-con-bullrich-aXuvw8F8ZfXh"
+      },
+      {
+        "fecha": "2026-11-16",
+        "titulo": "PASO: Clarín cuenta hasta 10 radicales a favor de suspenderlas y el PRO duda de que haya dictamen el martes",
+        "resumen": "Según Clarín, al menos 6 de los 10 senadores de la UCR votarían la suspensión y podrían ser todos. Infobae, en cambio, recoge que el jefe del bloque PRO, Martín Goerling, no cree que haya dictamen el martes 17 si el Gobierno cambia el texto a último momento.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/pelea-paso-bloque-senadores-radicales-incluso-responden-gobernadores-avalaria-suspension_0_xdVjMNow7C.html"
+      },
+      {
+        "fecha": "2026-11-15",
+        "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
+        "resumen": "Asuntos Constitucionales tratará el martes 17 un borrador que suspende las PASO y suma listas de acople. Según La Nación, el oficialismo tiene 31 votos seguros de los 37 que necesita; Clarín, en cambio, dice que en la Casa Rosada dan los votos por hechos.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/"
+      },
+      {
+        "fecha": "2026-11-14",
+        "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
+        "resumen": "Según Clarín, el texto que irá el martes a Asuntos Constitucionales suspende las PASO solo en 2027, elimina el voto directo al Parlasur y habilita colectoras. Infobae, en cambio, da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "PASO: el Gobierno acelera la reforma electoral en el Senado, pero el PRO y la UCR aún no dan los votos",
+        "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/"
+      }
+    ]
+  },
+  "hutis-arabia-saudita": {
+    "nombre": "Conflicto entre los hutíes y Arabia Saudita",
+    "tema": "Mundo",
+    "creado": "2026-10-20",
+    "actualizado": "2026-11-27",
+    "entradas": [
+      {
+        "fecha": "2026-11-27",
+        "titulo": "Un ataque hutí a la refinería saudita de Jazán mató a un trabajador y frenó parte de sus operaciones",
+        "resumen": "El proyectil incendió la planta, que procesa hasta 400.000 barriles diarios, un día después de que los hutíes reivindicaran ataques a Ras Tanura y a los puertos de Yida y Jazán. La coalición saudí dijo haber destruido la plataforma de lanzamiento en Hodeida.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+      },
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Restos de un misil hutí dañaron la torre del fondo soberano saudita en Riad",
+        "resumen": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
+        "fuente": "Clarín (AFP)",
+        "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
+        "resumen": "La coalición dijo haber destruido dos misiles balísticos hutíes dirigidos a Najrán; hubo restos tras el derribo y se evalúan daños.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
+      },
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
+        "resumen": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
+        "fuente": "Gulf News",
+        "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
+      },
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
+        "resumen": "Según su vocero, desde el viernes hizo 1.119 ataques con aviones, drones y artillería, neutralizó a 427 combatientes y tomó posiciones estratégicas en la provincia de Jawf. También siguen los combates en Taiz.",
+        "fuente": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/yemeni-forces-claim-1119-strikes-on-houthi-targets-advance-in-al-jawf-3009145"
+      },
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
+        "resumen": "La coalición saudí también informó misiles derribados hacia Riad y el oeste del reino. Los hutíes dicen que solo atacan instalaciones petroleras y militares; medios hutíes reportaron bombardeos en Marib, Taiz y Jawf.",
+        "fuente": "Al Jazeera (AFP, Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
+        "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
+        "fuente": "RTÉ (AFP)",
+        "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
+        "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
+        "fuente": "Reuters (Al-Monitor)",
+        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
+        "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
+        "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
+        "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
+        "resumen": "La coalición liderada por Arabia Saudita informó que derribó cinco drones dirigidos a Medina y a la región Este. Los hutíes de Yemen negaron haber lanzado ataques contra territorio saudí ese día.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217"
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "Arabia Saudita posterga su gran cumbre de inversores por los ataques hutíes",
+        "resumen": "El Future Investment Initiative (\"Davos del desierto\") pasa a 2027 tras ataques de los hutíes de Yemen contra el aeropuerto de Riad e instalaciones petroleras. Es una señal de que el conflicto regional se agrava.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+      }
+    ]
+  },
+  "investigacion-nvidia-huang": {
+    "nombre": "Investigación a Jensen Huang en Nvidia",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-10",
+    "actualizado": "2026-11-27",
+    "entradas": [
+      {
+        "fecha": "2026-11-27",
+        "titulo": "Las nuevas restricciones de EE.UU. a los chips de IA frenaron miles de millones en préstamos para centros de datos en Asia",
+        "resumen": "Según Bloomberg, los bancos demoraron un crédito de US$6.600 millones a Bridge Data Centres y revisan otro de US$480 millones a Aolani, con clientes como ByteDance; uno rechazó US$372 millones para Digital Halo, que da servicio a Alibaba.",
+        "fuente": "The Economic Times",
+        "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/us-chip-curbs-halt-billions-in-data-centre-loans-for-chinese-firms/136210334"
+      },
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
+        "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
+      },
+      {
+        "fecha": "2026-11-20",
+        "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
+        "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
+        "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
+      },
+      {
+        "fecha": "2026-11-17",
+        "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
+        "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+        "fuente": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+      },
+      {
+        "fecha": "2026-11-16",
+        "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
+        "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
+        "fuente": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
+      },
+      {
+        "fecha": "2026-11-15",
+        "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
+        "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
+        "fuente": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "fecha": "2026-11-14",
+        "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
+        "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
+        "fuente": "Reuters",
+        "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
+        "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
+        "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
+        "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
+      }
+    ]
+  },
   "riesgo-pais-mercados": {
     "nombre": "Riesgo país y mercados argentinos",
     "tema": "Argentina",
@@ -538,98 +878,6 @@ window.HILOS = {
       }
     ]
   },
-  "hutis-arabia-saudita": {
-    "nombre": "Conflicto entre los hutíes y Arabia Saudita",
-    "tema": "Mundo",
-    "creado": "2026-10-20",
-    "actualizado": "2026-11-19",
-    "entradas": [
-      {
-        "fecha": "2026-11-19",
-        "titulo": "Restos de un misil hutí dañaron la torre del fondo soberano saudita en Riad",
-        "resumen": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
-        "fuente": "Clarín (AFP)",
-        "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
-        "resumen": "La coalición dijo haber destruido dos misiles balísticos hutíes dirigidos a Najrán; hubo restos tras el derribo y se evalúan daños.",
-        "fuente": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
-      },
-      {
-        "fecha": "2026-11-02",
-        "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
-        "resumen": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
-        "fuente": "Gulf News",
-        "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
-      },
-      {
-        "fecha": "2026-11-01",
-        "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
-        "resumen": "Según su vocero, desde el viernes hizo 1.119 ataques con aviones, drones y artillería, neutralizó a 427 combatientes y tomó posiciones estratégicas en la provincia de Jawf. También siguen los combates en Taiz.",
-        "fuente": "Arab News",
-        "url": "https://www.arabnews.com/middle-east/yemeni-forces-claim-1119-strikes-on-houthi-targets-advance-in-al-jawf-3009145"
-      },
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
-        "resumen": "La coalición saudí también informó misiles derribados hacia Riad y el oeste del reino. Los hutíes dicen que solo atacan instalaciones petroleras y militares; medios hutíes reportaron bombardeos en Marib, Taiz y Jawf.",
-        "fuente": "Al Jazeera (AFP, Reuters)",
-        "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
-      },
-      {
-        "fecha": "2026-10-29",
-        "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
-        "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
-        "fuente": "RTÉ (AFP)",
-        "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
-        "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
-        "fuente": "Reuters (Al-Monitor)",
-        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
-        "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
-        "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
-        "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
-        "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
-        "resumen": "La coalición liderada por Arabia Saudita informó que derribó cinco drones dirigidos a Medina y a la región Este. Los hutíes de Yemen negaron haber lanzado ataques contra territorio saudí ese día.",
-        "fuente": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217"
-      },
-      {
-        "fecha": "2026-10-20",
-        "titulo": "Arabia Saudita posterga su gran cumbre de inversores por los ataques hutíes",
-        "resumen": "El Future Investment Initiative (\"Davos del desierto\") pasa a 2027 tras ataques de los hutíes de Yemen contra el aeropuerto de Riad e instalaciones petroleras. Es una señal de que el conflicto regional se agrava.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-      }
-    ]
-  },
   "megasesion-diputados": {
     "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
@@ -762,91 +1010,6 @@ window.HILOS = {
         "resumen": "La Cancillería brasileña emitió un duro comunicado después de que Milei volviera a insultar a Lula e insinuara un posible fraude en el balotaje del 25 de octubre. Lo calificó de intento inaceptable de injerencia externa y defendió el voto electrónico.",
         "fuente": "Página/12",
         "url": "https://www.pagina12.com.ar/2026/10/20/la-cancilleria-de-brasil-lanzo-un-duro-comunicado-contra-las-ofensas-de-milei-hacia-lula/"
-      }
-    ]
-  },
-  "presupuesto-2027": {
-    "nombre": "Presupuesto 2027 en el Congreso",
-    "tema": "Argentina",
-    "creado": "2026-10-21",
-    "actualizado": "2026-11-25",
-    "entradas": [
-      {
-        "fecha": "2026-11-25",
-        "titulo": "Diputados sesiona el jueves por el Presupuesto 2027; la Ley Malvinas pasó a extraordinarias",
-        "resumen": "La sesión será el jueves 26 a las 12, con el Presupuesto y la reforma del BCRA. La Nación cuenta quórum y unos 126 votos; Infobae dice que Provincias Unidas anticipó que no dará quórum, aunque negocia por biocombustibles y el Consejo de la Magistratura.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
-      },
-      {
-        "fecha": "2026-11-23",
-        "titulo": "Última semana de sesiones ordinarias: Diputados votaría el Presupuesto 2027 el jueves 26",
-        "resumen": "El oficialismo cuenta unos 126 votos de 129 y sigue la pelea entre el PRO y Provincias Unidas. Infobae da por hecho que la Ley Malvinas y la reforma del BCRA pasan a extraordinarias; La Nación dice que el Gobierno evalúa llevar Malvinas al recinto ese día.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/la-puja-entre-pro-y-los-gobernadores-aliados-complica-los-acuerdos-de-menem-para-aprobar-el-nid22112026/"
-      },
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Presupuesto 2027: dictamen con 27 firmas tras quitar los recortes en discapacidad y AUH",
-        "resumen": "LLA sumó siete firmas aliadas, cinco con disidencias, y lo llevará al recinto el miércoles 25. Clarín y Página/12 ven un giro electoral en reponer la movilidad de la AUH y quitar los recortes en discapacidad; la oficialista Rodríguez Machado habla de un compromiso cumplido.",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/politica/discapacidad-rutas-y-universidades-el-gobierno-cedio-ante-sus-aliados-para-conseguir-dictamen-del-presupuesto-2027-avmeu3P1XoeP"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "Presupuesto 2027: el oficialismo acordó con el PRO y apunta a dictamen el martes 17 y sesión el 25",
-        "resumen": "Según El Cronista, LLA aceptó los siete pedidos del PRO, entre ellos prorrogar el régimen autopartista y bajar el IVA a los huevos al 10,5%. La Nación advierte que la UCR y los bloques provinciales siguen sin acuerdo y que la sesión podría pasar al 26.",
-        "fuente": "El Cronista",
-        "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "Diputados: el oficialismo negocia hoy el Presupuesto con los aliados y tiene como plan B la Ley Malvinas y la reforma del BCRA",
-        "resumen": "Bornoroni y Benegas Lynch reciben a las 14 a PRO, UCR, MID, Provincias Unidas y Argentina Federal para dictaminar y votar el 18 o el 25. Según Clarín, si no hay acuerdo el 18 irían la Ley Malvinas y la Carta Orgánica del BCRA.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/11/12/el-gobierno-negocia-el-presupuesto-2027-los-cambios-que-reclaman-los-aliados-para-acompanar-el-proyecto-en-diputados/"
-      },
-      {
-        "fecha": "2026-11-11",
-        "titulo": "Presupuesto 2027: el oficialismo intenta adelantar la sesión al 18 y aliados sospechan que prefiere prorrogar el actual",
-        "resumen": "Según Clarín, el jueves Bornoroni y Benegas Lynch recibirán a los bloques dialoguistas para dictaminar el 17 y votar el 18.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html"
-      },
-      {
-        "fecha": "2026-11-07",
-        "titulo": "Presupuesto 2027: el oficialismo apunta al 25 de noviembre en el recinto",
-        "resumen": "Busca dictamen una semana antes y media sanción antes del 30; el PRO dice que sus siete planteos siguen sin respuesta y la UCR condiciona su apoyo a discapacidad y universidades.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/presupuesto-2027-fechas-maneja-gobierno-reclamos-demoran-negociacion-congreso_0_lWJjiwzysh.html"
-      },
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Presupuesto 2027: el dictamen se corre a noviembre y el Gobierno ya evalúa sesiones extraordinarias",
-        "resumen": "La firma pasaría al 11 o al 17 de noviembre y la media sanción apunta al 25; según Perfil, la Casa Rosada prevé extraordinarias desde el 1 de diciembre. Infobae cita a aliados que dicen que \"está todo muy verde\"; el entorno de Menem busca evitarlas.",
-        "fuente": "Perfil",
-        "url": "https://perfil.com/politica/el-gobierno-cada-vez-mas-complicado-para-apurar-el-presupuesto-y-eliminar-las-paso-a1yLF3W2sONx"
-      },
-      {
-        "fecha": "2026-10-29",
-        "titulo": "Presupuesto 2027: el oficialismo suspendió el dictamen por falta de acuerdo con PRO, UCR y gobernadores",
-        "resumen": "Los aliados piden coparticipación para la Ciudad, obras viales, bajar el impuesto a los combustibles y más fondos universitarios (el CIN reclama $11 billones; el proyecto da $7,7). C5N habla de \"presión de los aliados\"; Infobae, de una demora sin riesgo real.",
-        "fuente": "C5N",
-        "url": "https://www.c5n.com/politica/por-la-presion-los-aliados-se-suspendio-la-reunion-presupuesto-y-se-pospone-su-tratamiento-n252784"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Presupuesto 2027: el Gobierno ahora busca un acuerdo con las universidades",
-        "resumen": "Según TN, Casa Rosada evalúa subir las partidas a un monto intermedio entre los $7,7 billones del proyecto y los $11 billones que pide el CIN, o aliviar contribuciones patronales. Un día antes, Letra P citaba al bloque oficialista: \"La partida de Universidades no se toca\".",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/24/tras-las-tensiones-por-la-ley-de-discapacidad-el-gobierno-busca-un-acuerdo-con-las-universidades-para-el-presupuesto-2027/"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Presupuesto 2027: tensión en Diputados por los fondos universitarios",
-        "resumen": "El secretario de Educación, Carlos Torrendell, defendió los $7,7 billones previstos para las universidades frente a los $11 billones que pide el CIN y acusó a los rectores de un \"acuerdo de casta\". El oficialismo quiere dictamen la semana próxima.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/20/tension-en-diputados-por-el-presupuesto-universitario-el-oficialismo-buscara-emitir-dictamen-la-semana-proxima/"
       }
     ]
   },
@@ -1681,84 +1844,6 @@ window.HILOS = {
       }
     ]
   },
-  "investigacion-nvidia-huang": {
-    "nombre": "Investigación a Jensen Huang en Nvidia",
-    "tema": "Inteligencia Artificial",
-    "creado": "2026-11-10",
-    "actualizado": "2026-11-24",
-    "entradas": [
-      {
-        "fecha": "2026-11-24",
-        "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
-        "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
-        "fuente": "CNN en Español",
-        "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
-      },
-      {
-        "fecha": "2026-11-20",
-        "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
-        "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
-      },
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
-        "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
-        "fuente": "Reuters",
-        "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
-      },
-      {
-        "fecha": "2026-11-17",
-        "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
-        "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
-        "fuente": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-      },
-      {
-        "fecha": "2026-11-16",
-        "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
-        "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
-        "fuente": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
-      },
-      {
-        "fecha": "2026-11-15",
-        "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
-        "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
-        "fuente": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-      },
-      {
-        "fecha": "2026-11-14",
-        "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
-        "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
-        "fuente": "Reuters",
-        "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
-        "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
-        "fuente": "Reuters",
-        "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
-        "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
-        "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
-      }
-    ]
-  },
   "argentina-iran": {
     "nombre": "Tensión diplomática entre Argentina e Irán",
     "tema": "Argentina",
@@ -1778,63 +1863,6 @@ window.HILOS = {
         "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
         "fuente": "TN",
         "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
-      }
-    ]
-  },
-  "reforma-electoral-paso": {
-    "nombre": "Reforma electoral y suspensión de las PASO",
-    "tema": "Argentina",
-    "creado": "2026-11-13",
-    "actualizado": "2026-11-19",
-    "entradas": [
-      {
-        "fecha": "2026-11-19",
-        "titulo": "Sin colectoras, el oficialismo logró dictamen para suspender las PASO; el Senado vota el 26",
-        "resumen": "Asuntos Constitucionales firmó con 11 firmas, una más de las necesarias, un texto que suspende las PASO de 2027 y suma Ficha Limpia. El Cronista recoge que LLA cuenta 40 votos de los 37 necesarios; Página/12 enumera los cambios que Bullrich \"tuvo que aceptar\" para salvarlo.",
-        "fuente": "El Canciller",
-        "url": "https://elcanciller.com/politica/reforma-electoral--el-oficialismo-acepto-retirar-las-listas-colectoras-y-apuesta-al-dictamen-para-suspender-las-paso_a6afd814273d989d88c6af507"
-      },
-      {
-        "fecha": "2026-11-18",
-        "titulo": "PASO: sin firmas por las colectoras, el oficialismo pasó a un cuarto intermedio en el Senado",
-        "resumen": "Asuntos Constitucionales retoma hoy a las 12 tras no reunir las 10 firmas; la cordobesa Alejandra Vigo apoya suspender las PASO pero rechazó las colectoras. Infobae recoge que aliados esperan un acuerdo en horas; Página/12 dice que las colectoras \"hicieron fracasar, por ahora\" la reforma.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/17/reforma-politica-el-oficialismo-pidio-un-cuarto-intermedio-por-falta-de-firmas-y-buscaria-dictaminar-manana/"
-      },
-      {
-        "fecha": "2026-11-17",
-        "titulo": "PASO: el Gobierno lleva al Senado un texto que solo las suspende en 2027 y habilita colectoras",
-        "resumen": "Asuntos Constitucionales trata hoy a las 15 el borrador: suspende las PASO solo en 2027, permite dos listas legislativas por fórmula presidencial y suma Ficha Limpia. Perfil cuenta 13 posibles firmas de las 10 necesarias; Página/12 lo llama \"maniobra desesperada\".",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/politica/paso-la-casa-rosada-lleva-un-nuevo-proyecto-al-senado-cruzado-por-lo-que-piden-los-gobernadores-y-la-tension-con-bullrich-aXuvw8F8ZfXh"
-      },
-      {
-        "fecha": "2026-11-16",
-        "titulo": "PASO: Clarín cuenta hasta 10 radicales a favor de suspenderlas y el PRO duda de que haya dictamen el martes",
-        "resumen": "Según Clarín, al menos 6 de los 10 senadores de la UCR votarían la suspensión y podrían ser todos. Infobae, en cambio, recoge que el jefe del bloque PRO, Martín Goerling, no cree que haya dictamen el martes 17 si el Gobierno cambia el texto a último momento.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/pelea-paso-bloque-senadores-radicales-incluso-responden-gobernadores-avalaria-suspension_0_xdVjMNow7C.html"
-      },
-      {
-        "fecha": "2026-11-15",
-        "titulo": "PASO: el oficialismo va el martes por el dictamen en el Senado y La Nación le cuenta 31 de los 37 votos",
-        "resumen": "Asuntos Constitucionales tratará el martes 17 un borrador que suspende las PASO y suma listas de acople. Según La Nación, el oficialismo tiene 31 votos seguros de los 37 que necesita; Clarín, en cambio, dice que en la Casa Rosada dan los votos por hechos.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/el-gobierno-acelera-el-debate-para-suspender-las-paso-sin-saber-si-tiene-los-votos-asegurados-nid15112026/"
-      },
-      {
-        "fecha": "2026-11-14",
-        "titulo": "PASO: el Gobierno negocia con gobernadores radicales suspenderlas solo en 2027, pero ya asume que irán a extraordinarias",
-        "resumen": "Según Clarín, el texto que irá el martes a Asuntos Constitucionales suspende las PASO solo en 2027, elimina el voto directo al Parlasur y habilita colectoras. Infobae, en cambio, da por hecho que no se aprobará antes del 28 y que habrá extraordinarias.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/economia/negociacion-radicales-dormir-paso-2027_0_YQ3HviUVyh.html"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "PASO: el Gobierno acelera la reforma electoral en el Senado, pero el PRO y la UCR aún no dan los votos",
-        "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/"
       }
     ]
   },
