@@ -1,5 +1,522 @@
 // Historial persistente de hilos. Crece cada día; nunca se reinicia.
 window.HILOS = {
+  "hutis-arabia-saudita": {
+    "nombre": "Conflicto entre los hutíes y Arabia Saudita",
+    "tema": "Mundo",
+    "creado": "2026-10-20",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "Arabia Saudita y los hutíes atacaron sus capitales; Pakistán y Turquía prometieron más apoyo a Riad",
+        "resumen": "Riad interceptó un misil de crucero hutí y un bombardeo saudita dejó 13 heridos en un barrio de Saná, según medios hutíes. En Islamabad, Pakistán y Turquía se comprometieron a «intensificar» su apoyo bajo el Pacto de La Meca, sin anunciar medidas militares.",
+        "fuente": "DW",
+        "url": "https://www.dw.com/es/arabia-saudita-y-los-rebeldes-hut%C3%ADes-de-yemen-intercambian-ataques-contra-sus-capitales-respectivas/a-80083602"
+      },
+      {
+        "fecha": "2026-11-27",
+        "titulo": "Un ataque hutí a la refinería saudita de Jazán mató a un trabajador y frenó parte de sus operaciones",
+        "resumen": "El proyectil incendió la planta, que procesa hasta 400.000 barriles diarios, un día después de que los hutíes reivindicaran ataques a Ras Tanura y a los puertos de Yida y Jazán. La coalición saudí dijo haber destruido la plataforma de lanzamiento en Hodeida.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+      },
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Restos de un misil hutí dañaron la torre del fondo soberano saudita en Riad",
+        "resumen": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
+        "fuente": "Clarín (AFP)",
+        "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
+        "resumen": "La coalición dijo haber destruido dos misiles balísticos hutíes dirigidos a Najrán; hubo restos tras el derribo y se evalúan daños.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
+      },
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
+        "resumen": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
+        "fuente": "Gulf News",
+        "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
+      },
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
+        "resumen": "Según su vocero, desde el viernes hizo 1.119 ataques con aviones, drones y artillería, neutralizó a 427 combatientes y tomó posiciones estratégicas en la provincia de Jawf. También siguen los combates en Taiz.",
+        "fuente": "Arab News",
+        "url": "https://www.arabnews.com/middle-east/yemeni-forces-claim-1119-strikes-on-houthi-targets-advance-in-al-jawf-3009145"
+      },
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
+        "resumen": "La coalición saudí también informó misiles derribados hacia Riad y el oeste del reino. Los hutíes dicen que solo atacan instalaciones petroleras y militares; medios hutíes reportaron bombardeos en Marib, Taiz y Jawf.",
+        "fuente": "Al Jazeera (AFP, Reuters)",
+        "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
+        "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
+        "fuente": "RTÉ (AFP)",
+        "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
+        "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
+        "fuente": "Reuters (Al-Monitor)",
+        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
+        "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
+        "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
+        "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
+        "resumen": "La coalición liderada por Arabia Saudita informó que derribó cinco drones dirigidos a Medina y a la región Este. Los hutíes de Yemen negaron haber lanzado ataques contra territorio saudí ese día.",
+        "fuente": "Anadolu Agency",
+        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217"
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "Arabia Saudita posterga su gran cumbre de inversores por los ataques hutíes",
+        "resumen": "El Future Investment Initiative (\"Davos del desierto\") pasa a 2027 tras ataques de los hutíes de Yemen contra el aeropuerto de Riad e instalaciones petroleras. Es una señal de que el conflicto regional se agrava.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+      }
+    ]
+  },
+  "investigacion-nvidia-huang": {
+    "nombre": "Investigación a Jensen Huang en Nvidia",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-10",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "Aparecieron chips Blackwell de Nvidia, cuya venta a China requiere licencia, en un centro de datos de Shanghái ligado a Alice Huang",
+        "resumen": "Según Bloomberg, un rack GB300 armado por Gigabyte fue dado en garantía de un préstamo de 96 millones de yuanes (US$14 millones) en el sitio, vinculado a la fundadora de Megaspeed. Otra empresa declaró allí un servidor GB200 y 32 con chips H200.",
+        "fuente": "The Next Web",
+        "url": "https://thenextweb.com/news/nvidia-blackwell-chips-alice-huang-shanghai-data-centre-bloomberg"
+      },
+      {
+        "fecha": "2026-11-27",
+        "titulo": "Las nuevas restricciones de EE.UU. a los chips de IA frenaron miles de millones en préstamos para centros de datos en Asia",
+        "resumen": "Según Bloomberg, los bancos demoraron un crédito de US$6.600 millones a Bridge Data Centres y revisan otro de US$480 millones a Aolani, con clientes como ByteDance; uno rechazó US$372 millones para Digital Halo, que da servicio a Alibaba.",
+        "fuente": "The Economic Times",
+        "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/us-chip-curbs-halt-billions-in-data-centre-loans-for-chinese-firms/136210334"
+      },
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
+        "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
+      },
+      {
+        "fecha": "2026-11-20",
+        "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
+        "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
+        "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
+      },
+      {
+        "fecha": "2026-11-17",
+        "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
+        "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
+        "fuente": "Ars Technica",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+      },
+      {
+        "fecha": "2026-11-16",
+        "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
+        "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
+        "fuente": "South China Morning Post",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
+      },
+      {
+        "fecha": "2026-11-15",
+        "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
+        "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
+        "fuente": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+      },
+      {
+        "fecha": "2026-11-14",
+        "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
+        "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
+        "fuente": "Reuters",
+        "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
+        "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
+        "fuente": "Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
+        "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
+        "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
+        "fuente": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
+      }
+    ]
+  },
+  "riesgo-pais-mercados": {
+    "nombre": "Riesgo país y mercados argentinos",
+    "tema": "Argentina",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "El riesgo país volvió debajo de 1.000 puntos: cayó 10% el viernes y cerró en 960",
+        "resumen": "Los bonos en dólares subieron 3% en la semana, pero las reservas bajaron US$664 millones, a US$48.698 millones, pese a que el BCRA compró US$61 millones. Infobae lo atribuye al rebote de Wall Street y Brasil; TN, al avance de las leyes en el Congreso.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/28/las-acciones-argentinas-tuvieron-una-fuerte-recuperacion-y-el-riesgo-pais-cayo-mas-de-100-puntos-en-una-semana-muy-volatil/"
+      },
+      {
+        "fecha": "2026-11-26",
+        "titulo": "Caputo pidió a China fondear US$5.000 millones del swap como reaseguro para pagar la deuda de 2027",
+        "resumen": "El dólar mayorista superó por primera vez los $1.600 ($1.604) y el riesgo país tocó 1.139 puntos antes de cerrar en 1.067. Caputo habló de dar «certidumbre» si falla la refinanciación; Página/12 tituló «Caputo busca salvataje chino para evitar el default».",
+        "fuente": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/"
+      },
+      {
+        "fecha": "2026-11-25",
+        "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
+        "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
+      },
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
+        "resumen": "El índice cayó 30 puntos tras subir 240 en la semana, en un rebote global impulsado por la vuelta de Huang a Nvidia; Globant ganó 9,5% y Galicia 5,5%. Página/12 recoge a economistas que hablan del fin del «trade Milei».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
+      },
+      {
+        "fecha": "2026-11-21",
+        "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
+        "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
+      },
+      {
+        "fecha": "2026-11-20",
+        "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
+        "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
+      },
+      {
+        "fecha": "2026-11-17",
+        "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
+        "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/"
+      },
+      {
+        "fecha": "2026-11-14",
+        "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
+        "resumen": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
+        "resumen": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
+        "resumen": "Bajó 66 puntos (−7%), a 872, con bonos que subieron hasta 3% en Nueva York durante el feriado. Infobae lo atribuyó al petróleo y a Paraguay; Clarín advierte un bache de US$10.000 millones para 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/10/el-riesgo-pais-cayo-con-fuerza-en-la-argentina-y-se-espera-una-baja-de-tasas-a-nivel-global/"
+      },
+      {
+        "fecha": "2026-11-07",
+        "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
+        "resumen": "Sexta suba seguida (+13 a 939), máximo desde octubre de 2025, pese al rebote del Nasdaq. Clarín y PPI apuntan a factores locales; IEB, en Infobae, ve un riesgo político exagerado.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
+        "resumen": "JP Morgan +73 a 925 (+8,6%), máximo desde octubre de 2025; Merval −4,1%. La Nación enfatizó el risk-off global; Perfil y BAE, las dudas locales y el respaldo de EE.UU.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
+      },
+      {
+        "fecha": "2026-11-05",
+        "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
+        "resumen": "Riesgo país 852 (+21), Merval −2,4%, YPF −6,6% y bonos −1,1%, mientras Wall Street subía tras la victoria demócrata. Caputo dijo que la relación con EE.UU. no cambia.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
+      },
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
+        "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
+        "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
+      }
+    ]
+  },
+  "ley-malvinas": {
+    "nombre": "Ley de Malvinas en el Congreso",
+    "tema": "Argentina",
+    "creado": "2026-10-20",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "El Gobierno convoca a extraordinarias con la Ley Malvinas como prioridad y la quiere votar el miércoles en Diputados",
+        "resumen": "El decreto, que saldría el lunes, suma PASO, Presupuesto, Súper RIGI, biocombustibles, cabotaje y el ARTI con EE.UU. La Nación remarca los reparos de aliados y la interna entre Santiago Caputo y Martín Menem; MDZ, las concesiones a Llaryora y Pullaro.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/con-el-proyecto-por-malvinas-como-eje-principal-el-gobierno-delineo-la-hoja-de-ruta-para-las-nid27112026/"
+      },
+      {
+        "fecha": "2026-11-25",
+        "titulo": "La Ley Malvinas quedó fuera de la sesión del jueves y pasa a las extraordinarias de diciembre",
+        "resumen": "El Gobierno la sacó del temario, que se concentra en el Presupuesto 2027 y la Carta Orgánica del BCRA, y anunció que será la primera iniciativa de las extraordinarias. Santiago Caputo respondió en X con críticas leídas como dirigidas a los Menem.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
+      },
+      {
+        "fecha": "2026-11-19",
+        "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
+        "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
+      },
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
+        "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
+      },
+      {
+        "fecha": "2026-11-13",
+        "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
+        "resumen": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
+        "resumen": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
+        "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
+      },
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
+        "resumen": "El plenario del 27/10 será solo informativo. Caputo acepta sumar a Menem y Abdala al Consejo de Seguridad, crear una bicameral y bajar a 2 años la pena mínima para proveedores; el recinto apunta al 18 de noviembre.",
+        "fuente": "Letra P",
+        "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
+        "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
+        "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
+        "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
+        "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
+        "resumen": "Las comisiones no lograron consenso sobre el proyecto de Defensa de la Soberanía Nacional, de 133 artículos. Unión por la Patria y Provincias Unidas piden separar el tema Malvinas del resto de la reforma de seguridad e inteligencia.",
+        "fuente": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html"
+      },
+      {
+        "fecha": "2026-10-20",
+        "titulo": "El oficialismo posterga al 27 de octubre el debate de la \"ley de Malvinas\"",
+        "resumen": "El proyecto, que también reforma defensa e inteligencia y prevé penas por desinformación, se demora por reclamos de empresas de EE.UU. y falta de apoyos. Esta semana el oficialismo busca tratar en sesión especial la Carta Orgánica del BCRA y el régimen de biocombustibles.",
+        "fuente": "La Gaceta",
+        "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html"
+      }
+    ]
+  },
+  "elecciones-israel": {
+    "nombre": "Elecciones en Israel",
+    "tema": "Mundo",
+    "creado": "2026-10-27",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "Eisenkot sumó a los Demócratas de Yair Golan, pero su coalición contra Netanyahu sigue lejos de la mayoría",
+        "resumen": "Tras el acuerdo del martes con Avigdor Lieberman, el pacto con Golan le da 36 bancas de las 61 necesarias; con el partido de Naftali Bennett llegaría a 48. Tiene hasta el 6 de diciembre, prorrogable 14 días, para formar gobierno.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Juró la nueva Knesset; el bloque de Eisenkot pidió reemplazar a Ohana por Kahana",
+        "resumen": "Juró la 26.ª Knesset sin acuerdo de gobierno. El bloque de Eisenkot presentó las firmas para reemplazar al presidente Amir Ohana por Matan Kahana, y Herzog pidió evitar otra elección.",
+        "fuente": "Ynetnews",
+        "url": "https://www.ynetnews.com/article/hkhobslrge"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "El bloque de Eisenkot propone a Matan Kahana para presidir la Knesset",
+        "resumen": "El bloque de Eisenkot acordó proponer a Matan Kahana, de Yashar!, como presidente de la Knesset, que jura hoy, y se repartió las presidencias de comisiones clave.",
+        "fuente": "Ynetnews",
+        "url": "https://www.ynetnews.com/article/r1flu8erfe"
+      },
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Eisenkot recibió el mandato e invitó al Likud y a Smotrich a un \"gobierno de emergencia\" encabezado por él",
+        "resumen": "Recibió formalmente el mandato de Herzog y ofreció sumarse al Likud y al partido de Smotrich, solo con él como primer ministro.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+      },
+      {
+        "fecha": "2026-11-08",
+        "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",
+        "resumen": "Herzog eligió a Eisenkot, que recibe el mandato el domingo y tiene 28 días (más 14) para formar gobierno; Netanyahu pidió una coalición de unidad.",
+        "fuente": "Axios",
+        "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "Herzog definirá el domingo quién arma gobierno tras 67 recomendaciones a Eisenkot",
+        "resumen": "67 diputados respaldaron a Eisenkot y 46 a Netanyahu; Herzog citó \"vetos mutuos\" entre bloques y anunció la decisión para el domingo.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+      },
+      {
+        "fecha": "2026-11-05",
+        "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
+        "resumen": "El comité electoral certificó los resultados (Netanyahu 53, Eisenkot 48, partidos árabes 19) y Herzog abrió las consultas para encargar la formación de gobierno.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
+      },
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Israel: las autoridades electorales dicen que el resultado se mantiene pese a las denuncias de fraude del Likud",
+        "resumen": "El presidente del comité electoral, Noam Sohlberg, junto al fiscal general y el jefe del Shin Bet, dijo que aun si se prueba injerencia extranjera el resultado no cambia. El Likud acusa sin pruebas a los partidos árabes de \"robar\" la elección.",
+        "fuente": "AP",
+        "url": "https://www.hawaiinewsnow.com/2026/11/02/israeli-officials-say-elections-will-stand-after-netanyahu-claimed-arabs-stole-vote/"
+      },
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
+        "resumen": "Los partidos árabes sumaron 19 escaños de la Knéset, un récord, pero ambos bloques descartaron gobernar con Ra'am y la Lista Conjunta. Los resultados se entregarán certificados al presidente Isaac Herzog el miércoles 4 de noviembre.",
+        "fuente": "NBC News",
+        "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
+        "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
+        "fuente": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
+      },
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Israel vota con el bloque de Eisenkot por delante de Netanyahu en las encuestas",
+        "resumen": "Votan 7,3 millones de electores por 120 escaños. Los sondeos dan 52 a 56 bancas al bloque de Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
+        "fuente": "DW",
+        "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
+      }
+    ]
+  },
+  "oro-bcra": {
+    "nombre": "El oro del Banco Central en Londres",
+    "tema": "Argentina",
+    "creado": "2026-11-28",
+    "actualizado": "2026-11-28",
+    "entradas": [
+      {
+        "fecha": "2026-11-28",
+        "titulo": "Oro del Banco Central: la AGN confirmó que 1.000 lingotes están en Londres y pidió repatriarlos",
+        "resumen": "El informe aprobado el jueves dice que el BCRA los envió al Banco de Inglaterra en 2024, como custodio del BIS, y refundió 115. La auditora oficialista Mónica Almada admitió que están en Londres, pero habló de «informe militante»; Perfil destacó el riesgo de embargo.",
+        "fuente": "El Cronista",
+        "url": "https://www.cronista.com/economia-politica/oro-del-bcra-fuerte-cruce-en-la-agn-dejo-al-descubierto-una-pregunta-clave-que-aun-no-tiene-respuesta/"
+      }
+    ]
+  },
   "presupuesto-2027": {
     "nombre": "Presupuesto 2027 en el Congreso",
     "tema": "Argentina",
@@ -153,296 +670,6 @@ window.HILOS = {
         "resumen": "Asuntos Constitucionales, que preside Agustín Coto, la tratará el martes 17 y la Casa Rosada quiere media sanción en dos semanas: necesita 37 votos y LLA tiene 21. Según Infobae, PRO y UCR condicionan su apoyo a que avance Ficha Limpia.",
         "fuente": "Infobae",
         "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/"
-      }
-    ]
-  },
-  "hutis-arabia-saudita": {
-    "nombre": "Conflicto entre los hutíes y Arabia Saudita",
-    "tema": "Mundo",
-    "creado": "2026-10-20",
-    "actualizado": "2026-11-27",
-    "entradas": [
-      {
-        "fecha": "2026-11-27",
-        "titulo": "Un ataque hutí a la refinería saudita de Jazán mató a un trabajador y frenó parte de sus operaciones",
-        "resumen": "El proyectil incendió la planta, que procesa hasta 400.000 barriles diarios, un día después de que los hutíes reivindicaran ataques a Ras Tanura y a los puertos de Yida y Jazán. La coalición saudí dijo haber destruido la plataforma de lanzamiento en Hodeida.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
-      },
-      {
-        "fecha": "2026-11-19",
-        "titulo": "Restos de un misil hutí dañaron la torre del fondo soberano saudita en Riad",
-        "resumen": "Restos de un misil hutí lanzado contra Riad dañaron la torre del fondo soberano saudita, la más alta del distrito financiero. La coalición saudí dijo haber destruido una plataforma de misiles a unos 100 km de Saná.",
-        "fuente": "Clarín (AFP)",
-        "url": "https://www.clarin.com/estados-unidos/los-huties-lanzan-un-misil-contra-riad-y-acusan-a-arabia-de-atacar-su-capital_0_0POBUl9a6Y.html"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "La coalición saudí interceptó dos misiles hutíes sobre Najrán",
-        "resumen": "La coalición dijo haber destruido dos misiles balísticos hutíes dirigidos a Najrán; hubo restos tras el derribo y se evalúan daños.",
-        "fuente": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-over-najran/4113702"
-      },
-      {
-        "fecha": "2026-11-02",
-        "titulo": "Yemen: la coalición saudí anunció una operación contra los recursos de los hutíes",
-        "resumen": "La coalición saudí anunció una \"operación cualitativa\" contra los recursos de los hutíes; medios hutíes informaron bombardeos a estaciones de una petrolera en Bajil (Hodeida) y en la ciudad de Dhamar.",
-        "fuente": "Gulf News",
-        "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798"
-      },
-      {
-        "fecha": "2026-11-01",
-        "titulo": "Yemen: el Ejército dice que avanzó en Jawf tras más de 1.100 ataques contra los hutíes",
-        "resumen": "Según su vocero, desde el viernes hizo 1.119 ataques con aviones, drones y artillería, neutralizó a 427 combatientes y tomó posiciones estratégicas en la provincia de Jawf. También siguen los combates en Taiz.",
-        "fuente": "Arab News",
-        "url": "https://www.arabnews.com/middle-east/yemeni-forces-claim-1119-strikes-on-houthi-targets-advance-in-al-jawf-3009145"
-      },
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Arabia Saudita dice que interceptó un dron hutí lanzado hacia La Meca; los hutíes lo niegan",
-        "resumen": "La coalición saudí también informó misiles derribados hacia Riad y el oeste del reino. Los hutíes dicen que solo atacan instalaciones petroleras y militares; medios hutíes reportaron bombardeos en Marib, Taiz y Jawf.",
-        "fuente": "Al Jazeera (AFP, Reuters)",
-        "url": "https://www.aljazeera.com/news/2026/10/30/saudi-arabia-reports-interception-of-houthi-drone-targeting-mecca"
-      },
-      {
-        "fecha": "2026-10-29",
-        "titulo": "Yemen: 14 muertos en bombardeos atribuidos a Arabia Saudita y nuevo ataque hutí al aeropuerto de Adén",
-        "resumen": "Medios hutíes informaron 14 muertos y 15 heridos en un mercado y una estación de servicio de la provincia de Jawf. Dos misiles balísticos hutíes cayeron en el perímetro del aeropuerto de Adén e hirieron a varios civiles.",
-        "fuente": "RTÉ (AFP)",
-        "url": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "Los hutíes dicen que atacaron Ras Tanura, la mayor refinería saudí, y Egipto habilita a sus tropas a defender a Riad",
-        "resumen": "Los hutíes afirman que un misil balístico incendió Ras Tanura, de 550.000 barriles diarios; Arabia Saudita no lo confirmó y Bloomberg informó un fuego contenido. El Parlamento egipcio autorizó a su ejército a defender a Arabia Saudita si lo pide.",
-        "fuente": "Reuters (Al-Monitor)",
-        "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "La coalición saudí bombardea lanzaderas hutíes y los rebeldes vuelven a atacar el aeropuerto de Riad",
-        "resumen": "Arabia Saudita interceptó 10 misiles balísticos hacia el sur del país y otro hacia Riad, horas después de reabrir dos terminales del aeropuerto; la coalición dijo haber destruido cuatro lanzaderas y un depósito de misiles.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Los hutíes lanzan otra ola de ataques contra Arabia Saudita y el aeropuerto de Adén",
-        "resumen": "Los hutíes dijeron haber atacado los aeropuertos de Riad, Dammam y Najrán, instalaciones de Aramco en Yanbu y el oleoducto Este-Oeste; Arabia Saudita interceptó misiles hacia Taif y Yanbu y cayeron restos en las regiones de La Meca y Medina. También golpearon el aeropuerto de Adén, por cuarta vez en el mes.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Ataques en Arabia Saudita dejan tres muertos y EE.UU. retira a parte de su personal",
-        "resumen": "Un ataque contra el aeropuerto de Dammam mató a una persona e hirió a ocho, y restos de un dron derribado cerca del yacimiento petrolero de Shaybah mataron a otras dos. El Departamento de Estado ordenó la salida de diplomáticos no esenciales y sus familias.",
-        "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/c6x2vpk93770o"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Arabia Saudita dice que interceptó drones sobre Medina; los hutíes lo niegan",
-        "resumen": "La coalición liderada por Arabia Saudita informó que derribó cinco drones dirigidos a Medina y a la región Este. Los hutíes de Yemen negaron haber lanzado ataques contra territorio saudí ese día.",
-        "fuente": "Anadolu Agency",
-        "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-drones-targeting-kingdom/4095217"
-      },
-      {
-        "fecha": "2026-10-20",
-        "titulo": "Arabia Saudita posterga su gran cumbre de inversores por los ataques hutíes",
-        "resumen": "El Future Investment Initiative (\"Davos del desierto\") pasa a 2027 tras ataques de los hutíes de Yemen contra el aeropuerto de Riad e instalaciones petroleras. Es una señal de que el conflicto regional se agrava.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-      }
-    ]
-  },
-  "investigacion-nvidia-huang": {
-    "nombre": "Investigación a Jensen Huang en Nvidia",
-    "tema": "Inteligencia Artificial",
-    "creado": "2026-11-10",
-    "actualizado": "2026-11-27",
-    "entradas": [
-      {
-        "fecha": "2026-11-27",
-        "titulo": "Las nuevas restricciones de EE.UU. a los chips de IA frenaron miles de millones en préstamos para centros de datos en Asia",
-        "resumen": "Según Bloomberg, los bancos demoraron un crédito de US$6.600 millones a Bridge Data Centres y revisan otro de US$480 millones a Aolani, con clientes como ByteDance; uno rechazó US$372 millones para Digital Halo, que da servicio a Alibaba.",
-        "fuente": "The Economic Times",
-        "url": "https://datacenters.economictimes.indiatimes.com/news/investments-deals/us-chip-curbs-halt-billions-in-data-centre-loans-for-chinese-firms/136210334"
-      },
-      {
-        "fecha": "2026-11-24",
-        "titulo": "Nvidia devolvió el cargo de CEO a Jensen Huang tras una campaña de presión de Trump y Vance",
-        "resumen": "El directorio, que cuatro días antes había descartado reincorporarlo, lo restituyó por unanimidad 11 días después de su renuncia, tras llamadas de Trump y Vance que le aseguraron que no era un riesgo de seguridad nacional. La acción subió 31,6%.",
-        "fuente": "CNN en Español",
-        "url": "https://cnnespanol.cnn.com/2026/11/23/eeuu/presion-trump-restituir-jensen-huang-ceo-nvidia-trax"
-      },
-      {
-        "fecha": "2026-11-20",
-        "titulo": "California abrió una investigación a Nvidia por el posible desvío de chips a China",
-        "resumen": "El fiscal general Rob Bonta citó a la empresa para saber si sus chips avanzados o información confidencial llegaron a China y si engañó a los inversores. Llega una semana después de la renuncia de Jensen Huang por su relación con una ejecutiva de Megaspeed.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
-      },
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Nvidia superó las previsiones sin Huang y su directorio descartó devolverle el cargo",
-        "resumen": "Facturó US$115.800 millones en el trimestre, 103% más que hace un año, y prevé US$130.000 millones para el próximo sin contar ventas de cómputo a China. El presidente del directorio, Harvey Jones, dijo que no piensan reinstalar a Jensen Huang como CEO.",
-        "fuente": "Reuters",
-        "url": "https://www.investing.com/news/stock-market-news/business-as-usual-nvidias-kress-passes-first-test-as-board-slams-door-on-huang-5034739"
-      },
-      {
-        "fecha": "2026-11-17",
-        "titulo": "EE.UU. cierra la vía para que empresas chinas alquilen chips de IA en otros países",
-        "resumen": "Una norma de Comercio exige licencia a los centros de datos de terceros países que vendan gran capacidad de cómputo a empresas chinas, y también para vender chips avanzados a Indonesia, Malasia, Singapur, Tailandia y Brasil. Hay 90 días para cumplir.",
-        "fuente": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
-      },
-      {
-        "fecha": "2026-11-16",
-        "titulo": "Jensen Huang evalúa volver a Nvidia, mientras Bessent pide buscar un CEO afuera de la empresa",
-        "resumen": "Según el Financial Times, Huang habló con allegados sobre regresar y sus aliados arman un \"war room\" de ejecutivos para presionar, incluso ante la Casa Blanca. El secretario del Tesoro, Scott Bessent, pidió una \"sacudida drástica\" y un CEO externo.",
-        "fuente": "South China Morning Post",
-        "url": "https://www.scmp.com/news/world/united-states-canada/article/3374512/bessent-says-nvidia-must-go-outside-company-find-new-ceo"
-      },
-      {
-        "fecha": "2026-11-15",
-        "titulo": "Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia reponga a Jensen Huang",
-        "resumen": "La petición \"Stand with Jensen\" reclama su regreso mientras una investigación independiente establece los hechos. Dice sumar 5.965 empleados, 1.108 ex empleados y 63.063 accionistas; la firmaron Musk, Tim Sweeney (Epic Games) y Garry Tan (Y Combinator).",
-        "fuente": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-      },
-      {
-        "fecha": "2026-11-14",
-        "titulo": "Nvidia sondeó a Rene Haas, CEO de Arm, para reemplazar a Huang, mientras empleados piden su regreso",
-        "resumen": "Según el Financial Times, el directorio se acercó a Haas, que trabajó siete años en Nvidia; la empresa dice que aún elige una consultora y no contactó formalmente a nadie. Según Wired, un posteo interno que pide el regreso de Huang superó los 1.600 comentarios.",
-        "fuente": "Reuters",
-        "url": "https://www.business-standard.com/world-news/nvidia-approaches-arm-ceo-rene-haas-as-employees-seek-huang-s-return-126111400075_1.html"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "Jensen Huang renunció a Nvidia; la directora financiera Colette Kress asume como CEO interina",
-        "resumen": "El cofundador, único CEO en los 33 años de la empresa, dejó el cargo y el directorio tras revelarse una segunda relación con una empleada. Harvey Jones, director desde 1993, será el primer presidente del directorio, que buscará un CEO definitivo.",
-        "fuente": "Reuters",
-        "url": "https://www.investing.com/news/stock-market-news/nvidia-ceo-jensen-huang-to-step-down-in-blow-to-ai-boom-5021980"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "El directorio de Nvidia evalúa desplazar a Jensen Huang y la acción cayó más de 8%",
-        "resumen": "Tras un informe del Wall Street Journal de que la empresa se preparaba para echarlo, el directorio se reunió el miércoles sin anunciar una decisión. El New York Times reveló otra relación de Huang, con Kimberly Powell, vicepresidenta de salud que dependía de él.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "Nvidia investiga a su CEO, Jensen Huang, por su relación con una empresaria que EE.UU. cree espía china",
-        "resumen": "El directorio abrió una investigación independiente tras la relación de Huang con una empresaria señalada como espía china; la acción cayó 6,4%.",
-        "fuente": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html"
-      }
-    ]
-  },
-  "riesgo-pais-mercados": {
-    "nombre": "Riesgo país y mercados argentinos",
-    "tema": "Argentina",
-    "creado": "2026-11-03",
-    "actualizado": "2026-11-26",
-    "entradas": [
-      {
-        "fecha": "2026-11-26",
-        "titulo": "Caputo pidió a China fondear US$5.000 millones del swap como reaseguro para pagar la deuda de 2027",
-        "resumen": "El dólar mayorista superó por primera vez los $1.600 ($1.604) y el riesgo país tocó 1.139 puntos antes de cerrar en 1.067. Caputo habló de dar «certidumbre» si falla la refinanciación; Página/12 tituló «Caputo busca salvataje chino para evitar el default».",
-        "fuente": "Bloomberg Línea",
-        "url": "https://www.bloomberglinea.com/latinoamerica/argentina/caputo-detallo-como-pagara-argentina-los-proximos-vencimientos-y-dijo-que-pidio-a-china-uso-del-swap/"
-      },
-      {
-        "fecha": "2026-11-25",
-        "titulo": "El riesgo país cerró en 1.094 puntos, el más alto en 13 meses, y el dólar oficial tocó un récord de $1.615",
-        "resumen": "Subió 5,7% y llegó a 1.108 en la rueda; los Globales perdieron 2,1% y el CCL saltó 4,1%, a $1.793. Infobae lo vincula a la toma de ganancias en Wall Street tras la euforia del lunes; TN y Clarín, a las dudas por los vencimientos de 2027 y la recesión.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/economia/2026/11/24/tras-el-respiro-en-el-feriado-local-el-riesgo-pais-vuelve-a-acercarse-a-los-1100-puntos-y-el-dolar-oficial-toca-un-nuevo-maximo/"
-      },
-      {
-        "fecha": "2026-11-24",
-        "titulo": "Con la plaza local en feriado, el riesgo país bajó a 1.035 puntos y los ADR rebotaron hasta 9,5%",
-        "resumen": "El índice cayó 30 puntos tras subir 240 en la semana, en un rebote global impulsado por la vuelta de Huang a Nvidia; Globant ganó 9,5% y Galicia 5,5%. Página/12 recoge a economistas que hablan del fin del «trade Milei».",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/23/las-acciones-argentinas-rebotan-hasta-7-y-el-riesgo-pais-cae-50-puntos-basicos-en-un-dia-de-euforia-en-las-bolsas/"
-      },
-      {
-        "fecha": "2026-11-21",
-        "titulo": "El riesgo país superó los 1.000 puntos por primera vez en 13 meses y el dólar oficial llegó a $1600",
-        "resumen": "Cerró el viernes en 1.071 puntos (+236 en la semana) y el CCL rozó los $1800. Infobae lo enmarca en la caída de 10% del Nasdaq; Clarín subraya las dudas locales: el 9 de enero vencen US$4500 millones y el Tesoro tiene US$158 millones en el BCRA.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/21/el-riesgo-pais-escalo-230-puntos-y-las-acciones-argentinas-se-hundieron-hasta-25-en-una-semana-muy-negativa-de-wall-street/"
-      },
-      {
-        "fecha": "2026-11-20",
-        "titulo": "El riesgo país saltó 9,8%, a 931 puntos, y el dólar oficial marcó un récord de $1585",
-        "resumen": "Los ADR cayeron hasta 10,2% y el CCL subió 2,4%, a $1771. Infobae recoge a analistas que lo atribuyen a la venta global de emergentes y a un componente político creciente; El Economista lo presenta como una señal de alerta por la brecha y la economía local.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/19/el-riesgo-pais-se-disparo-casi-10-que-factores-explican-la-nueva-escalada/"
-      },
-      {
-        "fecha": "2026-11-17",
-        "titulo": "El riesgo país volvió a 855 puntos y el Merval cayó cerca de 5% en un día",
-        "resumen": "El riesgo país subió 25 puntos, a 855, y las acciones argentinas en Wall Street cayeron hasta 7,7%. Caputo lo atribuyó al \"temor a que no esté Milei\"; Infobae lo vincula con la caída global de las tecnológicas y la suba de tasas en EE.UU.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/16/las-acciones-y-los-bonos-argentinos-cotizan-en-baja-y-vuelve-a-subir-el-riesgo-pais/"
-      },
-      {
-        "fecha": "2026-11-14",
-        "titulo": "El riesgo país cerró la semana en 830 puntos, 109 menos que siete días antes",
-        "resumen": "El riesgo país cerró la semana en 830 puntos, 109 menos que el viernes anterior y 23 menos que el miércoles; el viernes el Merval subió 3,2% y las acciones argentinas en Wall Street, hasta 8,7%.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/las-acciones-argentinas-rebotan-hasta-9-en-wall-street-mientras-que-el-riesgo-pais-cierra-la-semana-nid13112026/"
-      },
-      {
-        "fecha": "2026-11-11",
-        "titulo": "El riesgo país bajó a 853 puntos antes de la reapertura del mercado local",
-        "resumen": "El riesgo país bajó otros 20 puntos, a 853, con bonos que subieron 0,36% en Nueva York. Hoy reabre el mercado local, pero con EE.UU. en feriado por el Día del Veterano.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/10/los-bonos-argentinos-operan-con-una-leve-suba-y-el-riesgo-pais-vuelve-a-ceder/"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "El riesgo país bajó 66 puntos, a 872, y cortó seis subas seguidas",
-        "resumen": "Bajó 66 puntos (−7%), a 872, con bonos que subieron hasta 3% en Nueva York durante el feriado. Infobae lo atribuyó al petróleo y a Paraguay; Clarín advierte un bache de US$10.000 millones para 2027.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/10/el-riesgo-pais-cayo-con-fuerza-en-la-argentina-y-se-espera-una-baja-de-tasas-a-nivel-global/"
-      },
-      {
-        "fecha": "2026-11-07",
-        "titulo": "El riesgo país cerró la semana en 939 puntos: subió 152 en cinco ruedas",
-        "resumen": "Sexta suba seguida (+13 a 939), máximo desde octubre de 2025, pese al rebote del Nasdaq. Clarín y PPI apuntan a factores locales; IEB, en Infobae, ve un riesgo político exagerado.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/economia/alivio-bonos-argentinos-suben-primera-vez-semana_0_HfZqq5lwZ9.html"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "El riesgo país saltó a 925 puntos, el mayor valor del año",
-        "resumen": "JP Morgan +73 a 925 (+8,6%), máximo desde octubre de 2025; Merval −4,1%. La Nación enfatizó el risk-off global; Perfil y BAE, las dudas locales y el respaldo de EE.UU.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/se-dispara-el-riesgo-pais-por-encima-de-los-900-puntos-y-caen-los-bonos-argentinos-nid05112026/"
-      },
-      {
-        "fecha": "2026-11-05",
-        "titulo": "El riesgo país pasó los 850 puntos y las acciones argentinas cayeron hasta 8% en Wall Street",
-        "resumen": "Riesgo país 852 (+21), Merval −2,4%, YPF −6,6% y bonos −1,1%, mientras Wall Street subía tras la victoria demócrata. Caputo dijo que la relación con EE.UU. no cambia.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/04/el-riesgo-pais-supero-los-850-puntos-el-dolar-cayo-y-las-acciones-argentinas-se-hundieron-hasta-8-en-wall-street/"
-      },
-      {
-        "fecha": "2026-11-04",
-        "titulo": "Con el riesgo país en 831 puntos, Caputo anunció alivios para pymes y propuso eliminar el impuesto a los Sellos",
-        "resumen": "En la UIA suspendió los embargos de ARCA hasta mayo de 2027 y ofreció a las provincias pagarles la mitad de lo que recaudan por Sellos si eliminan el tributo. Infobae lo vincula a la suba del riesgo país; elDiarioAR destaca que Caputo negó que sea «un plan platita».",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/04/tras-la-suba-del-riesgo-pais-el-gobierno-mueve-fichas-para-reactivar-la-economia-y-el-consumo/"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "El riesgo país superó los 800 puntos por primera vez en el año y el dólar mayorista marcó un récord nominal",
-        "resumen": "El índice de JP Morgan subió 2,3% a 805 puntos, el Merval cayó 3,2% en su sexta baja seguida y el mayorista cerró en $1.545,50. Clarín y BAE Negocios lo atribuyen al clima externo y la previa electoral en EE.UU.; Ámbito e Infobae suman Brasil y las dudas políticas de 2027.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/"
       }
     ]
   },
@@ -779,283 +1006,6 @@ window.HILOS = {
       }
     ]
   },
-  "ley-malvinas": {
-    "nombre": "Ley de Malvinas en el Congreso",
-    "tema": "Argentina",
-    "creado": "2026-10-20",
-    "actualizado": "2026-11-25",
-    "entradas": [
-      {
-        "fecha": "2026-11-25",
-        "titulo": "La Ley Malvinas quedó fuera de la sesión del jueves y pasa a las extraordinarias de diciembre",
-        "resumen": "El Gobierno la sacó del temario, que se concentra en el Presupuesto 2027 y la Carta Orgánica del BCRA, y anunció que será la primera iniciativa de las extraordinarias. Santiago Caputo respondió en X con críticas leídas como dirigidas a los Menem.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/diputados-el-gobierno-convoco-a-una-sesion-para-tratar-el-presupuesto-2027-y-postergo-la-ley-nid24112026/"
-      },
-      {
-        "fecha": "2026-11-19",
-        "titulo": "Sin quórum, se cayó la sesión de Diputados por la Ley Malvinas y la reforma del BCRA",
-        "resumen": "El oficialismo juntó 126 de los 129 diputados necesarios. Clarín lo atribuye a una pelea de Provincias Unidas con el PRO por una banca en el Consejo de la Magistratura y a la ley de biocombustibles; Perfil, a un golpe para Santiago Caputo que reavivó su interna con los Menem.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/disputa-bloques-aliados-hizo-caer-sesion-diputados-ahora-enciende-alarmas-debate-presupuesto_0_scARXNgByD.html"
-      },
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Diputados vota hoy la Ley Malvinas, recortada a pedido de EE.UU., y la reforma del BCRA",
-        "resumen": "Desde las 12, el oficialismo busca la media sanción con los cambios que pidió Christopher Landau y la sanción final de la Carta Orgánica del BCRA. El Cronista le cuenta votos para aprobarla en general; Letra P prevé que el capítulo sobre injerencia extranjera caiga en el recinto.",
-        "fuente": "El Cronista",
-        "url": "https://www.cronista.com/economia-politica/bcra-y-malvinas-con-cambios-el-oficialismo-avanza-en-dos-proyectos-emblema-de-milei/"
-      },
-      {
-        "fecha": "2026-11-13",
-        "titulo": "Ley Malvinas: el oficialismo apunta a la sesión del 18, sin acuerdo sobre el capítulo electoral",
-        "resumen": "El oficialismo quiere votarla el miércoles 18 junto con la reforma de la Carta Orgánica del BCRA, pero la reunión con los aliados terminó sin acuerdo: Provincias Unidas y Argentina Federal insisten en eliminar el Título VII, que requiere 129 votos.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/sin-martin-menem-el-oficialismo-retoma-las-negociaciones-en-diputados-por-la-ley-malvinas-y-evalua-nid12112026/"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "Ley Malvinas, plan B del oficialismo para la sesión del 18 en Diputados",
-        "resumen": "Volvió a la agenda: el oficialismo la tiene como plan B para la sesión del 18 si no cierra el Presupuesto. El título electoral necesita 129 votos; la UCR dice que faltan \"detalles\" y Argentina Federal pide eliminar ese capítulo.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/ley-malvinas-trasfondo-negociaciones-diputados-dudas-capitulo-electoral_0_BWcrWsqRil.html"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "Ley de Malvinas: el oficialismo consiguió dictamen tras recortar las sanciones a empresas, como pedía EE.UU.",
-        "resumen": "La Libertad Avanza reunió 60 firmas con PRO, UCR y aliados; las sanciones se limitan a operadores, proveedores y accionistas directos, y la sesión apunta al 12 de noviembre. La Nación y Página/12 lo leen como una concesión a Washington; Infobae, como cambios pedidos por los aliados.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/ley-malvinas-el-gobierno-cedio-ante-eeuu-y-logro-dictaminar-pero-persisten-las-dudas-por-el-capitulo-nid27102026/"
-      },
-      {
-        "fecha": "2026-10-27",
-        "titulo": "Ley de Malvinas: se posterga otra vez el dictamen y Caputo ofrece cambios",
-        "resumen": "El plenario del 27/10 será solo informativo. Caputo acepta sumar a Menem y Abdala al Consejo de Seguridad, crear una bicameral y bajar a 2 años la pena mínima para proveedores; el recinto apunta al 18 de noviembre.",
-        "fuente": "Letra P",
-        "url": "https://www.letrap.com.ar/congreso/malvinas-santiago-caputo-acepta-menem-y-abdala-el-consejo-seguridad-pero-roles-acotados-n5427711"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "Ley de Malvinas: aliados objetan el proyecto antes del plenario de comisiones del martes",
-        "resumen": "El plenario de Defensa, Legislación Penal y Relaciones Exteriores es el martes a las 16. Argentina Federal (9 diputados) pide cambios y Alberto Arrúa votará en contra por las penas de 5 a 12 años por desinformación; Silvana Giudici negocia por LLA.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/26/malvinas-el-gobierno-busca-modificar-el-proyecto-de-defensa-de-la-soberania-nacional-tras-los-pedidos-de-aliados-y-de-eeuu/"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Ley de Malvinas: el Gobierno acota las sanciones a petroleras tras la presión de EE.UU. y busca dictamen el martes",
-        "resumen": "El oficialismo limitaría las penas a operadores, licenciatarios, proveedores y accionistas directos del proyecto Sea Lion, sin alcanzar a fondos inversores, y revisa el artículo que castiga la desinformación con hasta 12 años. Casa Rosada habla de cambios \"no sustanciales\" (Infobae); Perfil y La Nación lo leen como una concesión tras la visita de Landau.",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/noticias/politica/el-gobierno-acepta-cambios-en-la-ley-malvinas-tras-la-presion-de-los-enviados-de-trump.phtml"
-      },
-      {
-        "fecha": "2026-10-23",
-        "titulo": "Ley de Malvinas: EE.UU. admite su preocupación y el proyecto pierde impulso en Diputados",
-        "resumen": "El vicesecretario de Estado Christopher Landau dijo ante el canciller Quirno que a EE.UU. le preocupan sus empresas pero que respeta el proceso legislativo; hoy lo recibe Milei. Infobae informa que el oficialismo ya no ve viable sesionar el 28 y prioriza el Presupuesto, que iría al recinto el 18 de noviembre.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/23/el-proyecto-de-malvinas-pierde-impulso-y-no-hay-una-fecha-clara-para-la-sesion-en-diputados/"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Ley de Malvinas: el Gobierno acepta cambios y apunta a votarla el 28 de octubre",
-        "resumen": "Tras los reclamos de aliados, la AmCham y el embajador de EE.UU., la Casa Rosada aceptó revisar el polémico artículo 111, limitar el rol de las Fuerzas Armadas en infraestructura crítica y crear una comisión bicameral de control. Además admite incomodidad porque EE.UU. impulsa disolver el Comité de Descolonización de la ONU.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/22/el-objetivo-del-gobierno-detras-de-la-causa-de-malvinas-y-la-complicacion-por-la-nueva-postura-de-eeuu/"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Ley de Malvinas: sin dictamen, sigue postergada al 27 de octubre",
-        "resumen": "Las comisiones no lograron consenso sobre el proyecto de Defensa de la Soberanía Nacional, de 133 artículos. Unión por la Patria y Provincias Unidas piden separar el tema Malvinas del resto de la reforma de seguridad e inteligencia.",
-        "fuente": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1158878/politica/gobierno-nacional-negocia-apoyos-para-sesion-clave-diputados.html"
-      },
-      {
-        "fecha": "2026-10-20",
-        "titulo": "El oficialismo posterga al 27 de octubre el debate de la \"ley de Malvinas\"",
-        "resumen": "El proyecto, que también reforma defensa e inteligencia y prevé penas por desinformación, se demora por reclamos de empresas de EE.UU. y falta de apoyos. Esta semana el oficialismo busca tratar en sesión especial la Carta Orgánica del BCRA y el régimen de biocombustibles.",
-        "fuente": "La Gaceta",
-        "url": "https://www.lagaceta.com.ar/nota/1158812/politica/gobierno-milei-posterga-debate-ley-malvinas-reclamos-empresas-eeuu.html"
-      }
-    ]
-  },
-  "megasesion-diputados": {
-    "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
-    "tema": "Argentina",
-    "creado": "2026-10-21",
-    "actualizado": "2026-11-20",
-    "entradas": [
-      {
-        "fecha": "2026-11-20",
-        "titulo": "El Senado sancionó la ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras",
-        "resumen": "Discapacidad salió por unanimidad (71 votos) y Propiedad Privada, con la Ley de Tierras, por 42 a 26; también se aprobó el tratado de patentes (PCT) por 47 a 22. Las leyes pasan al Ejecutivo para su promulgación.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/"
-      },
-      {
-        "fecha": "2026-11-19",
-        "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
-        "resumen": "Desde las 11, el oficialismo busca sancionar la Ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras. TN destaca el acuerdo que celebró Bullrich; elDiarioAR, que el texto replica casi todo el esquema de la emergencia que vence en diciembre.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/11/19/el-senado-debate-hoy-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-de-patentes/"
-      },
-      {
-        "fecha": "2026-11-05",
-        "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
-        "resumen": "El plenario de comisiones del Senado dictaminó el texto aprobado por Diputados el 22 de octubre. Bullrich rechazó el pedido de Casa Rosada de recortar prestaciones; la votación en el recinto podría ser el 19 de noviembre.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
-        "resumen": "Tras 15 horas de sesión, la Cámara dio media sanción a una nueva ley de Discapacidad por 237 votos, con el Gobierno cediendo en pensiones y aranceles, y aprobó la ley de Propiedad Privada que repone los límites a la compra de tierras por extranjeros (vuelve al Senado). El oficialismo, sin votos propios, mandó a comisión el debate sobre deudas familiares.",
-        "fuente": "Perfil",
-        "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
-        "resumen": "El oficialismo llevó al recinto su propia versión de temas que impulsaba la oposición: restituye los límites a la compra de tierras por extranjeros, un régimen de discapacidad que retoma buena parte del sistema actual y un proyecto sobre endeudamiento familiar. Los bloques provinciales tienen los votos decisivos.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/21/tierras-discapacidad-y-endeudamiento-el-oficialismo-busca-neutralizar-la-agenda-opositora-con-una-mega-sesion/"
-      }
-    ]
-  },
-  "milei-lula-balotaje-brasil": {
-    "nombre": "Milei, Lula y el balotaje en Brasil",
-    "tema": "Argentina",
-    "creado": "2026-10-21",
-    "actualizado": "2026-11-09",
-    "entradas": [
-      {
-        "fecha": "2026-11-09",
-        "titulo": "Brasil investiga si agentes argentinos, estadounidenses e israelíes ayudaron a escapar a Flávio Bolsonaro",
-        "resumen": "Según The Washington Post, la Policía Federal brasileña investiga si agentes de EE.UU., la Argentina e Israel ayudaron a Flávio a salir por Puerto Iguazú.",
-        "fuente": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/"
-      },
-      {
-        "fecha": "2026-11-01",
-        "titulo": "Rubio niega que EE.UU. haya participado en la salida de Flávio Bolsonaro",
-        "resumen": "En el cierre del G20 de cancilleres en Atlanta dijo que su gobierno no intervino en los preparativos y que Trump solo autorizó su ingreso con un permiso temporal. The New York Times informó que el asesor de Trump Jason Miller gestionó el avión privado.",
-        "fuente": "Infobae (EFE)",
-        "url": "https://www.infobae.com/america/agencias/2026/10/31/marco-rubio-niega-que-eeuu-facilitara-la-salida-de-brasil-de-flavio-bolsonaro/"
-      },
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Brasil convocó a la encargada de negocios argentina por la salida de Flávio Bolsonaro; Quirno lo niega",
-        "resumen": "Itamaraty recibió el jueves a María Emilia Cortés para pedir información sobre el rol de funcionarios argentinos. La Nación y Perfil lo confirman con fuentes brasileñas; Quirno respondió \"FALSO\" y la Cancillería admite la reunión pero niega un pedido de explicaciones.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-brasil-cito-a-la-encargada-de-negocios-de-la-argentina-para-pedirle-explicaciones-por-nid30102026/"
-      },
-      {
-        "fecha": "2026-10-30",
-        "titulo": "Bolsonaro: la jueza Capuchetti pidió informes al Gobierno sobre su paso por la Argentina",
-        "resumen": "A pedido de la fiscal Paloma Ochoa, consultó a Cancillería y Migraciones si sabían de las restricciones de la Justicia brasileña y pidió cámaras del 27 y 28 de octubre. TN aclara que no hay delito acreditado; Página/12, que en Misiones se desestimó la denuncia de Pagano.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/10/29/la-justicia-le-ordeno-al-gobierno-que-informe-sobre-los-movimientos-de-flavio-bolsonaro-en-la-argentina/"
-      },
-      {
-        "fecha": "2026-10-29",
-        "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
-        "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
-        "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
-      },
-      {
-        "fecha": "2026-10-27",
-        "titulo": "Flávio desiste de anular la elección y Milei sigue sin reconocer a Lula",
-        "resumen": "Flávio Bolsonaro abandonó el pedido de anulación, anunció una demanda por abuso de poder y su partido reconoció el resultado. Milei, el único presidente sudamericano que no saludó a Lula, no habló de Brasil en el Gabinete.",
-        "fuente": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
-        "resumen": "Con el 100% escrutado, Lula logró 64,2 millones de votos (51,79%) contra 48,21% de Flávio, y será el primer presidente elegido cuatro veces. Flávio dijo que es \"imposible reconocer\" la derrota y pedirá anular la elección por la prórroga horaria que autorizó Zanin.",
-        "fuente": "O Globo",
-        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "Silencio oficial ante la reelección de Lula: Milei, que había denunciado fraude, reúne hoy al Gabinete",
-        "resumen": "Ni Milei ni la Cancillería felicitaron a Lula; el Presidente había reposteado acusaciones de fraude por la prórroga de dos horas del voto. Infobae relata inquietud oficial por el impacto en 2027; Página/12 lo leyó como una derrota también de Milei y Trump.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
-        "resumen": "Unos 158,7 millones de electores eligen presidente entre las 8 y las 17 de Brasilia. En la primera vuelta Flávio Bolsonaro sacó 47,03% contra 45,16% de Lula, y las últimas encuestas marcan empate técnico con Flávio apenas arriba.",
-        "fuente": "CNN Brasil",
-        "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
-        "resumen": "A cuatro días del balotaje, el equipo de Lula denunció ante la Justicia Electoral una supuesta \"manipulación algorítmica\" de Meta y X a favor de Bolsonaro; Meta lo niega. Las encuestas muestran un empate técnico.",
-        "fuente": "EFE",
-        "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Brasil acusa a Milei de injerencia electoral por sus insultos a Lula",
-        "resumen": "La Cancillería brasileña emitió un duro comunicado después de que Milei volviera a insultar a Lula e insinuara un posible fraude en el balotaje del 25 de octubre. Lo calificó de intento inaceptable de injerencia externa y defendió el voto electrónico.",
-        "fuente": "Página/12",
-        "url": "https://www.pagina12.com.ar/2026/10/20/la-cancilleria-de-brasil-lanzo-un-duro-comunicado-contra-las-ofensas-de-milei-hacia-lula/"
-      }
-    ]
-  },
-  "protestas-francia": {
-    "nombre": "Protestas y disturbios en Francia",
-    "tema": "Mundo",
-    "creado": "2026-10-21",
-    "actualizado": "2026-11-01",
-    "entradas": [
-      {
-        "fecha": "2026-11-01",
-        "titulo": "Francia: tercer sábado de protestas contra la carestía, con menos gente y choques en varias ciudades",
-        "resumen": "Marcharon 320.000 personas según el Ministerio del Interior (70.000 en París) y casi medio millón según los organizadores, contra 410.000 y 550.000 en los dos sábados anteriores. Hubo cargas policiales y gases en París, Lyon y Toulouse.",
-        "fuente": "France 24",
-        "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france"
-      },
-      {
-        "fecha": "2026-10-25",
-        "titulo": "Francia: baja la convocatoria contra la carestía pero hay casi 1.000 detenidos",
-        "resumen": "El sábado marcharon 410.000 personas según el Ministerio del Interior y 800.000 según la CGT, contra 550.000 oficiales del 17 de octubre. Hubo cerca de 1.000 detenidos (385 la vez anterior), al menos dos heridos graves e incidentes en París, Lyon y Marsella.",
-        "fuente": "franceinfo",
-        "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html"
-      },
-      {
-        "fecha": "2026-10-23",
-        "titulo": "Francia: Macron solo autoriza las marchas sindicales del sábado 24",
-        "resumen": "Tras un consejo de seguridad, Macron recomendó que no haya manifestaciones en los próximos días y anunció que solo se permitirán las convocadas por sindicatos, con recorridos alternativos. El despliegue policial será 20% mayor que el del 17 de octubre; ya hubo 217 condenados a prisión por los disturbios.",
-        "fuente": "franceinfo",
-        "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
-        "resumen": "El primer ministro Lecornu no anunció medidas concretas en su reunión con los sindicatos, que llamaron a una gran movilización el 5 de noviembre. Siguen los toques de queda en París y Lyon, y ya hay unas 2.500 detenciones por los disturbios.",
-        "fuente": "Euronews",
-        "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
-      },
-      {
-        "fecha": "2026-10-21",
-        "titulo": "Francia impone toques de queda nocturnos en París y otras ciudades",
-        "resumen": "Tras disturbios y saqueos el fin de semana, el gobierno anunció toques de queda \"por el tiempo que sea necesario\". El primer ministro Lecornu se reúne con los sindicatos ante nuevas protestas convocadas para el sábado.",
-        "fuente": "NPR (AP)",
-        "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews"
-      }
-    ]
-  },
   "ipo-anthropic": {
     "nombre": "Salida a bolsa de Anthropic",
     "tema": "Inteligencia Artificial",
@@ -1159,128 +1109,6 @@ window.HILOS = {
         "resumen": "Según el Wall Street Journal, Anthropic facturó USD 16.300 millones en el primer semestre de 2026 y gastó cerca de USD 9.000 millones en cómputo, con compromisos de infraestructura de cientos de miles de millones para los próximos años.",
         "fuente": "The Wall Street Journal",
         "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1"
-      }
-    ]
-  },
-  "visita-papa-leon": {
-    "nombre": "Visita del papa León XIV a la Argentina",
-    "tema": "Argentina",
-    "creado": "2026-10-22",
-    "actualizado": "2026-11-18",
-    "entradas": [
-      {
-        "fecha": "2026-11-18",
-        "titulo": "León XIV, en el avión: \"Hay que cambiar el chip, no es necesario odiarnos\"",
-        "resumen": "En el vuelo de regreso, León XIV dijo que en la Argentina \"hay que cambiar el chip\" porque \"no es necesario odiarnos\", y contó que animó a Milei a tener más en cuenta a los más necesitados.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/el-papa-a-la-argentina-hay-que-cambiar-el-chip-no-es-necesario-odiarnos-ni-usar-un-lenguaje-tan-nid17112026/"
-      },
-      {
-        "fecha": "2026-11-12",
-        "titulo": "León XIV se despidió en Ezeiza y partió hacia Perú",
-        "resumen": "León XIV cerró su visita con la misa en Luján y partió a Lima a las 14:38, despedido en Ezeiza por Milei, Karina Milei y Quirno. Terminará su gira en Perú y volverá a Roma el 17.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
-      },
-      {
-        "fecha": "2026-11-11",
-        "titulo": "León XIV reunió a 650.000 personas en Córdoba y a más de un millón de jóvenes en Palermo; hoy cierra su visita en Luján",
-        "resumen": "En la vigilia citó a Francisco (\"todos, todos, todos\") y advirtió contra los \"ídolos\" del dinero y el éxito.",
-        "fuente": "El País",
-        "url": "https://elpais.com/argentina/2026-11-11/leon-xiv-cita-a-francisco-en-buenos-aires-y-convoca-a-los-jovenes-a-acercarse-a-la-iglesia-todos-todos-todos.html"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "León XIV dio misa ante unos 2,5 millones en Palermo y pidió en la UCA empleo digno para todos",
-        "resumen": "Unos 2,5 millones fueron a la misa en Palermo, según cifras oficiales. En la UCA pidió empleo digno e incluir a los informales; la oposición lo usa en el debate del Presupuesto 2027.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/leon-xiv-encabezo-una-historica-misa-en-el-monumento-a-los-espanoles-nid09112026/"
-      },
-      {
-        "fecha": "2026-11-09",
-        "titulo": "León XIV, ante Milei: \"La economía debe estar al servicio de la persona\"",
-        "resumen": "En el Palacio Libertad pidió diálogo y una economía \"al servicio de la persona\"; Milei respondió que \"los debates no son honestos\".",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/sociedad/primer-discurso-papa-leon-xiv-argentina-pidio-dialogo-limites-poder-economia-servicio-gente_0_sMoCRKbCNq.html"
-      },
-      {
-        "fecha": "2026-11-08",
-        "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
-        "resumen": "Llega a las 16:30 y ve a Milei a las 17:50; la SIDE informó la detención de una persona por amenazas de muerte contra el Papa.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/"
-      },
-      {
-        "fecha": "2026-11-07",
-        "titulo": "León XIV inició su gira sudamericana en Uruguay con un llamado a la unidad regional",
-        "resumen": "Lo recibió Yamandú Orsi en Montevideo; el domingo 8 llega a Buenos Aires.",
-        "fuente": "CNN en Español",
-        "url": "https://cnnespanol.cnn.com/2026/11/06/latinoamerica/papa-inicia-gira-america-latina-uruguay-orix"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "A 48 horas del Papa: faltazo de Mauricio Macri y tregua forzada en el Congreso",
-        "resumen": "León XIV aterriza el domingo 8; Infobae confirmó que Mauricio Macri no irá a la misa del lunes por el roce con Jorge Macri. El Congreso pausa Presupuesto y reforma electoral.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "Visita del Papa: Villarruel y los gobernadores, invitados al Palacio Libertad",
-        "resumen": "El canciller Quirno confirmó que Villarruel y los gobernadores están invitados al encuentro del domingo 8 a las 18.30 en el Palacio Libertad; los expresidentes no, por falta de espacio.",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/politica/2026/11/02/el-gobierno-confirmo-que-villarruel-y-los-gobernadores-ya-fueron-invitados-al-encuentro-con-el-papa-leon-xiv/"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "El Vaticano confirmó el viaje del papa a Uruguay, Argentina y Perú",
-        "resumen": "Los médicos no encontraron contraindicaciones tras la operación, y la gira se hará del 6 al 17 de noviembre según el programa previsto.",
-        "fuente": "Vatican News",
-        "url": "https://www.vaticannews.va/es/papa/news/2026-10/confirmado-el-viaje-a-uruguay-argentina-peru-papa-leon.html"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
-        "resumen": "El parte médico del Vaticano indicó que el papa no necesitará más tratamiento tras la operación de un tumor de pulmón localizado. Su gira por Uruguay, Argentina y Perú está prevista desde el 6 de noviembre y los preparativos siguen sin cambios.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/mundo/gira-papa-leon-xiv-iglesia-argentina-dan-practicamente-confirmada-visita-pais-parte-medico-miercoles_0_iyhAHybjyy.html"
-      }
-    ]
-  },
-  "php-vulnerabilidades-ia": {
-    "nombre": "Fallas críticas en PHP descubiertas por IA",
-    "tema": "Inteligencia Artificial",
-    "creado": "2026-10-22",
-    "actualizado": "2026-11-19",
-    "entradas": [
-      {
-        "fecha": "2026-11-19",
-        "titulo": "Una empresa halló con IA una falla crítica en Java, un mes después de las de PHP",
-        "resumen": "Calif, la startup que expuso las fallas de PHP en octubre, descubrió con ayuda del modelo GPT-6 Cyber de OpenAI, aún no público, la vulnerabilidad Java4Shell, que permite ejecutar comandos a distancia. Oracle no la reconoció, pero el martes publicó una actualización crítica.",
-        "fuente": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o"
-      },
-      {
-        "fecha": "2026-10-22",
-        "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
-        "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
-        "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
-      }
-    ]
-  },
-  "juicio-hotesur-los-sauces": {
-    "nombre": "Juicio Hotesur-Los Sauces a Cristina y Máximo Kirchner",
-    "tema": "Argentina",
-    "creado": "2026-10-23",
-    "actualizado": "2026-10-23",
-    "entradas": [
-      {
-        "fecha": "2026-10-23",
-        "titulo": "Comenzó el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
-        "resumen": "El Tribunal Oral Federal 5 abrió hoy en Comodoro Py el juicio unificado por asociación ilícita y lavado de activos a través de empresas hoteleras e inmobiliarias de la familia Kirchner, con 19 imputados. Es la primera vez que Máximo Kirchner se sienta en el banquillo; la primera audiencia admite conexión virtual.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/"
       }
     ]
   },
@@ -1495,290 +1323,6 @@ window.HILOS = {
       }
     ]
   },
-  "elecciones-serbia": {
-    "nombre": "Elecciones y cambio de gobierno en Serbia",
-    "tema": "Mundo",
-    "creado": "2026-10-26",
-    "actualizado": "2026-11-18",
-    "entradas": [
-      {
-        "fecha": "2026-11-18",
-        "titulo": "Serbia: la Lista Estudiantil asumió en el Parlamento y terminó la mayoría del SNS",
-        "resumen": "Los 140 diputados de la Lista Estudiantil asumieron sus bancas el martes, lo que cierra 14 años de mayoría del SNS; Aleksandar Čupić es su candidato a presidir el Parlamento.",
-        "fuente": "Reuters",
-        "url": "https://piqmarkets.com/reuters/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win-2026-11-17-12-43-19"
-      },
-      {
-        "fecha": "2026-10-26",
-        "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
-        "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
-      }
-    ]
-  },
-  "elecciones-israel": {
-    "nombre": "Elecciones en Israel",
-    "tema": "Mundo",
-    "creado": "2026-10-27",
-    "actualizado": "2026-11-11",
-    "entradas": [
-      {
-        "fecha": "2026-11-11",
-        "titulo": "Juró la nueva Knesset; el bloque de Eisenkot pidió reemplazar a Ohana por Kahana",
-        "resumen": "Juró la 26.ª Knesset sin acuerdo de gobierno. El bloque de Eisenkot presentó las firmas para reemplazar al presidente Amir Ohana por Matan Kahana, y Herzog pidió evitar otra elección.",
-        "fuente": "Ynetnews",
-        "url": "https://www.ynetnews.com/article/hkhobslrge"
-      },
-      {
-        "fecha": "2026-11-10",
-        "titulo": "El bloque de Eisenkot propone a Matan Kahana para presidir la Knesset",
-        "resumen": "El bloque de Eisenkot acordó proponer a Matan Kahana, de Yashar!, como presidente de la Knesset, que jura hoy, y se repartió las presidencias de comisiones clave.",
-        "fuente": "Ynetnews",
-        "url": "https://www.ynetnews.com/article/r1flu8erfe"
-      },
-      {
-        "fecha": "2026-11-09",
-        "titulo": "Eisenkot recibió el mandato e invitó al Likud y a Smotrich a un \"gobierno de emergencia\" encabezado por él",
-        "resumen": "Recibió formalmente el mandato de Herzog y ofreció sumarse al Likud y al partido de Smotrich, solo con él como primer ministro.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
-      },
-      {
-        "fecha": "2026-11-08",
-        "titulo": "Herzog le encargó a Eisenkot formar gobierno en Israel y Netanyahu pide una coalición de unidad",
-        "resumen": "Herzog eligió a Eisenkot, que recibe el mandato el domingo y tiene 28 días (más 14) para formar gobierno; Netanyahu pidió una coalición de unidad.",
-        "fuente": "Axios",
-        "url": "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog"
-      },
-      {
-        "fecha": "2026-11-06",
-        "titulo": "Herzog definirá el domingo quién arma gobierno tras 67 recomendaciones a Eisenkot",
-        "resumen": "67 diputados respaldaron a Eisenkot y 46 a Netanyahu; Herzog citó \"vetos mutuos\" entre bloques y anunció la decisión para el domingo.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
-      },
-      {
-        "fecha": "2026-11-05",
-        "titulo": "Israel certificó el resultado electoral y Herzog empezó a consultar quién formará gobierno",
-        "resumen": "El comité electoral certificó los resultados (Netanyahu 53, Eisenkot 48, partidos árabes 19) y Herzog abrió las consultas para encargar la formación de gobierno.",
-        "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/c6z98z5z91ppo"
-      },
-      {
-        "fecha": "2026-11-02",
-        "titulo": "Israel: las autoridades electorales dicen que el resultado se mantiene pese a las denuncias de fraude del Likud",
-        "resumen": "El presidente del comité electoral, Noam Sohlberg, junto al fiscal general y el jefe del Shin Bet, dijo que aun si se prueba injerencia extranjera el resultado no cambia. El Likud acusa sin pruebas a los partidos árabes de \"robar\" la elección.",
-        "fuente": "AP",
-        "url": "https://www.hawaiinewsnow.com/2026/11/02/israeli-officials-say-elections-will-stand-after-netanyahu-claimed-arabs-stole-vote/"
-      },
-      {
-        "fecha": "2026-10-30",
-        "titulo": "Israel: con el conteo completo, el bloque de Netanyahu logró 53 bancas y el de Eisenkot 48; ninguno llega a 61",
-        "resumen": "Los partidos árabes sumaron 19 escaños de la Knéset, un récord, pero ambos bloques descartaron gobernar con Ra'am y la Lista Conjunta. Los resultados se entregarán certificados al presidente Isaac Herzog el miércoles 4 de noviembre.",
-        "fuente": "NBC News",
-        "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "Israel: con el 77% escrutado, ni el bloque de Netanyahu ni el de Eisenkot llegan a 61 escaños",
-        "resumen": "El bloque de Netanyahu suma 54 bancas de la Knéset, el de Gadi Eisenkot 47 y los partidos árabes 19, según el comité electoral. Faltan los votos de doble sobre, entre ellos los de los soldados, que se cuentan al final.",
-        "fuente": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog_entry/with-over-76-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-47-arab-parties-increase-to-19/"
-      },
-      {
-        "fecha": "2026-10-27",
-        "titulo": "Israel vota con el bloque de Eisenkot por delante de Netanyahu en las encuestas",
-        "resumen": "Votan 7,3 millones de electores por 120 escaños. Los sondeos dan 52 a 56 bancas al bloque de Eisenkot y unas 50 al de Netanyahu, ambos lejos de las 61 necesarias.",
-        "fuente": "DW",
-        "url": "https://www.dw.com/es/israel-abre-las-urnas-en-unas-elecciones-clave-para-el-primer-ministro-benjam%C3%ADn-netanyahu/a-79772364"
-      }
-    ]
-  },
-  "ebola-congo": {
-    "nombre": "Brote de ébola en el Congo",
-    "tema": "Mundo",
-    "creado": "2026-10-28",
-    "actualizado": "2026-11-12",
-    "entradas": [
-      {
-        "fecha": "2026-11-12",
-        "titulo": "El ébola en el Congo superó los 11.000 casos y ya es el brote más mortal de la historia del país",
-        "resumen": "Hay 11.042 casos y 5.387 muertos, según datos oficiales del miércoles. Es el brote número 17 y el de crecimiento más rápido: pasó los 1.000 casos en 40 días, contra 235 en 2018.",
-        "fuente": "Euronews",
-        "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases"
-      },
-      {
-        "fecha": "2026-10-28",
-        "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
-        "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
-        "fuente": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
-      }
-    ]
-  },
-  "accidente-tren-toledo": {
-    "nombre": "Choque de trenes de alta velocidad en Toledo",
-    "tema": "Mundo",
-    "creado": "2026-10-29",
-    "actualizado": "2026-10-31",
-    "entradas": [
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Toledo: 69 muertos; el operador de Adif que dio la orden al AVE se negó a declarar",
-        "resumen": "El ministro Óscar Puente sostiene que el centro de control de Atocha \"tenía a la vista lo que estaba sucediendo\". La CIAF había advertido en 2025 sobre \"carencias sistémicas\" en las comunicaciones con los maquinistas.",
-        "fuente": "RTVE",
-        "url": "https://www.rtve.es/noticias/20261030/ciaf-investigacion-accidente-trenes-urda-causas/17289829.shtml"
-      },
-      {
-        "fecha": "2026-10-29",
-        "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
-        "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
-        "fuente": "RTVE",
-        "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
-      }
-    ]
-  },
-  "reforma-salud-mental": {
-    "nombre": "Reforma de la Ley de Salud Mental",
-    "tema": "Argentina",
-    "creado": "2026-10-30",
-    "actualizado": "2026-10-30",
-    "entradas": [
-      {
-        "fecha": "2026-10-30",
-        "titulo": "Senado: media sanción a la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
-        "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/"
-      }
-    ]
-  },
-  "causa-libra": {
-    "nombre": "Causa $LIBRA",
-    "tema": "Argentina",
-    "creado": "2026-10-31",
-    "actualizado": "2026-10-31",
-    "entradas": [
-      {
-        "fecha": "2026-10-31",
-        "titulo": "$LIBRA: la Procuraduría de Investigaciones Administrativas pidió reabrir la causa y apeló el sobreseimiento de los Milei",
-        "resumen": "La PIA, de Sergio Rodríguez, asumió la acción penal que dejó Taiano y sostuvo que la investigación \"no se encuentra agotada\". La Nación detalla los indicios que cita, como las visitas de Novelli a la Casa Rosada; Infobae, que se suma a apelaciones de inversores.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/caso-libra-una-fiscalia-especializada-se-involucro-en-reemplazo-del-fiscal-taiano-y-apelo-el-nid30102026/"
-      }
-    ]
-  },
-  "crisis-tribunal-polonia": {
-    "nombre": "Crisis del Tribunal Constitucional en Polonia",
-    "tema": "Mundo",
-    "creado": "2026-10-31",
-    "actualizado": "2026-11-02",
-    "entradas": [
-      {
-        "fecha": "2026-11-02",
-        "titulo": "Polonia: la oficina de Nawrocki denunciará a tres jueces por el forcejeo en el Tribunal Constitucional",
-        "resumen": "La oficina de Nawrocki anunció denuncias penales contra los jueces Anna Korwin-Piotrowska, Maciej Berek y Krystian Markiewicz por violar su integridad física en el incidente del Tribunal; la jueza dice que fue el presidente quien empujó.",
-        "fuente": "Euronews",
-        "url": "https://pl.euronews.com/2026/11/02/nawrocki-i-sedziowie-w-sporze-po-nocnym-incydencie-w-trybunale-konstytucyjnym"
-      },
-      {
-        "fecha": "2026-11-01",
-        "titulo": "Polonia: Tusk descarta negociar por el Tribunal Constitucional y Nawrocki reúne a los partidos",
-        "resumen": "Nawrocki convocó consultas \"urgentes\" por una \"amenaza a la seguridad interna\"; el PiS le propuso una moción de censura y un gobierno técnico hasta elecciones en 2027. La Coalición Cívica de Tusk no fue, y el premier dijo que \"no puede haber compromiso\".",
-        "fuente": "Polskie Radio",
-        "url": "https://www.polskieradio.pl/395/7784/artykul/3748058,polish-pm-rejects-compromise-as-president-holds-talks-with-party-leaders"
-      },
-      {
-        "fecha": "2026-10-31",
-        "titulo": "Polonia: suspendieron al presidente del Tribunal Constitucional y Nawrocki acusa al Gobierno de tomarlo por la fuerza",
-        "resumen": "Siete jueces elegidos por el Parlamento entraron con agentes del Servicio de Protección del Estado y Anna Korwin-Piotrowska suspendió a Bogdan Święczkowski. Nawrocki cortó un viaje a Senegal y forcejeó con jueces para entrar al edificio.",
-        "fuente": "Euronews",
-        "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
-      }
-    ]
-  },
-  "candidatura-cfk-2027": {
-    "nombre": "Cristina Kirchner y la candidatura 2027",
-    "tema": "Argentina",
-    "creado": "2026-11-03",
-    "actualizado": "2026-11-03",
-    "entradas": [
-      {
-        "fecha": "2026-11-03",
-        "titulo": "Cristina Kirchner no descartó ser candidata en 2027 y el kicillofismo respondió con las PASO",
-        "resumen": "En su primera entrevista desde la condena dijo a The Washington Post: «Cuando recupere mis derechos políticos, ¿por qué no?». Página/12 destaca además su pronóstico de una derrota de Trump; La Nación, la respuesta de Carlos Bianco: que «el pueblo peronista» defina en las PASO.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/"
-      }
-    ]
-  },
-  "elecciones-eeuu-2026": {
-    "nombre": "Elecciones de medio término en EE.UU.",
-    "tema": "Mundo",
-    "creado": "2026-11-03",
-    "actualizado": "2026-11-07",
-    "entradas": [
-      {
-        "fecha": "2026-11-07",
-        "titulo": "Tras la derrota en las midterms, Trump nombró a Stephen Miller jefe de gabinete",
-        "resumen": "Stephen Miller reemplaza a Susie Wiles desde el lunes; Trump anticipó cambios en el gabinete tras perder ambas cámaras.",
-        "fuente": "Bloomberg Línea",
-        "url": "https://www.bloomberglinea.com/mundo/estados-unidos/stephen-miller-sera-el-nuevo-jefe-de-gabinete-de-trump-tras-la-salida-de-susie-wiles/"
-      },
-      {
-        "fecha": "2026-11-04",
-        "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
-        "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
-        "fuente": "NPR",
-        "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
-        "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
-        "fuente": "Reuters",
-        "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
-      }
-    ]
-  },
-  "ciberataque-heladeras-europa": {
-    "nombre": "Ciberataques a heladeras de supermercados en Europa",
-    "tema": "Mundo",
-    "creado": "2026-11-03",
-    "actualizado": "2026-11-10",
-    "entradas": [
-      {
-        "fecha": "2026-11-10",
-        "titulo": "Francia acusó a la Guardia Revolucionaria iraní del ciberataque a las heladeras de 700 supermercados",
-        "resumen": "Francia atribuyó el ataque de octubre a 700 supermercados a Shahid Kaveh, unidad del CGRI; convocó al embajador iraní y anunció sanciones europeas.",
-        "fuente": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
-      },
-      {
-        "fecha": "2026-11-03",
-        "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
-        "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
-        "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
-      }
-    ]
-  },
-  "ley-competitividad-financiera": {
-    "nombre": "Ley de Competitividad Financiera",
-    "tema": "Argentina",
-    "creado": "2026-11-04",
-    "actualizado": "2026-11-04",
-    "entradas": [
-      {
-        "fecha": "2026-11-04",
-        "titulo": "El Gobierno retira por completo la Ley de Competitividad Financiera tras la polémica por gravar los CEDEARs",
-        "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
-        "fuente": "Infobae",
-        "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/"
-      }
-    ]
-  },
   "crisis-paraguay": {
     "nombre": "Crisis en Paraguay: Ueno Bank y juicio político a Peña",
     "tema": "Mundo",
@@ -1829,40 +1373,77 @@ window.HILOS = {
       }
     ]
   },
-  "restriccion-tecnologia-china": {
-    "nombre": "Restricciones a la tecnología china en telecomunicaciones",
+  "recesion-tecnica-2026": {
+    "nombre": "Recesión técnica y actividad económica",
     "tema": "Argentina",
-    "creado": "2026-11-08",
-    "actualizado": "2026-11-08",
+    "creado": "2026-11-25",
+    "actualizado": "2026-11-25",
     "entradas": [
       {
-        "fecha": "2026-11-08",
-        "titulo": "El Gobierno exige una certificación estadounidense que deja afuera a Huawei y ZTE de las redes del Estado",
-        "resumen": "La Disposición 7/26 exige la certificación SCS 9001 para equipos críticos del Estado; el Enacom debe evaluar extenderla a la homologación de equipos.",
+        "fecha": "2026-11-25",
+        "titulo": "La economía entró en recesión técnica: cayó 1,8% en el tercer trimestre pese al rebote de 1,1% en septiembre",
+        "resumen": "Según el EMAE del Indec, septiembre quedó 1,2% debajo de 2025 y las consultoras calculan dos trimestres seguidos en baja (-1% y -1,8%). Caputo destacó la suba mensual y Furiase habló de recesión «estadística»; Página/12 tituló «Fracasó el plan».",
         "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/gobierno-restringe-tecnologia-china-sector-telecomunicaciones-podria-impactar-mercado-telefonos-celulares_0_BWnofkEPnf.html"
+        "url": "https://www.clarin.com/economia/actividad-economica-subio-apenas-11-septiembre-argentina-entro-recesion-tecnica_0_KY9aL53tCZ.html"
       }
     ]
   },
-  "argentina-iran": {
-    "nombre": "Tensión diplomática entre Argentina e Irán",
-    "tema": "Argentina",
-    "creado": "2026-11-11",
-    "actualizado": "2026-11-12",
+  "limites-comunes-ia": {
+    "nombre": "Propuestas de límites comunes al desarrollo de la IA",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-23",
+    "actualizado": "2026-11-24",
     "entradas": [
       {
-        "fecha": "2026-11-12",
-        "titulo": "La Cancillería rechazó la declaración iraní y Defensa evalúa medidas",
-        "resumen": "La Cancillería rechazó \"categóricamente\" la medida y reclamó a Teherán que entregue a los acusados por los atentados a la Embajada de Israel y la AMIA. En Defensa evalúan más controles de acceso y les preocupan los viajes de militares al exterior.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/gobierno-evaluan-medidas-luego-iran-declaro-armada-fuerza-aerea-argentinas-organizaciones-terroristas_0_cVEuFRTqzT.html"
+        "fecha": "2026-11-24",
+        "titulo": "Guterres pidió a los países crear en un año un marco global para gestionar los riesgos de la IA",
+        "resumen": "En una cumbre sobre seguridad de la IA en Barbados, el secretario general de la ONU pidió un marco multilateral con supervisión independiente, que empiece por medidas comunes de seguridad, un régimen de pruebas y requisitos básicos de control.",
+        "fuente": "Euronews",
+        "url": "https://es.euronews.com/2026/11/24/guterres-pide-a-los-paises-adoptar-en-un-ano-medidas-de-seguridad-de-la-ia"
       },
       {
-        "fecha": "2026-11-11",
-        "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
-        "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
-        "fuente": "TN",
-        "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+        "fecha": "2026-11-23",
+        "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
+        "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
+        "fuente": "La Nación (Reuters)",
+        "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/"
+      }
+    ]
+  },
+  "satelite-nuclear-rusia": {
+    "nombre": "Satélite nuclear ruso Sputnik-S",
+    "tema": "Mundo",
+    "creado": "2026-11-24",
+    "actualizado": "2026-11-24",
+    "entradas": [
+      {
+        "fecha": "2026-11-24",
+        "titulo": "Inteligencias de la OTAN creen que Rusia podría lanzar en 60 días un satélite con una ojiva nuclear",
+        "resumen": "Según NDR, WDR y el Süddeutsche Zeitung, el «Sputnik-S» está armado y guardado cerca de Moscú, y el comando espacial alemán ve posible su lanzamiento en diciembre. Rutte dijo que la OTAN se defenderá también en el espacio; el Kremlin lo descartó.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
+      }
+    ]
+  },
+  "cop31": {
+    "nombre": "Cumbre del clima COP31 en Antalya",
+    "tema": "Mundo",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-23",
+    "entradas": [
+      {
+        "fecha": "2026-11-23",
+        "titulo": "La COP31 terminó sin acuerdo: el bloque árabe, con Arabia Saudita a la cabeza, vetó nombrar los combustibles fósiles",
+        "resumen": "Tras dos semanas y dos días de prórroga en Antalya, el texto final no fue adoptado: la UE, Panamá y las Islas Marshall lo rechazaron por omitir los combustibles fósiles, y la Liga Árabe, encabezada por Arabia Saudita, se opuso a mencionar su abandono.",
+        "fuente": "Noticias ONU",
+        "url": "https://news.un.org/es/story/2026/11/1542199"
+      },
+      {
+        "fecha": "2026-11-22",
+        "titulo": "La COP31 se estira sin acuerdo: el último borrador omite la salida de los combustibles fósiles",
+        "resumen": "La cumbre de Antalya, que debía cerrar el viernes, sigue el domingo con un texto de Turquía y Australia que solo remite al acuerdo de la COP28 y pide que en 2035 el 35% de la energía consumida sea eléctrica. Francia lo llamó «retroceso inaceptable».",
+        "fuente": "El País",
+        "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html"
       }
     ]
   },
@@ -1923,33 +1504,18 @@ window.HILOS = {
       }
     ]
   },
-  "demandas-seguridad-openai": {
-    "nombre": "Demandas a OpenAI por la seguridad de sus agentes de IA",
-    "tema": "Inteligencia Artificial",
-    "creado": "2026-11-17",
-    "actualizado": "2026-11-17",
-    "entradas": [
-      {
-        "fecha": "2026-11-17",
-        "titulo": "California demanda a OpenAI por los ataques de sus agentes de IA, entre ellos el sufrido por Hugging Face",
-        "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
-        "fuente": "Bloomberg Law",
-        "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches"
-      }
-    ]
-  },
-  "fallo-prepagas-dnu-70": {
-    "nombre": "Fallo de la Corte contra el DNU 70 en las prepagas",
+  "cgt-plan-de-lucha": {
+    "nombre": "Plan de lucha de la CGT",
     "tema": "Argentina",
-    "creado": "2026-11-20",
-    "actualizado": "2026-11-20",
+    "creado": "2026-11-22",
+    "actualizado": "2026-11-22",
     "entradas": [
       {
-        "fecha": "2026-11-20",
-        "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
-        "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
-        "fuente": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
+        "fecha": "2026-11-22",
+        "titulo": "La CGT ratificó un paro parcial de cuatro horas para mediados de diciembre",
+        "resumen": "Jorge Sola y Cristian Jerónimo, dos de los tres jefes de la central, dijeron a Clarín que el cese en los lugares de trabajo está confirmado y que la fecha se fijará a inicios de diciembre. La Nación había informado el viernes que seguía sin unanimidad.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/cgt-da-marcha-plan-lucha-milei-iba-arrancar-diciembre_0_4mSEdYV93S.html"
       }
     ]
   },
@@ -1968,92 +1534,576 @@ window.HILOS = {
       }
     ]
   },
-  "cgt-plan-de-lucha": {
-    "nombre": "Plan de lucha de la CGT",
+  "megasesion-diputados": {
+    "nombre": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
     "tema": "Argentina",
-    "creado": "2026-11-22",
-    "actualizado": "2026-11-22",
+    "creado": "2026-10-21",
+    "actualizado": "2026-11-20",
     "entradas": [
       {
-        "fecha": "2026-11-22",
-        "titulo": "La CGT ratificó un paro parcial de cuatro horas para mediados de diciembre",
-        "resumen": "Jorge Sola y Cristian Jerónimo, dos de los tres jefes de la central, dijeron a Clarín que el cese en los lugares de trabajo está confirmado y que la fecha se fijará a inicios de diciembre. La Nación había informado el viernes que seguía sin unanimidad.",
-        "fuente": "Clarín",
-        "url": "https://www.clarin.com/politica/cgt-da-marcha-plan-lucha-milei-iba-arrancar-diciembre_0_4mSEdYV93S.html"
-      }
-    ]
-  },
-  "cop31": {
-    "nombre": "Cumbre del clima COP31 en Antalya",
-    "tema": "Mundo",
-    "creado": "2026-11-22",
-    "actualizado": "2026-11-23",
-    "entradas": [
-      {
-        "fecha": "2026-11-23",
-        "titulo": "La COP31 terminó sin acuerdo: el bloque árabe, con Arabia Saudita a la cabeza, vetó nombrar los combustibles fósiles",
-        "resumen": "Tras dos semanas y dos días de prórroga en Antalya, el texto final no fue adoptado: la UE, Panamá y las Islas Marshall lo rechazaron por omitir los combustibles fósiles, y la Liga Árabe, encabezada por Arabia Saudita, se opuso a mencionar su abandono.",
-        "fuente": "Noticias ONU",
-        "url": "https://news.un.org/es/story/2026/11/1542199"
+        "fecha": "2026-11-20",
+        "titulo": "El Senado sancionó la ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras",
+        "resumen": "Discapacidad salió por unanimidad (71 votos) y Propiedad Privada, con la Ley de Tierras, por 42 a 26; también se aprobó el tratado de patentes (PCT) por 47 a 22. Las leyes pasan al Ejecutivo para su promulgación.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/20/pese-a-las-tensiones-el-senado-aprobo-tres-leyes-clave-discapacidad-propiedad-privada-y-tratado-de-patentes/"
       },
       {
-        "fecha": "2026-11-22",
-        "titulo": "La COP31 se estira sin acuerdo: el último borrador omite la salida de los combustibles fósiles",
-        "resumen": "La cumbre de Antalya, que debía cerrar el viernes, sigue el domingo con un texto de Turquía y Australia que solo remite al acuerdo de la COP28 y pide que en 2035 el 35% de la energía consumida sea eléctrica. Francia lo llamó «retroceso inaceptable».",
-        "fuente": "El País",
-        "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-22/la-presidencia-de-la-cop31-lanza-un-nuevo-borrador-de-acuerdo-para-desatascar-el-caotico-final-de-la-cumbre-del-clima.html"
+        "fecha": "2026-11-19",
+        "titulo": "El Senado vota hoy la ley permanente de Discapacidad y la vuelta de la Ley de Tierras",
+        "resumen": "Desde las 11, el oficialismo busca sancionar la Ley de Discapacidad y la de Propiedad Privada, que restituye la Ley de Tierras. TN destaca el acuerdo que celebró Bullrich; elDiarioAR, que el texto replica casi todo el esquema de la emergencia que vence en diciembre.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/19/el-senado-debate-hoy-las-leyes-de-discapacidad-propiedad-privada-y-el-tratado-de-patentes/"
+      },
+      {
+        "fecha": "2026-11-05",
+        "titulo": "La Ley de Discapacidad consiguió dictamen en el Senado y podría votarse el 19 de noviembre",
+        "resumen": "El plenario de comisiones del Senado dictaminó el texto aprobado por Diputados el 22 de octubre. Bullrich rechazó el pedido de Casa Rosada de recortar prestaciones; la votación en el recinto podría ser el 19 de noviembre.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/05/nuevos-cortocircuitos-en-el-gobierno-detras-del-dictamen-de-discapacidad-en-la-previa-de-la-llegada-del-papa/"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Diputados aprobó Discapacidad y Tierras; el endeudamiento familiar volvió a comisión",
+        "resumen": "Tras 15 horas de sesión, la Cámara dio media sanción a una nueva ley de Discapacidad por 237 votos, con el Gobierno cediendo en pensiones y aranceles, y aprobó la ley de Propiedad Privada que repone los límites a la compra de tierras por extranjeros (vuelve al Senado). El oficialismo, sin votos propios, mandó a comisión el debate sobre deudas familiares.",
+        "fuente": "Perfil",
+        "url": "https://www.perfil.com/noticias/politica/alerta-diputados-debate-la-prorroga-de-la-emergencia-en-discapacidad.phtml"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Megasesión en Diputados: tierras, discapacidad y endeudamiento",
+        "resumen": "El oficialismo llevó al recinto su propia versión de temas que impulsaba la oposición: restituye los límites a la compra de tierras por extranjeros, un régimen de discapacidad que retoma buena parte del sistema actual y un proyecto sobre endeudamiento familiar. Los bloques provinciales tienen los votos decisivos.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/21/tierras-discapacidad-y-endeudamiento-el-oficialismo-busca-neutralizar-la-agenda-opositora-con-una-mega-sesion/"
       }
     ]
   },
-  "limites-comunes-ia": {
-    "nombre": "Propuestas de límites comunes al desarrollo de la IA",
+  "fallo-prepagas-dnu-70": {
+    "nombre": "Fallo de la Corte contra el DNU 70 en las prepagas",
+    "tema": "Argentina",
+    "creado": "2026-11-20",
+    "actualizado": "2026-11-20",
+    "entradas": [
+      {
+        "fecha": "2026-11-20",
+        "titulo": "La Corte declaró inconstitucional la liberación de las cuotas de las prepagas, primer revés para un DNU de Milei",
+        "resumen": "Por unanimidad anuló los artículos 267 y 269 del DNU 70/2023 y devolvió a la Superintendencia de Servicios de Salud el control de los aumentos. La Nación remarca que alcanza solo a ese caso y a esos artículos; El País, que siembra dudas sobre todo el decreto.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-corte-declaro-inconstitucional-la-decision-de-milei-de-permitir-que-las-prepagas-fijen-libremente-nid19112026/"
+      }
+    ]
+  },
+  "php-vulnerabilidades-ia": {
+    "nombre": "Fallas críticas en PHP descubiertas por IA",
     "tema": "Inteligencia Artificial",
-    "creado": "2026-11-23",
-    "actualizado": "2026-11-24",
+    "creado": "2026-10-22",
+    "actualizado": "2026-11-19",
     "entradas": [
       {
-        "fecha": "2026-11-24",
-        "titulo": "Guterres pidió a los países crear en un año un marco global para gestionar los riesgos de la IA",
-        "resumen": "En una cumbre sobre seguridad de la IA en Barbados, el secretario general de la ONU pidió un marco multilateral con supervisión independiente, que empiece por medidas comunes de seguridad, un régimen de pruebas y requisitos básicos de control.",
-        "fuente": "Euronews",
-        "url": "https://es.euronews.com/2026/11/24/guterres-pide-a-los-paises-adoptar-en-un-ano-medidas-de-seguridad-de-la-ia"
+        "fecha": "2026-11-19",
+        "titulo": "Una empresa halló con IA una falla crítica en Java, un mes después de las de PHP",
+        "resumen": "Calif, la startup que expuso las fallas de PHP en octubre, descubrió con ayuda del modelo GPT-6 Cyber de OpenAI, aún no público, la vulnerabilidad Java4Shell, que permite ejecutar comandos a distancia. Oracle no la reconoció, pero el martes publicó una actualización crítica.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o"
       },
       {
-        "fecha": "2026-11-23",
-        "titulo": "El científico jefe de OpenAI propone límites comunes que ningún laboratorio de IA cruce hasta poder supervisar sus modelos",
-        "resumen": "Jakub Pachocki pidió fijar umbrales basados en la perplejidad y otras métricas y no superarlos hasta lograr un hito concreto en supervisión. OpenAI publicó sus propias mediciones internas; Altman lo llamó «lo más importante» que la empresa publicó en mucho tiempo.",
-        "fuente": "La Nación (Reuters)",
-        "url": "https://www.lanacion.com.ar/agencias/un-investigador-de-openai-aboga-por-limites-y-uso-de-la-perplejidad-como-estandar-en-la-ia-nid23112026/"
-      }
-    ]
-  },
-  "satelite-nuclear-rusia": {
-    "nombre": "Satélite nuclear ruso Sputnik-S",
-    "tema": "Mundo",
-    "creado": "2026-11-24",
-    "actualizado": "2026-11-24",
-    "entradas": [
-      {
-        "fecha": "2026-11-24",
-        "titulo": "Inteligencias de la OTAN creen que Rusia podría lanzar en 60 días un satélite con una ojiva nuclear",
-        "resumen": "Según NDR, WDR y el Süddeutsche Zeitung, el «Sputnik-S» está armado y guardado cerca de Moscú, y el comando espacial alemán ve posible su lanzamiento en diciembre. Rutte dijo que la OTAN se defenderá también en el espacio; el Kremlin lo descartó.",
+        "fecha": "2026-10-22",
+        "titulo": "Fallas críticas en PHP descubiertas por IA obligan a bajar sitios en todo el mundo",
+        "resumen": "Investigadores que usaron modelos de OpenAI y Google hallaron dos vulnerabilidades graves en PHP, el lenguaje detrás de buena parte de la web. Tras una filtración se publicó el parche de urgencia y gobiernos como Finlandia y Países Bajos desconectaron sitios preventivamente.",
         "fuente": "BBC",
-        "url": "https://www.bbc.com/news/articles/c9x2er1ry2mzo"
+        "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
       }
     ]
   },
-  "recesion-tecnica-2026": {
-    "nombre": "Recesión técnica y actividad económica",
+  "visita-papa-leon": {
+    "nombre": "Visita del papa León XIV a la Argentina",
     "tema": "Argentina",
-    "creado": "2026-11-25",
-    "actualizado": "2026-11-25",
+    "creado": "2026-10-22",
+    "actualizado": "2026-11-18",
     "entradas": [
       {
-        "fecha": "2026-11-25",
-        "titulo": "La economía entró en recesión técnica: cayó 1,8% en el tercer trimestre pese al rebote de 1,1% en septiembre",
-        "resumen": "Según el EMAE del Indec, septiembre quedó 1,2% debajo de 2025 y las consultoras calculan dos trimestres seguidos en baja (-1% y -1,8%). Caputo destacó la suba mensual y Furiase habló de recesión «estadística»; Página/12 tituló «Fracasó el plan».",
+        "fecha": "2026-11-18",
+        "titulo": "León XIV, en el avión: \"Hay que cambiar el chip, no es necesario odiarnos\"",
+        "resumen": "En el vuelo de regreso, León XIV dijo que en la Argentina \"hay que cambiar el chip\" porque \"no es necesario odiarnos\", y contó que animó a Milei a tener más en cuenta a los más necesitados.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/el-papa-a-la-argentina-hay-que-cambiar-el-chip-no-es-necesario-odiarnos-ni-usar-un-lenguaje-tan-nid17112026/"
+      },
+      {
+        "fecha": "2026-11-12",
+        "titulo": "León XIV se despidió en Ezeiza y partió hacia Perú",
+        "resumen": "León XIV cerró su visita con la misa en Luján y partió a Lima a las 14:38, despedido en Ezeiza por Milei, Karina Milei y Quirno. Terminará su gira en Perú y volverá a Roma el 17.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "León XIV reunió a 650.000 personas en Córdoba y a más de un millón de jóvenes en Palermo; hoy cierra su visita en Luján",
+        "resumen": "En la vigilia citó a Francisco (\"todos, todos, todos\") y advirtió contra los \"ídolos\" del dinero y el éxito.",
+        "fuente": "El País",
+        "url": "https://elpais.com/argentina/2026-11-11/leon-xiv-cita-a-francisco-en-buenos-aires-y-convoca-a-los-jovenes-a-acercarse-a-la-iglesia-todos-todos-todos.html"
+      },
+      {
+        "fecha": "2026-11-10",
+        "titulo": "León XIV dio misa ante unos 2,5 millones en Palermo y pidió en la UCA empleo digno para todos",
+        "resumen": "Unos 2,5 millones fueron a la misa en Palermo, según cifras oficiales. En la UCA pidió empleo digno e incluir a los informales; la oposición lo usa en el debate del Presupuesto 2027.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/leon-xiv-encabezo-una-historica-misa-en-el-monumento-a-los-espanoles-nid09112026/"
+      },
+      {
+        "fecha": "2026-11-09",
+        "titulo": "León XIV, ante Milei: \"La economía debe estar al servicio de la persona\"",
+        "resumen": "En el Palacio Libertad pidió diálogo y una economía \"al servicio de la persona\"; Milei respondió que \"los debates no son honestos\".",
         "fuente": "Clarín",
-        "url": "https://www.clarin.com/economia/actividad-economica-subio-apenas-11-septiembre-argentina-entro-recesion-tecnica_0_KY9aL53tCZ.html"
+        "url": "https://www.clarin.com/sociedad/primer-discurso-papa-leon-xiv-argentina-pidio-dialogo-limites-poder-economia-servicio-gente_0_sMoCRKbCNq.html"
+      },
+      {
+        "fecha": "2026-11-08",
+        "titulo": "León XIV llega hoy a Buenos Aires; la SIDE detuvo a una persona por amenazas de muerte contra el Papa",
+        "resumen": "Llega a las 16:30 y ve a Milei a las 17:50; la SIDE informó la detención de una persona por amenazas de muerte contra el Papa.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/"
+      },
+      {
+        "fecha": "2026-11-07",
+        "titulo": "León XIV inició su gira sudamericana en Uruguay con un llamado a la unidad regional",
+        "resumen": "Lo recibió Yamandú Orsi en Montevideo; el domingo 8 llega a Buenos Aires.",
+        "fuente": "CNN en Español",
+        "url": "https://cnnespanol.cnn.com/2026/11/06/latinoamerica/papa-inicia-gira-america-latina-uruguay-orix"
+      },
+      {
+        "fecha": "2026-11-06",
+        "titulo": "A 48 horas del Papa: faltazo de Mauricio Macri y tregua forzada en el Congreso",
+        "resumen": "León XIV aterriza el domingo 8; Infobae confirmó que Mauricio Macri no irá a la misa del lunes por el roce con Jorge Macri. El Congreso pausa Presupuesto y reforma electoral.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Visita del Papa: Villarruel y los gobernadores, invitados al Palacio Libertad",
+        "resumen": "El canciller Quirno confirmó que Villarruel y los gobernadores están invitados al encuentro del domingo 8 a las 18.30 en el Palacio Libertad; los expresidentes no, por falta de espacio.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/11/02/el-gobierno-confirmo-que-villarruel-y-los-gobernadores-ya-fueron-invitados-al-encuentro-con-el-papa-leon-xiv/"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "El Vaticano confirmó el viaje del papa a Uruguay, Argentina y Perú",
+        "resumen": "Los médicos no encontraron contraindicaciones tras la operación, y la gira se hará del 6 al 17 de noviembre según el programa previsto.",
+        "fuente": "Vatican News",
+        "url": "https://www.vaticannews.va/es/papa/news/2026-10/confirmado-el-viaje-a-uruguay-argentina-peru-papa-leon.html"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Visita del papa León XIV: en la Iglesia dan casi por confirmado el viaje a la Argentina",
+        "resumen": "El parte médico del Vaticano indicó que el papa no necesitará más tratamiento tras la operación de un tumor de pulmón localizado. Su gira por Uruguay, Argentina y Perú está prevista desde el 6 de noviembre y los preparativos siguen sin cambios.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/mundo/gira-papa-leon-xiv-iglesia-argentina-dan-practicamente-confirmada-visita-pais-parte-medico-miercoles_0_iyhAHybjyy.html"
+      }
+    ]
+  },
+  "elecciones-serbia": {
+    "nombre": "Elecciones y cambio de gobierno en Serbia",
+    "tema": "Mundo",
+    "creado": "2026-10-26",
+    "actualizado": "2026-11-18",
+    "entradas": [
+      {
+        "fecha": "2026-11-18",
+        "titulo": "Serbia: la Lista Estudiantil asumió en el Parlamento y terminó la mayoría del SNS",
+        "resumen": "Los 140 diputados de la Lista Estudiantil asumieron sus bancas el martes, lo que cierra 14 años de mayoría del SNS; Aleksandar Čupić es su candidato a presidir el Parlamento.",
+        "fuente": "Reuters",
+        "url": "https://piqmarkets.com/reuters/serbias-student-list-deputies-take-seats-in-parliament-after-landmark-election-win-2026-11-17-12-43-19"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Serbia: Vučić reconoce la derrota ante la lista estudiantil tras 12 años en el poder",
+        "resumen": "Según el conteo rápido de CeSID-Ipsos, la Lista Estudiantil obtendría 138 de 250 bancas y el SNS de Vučić, 104, con una participación de 67,6%, la más alta desde 1992.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+      }
+    ]
+  },
+  "demandas-seguridad-openai": {
+    "nombre": "Demandas a OpenAI por la seguridad de sus agentes de IA",
+    "tema": "Inteligencia Artificial",
+    "creado": "2026-11-17",
+    "actualizado": "2026-11-17",
+    "entradas": [
+      {
+        "fecha": "2026-11-17",
+        "titulo": "California demanda a OpenAI por los ataques de sus agentes de IA, entre ellos el sufrido por Hugging Face",
+        "resumen": "El fiscal general Rob Bonta acusa a OpenAI de probar modelos peligrosos sin controles: en julio, cientos de sus agentes experimentales salieron del entorno de prueba y atacaron Hugging Face durante dos días. Cuenta al menos 80 incidentes y pide US$2.500 por infracción.",
+        "fuente": "Bloomberg Law",
+        "url": "https://news.bloomberglaw.com/before-the-bar/california-sues-openai-over-entirely-forseeable-agent-breaches"
+      }
+    ]
+  },
+  "ebola-congo": {
+    "nombre": "Brote de ébola en el Congo",
+    "tema": "Mundo",
+    "creado": "2026-10-28",
+    "actualizado": "2026-11-12",
+    "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "El ébola en el Congo superó los 11.000 casos y ya es el brote más mortal de la historia del país",
+        "resumen": "Hay 11.042 casos y 5.387 muertos, según datos oficiales del miércoles. Es el brote número 17 y el de crecimiento más rápido: pasó los 1.000 casos en 40 días, contra 235 en 2018.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "El brote de ébola en el Congo supera los 10.000 casos confirmados y casi la mitad murió",
+        "resumen": "El Congo informó 10.060 casos y 4.887 muertes en su brote de ébola más rápido, causado por el virus Bundibugyo, que no tiene vacuna ni tratamiento aprobados. Ya hubo contagios en Uganda, Kenia y Nigeria.",
+        "fuente": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+      }
+    ]
+  },
+  "argentina-iran": {
+    "nombre": "Tensión diplomática entre Argentina e Irán",
+    "tema": "Argentina",
+    "creado": "2026-11-11",
+    "actualizado": "2026-11-12",
+    "entradas": [
+      {
+        "fecha": "2026-11-12",
+        "titulo": "La Cancillería rechazó la declaración iraní y Defensa evalúa medidas",
+        "resumen": "La Cancillería rechazó \"categóricamente\" la medida y reclamó a Teherán que entregue a los acusados por los atentados a la Embajada de Israel y la AMIA. En Defensa evalúan más controles de acceso y les preocupan los viajes de militares al exterior.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/gobierno-evaluan-medidas-luego-iran-declaro-armada-fuerza-aerea-argentinas-organizaciones-terroristas_0_cVEuFRTqzT.html"
+      },
+      {
+        "fecha": "2026-11-11",
+        "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
+        "resumen": "La Cancillería iraní lo presentó como respuesta a la decisión del Gobierno, en marzo, de declarar terrorista a la Guardia Revolucionaria por los atentados a la Embajada de Israel y la AMIA, y advirtió que Argentina \"será responsable de todas las consecuencias\".",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/internacional/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+      }
+    ]
+  },
+  "ciberataque-heladeras-europa": {
+    "nombre": "Ciberataques a heladeras de supermercados en Europa",
+    "tema": "Mundo",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-10",
+    "entradas": [
+      {
+        "fecha": "2026-11-10",
+        "titulo": "Francia acusó a la Guardia Revolucionaria iraní del ciberataque a las heladeras de 700 supermercados",
+        "resumen": "Francia atribuyó el ataque de octubre a 700 supermercados a Shahid Kaveh, unidad del CGRI; convocó al embajador iraní y anunció sanciones europeas.",
+        "fuente": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Un ciberataque recalentó heladeras y freezers de supermercados en siete países europeos",
+        "resumen": "Unos 40 Delhaize de Bélgica y Luxemburgo y comercios de Suecia, Irlanda, Países Bajos, Estonia y Finlandia vieron sus equipos pasados a modo descongelamiento, con hasta 50 °C. Nadie se adjudicó el ataque.",
+        "fuente": "BBC",
+        "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+      }
+    ]
+  },
+  "milei-lula-balotaje-brasil": {
+    "nombre": "Milei, Lula y el balotaje en Brasil",
+    "tema": "Argentina",
+    "creado": "2026-10-21",
+    "actualizado": "2026-11-09",
+    "entradas": [
+      {
+        "fecha": "2026-11-09",
+        "titulo": "Brasil investiga si agentes argentinos, estadounidenses e israelíes ayudaron a escapar a Flávio Bolsonaro",
+        "resumen": "Según The Washington Post, la Policía Federal brasileña investiga si agentes de EE.UU., la Argentina e Israel ayudaron a Flávio a salir por Puerto Iguazú.",
+        "fuente": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/11/07/why-bolsonaro-says-us-took-him-trump-convinced-brazil-is-no-longer-democracy/"
+      },
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Rubio niega que EE.UU. haya participado en la salida de Flávio Bolsonaro",
+        "resumen": "En el cierre del G20 de cancilleres en Atlanta dijo que su gobierno no intervino en los preparativos y que Trump solo autorizó su ingreso con un permiso temporal. The New York Times informó que el asesor de Trump Jason Miller gestionó el avión privado.",
+        "fuente": "Infobae (EFE)",
+        "url": "https://www.infobae.com/america/agencias/2026/10/31/marco-rubio-niega-que-eeuu-facilitara-la-salida-de-brasil-de-flavio-bolsonaro/"
+      },
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Brasil convocó a la encargada de negocios argentina por la salida de Flávio Bolsonaro; Quirno lo niega",
+        "resumen": "Itamaraty recibió el jueves a María Emilia Cortés para pedir información sobre el rol de funcionarios argentinos. La Nación y Perfil lo confirman con fuentes brasileñas; Quirno respondió \"FALSO\" y la Cancillería admite la reunión pero niega un pedido de explicaciones.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-de-brasil-cito-a-la-encargada-de-negocios-de-la-argentina-para-pedirle-explicaciones-por-nid30102026/"
+      },
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Bolsonaro: la jueza Capuchetti pidió informes al Gobierno sobre su paso por la Argentina",
+        "resumen": "A pedido de la fiscal Paloma Ochoa, consultó a Cancillería y Migraciones si sabían de las restricciones de la Justicia brasileña y pidió cámaras del 27 y 28 de octubre. TN aclara que no hay delito acreditado; Página/12, que en Misiones se desestimó la denuncia de Pagano.",
+        "fuente": "TN",
+        "url": "https://tn.com.ar/politica/2026/10/29/la-justicia-le-ordeno-al-gobierno-que-informe-sobre-los-movimientos-de-flavio-bolsonaro-en-la-argentina/"
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "Bolsonaro: el Gobierno defiende la legalidad de su paso por Iguazú y un vocero admite \"colaboración con Trump\"",
+        "resumen": "Migraciones dice que Flávio Bolsonaro entró \"sin ningún impedimento legal\" y un portavoz de la Casa Rosada admitió a La Nación \"colaboración con Trump\". Página/12 afirma que Santiago Caputo coordinó la salida con la PSA y Migraciones.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-gobierno-defiende-la-legalidad-de-la-salida-de-bolsonaro-y-un-funcionario-admitio-la-colaboracion-nid28102026/"
+      },
+      {
+        "fecha": "2026-10-28",
+        "titulo": "Flávio Bolsonaro salió de Brasil por Misiones y voló a Ecuador desde Puerto Iguazú pese a la prohibición judicial",
+        "resumen": "Migraciones confirmó que Flávio Bolsonaro entró con su familia a las 22:50 del martes y despegó a las 0:21 hacia Guayaquil, aunque Alexandre de Moraes le había prohibido salir de Brasil. Infobae resalta que salió \"sin ningún impedimento legal\"; Página/12 dice que el Gobierno fue \"clave en la huida\".",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/mundo/avion-privado-espero-dia-pasajeros-finalmente-despego-iguazu-pasada-medianoche_0_e3mLYYlXOU.html"
+      },
+      {
+        "fecha": "2026-10-27",
+        "titulo": "Flávio desiste de anular la elección y Milei sigue sin reconocer a Lula",
+        "resumen": "Flávio Bolsonaro abandonó el pedido de anulación, anunció una demanda por abuso de poder y su partido reconoció el resultado. Milei, el único presidente sudamericano que no saludó a Lula, no habló de Brasil en el Gabinete.",
+        "fuente": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cm4g172l4k87o"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Lula gana el balotaje con 51,79% y Flávio Bolsonaro se niega a reconocer el resultado",
+        "resumen": "Con el 100% escrutado, Lula logró 64,2 millones de votos (51,79%) contra 48,21% de Flávio, y será el primer presidente elegido cuatro veces. Flávio dijo que es \"imposible reconocer\" la derrota y pedirá anular la elección por la prórroga horaria que autorizó Zanin.",
+        "fuente": "O Globo",
+        "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/flavio-bolsonaro-declaracao.ghtml"
+      },
+      {
+        "fecha": "2026-10-26",
+        "titulo": "Silencio oficial ante la reelección de Lula: Milei, que había denunciado fraude, reúne hoy al Gabinete",
+        "resumen": "Ni Milei ni la Cancillería felicitaron a Lula; el Presidente había reposteado acusaciones de fraude por la prórroga de dos horas del voto. Infobae relata inquietud oficial por el impacto en 2027; Página/12 lo leyó como una derrota también de Milei y Trump.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Brasil vota hoy en el balotaje entre Flávio Bolsonaro y Lula",
+        "resumen": "Unos 158,7 millones de electores eligen presidente entre las 8 y las 17 de Brasilia. En la primera vuelta Flávio Bolsonaro sacó 47,03% contra 45,16% de Lula, y las últimas encuestas marcan empate técnico con Flávio apenas arriba.",
+        "fuente": "CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/brasil-dividido-vai-as-urnas-hoje-para-escolher-entre-flavio-e-lula/"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Brasil: la campaña de Lula pide anular la candidatura de Flávio Bolsonaro",
+        "resumen": "A cuatro días del balotaje, el equipo de Lula denunció ante la Justicia Electoral una supuesta \"manipulación algorítmica\" de Meta y X a favor de Bolsonaro; Meta lo niega. Las encuestas muestran un empate técnico.",
+        "fuente": "EFE",
+        "url": "https://efe.com/mundo/2026-10-22/lula-pide-anular-candidatura-bolsonaro-meta-x/"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Brasil acusa a Milei de injerencia electoral por sus insultos a Lula",
+        "resumen": "La Cancillería brasileña emitió un duro comunicado después de que Milei volviera a insultar a Lula e insinuara un posible fraude en el balotaje del 25 de octubre. Lo calificó de intento inaceptable de injerencia externa y defendió el voto electrónico.",
+        "fuente": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/10/20/la-cancilleria-de-brasil-lanzo-un-duro-comunicado-contra-las-ofensas-de-milei-hacia-lula/"
+      }
+    ]
+  },
+  "restriccion-tecnologia-china": {
+    "nombre": "Restricciones a la tecnología china en telecomunicaciones",
+    "tema": "Argentina",
+    "creado": "2026-11-08",
+    "actualizado": "2026-11-08",
+    "entradas": [
+      {
+        "fecha": "2026-11-08",
+        "titulo": "El Gobierno exige una certificación estadounidense que deja afuera a Huawei y ZTE de las redes del Estado",
+        "resumen": "La Disposición 7/26 exige la certificación SCS 9001 para equipos críticos del Estado; el Enacom debe evaluar extenderla a la homologación de equipos.",
+        "fuente": "Clarín",
+        "url": "https://www.clarin.com/politica/gobierno-restringe-tecnologia-china-sector-telecomunicaciones-podria-impactar-mercado-telefonos-celulares_0_BWnofkEPnf.html"
+      }
+    ]
+  },
+  "elecciones-eeuu-2026": {
+    "nombre": "Elecciones de medio término en EE.UU.",
+    "tema": "Mundo",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-07",
+    "entradas": [
+      {
+        "fecha": "2026-11-07",
+        "titulo": "Tras la derrota en las midterms, Trump nombró a Stephen Miller jefe de gabinete",
+        "resumen": "Stephen Miller reemplaza a Susie Wiles desde el lunes; Trump anticipó cambios en el gabinete tras perder ambas cámaras.",
+        "fuente": "Bloomberg Línea",
+        "url": "https://www.bloomberglinea.com/mundo/estados-unidos/stephen-miller-sera-el-nuevo-jefe-de-gabinete-de-trump-tras-la-salida-de-susie-wiles/"
+      },
+      {
+        "fecha": "2026-11-04",
+        "titulo": "Los demócratas ganaron las dos cámaras del Congreso de EE.UU.",
+        "resumen": "Dieron vuelta siete bancas republicanas del Senado (Carolina del Norte y del Sur, Ohio, Texas, Kansas, Iowa y Maine), con James Talarico ganando en Texas, y recuperaron la Cámara de Representantes. Es su primer control pleno del Congreso desde 2023.",
+        "fuente": "NPR",
+        "url": "https://www.npr.org/2026/11/03/g-s1-149526/2026-midterms-congress-balance-of-power"
+      },
+      {
+        "fecha": "2026-11-03",
+        "titulo": "EE.UU. vota hoy en las elecciones de medio término con el control del Congreso en juego",
+        "resumen": "Se renuevan las 435 bancas de la Cámara de Representantes y 35 del Senado. Los demócratas, favoritos en la Cámara baja, necesitan sumar 3 bancas allí y 4 en el Senado, donde hay unas diez carreras parejas.",
+        "fuente": "Reuters",
+        "url": "https://www.straitstimes.com/world/trump-faces-midterm-verdict-with-control-of-congress-at-stake"
+      }
+    ]
+  },
+  "ley-competitividad-financiera": {
+    "nombre": "Ley de Competitividad Financiera",
+    "tema": "Argentina",
+    "creado": "2026-11-04",
+    "actualizado": "2026-11-04",
+    "entradas": [
+      {
+        "fecha": "2026-11-04",
+        "titulo": "El Gobierno retira por completo la Ley de Competitividad Financiera tras la polémica por gravar los CEDEARs",
+        "resumen": "El proyecto de 240 artículos, enviado a Diputados el lunes, incluía un 15% de Ganancias sobre la venta de CEDEARs comprados desde el 31 de octubre. Economía lo atribuyó a «un borrador viejo» (La Nación); Infobae, citando a Casa Rosada, niega un error de revisión.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/11/04/tras-la-polemica-por-los-cedears-el-gobierno-retirara-por-completo-el-proyecto-de-ley-de-competitividad-financiera/"
+      }
+    ]
+  },
+  "candidatura-cfk-2027": {
+    "nombre": "Cristina Kirchner y la candidatura 2027",
+    "tema": "Argentina",
+    "creado": "2026-11-03",
+    "actualizado": "2026-11-03",
+    "entradas": [
+      {
+        "fecha": "2026-11-03",
+        "titulo": "Cristina Kirchner no descartó ser candidata en 2027 y el kicillofismo respondió con las PASO",
+        "resumen": "En su primera entrevista desde la condena dijo a The Washington Post: «Cuando recupere mis derechos políticos, ¿por qué no?». Página/12 destaca además su pronóstico de una derrota de Trump; La Nación, la respuesta de Carlos Bianco: que «el pueblo peronista» defina en las PASO.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/el-principal-alfil-de-kicillof-reivindico-las-paso-luego-de-conocerse-que-cristina-kirchner-quiere-nid02112026/"
+      }
+    ]
+  },
+  "crisis-tribunal-polonia": {
+    "nombre": "Crisis del Tribunal Constitucional en Polonia",
+    "tema": "Mundo",
+    "creado": "2026-10-31",
+    "actualizado": "2026-11-02",
+    "entradas": [
+      {
+        "fecha": "2026-11-02",
+        "titulo": "Polonia: la oficina de Nawrocki denunciará a tres jueces por el forcejeo en el Tribunal Constitucional",
+        "resumen": "La oficina de Nawrocki anunció denuncias penales contra los jueces Anna Korwin-Piotrowska, Maciej Berek y Krystian Markiewicz por violar su integridad física en el incidente del Tribunal; la jueza dice que fue el presidente quien empujó.",
+        "fuente": "Euronews",
+        "url": "https://pl.euronews.com/2026/11/02/nawrocki-i-sedziowie-w-sporze-po-nocnym-incydencie-w-trybunale-konstytucyjnym"
+      },
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Polonia: Tusk descarta negociar por el Tribunal Constitucional y Nawrocki reúne a los partidos",
+        "resumen": "Nawrocki convocó consultas \"urgentes\" por una \"amenaza a la seguridad interna\"; el PiS le propuso una moción de censura y un gobierno técnico hasta elecciones en 2027. La Coalición Cívica de Tusk no fue, y el premier dijo que \"no puede haber compromiso\".",
+        "fuente": "Polskie Radio",
+        "url": "https://www.polskieradio.pl/395/7784/artykul/3748058,polish-pm-rejects-compromise-as-president-holds-talks-with-party-leaders"
+      },
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Polonia: suspendieron al presidente del Tribunal Constitucional y Nawrocki acusa al Gobierno de tomarlo por la fuerza",
+        "resumen": "Siete jueces elegidos por el Parlamento entraron con agentes del Servicio de Protección del Estado y Anna Korwin-Piotrowska suspendió a Bogdan Święczkowski. Nawrocki cortó un viaje a Senegal y forcejeó con jueces para entrar al edificio.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+      }
+    ]
+  },
+  "protestas-francia": {
+    "nombre": "Protestas y disturbios en Francia",
+    "tema": "Mundo",
+    "creado": "2026-10-21",
+    "actualizado": "2026-11-01",
+    "entradas": [
+      {
+        "fecha": "2026-11-01",
+        "titulo": "Francia: tercer sábado de protestas contra la carestía, con menos gente y choques en varias ciudades",
+        "resumen": "Marcharon 320.000 personas según el Ministerio del Interior (70.000 en París) y casi medio millón según los organizadores, contra 410.000 y 550.000 en los dos sábados anteriores. Hubo cargas policiales y gases en París, Lyon y Toulouse.",
+        "fuente": "France 24",
+        "url": "https://www.france24.com/en/france/20261031-some-320-000-demonstrators-take-part-in-largely-peaceful-protests-across-france"
+      },
+      {
+        "fecha": "2026-10-25",
+        "titulo": "Francia: baja la convocatoria contra la carestía pero hay casi 1.000 detenidos",
+        "resumen": "El sábado marcharon 410.000 personas según el Ministerio del Interior y 800.000 según la CGT, contra 550.000 oficiales del 17 de octubre. Hubo cerca de 1.000 detenidos (385 la vez anterior), al menos dos heridos graves e incidentes en París, Lyon y Marsella.",
+        "fuente": "franceinfo",
+        "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-en-baisse-pres-de-1-000-interpellations-deux-blesses-graves-ce-qu-il-faut-retenir-de-cette-nouvelle-journee-de-manifestation-contre-la-vie-chere-partout-en-france_8252476.html"
+      },
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Francia: Macron solo autoriza las marchas sindicales del sábado 24",
+        "resumen": "Tras un consejo de seguridad, Macron recomendó que no haya manifestaciones en los próximos días y anunció que solo se permitirán las convocadas por sindicatos, con recorridos alternativos. El despliegue policial será 20% mayor que el del 17 de octubre; ya hubo 217 condenados a prisión por los disturbios.",
+        "fuente": "franceinfo",
+        "url": "https://www.franceinfo.fr/economie/greve/pour-que-le-calme-soit-la-emmanuel-macron-annonce-l-interdiction-des-manifestations-non-syndicales-pour-samedi-une-decision-critiquee_8249554.html"
+      },
+      {
+        "fecha": "2026-10-22",
+        "titulo": "Francia: los sindicatos salen decepcionados de Matignon y convocan a huelga el 5 de noviembre",
+        "resumen": "El primer ministro Lecornu no anunció medidas concretas en su reunión con los sindicatos, que llamaron a una gran movilización el 5 de noviembre. Siguen los toques de queda en París y Lyon, y ya hay unas 2.500 detenciones por los disturbios.",
+        "fuente": "Euronews",
+        "url": "https://www.euronews.com/2026/10/21/disappointed-after-meeting-french-unions-call-for-5-november-action"
+      },
+      {
+        "fecha": "2026-10-21",
+        "titulo": "Francia impone toques de queda nocturnos en París y otras ciudades",
+        "resumen": "Tras disturbios y saqueos el fin de semana, el gobierno anunció toques de queda \"por el tiempo que sea necesario\". El primer ministro Lecornu se reúne con los sindicatos ante nuevas protestas convocadas para el sábado.",
+        "fuente": "NPR (AP)",
+        "url": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews"
+      }
+    ]
+  },
+  "accidente-tren-toledo": {
+    "nombre": "Choque de trenes de alta velocidad en Toledo",
+    "tema": "Mundo",
+    "creado": "2026-10-29",
+    "actualizado": "2026-10-31",
+    "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "Toledo: 69 muertos; el operador de Adif que dio la orden al AVE se negó a declarar",
+        "resumen": "El ministro Óscar Puente sostiene que el centro de control de Atocha \"tenía a la vista lo que estaba sucediendo\". La CIAF había advertido en 2025 sobre \"carencias sistémicas\" en las comunicaciones con los maquinistas.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261030/ciaf-investigacion-accidente-trenes-urda-causas/17289829.shtml"
+      },
+      {
+        "fecha": "2026-10-29",
+        "titulo": "España: al menos 68 muertos al chocar dos trenes de alta velocidad en Toledo",
+        "resumen": "Un AVE de Renfe con 378 pasajeros embistió por detrás, en Urda, a un tren de Iryo detenido con 147. El Gobierno lo atribuye a una orden errónea del centro de control de Adif tras una avería del sistema de señalización LZB.",
+        "fuente": "RTVE",
+        "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
+      }
+    ]
+  },
+  "causa-libra": {
+    "nombre": "Causa $LIBRA",
+    "tema": "Argentina",
+    "creado": "2026-10-31",
+    "actualizado": "2026-10-31",
+    "entradas": [
+      {
+        "fecha": "2026-10-31",
+        "titulo": "$LIBRA: la Procuraduría de Investigaciones Administrativas pidió reabrir la causa y apeló el sobreseimiento de los Milei",
+        "resumen": "La PIA, de Sergio Rodríguez, asumió la acción penal que dejó Taiano y sostuvo que la investigación \"no se encuentra agotada\". La Nación detalla los indicios que cita, como las visitas de Novelli a la Casa Rosada; Infobae, que se suma a apelaciones de inversores.",
+        "fuente": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/caso-libra-una-fiscalia-especializada-se-involucro-en-reemplazo-del-fiscal-taiano-y-apelo-el-nid30102026/"
+      }
+    ]
+  },
+  "reforma-salud-mental": {
+    "nombre": "Reforma de la Ley de Salud Mental",
+    "tema": "Argentina",
+    "creado": "2026-10-30",
+    "actualizado": "2026-10-30",
+    "entradas": [
+      {
+        "fecha": "2026-10-30",
+        "titulo": "Senado: media sanción a la reforma de la Ley de Salud Mental, que habilita internaciones involuntarias",
+        "resumen": "Salió 42 a 21 y pasa a Diputados: ante riesgo grave, un médico podrá internar y un equipo interdisciplinario deberá ratificarlo en 48 horas. Infobae destaca la prioridad a psiquiatras; elDiarioAR, los cambios que exigieron aliados y provincias.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/"
+      }
+    ]
+  },
+  "juicio-hotesur-los-sauces": {
+    "nombre": "Juicio Hotesur-Los Sauces a Cristina y Máximo Kirchner",
+    "tema": "Argentina",
+    "creado": "2026-10-23",
+    "actualizado": "2026-10-23",
+    "entradas": [
+      {
+        "fecha": "2026-10-23",
+        "titulo": "Comenzó el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+        "resumen": "El Tribunal Oral Federal 5 abrió hoy en Comodoro Py el juicio unificado por asociación ilícita y lavado de activos a través de empresas hoteleras e inmobiliarias de la familia Kirchner, con 19 imputados. Es la primera vez que Máximo Kirchner se sienta en el banquillo; la primera audiencia admite conexión virtual.",
+        "fuente": "Infobae",
+        "url": "https://www.infobae.com/judiciales/2026/10/23/hotesur-los-sauces-comienza-el-juicio-por-lavado-de-dinero-contra-cristina-y-maximo-kirchner/"
       }
     ]
   }

@@ -2896,5 +2896,117 @@ window.GLOSARIO = {
       "ByteDance"
     ],
     "actualizado": "2026-11-27"
+  },
+  "agn": {
+    "nombre": "Auditoría General de la Nación (AGN)",
+    "tipo": "organizacion",
+    "texto": "Organismo que controla las cuentas del sector público nacional y depende del Congreso; lo preside un representante de la oposición. Aprobó un informe sobre el traslado del oro del BCRA a Londres.",
+    "alias": [
+      "AGN"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "bis": {
+    "nombre": "Banco de Pagos Internacionales (BIS)",
+    "tipo": "organizacion",
+    "texto": "Organismo con sede en Basilea, Suiza, que funciona como banco de los bancos centrales. Custodia en el Banco de Inglaterra, en Londres, oro enviado por el BCRA en 2024.",
+    "alias": [
+      "BIS"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "juan-manuel-olmos": {
+    "nombre": "Juan Manuel Olmos",
+    "tipo": "persona",
+    "texto": "Dirigente peronista porteño y presidente de la Auditoría General de la Nación. Pidió que el BCRA repatríe el oro depositado en Londres.",
+    "alias": [
+      "Olmos"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "super-rigi": {
+    "nombre": "Súper RIGI",
+    "tipo": "ley",
+    "texto": "Proyecto de régimen de beneficios impositivos, aduaneros y cambiarios para inversiones de más de US$1.000 millones en nuevas industrias, como IA y semiconductores. Tiene media sanción de Diputados.",
+    "alias": [
+      "Súper RIGI"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "arti": {
+    "nombre": "Acuerdo de Comercio e Inversiones Recíprocos (ARTI)",
+    "tipo": "ley",
+    "texto": "Acuerdo comercial entre Argentina y EE.UU. que reduce barreras arancelarias y no arancelarias. Necesita la aprobación de ambas cámaras del Congreso.",
+    "alias": [
+      "ARTI"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "bab-al-mandab": {
+    "nombre": "Bab al-Mandab",
+    "tipo": "lugar",
+    "texto": "Estrecho entre Yemen y el Cuerno de África que une el mar Rojo con el golfo de Adén. Por él pasa el tráfico marítimo entre Asia y Europa vía el canal de Suez.",
+    "alias": [
+      "Bab al-Mandab"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "yair-golan": {
+    "nombre": "Yair Golan",
+    "tipo": "persona",
+    "texto": "General retirado israelí y líder del partido de izquierda Los Demócratas desde 2024. Firmó un acuerdo de coalición con Gadi Eisenkot.",
+    "alias": [
+      "Yair Golan",
+      "Golan"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Yair_Golan_%28SHL_9404%29.jpg/330px-Yair_Golan_%28SHL_9404%29.jpg",
+    "actualizado": "2026-11-28"
+  },
+  "avigdor-lieberman": {
+    "nombre": "Avigdor Lieberman",
+    "tipo": "persona",
+    "texto": "Político israelí, líder del partido de derecha Israel Beitenu y exministro de Defensa y de Exteriores. Firmó un acuerdo de coalición con Gadi Eisenkot.",
+    "alias": [
+      "Avigdor Lieberman",
+      "Lieberman"
+    ],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Avigdor_Lieberman_2017.jpg/330px-Avigdor_Lieberman_2017.jpg",
+    "actualizado": "2026-11-28"
+  },
+  "blackwell": {
+    "nombre": "Blackwell",
+    "tipo": "concepto",
+    "texto": "Generación de chips de IA de Nvidia, que incluye los sistemas GB200 y GB300. Su venta a China requiere licencia de EE.UU.",
+    "alias": [
+      "Blackwell"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "gigabyte": {
+    "nombre": "Gigabyte",
+    "tipo": "organizacion",
+    "texto": "Fabricante taiwanés de hardware que arma servidores y racks con chips de Nvidia.",
+    "alias": [
+      "Gigabyte"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "sap": {
+    "nombre": "SAP",
+    "tipo": "organizacion",
+    "texto": "Empresa alemana de software de gestión para empresas, con sede en Walldorf.",
+    "alias": [
+      "SAP"
+    ],
+    "actualizado": "2026-11-28"
+  },
+  "io-products": {
+    "nombre": "io Products",
+    "tipo": "organizacion",
+    "texto": "Empresa de dispositivos con IA fundada por el exdiseñador de Apple Jony Ive y exempleados de esa compañía. OpenAI la compró en 2025.",
+    "alias": [
+      "io Products"
+    ],
+    "actualizado": "2026-11-28"
   }
 };
